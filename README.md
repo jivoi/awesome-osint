@@ -2241,8 +2241,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 ## Other Tools
 
 * [Barcode Reader](http://online-barcode-reader.inliteresearch.com)
-* [Datasploit](http://seclist.us/datasploit-a-tool-to-perform-various-osint-techniques.html?utm_content=buffer0b619&utm_medi)
-* [um=social&utm_source=twitter.com&utm_campaign=buffer](http)
+* [Datasploit](http://seclist.us/datasploit-a-tool-to-perform-various-osint-techniques.html)
 * [The Harvester](https://code.google.com/p/theharvester)
 * [Maltego](http://www.paterva.com/web6/products/maltego.php)
 * [OpenRefine](https://github.com/OpenRefine)
