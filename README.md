@@ -92,7 +92,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 - [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/)
 
-## General Search
+## [↑](#table-of-contents) General Search
 
 * [Advangle](http://advangle.com)
 * [Aol](http://search.aol.com)
