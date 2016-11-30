@@ -9,7 +9,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
 Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resources.
 
 ## Table of Contents
------------------
+
  - [General Search](#general-search)
  - [Main National Search Engines](#main-national-search-engines)
  - [Meta Search](#meta-search)
@@ -21,15 +21,16 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
  - [Code Search](#code-search)
  - [Major Social Networks](#major-social-networks)
  - [Real-Time Search, Social Media Search, and General Social Media Tools](#real-time-search-social-media-search-and-general social-media-tools)
- - [Social Media Tools: Twitter](#social-media-tools-twitter)
- - [Social Media Tools: Facebook](#social-media-tools-facebook)
- - [Social Media Tools: Google+](#social-media-tools-google+)
- - [Social Media Tools: Instagram](#social-media-tools-instagram)
- - [Social Media Tools: Pinterest](#social-media-tools-pinterest)
- - [Social Media Tools: Reddit](#social-media-tools-reddit)
- - [Social Media Tools: VKontakte](#social-media-tools-vkontakte)
- - [Social Media Tools: Tumblr](#social-media-tools-tumblr)
- - [Social Media Tools: LinkedIn](#social-media-tools-linkedin)
+ - [Social Media Tools](#social-media-tools)
+   - [Twitter](#twitter)
+   - [Facebook](#facebook)
+   - [Google+](#google+)
+   - [Instagram](#instagram)
+   - [Pinterest](#pinterest)
+   - [Reddit](#reddit)
+   - [VKontakte](#vkontakte)
+   - [Tumblr](#tumblr)
+   - [LinkedIn](#linkedin)
  - [Blog Search](#blog-search)
  - [Forums and Discussion Boards Search](#forums-and-discussion-boards-search)
  - [Username Check](#username-check)
@@ -286,7 +287,9 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Trackur](http://www.trackur.com)
 * [UVRX](http://www.uvrx.com/social.html)
 
-## Social Media Tools: Twitter
+## Social Media Tools
+
+### Twitter
 
 * [AllMyTweets](https://www.allmytweets.net/connect/)
 * [Backtweets](http://backtweets.com)
@@ -367,7 +370,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [TWUBS Twitter Chat](http://twubs.com/twitter-chats)
 * [Schedule Warble](https://warble.co)
 
-## Social Media Tools: Facebook
+### Facebook
 
 * [Agora Pulse](http://barometer.agorapulse.com)
 * [Commun.it](http://commun.it)
@@ -388,13 +391,13 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 * [Zesty Facebook Search](http://zesty.ca/facebook)
 
-## Social Media Tools: Google+
+### Google+
 
 * [CircleCount](http://www.circlecount.com)
 * [Google Plus Search](http://googleplussearch.chromefans.org)
 * [PlusFeed](http://plusfeed.frosas.net)
 
-## Social Media Tools: Instagram
+### Instagram
 
 * [Custom Instagram Search Tools](https://inteltechniques.com/osint/menu.instagram.html)
 * [Hashtagify](http://hashtagify.me)
@@ -410,12 +413,12 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Worldcam](http://worldc.am)
 * [Yomapic](http://www.yomapic.com)
 
-## Social Media Tools: Pinterest
+### Pinterest
 
 * [Pingroupie](http://pingroupie.com)
 * [Pin Search](https://chrome.google.com/webstore/detail/pin-search-image-search-o/okiaciimfpgbpdhnfdllhdkicpmdoakm)
 
-## Social Media Tools: Reddit
+### Reddit
 
 * [Imgur](http://imgur.com)
 * [Metareddit](http://metareddit.com)
@@ -427,7 +430,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [SnoopSnoo](http://snoopsnoo.com)
 * [Subreddits](http://subreddits.org)
 
-## Social Media Tools: VKontakte
+### VKontakte
 
 * [Дезертир](http://vk.com/app3046467)
 * [Barkov.net](http://vk.barkov.net)
@@ -444,12 +447,12 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [VK to RSS Appspot](http://vk-to-rss.appspot.com)
 * [Yomapic](http://www.yomapic.com)
 
-## Social Media Tools: Tumblr
+### Tumblr
 
 * [Searchlr](http://searchlr.net)
 * [Tumblr Search](http://www.tumblr.com/search)
 
-## Social Media Tools: LinkedIn
+### LinkedIn
 
 * [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB)
 * [LinkedIn Profile Views](https://chrome.google.com/webstore/detail/profile-views-save-who-vi/hldngpjilggobfjfjhodmohobamhbdhh/reviews)
