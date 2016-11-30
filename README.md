@@ -9,89 +9,90 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
 Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resources.
 
 ## Table of Contents
------------------
- - [General Search](#general-search)
- - [Main National Search Engines](#main-national-search-engines)
- - [Meta Search](#meta-search)
- - [Specialty Search Engines](#specialty-search-engines)
- - [Visual Search and Clustering Search Engines](#visual-search-and-clustering-search-engines)
- - [Similar Sites Search](#similar-sites-search)
- - [Document and Slides Search](#document-and-slides-search)
- - [Pastebins](#pastebins)
- - [Code Search](#code-search)
- - [Major Social Networks](#major-social-networks)
- - [Real-Time Search, Social Media Search, and General Social Media Tools](#real-time-search-social-media-search-and-general social-media-tools)
- - [Social Media Tools: Twitter](#social-media-tools-twitter)
- - [Social Media Tools: Facebook](#social-media-tools-facebook)
- - [Social Media Tools: Google+](#social-media-tools-google+)
- - [Social Media Tools: Instagram](#social-media-tools-instagram)
- - [Social Media Tools: Pinterest](#social-media-tools-pinterest)
- - [Social Media Tools: Reddit](#social-media-tools-reddit)
- - [Social Media Tools: VKontakte](#social-media-tools-vkontakte)
- - [Social Media Tools: Tumblr](#social-media-tools-tumblr)
- - [Social Media Tools: LinkedIn](#social-media-tools-linkedin)
- - [Blog Search](#blog-search)
- - [Forums and Discussion Boards Search](#forums-and-discussion-boards-search)
- - [Username Check](#username-check)
- - [People Investigations](#people-investigations)
- - [E-mail Search / E-mail Check](#e-mail-search-check)
- - [Expert Search](#expert-search)
- - [Company Research](#company-research)
- - [Job Search Resources](#job-search-resources)
- - [Q&A Sites](#qa-sites)
- - [Domain and IP Research](#domain-and-ip-research)
- - [Keywords Discovery and Research](#keywords-discovery-and-research)
- - [Web History and Website Capture](#web-history-and-website-capture)
- - [Language Tools](#language-tools)
- - [Image Search](#image-search)
- - [Image Analysis](#image-analysis)
- - [Stock Images](#stock-mages)
- - [Video Search and Other Video Tools](#video-search-and-other-video-tools)
- - [Radio and Podcasts Tools](#radio-and-podcasts-tools)
- - [Academic Resources and Grey Literature](#academic-resources-and-grey-literature)
- - [Books and Reading](#books-and-reading)
- - [Geospatial Research and Mapping Tools](#geospatial-research-and-mapping-tools)
- - [News](#news)
- - [News Digest and Discovery Tools](#news-digest-and-discovery-tools)
- - [Fact Checking](#fact-checking)
- - [Data and Statistics](#data-and-statistics)
- - [Web Monitoring](#web-monitoring)
- - [Bookmarking](#bookmarking)
- - [Startpages](#startpages)
- - [Browsers](#browsers)
- - [Offline Browsing](#offline-browsing)
- - [VPN Services](#vpn-services)
- - [Notetaking](#notetaking)
- - [Annotation Tools](#annotation-tools)
- - [Writing and Office Tools](#writing-and-office-tools)
- - [Slideshow and Presentation Tools](#slideshow-and-presentation-tools)
- - [Digital Publishing](#digital-publishing)
- - [Newsletter Tools](#newsletter-tools)
- - [Digital Storytelling](#digital-storytelling)
- - [Infographics and Data Visualization](#infographics-and-data-visualization)
- - [Image and Photo Editing](#image-and-photo-editing)
- - [Productivity Tools](#productivity-tools)
- - [E-mail Management](#e-mail-management)
- - [Document and Reference Management](#document-and-reference-management)
- - [PDF Management](#pdf-management)
- - [OCR Tools](#ocr-tools)
- - [Cloud Storage and File Sharing](#cloud-storage-and-file-sharing)
- - [Web Automation](#web-automation)
- - [Dashboard Tools](#dashboard-tools)
- - [Wikis](#wikis)
- - [Collaboration and Project Management](#collaboration-and-project-management)
- - [Communication Tools](#communication-tools)
- - [Calendars and Scheduling](#calendars-and-scheduling)
- - [Mind Mapping, Concept Mapping and Idea Generation Tools](#mind-mapping-concept-mapping-and-idea-generation-tools)
- - [Social Network Analysis](#social-network-analysis)
- - [Privacy and Encryption Tools](#privacy-and-encryption-tools)
- - [Other Tools](#other-tools)
+
+ - [General Search](#-general-search)
+ - [Main National Search Engines](#-main-national-search-engines)
+ - [Meta Search](#-meta-search)
+ - [Specialty Search Engines](#-specialty-search-engines)
+ - [Visual Search and Clustering Search Engines](#-visual-search-and-clustering-search-engines)
+ - [Similar Sites Search](#-similar-sites-search)
+ - [Document and Slides Search](#-document-and-slides-search)
+ - [Pastebins](#-pastebins)
+ - [Code Search](#-code-search)
+ - [Major Social Networks](#-major-social-networks)
+ - [Real-Time Search, Social Media Search, and General Social Media Tools](#-real-time-search-social-media-search-and-general-social-media-tools)
+ - [Social Media Tools](#social-media-tools)
+   - [Twitter](#-twitter)
+   - [Facebook](#-facebook)
+   - [Google+](#-google)
+   - [Instagram](#-instagram)
+   - [Pinterest](#-pinterest)
+   - [Reddit](#-reddit)
+   - [VKontakte](#-vkontakte)
+   - [Tumblr](#-tumblr)
+   - [LinkedIn](#-linkedin)
+ - [Blog Search](#-blog-search)
+ - [Forums and Discussion Boards Search](#-forums-and-discussion-boards-search)
+ - [Username Check](#-username-check)
+ - [People Investigations](#-people-investigations)
+ - [E-mail Search / E-mail Check](#-e-mail-search--e-mail-check)
+ - [Expert Search](#-expert-search)
+ - [Company Research](#-company-research)
+ - [Job Search Resources](#-job-search-resources)
+ - [Q&A Sites](#-qa-sites)
+ - [Domain and IP Research](#-domain-and-ip-research)
+ - [Keywords Discovery and Research](#-keywords-discovery-and-research)
+ - [Web History and Website Capture](#-web-history-and-website-capture)
+ - [Language Tools](#-language-tools)
+ - [Image Search](#-image-search)
+ - [Image Analysis](#-image-analysis)
+ - [Stock Images](#-stock-images)
+ - [Video Search and Other Video Tools](#-video-search-and-other-video-tools)
+ - [Radio and Podcasts Tools](#-radio-and-podcasts-tools)
+ - [Academic Resources and Grey Literature](#-academic-resources-and-grey-literature)
+ - [Books and Reading](#-books-and-reading)
+ - [Geospatial Research and Mapping Tools](#-geospatial-research-and-mapping-tools)
+ - [News](#-news)
+ - [News Digest and Discovery Tools](#-news-digest-and-discovery-tools)
+ - [Fact Checking](#-fact-checking)
+ - [Data and Statistics](#-data-and-statistics)
+ - [Web Monitoring](#-web-monitoring)
+ - [Bookmarking](#-bookmarking)
+ - [Startpages](#-startpages)
+ - [Browsers](#-browsers)
+ - [Offline Browsing](#-offline-browsing)
+ - [VPN Services](#-vpn-services)
+ - [Notetaking](#-notetaking)
+ - [Annotation Tools](#-annotation-tools)
+ - [Writing and Office Tools](#-writing-and-office-tools)
+ - [Slideshow and Presentation Tools](#-slideshow-and-presentation-tools)
+ - [Digital Publishing](#-digital-publishing)
+ - [Newsletter Tools](#-newsletter-tools)
+ - [Digital Storytelling](#-digital-storytelling)
+ - [Infographics and Data Visualization](#-infographics-and-data-visualization)
+ - [Image and Photo Editing](#-image-and-photo-editing)
+ - [Productivity Tools](#-productivity-tools)
+ - [E-mail Management](#-e-mail-management)
+ - [Document and Reference Management](#-document-and-reference-management)
+ - [PDF Management](#-pdf-management)
+ - [OCR Tools](#-ocr-tools)
+ - [Cloud Storage and File Sharing](#-cloud-storage-and-file-sharing)
+ - [Web Automation](#-web-automation)
+ - [Dashboard Tools](#-dashboard-tools)
+ - [Wikis](#-wikis)
+ - [Collaboration and Project Management](#-collaboration-and-project-management)
+ - [Communication Tools](#-communication-tools)
+ - [Calendars and Scheduling](#-calendars-and-scheduling)
+ - [Mind Mapping, Concept Mapping and Idea Generation Tools](#-mind-mapping-concept-mapping-and-idea-generation-tools)
+ - [Social Network Analysis](#-social-network-analysis)
+ - [Privacy and Encryption Tools](#-privacy-and-encryption-tools)
+ - [Other Tools](#-other-tools)
 
 ### Download PDF
 
 - [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/)
 
-## General Search
+## [↑](#table-of-contents) General Search
 
 * [Advangle](http://advangle.com)
 * [Aol](http://search.aol.com)
@@ -124,7 +125,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Wolfram Alpha](http://www.wolframalpha.com)
 * [Yahoo! Search](http://www.yahoo.com)
 
-## Main National Search Engines
+## [↑](#table-of-contents) Main National Search Engines
 
 * [Alleba (Philippines)](http://www.alleba.com)
 * [Ansearch (Australia)](http://www.ansearch.com.au)
@@ -142,7 +143,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Walla (Israel)](http://www.walla.co.il)
 * [Yandex (Russia)](http://www.yandex.com)
 
-## Meta Search
+## [↑](#table-of-contents) Meta Search
 
 * [All-in-One](http://all-io.net)
 * [AllTheInternet](http://www.alltheinternet.com)
@@ -164,7 +165,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [WiinkZ](http://www.wiinkz.com)
 * [Zapmeta](http://www.zapmeta.com)
 
-## Specialty Search Engines
+## [↑](#table-of-contents) Specialty Search Engines
 
 * [2lingual Search](http://www.2lingual.com)
 * [Biznar](http://biznar.com)
@@ -179,7 +180,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [WorldWideScience.org](http://worldwidescience.org)
 * [Zanran](http://zanran.com)
 
-## Visual Search and Clustering Search Engines
+## [↑](#table-of-contents) Visual Search and Clustering Search Engines
 
 * [Binpad](http://www.binpad.com)
 * [Carrot2](http://search.carrot2.org)
@@ -188,7 +189,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Touchgraph](http://www.touchgraph.com)
 * [Yippy](http://yippy.com)
 
-## Similar Sites Search
+## [↑](#table-of-contents) Similar Sites Search
 
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej)
 * [SimilarPages](http://www.similarpages.com)
@@ -196,7 +197,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [SimilarSiteSearch](http://www.similarsitesearch.com)
 * [SitesLike](http://www.siteslike.com)
 
-## Document and Slides Search
+## [↑](#table-of-contents) Document and Slides Search
 
 * [Authorstream](http://www.authorstream.com)
 * [Find-pdf-doc](http://www.findpdfdoc.com)
@@ -217,18 +218,18 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Slideworld](http://www.slideworld.com)
 * [soPDF.com](http://www.sopdf.com)
 
-## Pastebins
+## [↑](#table-of-contents) Pastebins
 
 * [Custom Pastebin Search](https://inteltechniques.com/osint/menu.pastebins.html)
 * [PastebinTrends](http://pastebin.com/trends)
 * [PasteLert](http://andrewmohawk.com/pasteLert)
 
-## Code Search
+## [↑](#table-of-contents) Code Search
 
 * [NerdyData](https://search.nerdydata.com)
 * [SearchCode](https://searchcode.com)
 
-## Major Social Networks
+## [↑](#table-of-contents) Major Social Networks
 
 * [Draugiem (Latvia)](https://www.draugiem.lv)
 * [Facebook](http://www.facebook.com)
@@ -249,7 +250,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [VKontakte](https://vk.com)
 * [Xing](https://www.xing.com)
 
-## Real-Time Search, Social Media Search, and General Social Media Tools
+## [↑](#table-of-contents) Real-Time Search, Social Media Search, and General Social Media Tools
 
 * [Addict-o-matic](http://addictomatic.com)
 * [Audiense](https://www.audiense.com)
@@ -286,7 +287,9 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Trackur](http://www.trackur.com)
 * [UVRX](http://www.uvrx.com/social.html)
 
-## Social Media Tools: Twitter
+## Social Media Tools
+
+### [↑](#table-of-contents) Twitter
 
 * [AllMyTweets](https://www.allmytweets.net/connect/)
 * [Backtweets](http://backtweets.com)
@@ -367,7 +370,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [TWUBS Twitter Chat](http://twubs.com/twitter-chats)
 * [Schedule Warble](https://warble.co)
 
-## Social Media Tools: Facebook
+### [↑](#table-of-contents) Facebook
 
 * [Agora Pulse](http://barometer.agorapulse.com)
 * [Commun.it](http://commun.it)
@@ -388,13 +391,13 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 * [Zesty Facebook Search](http://zesty.ca/facebook)
 
-## Social Media Tools: Google+
+### [↑](#table-of-contents) Google+
 
 * [CircleCount](http://www.circlecount.com)
 * [Google Plus Search](http://googleplussearch.chromefans.org)
 * [PlusFeed](http://plusfeed.frosas.net)
 
-## Social Media Tools: Instagram
+### [↑](#table-of-contents) Instagram
 
 * [Custom Instagram Search Tools](https://inteltechniques.com/osint/menu.instagram.html)
 * [Hashtagify](http://hashtagify.me)
@@ -410,12 +413,12 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Worldcam](http://worldc.am)
 * [Yomapic](http://www.yomapic.com)
 
-## Social Media Tools: Pinterest
+### [↑](#table-of-contents) Pinterest
 
 * [Pingroupie](http://pingroupie.com)
 * [Pin Search](https://chrome.google.com/webstore/detail/pin-search-image-search-o/okiaciimfpgbpdhnfdllhdkicpmdoakm)
 
-## Social Media Tools: Reddit
+### [↑](#table-of-contents) Reddit
 
 * [Imgur](http://imgur.com)
 * [Metareddit](http://metareddit.com)
@@ -427,7 +430,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [SnoopSnoo](http://snoopsnoo.com)
 * [Subreddits](http://subreddits.org)
 
-## Social Media Tools: VKontakte
+### [↑](#table-of-contents) VKontakte
 
 * [Дезертир](http://vk.com/app3046467)
 * [Barkov.net](http://vk.barkov.net)
@@ -444,17 +447,17 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [VK to RSS Appspot](http://vk-to-rss.appspot.com)
 * [Yomapic](http://www.yomapic.com)
 
-## Social Media Tools: Tumblr
+### [↑](#table-of-contents) Tumblr
 
 * [Searchlr](http://searchlr.net)
 * [Tumblr Search](http://www.tumblr.com/search)
 
-## Social Media Tools: LinkedIn
+### [↑](#table-of-contents) LinkedIn
 
 * [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB)
 * [LinkedIn Profile Views](https://chrome.google.com/webstore/detail/profile-views-save-who-vi/hldngpjilggobfjfjhodmohobamhbdhh/reviews)
 
-## Blog Search
+## [↑](#table-of-contents) Blog Search
 
 * [BlogSearchEngine](http://www.blogsearchengine.org)
 * [Icerocket](http://www.icerocket.com)
@@ -463,7 +466,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Sphere](https://www.sphere.com)
 * [Twingly](http://www.twingly.com)
 
-## Forums and Discussion Boards Search
+## [↑](#table-of-contents) Forums and Discussion Boards Search
 
 * [Boardreader](http://boardreader.com)
 * [Facebook Groups](https://www.facebook.com)
@@ -474,7 +477,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Xing Groups](https://www.xing.com/communities)
 * [Yahoo Groups](https://groups.yahoo.com)
 
-## Username Check
+## [↑](#table-of-contents) Username Check
 
 * [Check User Names](http://www.checkusernames.com)
 * [Custom Username Tools](https://inteltechniques.com/osint/menu.user.html)
@@ -485,7 +488,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Username Check](http://www.usernamecheck.com)
 * [User Search](http://www.usersearch.org)
 
-## People Investigations
+## [↑](#table-of-contents) People Investigations
 
 * [411 (US)](http://www.411.com)
 * [192 (UK)](http://www.192.com)
@@ -545,7 +548,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Zabasearch](http://www.zabasearch.com)
 * [Zoominfo](http://www.zoominfo.com)
 
-## E-mail Search / E-mail Check
+## [↑](#table-of-contents) E-mail Search / E-mail Check
 
 * [Breach OR Clear](http://breachorclear.jesterscourt.cc)
 * [Custom Email Search Tools](https://inteltechniques.com/osint/menu.email.html)
@@ -570,7 +573,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Verify Email](http://verify-email.org)
 * [VoilaNorbert](https://www.voilanorbert.com)
 
-## Expert Search
+## [↑](#table-of-contents) Expert Search
 
 * [Academia](http://academia.edu)
 * [AllExperts](http://www.allexperts.com)
@@ -601,7 +604,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [TRExpertWitness](https://trexpertwitness.com)
 * [Zintro](https://www.zintro.com)
 
-## Company Research
+## [↑](#table-of-contents) Company Research
 
 * [AllStocksLinks](http://www.allstocks.com/links)
 * [Avention](https://www.avention.com)
@@ -657,7 +660,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Vault](http://www.vault.com)
 * [Xing](http://www.xing.com)
 
-## Job Search Resources
+## [↑](#table-of-contents) Job Search Resources
 
 * [Beyond](http://www.beyond.com)
 * [CampusCareerCenter](http://www.campuscareercenter.com)
@@ -683,7 +686,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Xing](http://www.xing.com)
 * [ZipRecruiter](https://www.ziprecruiter.com)
 
-## Q&A Sites
+## [↑](#table-of-contents) Q&A Sites
 
 * [Answers.com](http://www.answers.com)
 * [Ask](http://www.ask.com)
@@ -694,7 +697,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Wiselike](https://wiselike.com)
 * [Yahoo Answers](http://answers.yahoo.com)
 
-## Domain and IP Research
+## [↑](#table-of-contents) Domain and IP Research
 
 * [Accuranker](https://www.accuranker.com)
 * [ahrefs](https://ahrefs.com)
@@ -771,7 +774,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [ViewDNS.info](http://viewdns.info)
 * [You Get Signal](http://www.yougetsignal.com)
 
-## Keywords Discovery and Research
+## [↑](#table-of-contents) Keywords Discovery and Research
 
 * [Google Adwords](http://adwords.google.com)
 * [Google Keyword Suggest Tool](http://tools.seochat.com/tools/suggest-tool)
@@ -784,7 +787,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Soovle](http://www.soovle.com)
 * [Ubersuggest](http://ubersuggest.org)
 
-## Web History and Website Capture
+## [↑](#table-of-contents) Web History and Website Capture
 
 * [Archive.is](http://archive.is)
 * [BlackWidow](http://softbytelabs.com/en/BlackWidow)
@@ -794,7 +797,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Wayback Machine](http://archive.org/web/web.php)
 * [Wayback Machine Archiver](https://github.com/jsvine/waybackpack)
 
-## Language Tools
+## [↑](#table-of-contents) Language Tools
 
 * [2lingual](http://www.2lingual.com)
 * [Apertium](https://www.apertium.org)
@@ -836,7 +839,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Yamli (Arabic Search Engine)](http://www.yamli.com)
 * [Yandex Translate](https://translate.yandex.ru)
 
-## Image Search
+## [↑](#table-of-contents) Image Search
 
 * [7Photos](http://7photos.net)
 * [Baidu Images](http://image.baidu.com)
@@ -864,7 +867,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Yandex Images](https://www.yandex.com/images)
 * [Yomapic](http://www.yomapic.com)
 
-## Image Analysis
+## [↑](#table-of-contents) Image Analysis
 
 * [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
 * [EXIFviewer.org](http://www.exifviewer.org)
@@ -878,7 +881,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 * [Metapicz](http://metapicz.com/)
 
-## Stock Images
+## [↑](#table-of-contents) Stock Images
 
 * [AlltheFreeStock](http://allthefreestock.com)
 * [Death to Stock](http://deathtothestockphoto.com)
@@ -900,7 +903,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [tookapic](https://stock.tookapic.com)
 * [Unplash](https://unsplash.com)
 
-## Video Search and Other Video Tools
+## [↑](#table-of-contents) Video Search and Other Video Tools
 
 * [Aol Videos](http://on.aol.com)
 * [Bing Videos](http://www.bing.com/?scope=video)
@@ -928,7 +931,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [YouTube](https://www.youtube.com)
 * [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence)
 
-## Radio and Podcasts Tools
+## [↑](#table-of-contents) Radio and Podcasts Tools
 
 * [Clammr](https://www.clammr.com)
 * [iTunes Podcasts](http://www.apple.com/itunes/podcasts)
@@ -938,7 +941,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Podcast Directory](http://www.podcastdirectory.com)
 * [Podkicker](https://play.google.com/store/apps/details?id=ait.podka&hl=en)
 
-## Academic Resources and Grey Literature
+## [↑](#table-of-contents) Academic Resources and Grey Literature
 
 * [Academia](https://www.academia.edu)
 * [Academic Journals](http://www.academicjournals.org)
@@ -982,7 +985,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [World Science](http://worldwidescience.org)
 * [Zetoc](http://zetoc.jisc.ac.uk)
 
-## Books and Reading
+## [↑](#table-of-contents) Books and Reading
 
 * [Amazon Cheap Books](http://www.amazon.com/b?tag=mak041-20&linkCode=as2&ie=UTF8&node=2245146011)
 * [Blinkist](https://www.blinkist.com)
@@ -1039,7 +1042,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [WhatShouldIReadNext](http://www.whatshouldireadnext.com)
 * [YourNextRead](http://www.yournextread.com)
 
-## Geospatial Research and Mapping Tools
+## [↑](#table-of-contents) Geospatial Research and Mapping Tools
 
 * [Animaps](http://www.animaps.com)
 * [Atlasify](http://www.atlasify.com)
@@ -1100,7 +1103,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Yahoo Maps](https://maps.yahoo.com)
 * [Zeemaps](https://www.zeemaps.com)
 
-## News
+## [↑](#table-of-contents) News
 
 * [1st Headlines](http://www.1stheadlines.com)
 * [ABYZNewsLinks](http://www.abyznewslinks.com)
@@ -1145,7 +1148,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [World-Newspapers](http://www.world-newspapers.com)
 * [Yahoo News](http://news.yahoo.com)
 
-## News Digest and Discovery Tools
+## [↑](#table-of-contents) News Digest and Discovery Tools
 
 * [Flipboard](https://flipboard.com)
 * [Hubii](http://hubii.com)
@@ -1163,7 +1166,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Superdesk](https://www.superdesk.org)
 * [Trooclick](http://trooclick.com)
 
-## Fact Checking
+## [↑](#table-of-contents) Fact Checking
 
 * [About Urban Legends](http://urbanlegends.about.com)
 * [Churnalism](http://sunlightfoundation.com/tools/churnalism-us)
@@ -1178,7 +1181,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Verification Junkie](http://verificationjunkie.com)
 * [Verily](https://veri.ly)
 
-## Data and Statistics
+## [↑](#table-of-contents) Data and Statistics
 
 * [AGOA Data Center](http://agoa.info)
 * [AidData](http://aiddata.org)
@@ -1265,7 +1268,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Vizala](https://vizala.com)
 * [Zanran](http://zanran.com)
 
-## Web Monitoring
+## [↑](#table-of-contents) Web Monitoring
 
 * [AlertBox](https://addons.mozilla.org/en-US/firefox/addon/alertbox)
 * [Alltop](http://alltop.com)
@@ -1318,7 +1321,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [WebSite Watcher](http://www.aignes.com/index.htm)
 * [Winds](http://winds.getstream.io)
 
-## Bookmarking
+## [↑](#table-of-contents) Bookmarking
 
 * [Bibsonomy](http://www.bibsonomy.org)
 * [BonzoBox](http://bonzobox.com)
@@ -1367,7 +1370,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [xmarks](http://www.xmarks.com)
 * [Zotero](http://www.zotero.org)
 
-## Startpages
+## [↑](#table-of-contents) Startpages
 
 * [allmyfaves](http://www.allmyfaves.com)
 * [ighome](http://www.ighome.com)
@@ -1385,7 +1388,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Zeadoo](http://www.zeadoo.com)
 * [Zenstart](http://www.zenstart.com)
 
-## Browsers
+## [↑](#table-of-contents) Browsers
 
 * [Brave](https://brave.com)
 * [CentBrowser](http://www.centbrowser.com)
@@ -1405,7 +1408,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Vivaldi](https://vivaldi.com)
 * [Yandex Browser](https://browser.yandex.com/desktop/main)
 
-## Offline Browsing
+## [↑](#table-of-contents) Offline Browsing
 
 * [A1 Website Download](http://www.microsystools.com/products/website-download)
 * [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy)
@@ -1418,11 +1421,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [WebAssistant](http://www.proxy-offline-browser.com/download.html)
 * [Website Ripper Copier](http://www.tensons.com/products/websiterippercopier)
 
-## VPN Services
+## [↑](#table-of-contents) VPN Services
 
 * [TorrentFreak List of VPNs](https://torrentfreak.com/anonymous-vpn-service-provider-review-2015-150228)
 
-## Notetaking
+## [↑](#table-of-contents) Notetaking
 
 * [Cherrytree](http://www.giuspen.com/cherrytree)
 * [Evernote](https://www.evernote.com)
@@ -1442,7 +1445,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Workflowy](https://workflowy.com)
 * [wridea](http://wridea.com)
 
-## Annotation Tools
+## [↑](#table-of-contents) Annotation Tools
 
 * [A.nnotate](http://a.nnotate.com)
 * [Annotator](http://annotatorjs.org)
@@ -1454,7 +1457,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Pund.it](http://thepund.it)
 * [Skitch](https://evernote.com/skitch)
 
-## Writing and Office Tools
+## [↑](#table-of-contents) Writing and Office Tools
 
 * [Arguman](http://en.arguman.org)
 * [Bibme](http://www.bibme.org)
@@ -1475,7 +1478,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [UltraEdit](http://www.ultraedit.com)
 * [WriteApp](https://writeapp.me)
 
-## Slideshow and Presentation Tools
+## [↑](#table-of-contents) Slideshow and Presentation Tools
 
 * [Canva](https://www.canva.com/create/presentations)
 * [Deckset](http://www.decksetapp.com)
@@ -1506,7 +1509,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Visme](http://www.visme.co)
 * [Zoho Docs](https://www.zoho.com/docs/show.html)
 
-## Digital Publishing
+## [↑](#table-of-contents) Digital Publishing
 
 * [Canva](https://www.canva.com)
 * [Doclayer](https://standaert.net/doclayer)
@@ -1518,7 +1521,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Scribd](https://www.scribd.com)
 * [Yudu](http://yudu.com)
 
-## Newsletter Tools
+## [↑](#table-of-contents) Newsletter Tools
 
 * [AWeber](http://www.aweber.com)
 * [BombBomb](http://bombbomb.com)
@@ -1541,7 +1544,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [VerticalResponse](http://www.verticalresponse.com)
 * [Vision6](http://www.vision6.com.au)
 
-## Digital Storytelling
+## [↑](#table-of-contents) Digital Storytelling
 
 * [Adobe Voice](https://standout.adobe.com/voice)
 * [Animatron](https://www.animatron.com)
@@ -1579,7 +1582,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Zaption](http://www.zaption.com)
 * [Zooburst](http://zooburst.com)
 
-## Infographics and Data Visualization
+## [↑](#table-of-contents) Infographics and Data Visualization
 
 * [Adobe Color CC](https://color.adobe.com/create/color-wheel)
 * [Aeon](http://www.aeontimeline.com)
@@ -1666,7 +1669,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Vortex](http://www.dotmatics.com/products/vortex)
 * [ZingChart](http://www.zingchart.com)
 
-## Image and Photo Editing
+## [↑](#table-of-contents) Image and Photo Editing
 
 * [Apple Photos](http://www.apple.com/osx/photos)
 * [Aviary](https://www.aviary.com)
@@ -1696,7 +1699,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [SumoPaint](http://www.sumopaint.com)
 * [TinyPNG](https://tinypng.com)
 
-## Productivity Tools
+## [↑](#table-of-contents) Productivity Tools
 
 * [2Do](http://www.2doapp.com)
 * [Any.do](http://www.any.do)
@@ -1730,7 +1733,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Workflowy](https://workflowy.com)
 * [Wunderlist](https://www.wunderlist.com)
 
-## E-mail Management
+## [↑](#table-of-contents) E-mail Management
 
 * [ActiveInbox](http://www.activeinboxhq.com)
 * [AutoHotkey](https://www.autohotkey.com)
@@ -1761,7 +1764,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Unroll.me](https://unroll.me)
 * [Wisestamp](https://chrome.google.com/webstore/detail/wisestamp-email-signature/pbcgnkmbeodkmiijjfnliicelkjfcldg)
 
-## Document and Reference Management
+## [↑](#table-of-contents) Document and Reference Management
 
 * [Colwiz](https://www.colwiz.com)
 * [DocumentCloud](https://www.documentcloud.org)
@@ -1776,7 +1779,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [RefME](https://www.refme.com)
 * [Zotero](https://www.zotero.org)
 
-## PDF Management
+## [↑](#table-of-contents) PDF Management
 
 * [Foxit Reader](https://www.foxitsoftware.com/products/pdf-reader)
 * [ilovepdf](http://www.ilovepdf.com)
@@ -1787,13 +1790,13 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [XODO](http://xodo.com)
 * [Xpdf](http://www.foolabs.com/xpdf/home.html)
 
-## OCR Tools
+## [↑](#table-of-contents) OCR Tools
 
 * [I2OCR](http://www.i2ocr.com)
 * [Free Online OCR](https://www.newocr.com)
 * [Online OCR](http://www.onlineocr.net)
 
-## Cloud Storage and File Sharing
+## [↑](#table-of-contents) Cloud Storage and File Sharing
 
 * [4Shared](http://www.4shared.com)
 * [ADrive](http://www.adrive.com)
@@ -1835,7 +1838,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Tresorit](https://tresorit.com)
 * [WeTransfer](https://www.wetransfer.com)
 
-## Web Automation
+## [↑](#table-of-contents) Web Automation
 
 * [Cloud Work](https://cloudwork.com)
 * [Dropbox](http://wappwolf.com/dropboxautomator)
@@ -1845,7 +1848,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Workflow](https://workflow.is)
 * [Zapier](https://zapier.com)
 
-## Dashboard Tools
+## [↑](#table-of-contents) Dashboard Tools
 
 * [Analytics Portfolio](https://analyticsportfolio.com)
 * [Chartio](https://chartio.com)
@@ -1859,7 +1862,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Qlik](http://www.qlik.com)
 * [Visually](http://visual.ly)
 
-## Wikis
+## [↑](#table-of-contents) Wikis
 
 * [DokuWiki](https://www.dokuwiki.org/dokuwiki)
 * [Foswiki](http://foswiki.org)
@@ -1876,7 +1879,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [wikidPad](http://wikidpad.sourceforge.net)
 * [Zim](http://zim-wiki.org/downloads.html)
 
-## Collaboration and Project Management
+## [↑](#table-of-contents) Collaboration and Project Management
 
 * [10kinsights](https://www.10000ft.com)
 * [15Five](http://www.15five.com)
@@ -2005,7 +2008,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [YouTrack](https://www.jetbrains.com/youtrack)
 * [Zoho](https://www.zoho.com)
 
-## Communication Tools
+## [↑](#table-of-contents) Communication Tools
 
 * [Adobe Connect](http://www.adobe.com/products/adobeconnect.html)
 * [AnyDesk](http://anydesk.com/remote-desktop)
@@ -2101,7 +2104,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Zulip](https://www.zulip.org)
 * [Zyncro](http://www.zyncro.com)
 
-## Calendars and Scheduling
+## [↑](#table-of-contents) Calendars and Scheduling
 
 * [Assistant](http://www.assistant.to)
 * [Bunchapp](http://bunchapp.io)
@@ -2116,7 +2119,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [TeamUp](http://www.teamup.com)
 * [Teamweek](https://teamweek.com)
 
-## Mind Mapping, Concept Mapping and Idea Generation Tools
+## [↑](#table-of-contents) Mind Mapping, Concept Mapping and Idea Generation Tools
 
 * [The Brain](http://www.thebrain.com)
 * [Bubbl.us](https://bubbl.us)
@@ -2153,7 +2156,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [yWorks](http://www.yworks.com/en/products_yed_gallery.html)
 * [Xmind](http://www.xmind.net)
 
-## Social Network Analysis
+## [↑](#table-of-contents) Social Network Analysis
 
 * [Gephi](https://gephi.org)
 * [NodeXL](http://nodexl.codeplex.com)
@@ -2162,7 +2165,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Wynyard Group](https://wynyardgroup.com)
 * [Visual Investigative Scenarios](https://vis.occrp.org)
 
-## Privacy and Encryption Tools
+## [↑](#table-of-contents) Privacy and Encryption Tools
 
 * [Abine](https://www.abine.com)
 * [AdblockPlus](https://adblockplus.org)
@@ -2237,7 +2240,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Viivo](https://viivo.com)
 * [ZMail](http://zmail.sourceforge.net)
 
-## Other Tools
+## [↑](#table-of-contents) Other Tools
 
 * [Barcode Reader](http://online-barcode-reader.inliteresearch.com)
 * [Datasploit](http://seclist.us/datasploit-a-tool-to-perform-various-osint-techniques.html)
