@@ -85,6 +85,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Social Network Analysis](#-social-network-analysis)
  - [Privacy and Encryption Tools](#-privacy-and-encryption-tools)
  - [Other Tools](#-other-tools)
+ - [OSINT Videos](#-osint-videos)
 
 ## [↑](#table-of-contents) Contributing
 
@@ -2257,6 +2258,12 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Scraper Wiki](https://scraperwiki.com)
 * [Tapir](https://github.com/pentestify/tapir)
 * [Wikimindmap](http://www.wikimindmap.org/)
+
+## [↑](#table-of-contents) OSINT Videos
+
+* [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI)
+* [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
+* [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M)
 
 ## License
 
