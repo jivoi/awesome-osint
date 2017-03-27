@@ -611,7 +611,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#table-of-contents) Company Research
 
 * [AllStocksLinks](http://www.allstocks.com/links)
-* [Avention](https://www.avention.com)
 * [Battle of the Internet Giants](http://pennystocks.la/battle-of-internet-giants)
 * [Better Business Bureau](http://www.bbb.org)
 * [Bizeurope](http://www.bizeurope.com)
