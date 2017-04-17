@@ -298,6 +298,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Backtweets](http://backtweets.com)
 * [Bioischanged](http://bioischanged.com)
 * [Blue Nod](http://bluenod.com)
+* [burrrd.](https://burrrd.com)
 * [Commun.it](http://commun.it)
 * [Crate](https://getcrate.co)
 * [Custom Twitter Tools](https://inteltechniques.com/osint/menu.twitter.html)
