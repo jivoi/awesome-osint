@@ -431,6 +431,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb)
 * [Reddit Investigator](http://www.redditinvestigator.com)
 * [Reddit Metrics](http://redditmetrics.com)
+* [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/)
 * [SnoopSnoo](http://snoopsnoo.com)
 * [Subreddits](http://subreddits.org)
 
