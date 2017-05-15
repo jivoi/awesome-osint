@@ -1278,7 +1278,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [AOL Reader](http://reader.aol.com)
 * [Awasu](http://www.awasu.com)
 * [Bridge.Leslibres](https://bridge.leslibres.org)
-* [Bridges.Nitche](http://bridges.nitche.org)
 * [Bridge.Suumitsu](https://bridge.suumitsu.eu)
 * [ChangeDetect](http://www.changedetect.com)
 * [ChangeDetection](http://www.changedetection.com)
