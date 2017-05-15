@@ -1688,7 +1688,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Irfanview](http://www.irfanview.com)
 * [LightZone](http://lightzoneproject.org)
 * [Lunapic](http://www124.lunapic.com/editor)
-* [ON1 Effects 10](https://www.on1.com/apps/effects10free)
 * [OnlineImageSplitter](http://www.htmlkit.com/services/is)
 * [Paint.NET](http://www.getpaint.net/index.html)
 * [PhotoPlus](http://www.serif.com/free-photo-editing-software)
