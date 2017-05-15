@@ -859,7 +859,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [KarmaDecay](http://karmadecay.com)
 * [Lycos Image Search](http://search.lycos.com/images)
 * [MyPicsMap](http://www.mypicsmap.com)
-* [Panoramio](http://www.panoramio.com)
 * [PhotoBucket](http://photobucket.com)
 * [Picsearch](http://www.picsearch.com)
 * [PicTriev](http://www.pictriev.com)
@@ -870,7 +869,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Worldcam](http://www.worldc.am)
 * [Yahoo Image Search](https://images.search.yahoo.com)
 * [Yandex Images](https://www.yandex.com/images)
-* [Yomapic](http://www.yomapic.com)
 
 ## [↑](#table-of-contents) Image Analysis
 
