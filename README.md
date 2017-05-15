@@ -1359,7 +1359,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Raindrop](https://raindrop.io)
 * [Readibility](http://www.readability.com)
 * [Refind](https://refind.com)
-* [Rrrepo](http://www.rrrepo.co)
 * [Scoop.it](http://www.scoop.it)
 * [Scrapbook](https://addons.mozilla.org/en-US/firefox/addon/scrapbook)
 * [Scrible](http://www.scrible.com)
