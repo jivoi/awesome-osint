@@ -42,7 +42,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Keywords Discovery and Research](#-keywords-discovery-and-research)
  - [Web History and Website Capture](#-web-history-and-website-capture)
  - [Language Tools](#-language-tools)
- - [Search](#-image-search)
+ - [Image Search](#-image-search)
  - [Image Analysis](#-image-analysis)
  - [Stock Images](#-stock-images)
  - [Video Search and Other Video Tools](#-video-search-and-other-video-tools)
