@@ -1409,6 +1409,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Sleipnir](http://www.fenrir-inc.com/jp/sleipnir)
 * [Slimjet](http://www.slimjet.com)
 * [SRWare Iron](http://www.srware.net/en/software_srware_iron.php)
+* [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)
 * [Torch](http://www.torchbrowser.com)
 * [UCBrowser](http://www.ucweb.com)
 * [Vivaldi](https://vivaldi.com)
