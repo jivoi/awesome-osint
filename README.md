@@ -255,7 +255,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#table-of-contents) Real-Time Search, Social Media Search, and General Social Media Tools
 
-* [Addict-o-matic](http://addictomatic.com)
 * [Audiense](https://www.audiense.com)
 * [Bottlenose](http://bottlenose.com)
 * [Brandwatch](https://www.brandwatch.com)
