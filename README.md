@@ -711,7 +711,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 * [BuiltWith](http://builtwith.com)
 * [Central Ops](http://centralops.net)
-* [Compete.com](https://www.compete.com)
 * [Custom Domain Search Tools](https://inteltechniques.com/osint/menu.domain.html)
 * [Custom IP Address Search Tools](https://inteltechniques.com/osint/menu.ip.html)
 * [Dedicated or Not](http://dedicatedornot.com)
