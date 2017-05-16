@@ -1426,7 +1426,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#table-of-contents) VPN Services
 
-* [TorrentFreak List of VPNs](https://torrentfreak.com/anonymous-vpn-service-provider-review-2015-150228)
+* [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
 
 ## [↑](#table-of-contents) Notetaking
 
