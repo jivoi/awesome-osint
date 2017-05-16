@@ -547,7 +547,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Switchboard](http://www.switchboard.com)
 * [That’sThem](https://thatsthem.com)
 * [USSearch](http://www.ussearch.com)
-* [Virtual Gumshoe](http://www.virtualgumshoe.com)
 * [WebMiii](http://www.webmii.com)
 * [White Pages (US)](http://www.whitepages.com)
 * [Wink](http://itools.com/tool/wink-people-search)
