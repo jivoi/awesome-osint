@@ -1381,7 +1381,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Myfav.es](http://myfav.es)
 * [My Yahoo](https://my.yahoo.com)
 * [Protopage](http://www.protopage.com)
-* [Startific](http://startific.com)
 * [Start.io](http://start.io)
 * [Startme](http://www.startme.com)
 * [Symbaloo](http://www.symbaloo.com)
