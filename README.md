@@ -185,7 +185,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#table-of-contents) Visual Search and Clustering Search Engines
 
-* [Binpad](http://www.binpad.com)
 * [Carrot2](http://search.carrot2.org)
 * [Cluuz](http://www.cluuz.com)
 * [EntityCube](http://entitycube.research.microsoft.com)
