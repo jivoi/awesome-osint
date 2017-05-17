@@ -903,7 +903,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Stocksnap](https://stocksnap.io)
 * [Shutterstock](http://www.shutterstock.com)
 * [tookapic](https://stock.tookapic.com)
-* [Unplash](https://unsplash.com)
+* [Unsplash](https://unsplash.com)
 
 ## [↑](#table-of-contents) Video Search and Other Video Tools
 
