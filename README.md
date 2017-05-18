@@ -1280,7 +1280,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Deltafeed](http://bitreading.com/deltafeed)
 * [DiggReader](http://digg.com/login?next=%2Freader)
 * [Feed43](http://feed43.com)
-* [Feedafever](http://www.feedafever.com)
 * [FeedBooster](http://www.qsensei.com)
 * [Feederator](http://www.feederator.org)
 * [Feed Exileed](http://feed.exileed.com)
