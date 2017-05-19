@@ -598,6 +598,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Patent Attorneys/Agent Search](https://oedci.uspto.gov/OEDCI)
 * [PRNewswire](https://prnmedia.prnewswire.com)
 * [ProfNet](http://www.prnewswire.com/profnet)
+* [Relayo](https://www.relayo.com)
 * [ReseacherID](http://www.researcherid.com)
 * [ScholarUniverse](http://www.scholaruniverse.com)
 * [SheSource](http://www.shesource.org)
