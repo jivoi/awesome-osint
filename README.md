@@ -1900,7 +1900,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Cardsmith](http://cardsmith.co)
 * [CloudApp](http://www.getcloudapp.com)
 * [Cnverg](https://cnverg.com)
-* [Colabolo](http://colabolo.com)
 * [Collabtive](http://collabtive.o-dyn.de)
 * [CollaborateCloud](http://www.collaboratecloud.com)
 * [Comindwork](http://www.comindwork.com)
