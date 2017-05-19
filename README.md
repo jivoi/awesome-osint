@@ -1350,7 +1350,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Pearltrees](http://www.pearltrees.com)
 * [Pocket](http://getpocket.com)
 * [Raindrop](https://raindrop.io)
-* [Readibility](http://www.readability.com)
 * [Refind](https://refind.com)
 * [Rrrepo](http://www.rrrepo.co)
 * [Scoop.it](http://www.scoop.it)
