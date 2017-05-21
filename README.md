@@ -403,15 +403,12 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Hashtagify](http://hashtagify.me)
 * [Iconosquare](http://iconosquare.com)
 * [Ink361](http://ink361.com)
-* [Insta-earth](http://instaearth.me)
 * [Picodash](https://www.picodash.com)
 * [SnapMap](https://snapmap.knightlab.com/)
 * [Social Rank](https://www.socialrank.com)
-* [TeachingPrivacy](http://app.teachingprivacy.com)
 * [Tofo.me](https://tofo.me)
 * [Websta (Instagram)](http://websta.me)
 * [Worldcam](http://worldc.am)
-* [Yomapic](http://www.yomapic.com)
 
 ### [↑](#table-of-contents) Pinterest
 
