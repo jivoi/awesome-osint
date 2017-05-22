@@ -443,7 +443,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [VK Parser](http://vkparser.ru)
 * [VK People Search](http://vk.com/people)
 * [VK to RSS Appspot](http://vk-to-rss.appspot.com)
-* [Yomapic](http://www.yomapic.com)
 
 ### [↑](#table-of-contents) Tumblr
 
