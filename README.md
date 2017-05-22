@@ -427,6 +427,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/)
 * [SnoopSnoo](http://snoopsnoo.com)
 * [Subreddits](http://subreddits.org)
+* [Reddit Comment Search](https://redditcommentsearch.com/)
 
 ### [↑](#table-of-contents) VKontakte
 
