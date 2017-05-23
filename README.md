@@ -293,7 +293,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [AllMyTweets](https://www.allmytweets.net/connect/)
 * [Backtweets](http://backtweets.com)
-* [Bioischanged](http://bioischanged.com)
 * [Blue Nod](http://bluenod.com)
 * [burrrd.](https://burrrd.com)
 * [Commun.it](http://commun.it)
