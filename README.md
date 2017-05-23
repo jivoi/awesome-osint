@@ -34,6 +34,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Username Check](#-username-check)
  - [People Investigations](#-people-investigations)
  - [E-mail Search / E-mail Check](#-e-mail-search--e-mail-check)
+ - [Phone Number Research](#-phone-number-research)
  - [Expert Search](#-expert-search)
  - [Company Research](#-company-research)
  - [Job Search Resources](#-job-search-resources)
@@ -570,6 +571,11 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
 * [VoilaNorbert](https://www.voilanorbert.com)
+
+## [↑](#table-of-contents) Phone Number Research
+* [Twilio](https://www.twilio.com/lookup)
+* [Reverse Phone Lookup](http://www.reversephonelookup.com/)
+* [Spy Dialer](http://spydialer.com/)
 
 ## [↑](#table-of-contents) Expert Search
 
