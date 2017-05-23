@@ -319,7 +319,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [InTweets](http://intweets.com)
 * [ManageFlitter](http://manageflitter.com)
 * [Mentionmapp](http://mentionmapp.com)
-* [My Top Tweet](https://mytoptweet.com)
 * [OneMillionTweetMap](http://onemilliontweetmap.com)
 * [Queryfeed](https://queryfeed.net)
 * [Rank Speed](http://www.rankspeed.com)
