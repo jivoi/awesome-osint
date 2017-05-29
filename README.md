@@ -1948,7 +1948,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Pinstriped](http://pinstriped.com)
 * [PivotalTracker](http://www.pivotaltracker.com)
 * [Plan](https://plan.io)
-* [Plancake](http://www.plancake.com)
 * [Planleaf](http://www.planleaf.com)
 * [Planzone](https://www.planzone.com)
 * [Podio](https://podio.com)
