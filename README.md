@@ -1783,6 +1783,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Tabula](http://tabula.technology)
 * [XODO](http://xodo.com)
 * [Xpdf](http://www.foolabs.com/xpdf/home.html)
+* [Sejda](https://www.sejda.com/)
 
 ## [↑](#table-of-contents) OCR Tools
 
