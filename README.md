@@ -179,7 +179,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Google Custom Search](http://www.google.com/cse)
 * [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
 * [Internet Archive](https://archive.org/)
-* [Liveplasma](http://www.liveplasma.com)
 * [Million Short](https://millionshort.com)
 * [WorldWideScience.org](http://worldwidescience.org)
 * [Zanran](http://zanran.com)
