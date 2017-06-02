@@ -104,12 +104,12 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Bing](http://www.bing.com)
 * [Better Search](https://chrome.google.com/webstore/detail/better-search/ipicopkjbiphdmegamfkeieghhmcjema)
 * [Dothop](http://dothop.com)
-* [DuckDuckGo](https://duckduckgo.com)
+* [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
 * [Excite](http://www.excite.com)
 * [Factbites](http://www.factbites.com)
 * [Gigablast](http://gigablast.com)
 * [Goodsearch](http://www.goodsearch.com)
-* [Google Search](http://www.google.com)
+* [Google Search](http://www.google.com) - Most popular search engine.
 * [Info.com](http://www.info.com)
 * [Infospace](http://www.infospace.com)
 * [Instya](http://www.instya.com)
@@ -409,7 +409,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Worldcam](http://worldc.am)
 
 ### [↑](#table-of-contents) Pinterest
-
+ 
 * [Pingroupie](http://pingroupie.com)
 * [Pin Search](https://chrome.google.com/webstore/detail/pin-search-image-search-o/okiaciimfpgbpdhnfdllhdkicpmdoakm)
 
@@ -571,9 +571,9 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [VoilaNorbert](https://www.voilanorbert.com)
 
 ## [↑](#table-of-contents) Phone Number Research
-* [Twilio](https://www.twilio.com/lookup)
-* [Reverse Phone Lookup](http://www.reversephonelookup.com/)
-* [Spy Dialer](http://spydialer.com/)
+* [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
+* [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
+* [Spy Dialer](http://spydialer.com/) - Get voicemail recording of phone & name lookup.
 
 ## [↑](#table-of-contents) Expert Search
 
@@ -701,7 +701,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#table-of-contents) Domain and IP Research
 
 * [Accuranker](https://www.accuranker.com)
-* [ahrefs](https://ahrefs.com)
+* [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more. 
 * [Alexa](http://www.alexa.com)
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 * [BuiltWith](http://builtwith.com)
@@ -712,7 +712,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [DNSDumpster](https://dnsdumpster.com)
 * [DNS History](http://dnshistory.org)
 * [DNSStuff](http://www.dnsstuff.com)
-* [DNS Trail](http://dnstrails.com)
+* [DNS Trail](http://dnstrails.com) - Historical DNS information.
 * [DNSViz](http://dnsviz.net)
 * [Domain Big Data](http://domainbigdata.com)
 * [Domain Crawler](http://www.domaincrawler.com)
@@ -763,7 +763,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Website Informer](http://website.informer.com)
 * [ewhois](https://ewhois.com)
 * [WhatIsMyIPAddress](http://whatismyipaddress.com)
-* [Who.is](https://who.is/)
+* [Who.is](https://who.is/) - Domain whois information.
 * [Whois Arin Online](https://whois.arin.net)
 * [WhoIsHostingThis](http://www.whoishostingthis.com)
 * [WhoisMind](http://www.whoismind.com)
@@ -776,9 +776,9 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#table-of-contents) Keywords Discovery and Research
 
-* [Google Adwords](http://adwords.google.com)
+* [Google Adwords](http://adwords.google.com) - Get monthly keyword volume data and stats.
 * [Google Keyword Suggest Tool](http://tools.seochat.com/tools/suggest-tool)
-* [Google Trends](https://www.google.com/trends)
+* [Google Trends](https://www.google.com/trends) - See how many users are searching for specific keywords.
 * [Keyword Discovery](http://www.keyworddiscovery.com)
 * [Keyword Spy](http://www.keywordspy.com)
 * [KeywordTool](http://keywordtool.io)
@@ -1396,7 +1396,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Sleipnir](http://www.fenrir-inc.com/jp/sleipnir)
 * [Slimjet](http://www.slimjet.com)
 * [SRWare Iron](http://www.srware.net/en/software_srware_iron.php)
-* [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)
+* [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - Tor is a free software that prevents people from learning your location or browsing habits by letting you communicate anonymously on the Internet.
 * [Torch](http://www.torchbrowser.com)
 * [UCBrowser](http://www.ucweb.com)
 * [Vivaldi](https://vivaldi.com)
