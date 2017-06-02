@@ -98,6 +98,8 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#table-of-contents) General Search
 
+*The main search engines used by users.*
+
 * [Advangle](http://advangle.com)
 * [Aol](http://search.aol.com)
 * [Ask](http://www.ask.com)
@@ -131,6 +133,8 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#table-of-contents) Main National Search Engines
 
+*Localized search engines by country.*
+
 * [Alleba (Philippines)](http://www.alleba.com)
 * [Ansearch (Australia)](http://www.ansearch.com.au)
 * [Baidu (China)](http://www.baidu.com)
@@ -148,6 +152,8 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Yandex (Russia)](http://www.yandex.com)
 
 ## [↑](#table-of-contents) Meta Search
+
+*Lesser known and used search engines.*
 
 * [All-in-One](http://all-io.net)
 * [AllTheInternet](http://www.alltheinternet.com)
@@ -171,6 +177,8 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#table-of-contents) Specialty Search Engines
 
+*Search engines for specific information or topics.*
+
 * [2lingual Search](http://www.2lingual.com)
 * [Biznar](http://biznar.com)
 * [CiteSeerX](http://citeseer.ist.psu.edu)
@@ -185,6 +193,8 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#table-of-contents) Visual Search and Clustering Search Engines
 
+*Search engines that scrape multiple sites (Google, Yahoo, Bing, Goo, etc) at the same time and return results.*
+
 * [Carrot2](http://search.carrot2.org)
 * [Cluuz](http://www.cluuz.com)
 * [EntityCube](http://entitycube.research.microsoft.com)
@@ -193,6 +203,8 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#table-of-contents) Similar Sites Search
 
+*Find websites that are similiar. Good for business competition research.*
+
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej)
 * [SimilarPages](http://www.similarpages.com)
 * [SimilarSites](http://www.similarsites.com)
@@ -200,6 +212,8 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [SitesLike](http://www.siteslike.com)
 
 ## [↑](#table-of-contents) Document and Slides Search
+
+*Search for data located on PDFs, Word documents, presentation slides, and more.*
 
 * [Authorstream](http://www.authorstream.com)
 * [Find-pdf-doc](http://www.findpdfdoc.com)
@@ -219,6 +233,8 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [soPDF.com](http://www.sopdf.com)
 
 ## [↑](#table-of-contents) Pastebins
+
+*Find information that has been updated to Pastebin.*
 
 * [Custom Pastebin Search](https://inteltechniques.com/osint/menu.pastebins.html)
 * [PastebinTrends](http://pastebin.com/trends)
