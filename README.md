@@ -234,7 +234,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#contents) Pastebins
 
-*Find information that has been updated to Pastebin.*
+*Find information that has been uploaded to Pastebin.*
 
 * [Custom Pastebin Search](https://inteltechniques.com/osint/menu.pastebins.html)
 * [PastebinTrends](http://pastebin.com/trends)
@@ -242,8 +242,10 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#contents) Code Search
 
-* [NerdyData](https://search.nerdydata.com)
-* [SearchCode](https://searchcode.com)
+*Search by website source code*
+
+* [NerdyData](https://search.nerdydata.com) - Searh engine for source code.
+* [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
 
 ## [↑](#contents) Major Social Networks
 
@@ -428,23 +430,27 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ### [↑](#contents) Reddit
 
-* [Imgur](http://imgur.com)
-* [Metareddit](http://metareddit.com)
-* [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features)
-* [Reddit Archive](http://www.redditarchive.com)
-* [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb)
-* [Reddit Investigator](http://www.redditinvestigator.com)
-* [Reddit Metrics](http://redditmetrics.com)
-* [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/)
-* [SnoopSnoo](http://snoopsnoo.com)
-* [Subreddits](http://subreddits.org)
-* [Reddit Comment Search](https://redditcommentsearch.com/)
+*Tools to help discover more about a reddit user or subreddit.*
+
+* [Imgur](http://imgur.com/search?q=) - The most popular image hosting website used by redditors.
+* [Metareddit](http://metareddit.com) - Explore various subreddits. 
+* [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - Mostly Harmless looks up the page you are currently viewing to see if it has been submitted to reddit.
+* [Reddit Archive](http://www.redditarchive.com) - Historical archives of reddit posts.
+* [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Enhances your reddit experience. 
+* [Reddit Investigator](http://www.redditinvestigator.com) - Investigate a reddit users history.
+* [Reddit Metrics](http://redditmetrics.com) - Keeps track of the growth of a subreddit.
+* [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/) - reddit user account analyser. 
+* [SnoopSnoo](http://snoopsnoo.com) - Provides reddit user and subreddits analytics.
+* [Subreddits](http://subreddits.org) - Discover new subreddits.
+* [Reddit Comment Search](https://redditcommentsearch.com/) - Analyze a reddit users by comment history.
 
 ### [↑](#contents) VKontakte
 
+*Perform various OSINT on Russian social media site VKontakte.*
+
 * [Дезертир](http://vk.com/app3046467)
 * [Barkov.net](http://vk.barkov.net)
-* [Find Face](http://findface.ru)
+* [Find Face](http://findface.ru) - Search for people on VK by photo.
 * [Report Tree](http://dcpu.ru/vk_repost_tree.php)
 * [Social Stats](http://socialstats.ru)
 * [Spotlight](http://spotlight.svezet.ru)
@@ -452,26 +458,25 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Target Log](http://targetolog.com)
 * [VK5](http://vk5.city4me.com)
 * [VK Community Search](http://vk.com/communities)
-* [VK Parser](http://vkparser.ru)
+* [VK Parser](http://vkparser.ru) - A tool to search for a target audience and potential customers.
 * [VK People Search](http://vk.com/people)
 * [VK to RSS Appspot](http://vk-to-rss.appspot.com)
 
 ### [↑](#contents) Tumblr
 
-* [Searchlr](http://searchlr.net)
+* [Searchlr](http://searchlr.net) - Search engine for tumblr posts.
 * [Tumblr Search](http://www.tumblr.com/search)
 
 ### [↑](#contents) LinkedIn
 
-* [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB)
-* [LinkedIn Profile Views](https://chrome.google.com/webstore/detail/profile-views-save-who-vi/hldngpjilggobfjfjhodmohobamhbdhh/reviews)
+* [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB) - Browser plugin that finds emails of people's profiles in LinkedIn.
 
 ## [↑](#contents) Blog Search
 
 * [BlogSearchEngine](http://www.blogsearchengine.org)
 * [Icerocket](http://www.icerocket.com)
 * [NetworkedBlogs](http://www.networkedblogs.com)
-* [Notey](http://www.notey.com)
+* [Notey](http://www.notey.com) - Blog post search engine.
 * [Sphere](https://www.sphere.com)
 * [Twingly](http://www.twingly.com)
 
@@ -490,8 +495,8 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [Check User Names](http://www.checkusernames.com)
 * [Custom Username Tools](https://inteltechniques.com/osint/menu.user.html)
-* [Gaddr](https://gaddr.me)
-* [Knowem](http://www.Knowem.com)
+* [Gaddr](https://gaddr.me) - Scan 50+ different websites for usernames.
+* [Knowem](http://www.Knowem.com) - Search for a username on over 500 popular social networks.  
 * [Name Chk](http://www.namechk.com)
 * [Name Checkr](http://www.namecheckr.com)    
 * [User Search](http://www.usersearch.org)
@@ -511,11 +516,11 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [CVGadget](http://www.cvgadget.com)
 * [Data 24-7](https://www.data24-7.com)
 * [Gaddr](https://gaddr.me)
-* [facesearch](http://facesaerch.com)
+* [facesearch](http://facesaerch.com) - Search for images of a person by name.
 * [Family Search](https://familysearch.org)
 * [Family Tree Now](http://www.familytreenow.com/)
-* [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc)
-* [Fold3 (US Military Records)](http://www.fold3.com)
+* [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Find an inmate that is in the Federal Bureao of Prisons system.
+* [Fold3 (US Military Records)](http://www.fold3.com) - Browse records of US Military members.
 * [Forebears](http://forebears.io)
 * [Genealogy Bank](http://www.genealogybank.com)
 * [Genealogy Links](http://www.genealogylinks.net)
@@ -585,7 +590,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Phone Number Research
 * [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
 * [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
-* [Spy Dialer](http://spydialer.com/) - Get voicemail recording of phone & name lookup.
+* [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 
 ## [↑](#contents) Expert Search
 
@@ -730,9 +735,9 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Domain Crawler](http://www.domaincrawler.com)
 * [Domain Dossier](http://centralops.net/co/DomainDossier.aspx)
 * [Domain History](http://www.domainhistory.net)
-* [Domain Tools](http://whois.domaintools.com)
+* [Domain Tools](http://whois.domaintools.com) - Whois lookup and domain/ip historical data.
 * [Easy whois](https://www.easywhois.com)
-* [Exonera Tor](https://exonerator.torproject.org)
+* [Exonera Tor](https://exonerator.torproject.org) - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
 * [Follow.net](http://follow.net)
 * [GraphyStories](http://app.graphystories.com)
 * [HypeStat](https://www.hypestat.com)
@@ -743,13 +748,13 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [IP 2 Geolocation](http://ip2geolocation.com)
 * [IP 2 Location](http://www.ip2location.com/demo.aspx)
 * [IPFingerprints](http://www.ipfingerprints.com)
-* [IPVoid](http://www.ipvoid.com)
+* [IPVoid](http://www.ipvoid.com) - IP address toolset.
 * [IntelliTamper](http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml)
 * [Kloth](http://www.kloth.net/services)
 * [NetworkTools](http://network-tools.com)
 * [Majestic](https://majestic.com)
 * [MaxMind](https://www.maxmind.com)
-* [MXToolbox](http://origin.mxtoolbox.com)
+* [MXToolbox](http://origin.mxtoolbox.com) - MX record lookup tool.
 * [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot)
 * [OpenLinkProfiler](http://www.openlinkprofiler.org/ratelimit/domain.com)
 * [Open Site Explorer](https://moz.com/researchtools/ose)
@@ -769,7 +774,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [StatsCrop](http://www.statscrop.com)
 * [TCPIPUTILS.com](http://www.tcpiputils.com)
 * [urlQuery](http://urlquery.net)
-* [URLVoid](http://www.urlvoid.com)
+* [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites. 
 * [Wappalyzer](https://wappalyzer.com)
 * [WebMeUp](http://webmeup.com)
 * [Website Informer](http://website.informer.com)
@@ -806,7 +811,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [CashedPages](http://www.cachedpages.com)
 * [CachedView](http://cachedview.com)
 * [Screenshots.com](http://www.screenshots.com)
-* [Wayback Machine](http://archive.org/web/web.php)
+* [Wayback Machine](http://archive.org/web/web.php) - Explore the history of a website.
 * [Wayback Machine Archiver](https://github.com/jsvine/waybackpack)
 
 ## [↑](#contents) Language Tools
@@ -911,7 +916,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Stocksnap](https://stocksnap.io)
 * [Shutterstock](http://www.shutterstock.com)
 * [tookapic](https://stock.tookapic.com)
-* [Unsplash](https://unsplash.com)
+* [Unsplash](https://unsplash.com) - Free high-resolution photos.
 
 ## [↑](#contents) Video Search and Other Video Tools
 
@@ -926,7 +931,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [DownloadHealper](http://www.downloadhelper.net)
 * [Earthcam](http://www.earthcam.com)
 * [eclips](https://eclips.io)
-* [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame-for-youtub/elkadbdicdciddfkdpmaolomehalghio?hl=en-GB)
+* [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame-for-youtub/elkadbdicdciddfkdpmaolomehalghio?hl=en-GB) - Browser plugin that allows you to watch YouTube videos frame by frame.
 * [Geosearch](http://www.geosearchtool.com)
 * [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
 * [LiveLeak](http://www.liveleak.com)
@@ -972,7 +977,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [HighWire: Free Online Full-text Articles](http://highwire.stanford.edu/lists/freeart.dtl)
 * [Journal Guide](https://www.journalguide.com)
 * [Journal Seek](http://journalseek.net)
-* [JSTOR](http://www.jstor.org)
+* [JSTOR](http://www.jstor.org) - Search over 10 million academic journal articles, books, and primary sources.
 * [Lazy Scholar](http://www.lazyscholar.org)
 * [Microsoft Academic](http://academic.research.microsoft.com)
 * [NRC Research Press](http://www.nrcresearchpress.com)
@@ -980,7 +985,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Open Grey](http://www.opengrey.eu)
 * [The Open Syllabus Project](http://opensyllabusproject.org/)
 * [Oxford Journals](http://www.oxfordjournals.org)
-* [PubMed](http://www.ncbi.nlm.nih.gov/pubmed)
+* [PubMed](http://www.ncbi.nlm.nih.gov/pubmed) - Search more than 27 millions citations for biomedical literature from MEDLINE, life science journals, and online books. 
 * [Quetzal Search](https://www.quetzal-search.info)
 * [Research Gate](http://www.researchgate.net)
 * [SAGE Journals](http://online.sagepub.com)
