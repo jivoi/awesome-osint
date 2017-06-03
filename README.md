@@ -2247,19 +2247,17 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#contents) Other Tools
 
-* [Barcode Reader](http://online-barcode-reader.inliteresearch.com)
-* [Datasploit](http://seclist.us/datasploit-a-tool-to-perform-various-osint-techniques.html)
-* [The Harvester](https://code.google.com/p/theharvester)
-* [Maltego](http://www.paterva.com/web6/products/maltego.php)
-* [OpenRefine](https://github.com/OpenRefine)
-* [OSINT Framework](http://osintframework.com/)
-* [OsintStalker](https://github.com/milo2012/osintstalker)
-* [Outwit](http://www.outwit.com)
-* [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng)
-* [Recorded Future](https://www.recordedfuture.com)
-* [Scraper Wiki](https://scraperwiki.com)
-* [Tapir](https://github.com/pentestify/tapir)
-* [Wikimindmap](http://www.wikimindmap.org/)
+* [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
+* [Datasploit](http://seclist.us/datasploit-a-tool-to-perform-various-osint-techniques.html) - Tool to perform various OSINT techniques.
+* [The Harvester](https://code.google.com/p/theharvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+* [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
+* [Maltego](http://www.paterva.com/web6/products/maltego.php) - Interactive data mining tool that renders directed graphs for link analysis. 
+* [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
+* [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
+* [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
+* [Outwit](http://www.outwit.com) -  Find, grab and organize all kinds of data and media from online sources.
+* [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
+* [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Full-featured Web Reconnaissance framework written in python.
 
 ## [↑](#contents) OSINT Videos
 
