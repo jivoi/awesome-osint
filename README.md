@@ -493,8 +493,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Gaddr](https://gaddr.me)
 * [Knowem](http://www.Knowem.com)
 * [Name Chk](http://www.namechk.com)
-* [Name Checkr](http://www.namecheckr.com)
-* [Username Check](http://www.usernamecheck.com)
+* [Name Checkr](http://www.namecheckr.com)    
 * [User Search](http://www.usersearch.org)
 
 ## [↑](#table-of-contents) People Investigations
