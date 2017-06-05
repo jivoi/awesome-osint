@@ -305,11 +305,9 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ### [↑](#contents) Twitter
 
-* [AllMyTweets](https://www.allmytweets.net/connect/)
 * [Backtweets](http://backtweets.com)
 * [Blue Nod](http://bluenod.com)
 * [burrrd.](https://burrrd.com)
-* [Commun.it](http://commun.it)
 * [Crate](https://getcrate.co)
 * [Custom Twitter Tools](https://inteltechniques.com/osint/menu.twitter.html)
 * [doesfollow](https://doesfollow.com)
@@ -328,7 +326,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Harvard TweetMap](http://worldmap.harvard.edu/tweetmap)
 * [Hashtagify](http://hashtagify.me)
 * [Hashtags.org](http://www.hashtags.org)
-* [introduce](http://www.introduceapp.me)
 * [InTweets](http://intweets.com)
 * [ManageFlitter](http://manageflitter.com)
 * [Mentionmapp](http://mentionmapp.com)
