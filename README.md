@@ -1827,7 +1827,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Google Drive](https://www.google.com/intl/nl/drive)
 * [hubiC](https://hubic.com)
 * [iCloud](https://www.icloud.com)
-* [Jolicloud](https://www.jolicloud.com)
 * [Mediafire](https://www.mediafire.com)
 * [Mega](https://mega.nz)
 * [Mindbox](https://minbox.com)
