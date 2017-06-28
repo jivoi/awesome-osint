@@ -889,7 +889,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Ghiro](http://www.getghiro.org)
 * [ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html)
 * [Izitru](http://www.izitru.com)
-* [Jeffreys Image Metadata Viewer](http://regex.info//exif.cgi)
+* [Jeffreys Image Metadata Viewer](http://exif.regex.info/)
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 * [Metapicz](http://metapicz.com/)
 
@@ -942,6 +942,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Yahoo Video Search](http://video.search.yahoo.com)
 * [YouTube](https://www.youtube.com)
 * [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence)
+* [ccSUBS](http://ccsubs.com/) - Download Closed Captions & Subtitles from YouTube
 
 ## [↑](#contents) Radio and Podcasts Tools
 
