@@ -889,7 +889,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Ghiro](http://www.getghiro.org)
 * [ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html)
 * [Izitru](http://www.izitru.com)
-* [Jeffreys Image Metadata Viewer](http://regex.info//exif.cgi)
+* [Jeffreys Image Metadata Viewer](http://exif.regex.info/)
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 * [Metapicz](http://metapicz.com/)
 
