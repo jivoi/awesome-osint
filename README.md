@@ -942,6 +942,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Yahoo Video Search](http://video.search.yahoo.com)
 * [YouTube](https://www.youtube.com)
 * [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence)
+* [ccSUBS](http://ccsubs.com/) - Download Closed Captions & Subtitles from YouTube
 
 ## [↑](#contents) Radio and Podcasts Tools
 
