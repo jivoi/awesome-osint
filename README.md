@@ -2261,6 +2261,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Outwit](http://www.outwit.com) -  Find, grab and organize all kinds of data and media from online sources.
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 * [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Full-featured Web Reconnaissance framework written in python.
+* [Belati](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 
 ## [↑](#contents) OSINT Videos
 
