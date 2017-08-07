@@ -753,6 +753,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [MaxMind](https://www.maxmind.com)
 * [MXToolbox](http://origin.mxtoolbox.com) - MX record lookup tool.
 * [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot)
+* [NormShield Services](https://services.normshield.com)
 * [OpenLinkProfiler](http://www.openlinkprofiler.org/ratelimit/domain.com)
 * [Open Site Explorer](https://moz.com/researchtools/ose)
 * [PageGlimpse](http://www.pageglimpse.com)
