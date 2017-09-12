@@ -119,25 +119,20 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [iSEEK Education](http://education.iseek.com/iseek/home.page)
 * [ixquick](https://www.ixquick.com)
 * [Lycos](http://www.lycos.com)
-* [Mojeek](http://www.mojeek.com)
-* [MyWebSearch](http://home.mywebsearch.com)
-* [Oscobo](https://oscobo.co.uk)
-* [Polyfetch](http://www.polyfetch.com)
 * [Parseek (Iran)](http://www.parseek.com)
 * [Peeplo](http://www.peeplo.com)
 * [Search.com](http://www.search.com)
 * [SurfCanyon](http://www.surfcanyon.com)
 * [Teoma](http://www.teoma.com)
 * [Wolfram Alpha](http://www.wolframalpha.com)
-* [Yahoo! Search](http://www.yahoo.com)
+* [Yahoo! Search](http://www.yahoo.com) - 
 
 ## [↑](#contents) Main National Search Engines
 
 *Localized search engines by country.*
 
-* [Alleba (Philippines)](http://www.alleba.com)
-* [Ansearch (Australia)](http://www.ansearch.com.au)
-* [Baidu (China)](http://www.baidu.com)
+* [Alleba (Philippines)](http://www.alleba.com) - Philippines search engine
+* [Baidu (China)](http://www.baidu.com) - The major search engine used in China
 * [Daum (South Korea)](http://www.daum.net)
 * [Eniro (Sweden)](http://www.eniro.se)
 * [Goo (Japan)](http://www.goo.ne.jp)
