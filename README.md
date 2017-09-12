@@ -190,21 +190,18 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 *Search engines that scrape multiple sites (Google, Yahoo, Bing, Goo, etc) at the same time and return results.*
 
-* [Carrot2](http://search.carrot2.org)
-* [Cluuz](http://www.cluuz.com)
-* [EntityCube](http://entitycube.research.microsoft.com)
-* [Touchgraph](http://www.touchgraph.com)
-* [Yippy](http://yippy.com)
+* [Carrot2](http://search.carrot2.org) - Organizes your search results into topics.
+* [Cluuz](http://www.cluuz.com) - Generates easier to understand search results through graphs, images, and tag clouds.
+* [Yippy](http://yippy.com) - Search using multiple sources at once
 
 ## [↑](#contents) Similar Sites Search
 
 *Find websites that are similiar. Good for business competition research.*
 
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej)
-* [SimilarPages](http://www.similarpages.com)
-* [SimilarSites](http://www.similarsites.com)
-* [SimilarSiteSearch](http://www.similarsitesearch.com)
-* [SitesLike](http://www.siteslike.com)
+* [SimilarPages](http://www.similarpages.com) - Find pages similar to each other
+* [SimilarSites](http://www.similarsites.com) - Discover websites that are similiar to each other
+* [SitesLike](http://www.siteslike.com) - Find similiar websites by category
 
 ## [↑](#contents) Document and Slides Search
 
