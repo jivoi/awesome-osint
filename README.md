@@ -779,6 +779,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Verisign](http://dnssec-debugger.verisignlabs.com)
 * [ViewDNS.info](http://viewdns.info)
 * [You Get Signal](http://www.yougetsignal.com)
+* [Malware Domain List](http://www.malwaredomainlist.com/mdl.php)
 
 ## [↑](#contents) Keywords Discovery and Research
 
