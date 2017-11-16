@@ -579,6 +579,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Phone Number Research
 * [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
 * [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
+* [Reverse Phone Lookup (truecaller.com)](https://gist.github.com/iddoeldor91/a10e73523fa28f8eda71d30bd1d9fc6c) - Get name, email & image by phone number from Truecaller.
 * [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 
 ## [↑](#contents) Expert Search
