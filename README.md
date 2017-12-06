@@ -61,10 +61,10 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Browsers](#-browsers)
  - [Offline Browsing](#-offline-browsing)
  - [VPN Services](#-vpn-services)
- - [Notetaking](#-notetaking)
+ - [Note-taking](#-note-taking)
  - [Annotation Tools](#-annotation-tools)
  - [Writing and Office Tools](#-writing-and-office-tools)
- - [Slideshow and Presentation Tools](#-slideshow-and-presentation-tools)
+ - [Slide Show and Presentation Tools](#-slide-show-and-presentation-tools)
  - [Digital Publishing](#-digital-publishing)
  - [Newsletter Tools](#-newsletter-tools)
  - [Digital Storytelling](#-digital-storytelling)
@@ -94,7 +94,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#contents) Credits
 
-This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/). I-intelligence is dedicated to helping you improve your ability to collect, analyse, manage, share and communicate information, whether in support of government policy or in pursuit of competitive advantage.
+This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/). I-intelligence is dedicated to helping you improve your ability to collect, analyze, manage, share and communicate information, whether in support of government policy or in pursuit of competitive advantage.
 
 ## [↑](#contents) General Search
 
@@ -196,12 +196,12 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#contents) Similar Sites Search
 
-*Find websites that are similiar. Good for business competition research.*
+*Find websites that are similar. Good for business competition research.*
 
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej)
 * [SimilarPages](http://www.similarpages.com) - Find pages similar to each other
-* [SimilarSites](http://www.similarsites.com) - Discover websites that are similiar to each other
-* [SitesLike](http://www.siteslike.com) - Find similiar websites by category
+* [SimilarSites](http://www.similarsites.com) - Discover websites that are similar to each other
+* [SitesLike](http://www.siteslike.com) - Find similar websites by category
 
 ## [↑](#contents) Document and Slides Search
 
@@ -236,7 +236,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 *Search by website source code*
 
-* [NerdyData](https://search.nerdydata.com) - Searh engine for source code.
+* [NerdyData](https://search.nerdydata.com) - Search engine for source code.
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
 
 ## [↑](#contents) Major Social Networks
@@ -428,7 +428,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Enhances your reddit experience. 
 * [Reddit Investigator](http://www.redditinvestigator.com) - Investigate a reddit users history.
 * [Reddit Metrics](http://redditmetrics.com) - Keeps track of the growth of a subreddit.
-* [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/) - reddit user account analyser. 
+* [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/) - reddit user account analyzer. 
 * [SnoopSnoo](http://snoopsnoo.com) - Provides reddit user and subreddits analytics.
 * [Subreddits](http://subreddits.org) - Discover new subreddits.
 * [Reddit Comment Search](https://redditcommentsearch.com/) - Analyze a reddit users by comment history.
@@ -508,7 +508,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [facesearch](http://facesaerch.com) - Search for images of a person by name.
 * [Family Search](https://familysearch.org)
 * [Family Tree Now](http://www.familytreenow.com/)
-* [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Find an inmate that is in the Federal Bureao of Prisons system.
+* [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Find an inmate that is in the Federal Bureau of Prisons system.
 * [Fold3 (US Military Records)](http://www.fold3.com) - Browse records of US Military members.
 * [Forebears](http://forebears.io)
 * [Genealogy Bank](http://www.genealogybank.com)
@@ -1426,7 +1426,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
 
-## [↑](#contents) Notetaking
+## [↑](#contents) Note-taking
 
 * [Cherrytree](http://www.giuspen.com/cherrytree)
 * [Evernote](https://www.evernote.com)
@@ -1479,7 +1479,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [UltraEdit](http://www.ultraedit.com)
 * [WriteApp](https://writeapp.me)
 
-## [↑](#contents) Slideshow and Presentation Tools
+## [↑](#contents) Slide Show and Presentation Tools
 
 * [Canva](https://www.canva.com/create/presentations)
 * [Deckset](http://www.decksetapp.com)
