@@ -1381,7 +1381,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [My Yahoo](https://my.yahoo.com)
 * [Protopage](http://www.protopage.com)
 * [Start.io](http://start.io)
-* [Startme](http://www.startme.com)
+* [start.me](https://www.start.me)
 * [Symbaloo](http://www.symbaloo.com)
 * [uStart.org](http://www.ustart.org)
 * [Yourport](http://www.yourport.com)
