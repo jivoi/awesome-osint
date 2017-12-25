@@ -1445,6 +1445,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Tomboy](https://wiki.gnome.org/Apps/Tomboy)
 * [Workflowy](https://workflowy.com)
 * [wridea](http://wridea.com)
+* [Calculist](https://app.calculist.io/)
 
 ## [↑](#contents) Annotation Tools
 
