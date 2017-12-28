@@ -865,7 +865,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [PicTriev](http://www.pictriev.com)
 * [Reverse Image Search](https://inteltechniques.com/osint/menu.reverse.image.html)
 * [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
-* [TinyEye](https://tineye.com)
+* [TinEye](https://tineye.com)
 * [Websta](http://websta.me)
 * [Worldcam](http://www.worldc.am)
 * [Yahoo Image Search](https://images.search.yahoo.com)
