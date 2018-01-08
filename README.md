@@ -332,6 +332,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Sleeping Time](http://sleepingtime.org)
 * [Social Bearing](http://www.socialbearing.com)
 * [Social Rank First Follower](http://socialrank.com/firstfollower)
+* [Spoonbill](http://spoonbill.io)
 * [Tagdef](https://tagdef.com)
 * [TeachingPrivacy](http://app.teachingprivacy.com)
 * [Tinfoleak](https://tinfoleak.com)
