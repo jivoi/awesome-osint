@@ -956,6 +956,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Base](http://www.base-search.net)
 * [Bibsonomy](http://www.bibsonomy.org)
 * [Cambridge Journals](http://journals.cambridge.org)
+* [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - The CCSB is a collection of bibliographies of scientific literature in computer science from various sources, covering most aspects of computer science.
 * [Core](https://core.ac.uk/search)
 * [Elsevier](https://www.elsevier.com)
 * [Google Scholar](https://scholar.google.com)
