@@ -971,6 +971,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Journal Seek](http://journalseek.net)
 * [JSTOR](http://www.jstor.org) - Search over 10 million academic journal articles, books, and primary sources.
 * [Lazy Scholar](http://www.lazyscholar.org)
+* [Leibniz Information Centre For Science and Technology University Library](https://www.tib.eu/en/search-discover/) - indexes all reports of German publicly funded projects and many scientific papers.
 * [Microsoft Academic](http://academic.research.microsoft.com)
 * [NRC Research Press](http://www.nrcresearchpress.com)
 * [Open Access Scientific Journals](http://www.pagepress.org)
