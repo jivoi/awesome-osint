@@ -719,7 +719,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [DNSDumpster](https://dnsdumpster.com)
 * [DNS History](http://dnshistory.org)
 * [DNSStuff](http://www.dnsstuff.com)
-* [DNS Trail](http://dnstrails.com) - Historical DNS information.
+* [DNSTrails](http://dnstrails.com) - Historical and current WHOIS, historical and current DNS records, technologies used and whois search by phone, mail, address, IP etc.
 * [DNSViz](http://dnsviz.net)
 * [Domain Big Data](http://domainbigdata.com)
 * [Domain Crawler](http://www.domaincrawler.com)
@@ -756,6 +756,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Remote DNS Lookup](https://remote.12dt.com)
 * [Robtex](https://www.robtex.com)
 * [SameID](http://sameid.net)
+* [SecurityTrails](https://securitytrails.com) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc. 
 * [SEMrush](https://www.semrush.com)
 * [SEO Chat Tools](http://tools.seochat.com)
 * [SEOTools for Excel](http://seotoolsforexcel.com)
