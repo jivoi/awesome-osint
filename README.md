@@ -1801,6 +1801,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [I2OCR](http://www.i2ocr.com)
 * [Free Online OCR](https://www.newocr.com)
+* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF/)
 * [Online OCR](http://www.onlineocr.net)
 
 ## [↑](#contents) Cloud Storage and File Sharing
