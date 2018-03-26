@@ -444,6 +444,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Report Tree](http://dcpu.ru/vk_repost_tree.php)
 * [Social Stats](http://socialstats.ru)
 * [Spotlight](http://spotlight.svezet.ru)
+* [Snradar](http://snradar.azurewebsites.net) - Search pictures by time and location they were taken
 * [Target Hunter](https://targethunter.net)
 * [Target Log](http://targetolog.com)
 * [VK5](http://vk5.city4me.com)
