@@ -149,9 +149,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [All-in-One](http://all-io.net)
 * [AllTheInternet](http://www.alltheinternet.com)
-* [Dogpile](http://www.dogpile.com)
 * [Etools](http://www.etools.ch)
-* [Excite](http://msxml.excite.com)
 * [FaganFinder](http://www.faganfinder.com/engines)
 * [Glearch](http://www.glearch.com)
 * [Goofram](http://www.goofram.com)
@@ -163,7 +161,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Qwant](http://www.qwant.com)
 * [Sputtr](http://www.sputtr.com)
 * [Trovando](http://www.trovando.it)
-* [WebCrawler](http://www.webcrawler.com)
 * [WiinkZ](http://www.wiinkz.com)
 * [Zapmeta](http://www.zapmeta.com)
 
