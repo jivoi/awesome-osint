@@ -107,13 +107,10 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Better Search](https://chrome.google.com/webstore/detail/better-search/ipicopkjbiphdmegamfkeieghhmcjema)
 * [Dothop](http://dothop.com)
 * [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
-* [Excite](http://www.excite.com)
 * [Factbites](http://www.factbites.com)
 * [Gigablast](http://gigablast.com)
 * [Goodsearch](http://www.goodsearch.com)
 * [Google Search](http://www.google.com) - Most popular search engine.
-* [Info.com](http://www.info.com)
-* [Infospace](http://www.infospace.com)
 * [Instya](http://www.instya.com)
 * [Impersonal.me](http://www.impersonal.me)
 * [iSEEK Education](http://education.iseek.com/iseek/home.page)
