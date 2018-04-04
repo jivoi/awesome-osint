@@ -85,6 +85,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Mind Mapping, Concept Mapping and Idea Generation Tools](#-mind-mapping-concept-mapping-and-idea-generation-tools)
  - [Social Network Analysis](#-social-network-analysis)
  - [Privacy and Encryption Tools](#-privacy-and-encryption-tools)
+ - [DNS](#-dns)
  - [Other Tools](#-other-tools)
  - [OSINT Videos](#-osint-videos)
 
@@ -2240,6 +2241,9 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [VeraCrypt](https://veracrypt.codeplex.com)
 * [Viivo](https://viivo.com)
 * [ZMail](http://zmail.sourceforge.net)
+
+## [↑](#contents) DNS
+* [Amass](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
 
 ## [↑](#contents) Other Tools
 
