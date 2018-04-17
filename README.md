@@ -2145,6 +2145,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Mind Map](https://chrome.google.com/webstore/detail/mindmap/gdaeohpmcenmffofpikllphdhlkkocfa#detail/mindmap/gdaeohpmcenmffofpikllphdhlkkocfa)
 * [Mindmeister](https://www.mindmeister.com)
 * [Mindomo](https://www.mindomo.com)
+* [MindMup](https://www.mindmup.com/)
 * [Popplet](http://popplet.com)
 * [Realtimeboard](https://realtimeboard.com)
 * [Scapple](http://literatureandlatte.com/scapple.php)
