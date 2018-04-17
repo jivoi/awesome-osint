@@ -3,7 +3,7 @@
 [<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
 
 A curated list of amazingly awesome open source intelligence tools and resources.
-Open-source intelligence (OSINT) is intelligence collected from publicly available sources.
+[Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) is intelligence collected from publicly available sources.
 In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources)
 
 ## Contents
@@ -85,6 +85,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Mind Mapping, Concept Mapping and Idea Generation Tools](#-mind-mapping-concept-mapping-and-idea-generation-tools)
  - [Social Network Analysis](#-social-network-analysis)
  - [Privacy and Encryption Tools](#-privacy-and-encryption-tools)
+ - [DNS](#-dns)
  - [Other Tools](#-other-tools)
  - [OSINT Videos](#-osint-videos)
 
@@ -107,13 +108,10 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Better Search](https://chrome.google.com/webstore/detail/better-search/ipicopkjbiphdmegamfkeieghhmcjema)
 * [Dothop](http://dothop.com)
 * [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
-* [Excite](http://www.excite.com)
 * [Factbites](http://www.factbites.com)
 * [Gigablast](http://gigablast.com)
 * [Goodsearch](http://www.goodsearch.com)
 * [Google Search](http://www.google.com) - Most popular search engine.
-* [Info.com](http://www.info.com)
-* [Infospace](http://www.infospace.com)
 * [Instya](http://www.instya.com)
 * [Impersonal.me](http://www.impersonal.me)
 * [iSEEK Education](http://education.iseek.com/iseek/home.page)
@@ -152,9 +150,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [All-in-One](http://all-io.net)
 * [AllTheInternet](http://www.alltheinternet.com)
-* [Dogpile](http://www.dogpile.com)
 * [Etools](http://www.etools.ch)
-* [Excite](http://msxml.excite.com)
 * [FaganFinder](http://www.faganfinder.com/engines)
 * [Glearch](http://www.glearch.com)
 * [Goofram](http://www.goofram.com)
@@ -166,7 +162,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Qwant](http://www.qwant.com)
 * [Sputtr](http://www.sputtr.com)
 * [Trovando](http://www.trovando.it)
-* [WebCrawler](http://www.webcrawler.com)
 * [WiinkZ](http://www.wiinkz.com)
 * [Zapmeta](http://www.zapmeta.com)
 
@@ -332,6 +327,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Sleeping Time](http://sleepingtime.org)
 * [Social Bearing](http://www.socialbearing.com)
 * [Social Rank First Follower](http://socialrank.com/firstfollower)
+* [Spoonbill](http://spoonbill.io)
 * [Tagdef](https://tagdef.com)
 * [TeachingPrivacy](http://app.teachingprivacy.com)
 * [Tinfoleak](https://tinfoleak.com)
@@ -443,6 +439,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Report Tree](http://dcpu.ru/vk_repost_tree.php)
 * [Social Stats](http://socialstats.ru)
 * [Spotlight](http://spotlight.svezet.ru)
+* [Snradar](http://snradar.azurewebsites.net) - Search pictures by time and location they were taken
 * [Target Hunter](https://targethunter.net)
 * [Target Log](http://targetolog.com)
 * [VK5](http://vk5.city4me.com)
@@ -718,7 +715,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [DNSDumpster](https://dnsdumpster.com)
 * [DNS History](http://dnshistory.org)
 * [DNSStuff](http://www.dnsstuff.com)
-* [DNS Trail](http://dnstrails.com) - Historical DNS information.
+* [DNSTrails](http://dnstrails.com) - Historical and current WHOIS, historical and current DNS records, technologies used and whois search by phone, mail, address, IP etc.
 * [DNSViz](http://dnsviz.net)
 * [Domain Big Data](http://domainbigdata.com)
 * [Domain Crawler](http://www.domaincrawler.com)
@@ -755,6 +752,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Remote DNS Lookup](https://remote.12dt.com)
 * [Robtex](https://www.robtex.com)
 * [SameID](http://sameid.net)
+* [SecurityTrails](https://securitytrails.com) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc. 
 * [SEMrush](https://www.semrush.com)
 * [SEO Chat Tools](http://tools.seochat.com)
 * [SEOTools for Excel](http://seotoolsforexcel.com)
@@ -865,7 +863,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [PicTriev](http://www.pictriev.com)
 * [Reverse Image Search](https://inteltechniques.com/osint/menu.reverse.image.html)
 * [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
-* [TinyEye](https://tineye.com)
+* [TinEye](https://tineye.com)
 * [Websta](http://websta.me)
 * [Worldcam](http://www.worldc.am)
 * [Yahoo Image Search](https://images.search.yahoo.com)
@@ -955,6 +953,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Base](http://www.base-search.net)
 * [Bibsonomy](http://www.bibsonomy.org)
 * [Cambridge Journals](http://journals.cambridge.org)
+* [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - The CCSB is a collection of bibliographies of scientific literature in computer science from various sources, covering most aspects of computer science.
 * [Core](https://core.ac.uk/search)
 * [Elsevier](https://www.elsevier.com)
 * [Google Scholar](https://scholar.google.com)
@@ -969,6 +968,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Journal Seek](http://journalseek.net)
 * [JSTOR](http://www.jstor.org) - Search over 10 million academic journal articles, books, and primary sources.
 * [Lazy Scholar](http://www.lazyscholar.org)
+* [Leibniz Information Centre For Science and Technology University Library](https://www.tib.eu/en/search-discover/) - indexes all reports of German publicly funded projects and many scientific papers.
 * [Microsoft Academic](http://academic.research.microsoft.com)
 * [NRC Research Press](http://www.nrcresearchpress.com)
 * [Open Access Scientific Journals](http://www.pagepress.org)
@@ -1411,11 +1411,11 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#contents) Offline Browsing
 
-* [A1 Website Download](http://www.microsystools.com/products/website-download)
+* [A1 Website Download](http://www.microsystools.com/products/website-download) - Download entire websites to disk.
 * [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy)
 * [gmapcatcher](https://github.com/heldersepu/gmapcatcher)
 * [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
-* [HTTrack](http://www.httrack.com)
+* [HTTrack](http://www.httrack.com) - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
 * [Offliberty](http://offliberty.com)
 * [Resolver](https://metaproductsrevolver.com)
 * [SiteSucker](http://ricks-apps.com/osx/sitesucker/index.html)
@@ -1428,7 +1428,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#contents) Note-taking
 
-* [Calculist](https://app.calculist.io/)
 * [Cherrytree](http://www.giuspen.com/cherrytree)
 * [Evernote](https://www.evernote.com)
 * [Fetchnotes](http://www.fetchnotes.com)
@@ -1446,6 +1445,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Tomboy](https://wiki.gnome.org/Apps/Tomboy)
 * [Workflowy](https://workflowy.com)
 * [wridea](http://wridea.com)
+* [Calculist](https://app.calculist.io/)
 
 ## [↑](#contents) Annotation Tools
 
@@ -1797,6 +1797,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [I2OCR](http://www.i2ocr.com)
 * [Free Online OCR](https://www.newocr.com)
+* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF/)
 * [Online OCR](http://www.onlineocr.net)
 
 ## [↑](#contents) Cloud Storage and File Sharing
@@ -2240,6 +2241,9 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [VeraCrypt](https://veracrypt.codeplex.com)
 * [Viivo](https://viivo.com)
 * [ZMail](http://zmail.sourceforge.net)
+
+## [↑](#contents) DNS
+* [Amass](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
 
 ## [↑](#contents) Other Tools
 
