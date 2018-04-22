@@ -2192,7 +2192,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Guardian Project](https://guardianproject.info)
 * [Guerrilla Mail](https://www.guerrillamail.com)
 * [Hotspot Shield](https://www.hotspotshield.com)
-* [HTTPs Everywhere](https://www.eff.org/)
+* [HTTPs Everywhere](https://www.eff.org/https-everywhere/)
 * [I2P](https://geti2p.net)
 * [IBackup](https://www.ibackup.com/online-backup-downloads)
 * [IPLeak](https://www.ipleak.net)
