@@ -765,7 +765,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Wappalyzer](https://wappalyzer.com)
 * [WebMeUp](http://webmeup.com)
 * [Website Informer](http://website.informer.com)
-* [ewhois](https://ewhois.com)
 * [WhatIsMyIPAddress](http://whatismyipaddress.com)
 * [Who.is](https://who.is/) - Domain whois information.
 * [Whois Arin Online](https://whois.arin.net)
