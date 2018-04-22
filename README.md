@@ -871,7 +871,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Image Analysis
 
 * [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
-* [EXIFviewer.org](http://www.exifviewer.org)
 * [Exif Search](http://www.exif-search.com)
 * [FotoForensics](http://www.fotoforensics.com)
 * [Gbimg.org](http://gbimg.org)
