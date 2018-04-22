@@ -915,7 +915,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Deturl](http://deturl.com)
 * [DownloadHealper](http://www.downloadhelper.net)
 * [Earthcam](http://www.earthcam.com)
-* [eclips](https://eclips.io)
 * [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame-for-youtub/elkadbdicdciddfkdpmaolomehalghio?hl=en-GB) - Browser plugin that allows you to watch YouTube videos frame by frame.
 * [Geosearch](http://www.geosearchtool.com)
 * [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
