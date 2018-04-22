@@ -2237,7 +2237,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Wickr](https://wickr.com)
 * [WOT](https://www.mywot.com)
 * [VeraCrypt](https://veracrypt.codeplex.com)
-* [Viivo](https://viivo.com)
+* [Viivo](https://viivo.com) - End Of Life annoucement. EOL = July 1 2018.
 * [ZMail](http://zmail.sourceforge.net)
 
 ## [↑](#contents) DNS
