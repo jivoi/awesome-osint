@@ -380,7 +380,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Facebook Search Tools](https://inteltechniques.com/intel/OSINT/facebook.html)
 * [FaceLIVE](https://www.facelive.org)
 * [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats)
-* [Find my Facebook ID](http://findmyfbid.com)
+* [Find my Facebook ID](https://findmyfbid.in)
 * [LikeAlyzer](http://likealyzer.com)
 * [Lookup-ID.com](https://lookup-id.com)
 * [SearchIsBack](https://searchisback.com)
