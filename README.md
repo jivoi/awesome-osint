@@ -1173,6 +1173,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Fact Checking
 
 * [About Urban Legends](http://urbanlegends.about.com)
+* [Captin Fact](https://captainfact.io/)
 * [Churnalism](http://sunlightfoundation.com/tools/churnalism-us)
 * [Check](https://meedan.com/check)
 * [Citizen Desk](https://www.sourcefabric.org/en/citizendesk)
