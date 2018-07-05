@@ -1907,7 +1907,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Canvanizer](https://canvanizer.com)
 * [Casual](https://casual.pm)
 * [Cardboardit](https://cardboardit.com)
-* [Cardsmith](http://cardsmith.co)
+* [Cardsmith](http://cardsmith.co) - Build visual collaboration systems with the familiarity of sticky notes on a white board.
 * [CloudApp](http://www.getcloudapp.com)
 * [Cnverg](https://cnverg.com)
 * [Collabtive](http://collabtive.o-dyn.de)
