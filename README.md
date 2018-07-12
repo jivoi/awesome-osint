@@ -2255,7 +2255,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 * [Maltego](http://www.paterva.com/web6/products/maltego.php) - Interactive data mining tool that renders directed graphs for link analysis. 
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
-* [Orbit](https://github.com/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+* [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
 * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 * [Outwit](http://www.outwit.com) -  Find, grab and organize all kinds of data and media from online sources.
