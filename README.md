@@ -223,9 +223,8 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 *Find information that has been uploaded to Pastebin.*
 
-* [Custom Pastebin Search](https://inteltechniques.com/osint/menu.pastebins.html)
-* [PastebinTrends](http://pastebin.com/trends)
-* [PasteLert](http://andrewmohawk.com/pasteLert)
+* [Custom Pastebin Search](https://inteltechniques.com/osint/menu.pastebins.html) - A custom search page that indexes 57 different paste sites.
+* [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries. 
 
 ## [↑](#contents) Code Search
 
