@@ -747,6 +747,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Open Site Explorer](https://moz.com/researchtools/ose)
 * [PageGlimpse](http://www.pageglimpse.com)
 * [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking)
+* [PhishStats](https://phishstats.info/)
 * [Pulsedive](https://pulsedive.com)
 * [Quantcast](https://www.quantcast.com)
 * [Quick Sprout](https://www.quicksprout.com)
