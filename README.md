@@ -2260,7 +2260,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
 * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 * [Outwit](http://www.outwit.com) -  Find, grab and organize all kinds of data and media from online sources.
-* [Photon](https://github.com/Photon) - Crawler designed for OSINT
+* [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 * [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Full-featured Web Reconnaissance framework written in python.
 * [Belati](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
