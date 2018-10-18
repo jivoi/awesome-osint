@@ -578,6 +578,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
 * [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 * [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
+* [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
 
 ## [↑](#contents) Expert Search
 
