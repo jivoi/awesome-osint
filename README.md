@@ -230,6 +230,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 *Search by website source code*
 
+* [CoCaBu](http://code-search.uni.lu/cocabu) - Search engine that augments user query into code-friendly for retrieving precise examples.
 * [NerdyData](https://search.nerdydata.com) - Search engine for source code.
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
 
