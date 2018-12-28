@@ -1993,7 +1993,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [TeamWork](https://www.teamwork.com)
 * [TeamWorklive](http://www.teamworklive.com)
 * [TitanPad](https://titanpad.com)
-* [Todoyu](http://www.todoyu.com)
+* [~~Todoyu~~](http://www.todoyu.com) - Original project discontinued - now maintained at [Todoyu-PHP7.x](https://github.com/AlexEdimensionz/Todoyu-PHP7.x)
 * [Transparent Business](http://transparentbusiness.com)
 * [Trello](https://trello.com)
 * [Tuzzit](https://www.tuzzit.com)
