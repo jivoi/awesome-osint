@@ -2266,6 +2266,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 * [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Full-featured Web Reconnaissance framework written in python.
+* [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 * [Belati](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 
