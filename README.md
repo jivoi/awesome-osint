@@ -1488,6 +1488,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Slide Show and Presentation Tools
 
 * [Canva](https://www.canva.com/create/presentations)
+* [Convert Words to Time](https://wordstotime.com)
 * [Deckset](http://www.decksetapp.com)
 * [emaze](https://www.emaze.com)
 * [GoogleDocs](https://docs.google.com)
