@@ -123,7 +123,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [SurfCanyon](http://www.surfcanyon.com)
 * [Teoma](http://www.teoma.com)
 * [Wolfram Alpha](http://www.wolframalpha.com)
-* [Yahoo! Search](http://www.yahoo.com) - 
+* [Yahoo! Search](http://www.yahoo.com) -
 
 ## [↑](#contents) Main National Search Engines
 
@@ -224,7 +224,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 *Find information that has been uploaded to Pastebin.*
 
 * [Custom Pastebin Search](https://inteltechniques.com/osint/menu.pastebins.html) - A custom search page that indexes 57 different paste sites.
-* [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries. 
+* [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
 
 ## [↑](#contents) Code Search
 
@@ -410,7 +410,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Worldcam](http://worldc.am)
 
 ### [↑](#contents) Pinterest
- 
+
 * [Pingroupie](http://pingroupie.com)
 * [Pin Search](https://chrome.google.com/webstore/detail/pin-search-image-search-o/okiaciimfpgbpdhnfdllhdkicpmdoakm)
 
@@ -419,13 +419,13 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 *Tools to help discover more about a reddit user or subreddit.*
 
 * [Imgur](http://imgur.com/search?q=) - The most popular image hosting website used by redditors.
-* [Metareddit](http://metareddit.com) - Explore various subreddits. 
+* [Metareddit](http://metareddit.com) - Explore various subreddits.
 * [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - Mostly Harmless looks up the page you are currently viewing to see if it has been submitted to reddit.
 * [Reddit Archive](http://www.redditarchive.com) - Historical archives of reddit posts.
-* [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Enhances your reddit experience. 
+* [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Enhances your reddit experience.
 * [Reddit Investigator](http://www.redditinvestigator.com) - Investigate a reddit users history.
 * [Reddit Metrics](http://redditmetrics.com) - Keeps track of the growth of a subreddit.
-* [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/) - reddit user account analyzer. 
+* [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/) - reddit user account analyzer.
 * [SnoopSnoo](http://snoopsnoo.com) - Provides reddit user and subreddits analytics.
 * [Subreddits](http://subreddits.org) - Discover new subreddits.
 * [Reddit Comment Search](https://redditcommentsearch.com/) - Analyze a reddit users by comment history.
@@ -575,7 +575,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [VoilaNorbert](https://www.voilanorbert.com)
 
 ## [↑](#contents) Phone Number Research
-* [National Cellular Directory](https://www.nationalcellulardirectory.com/) - was created to help people research and reconnect with one another by performing cell phone lookups. The lookup products includes have billions of records that can be accessed at any time, as well as free searches one hour a day, every day. 
+* [National Cellular Directory](https://www.nationalcellulardirectory.com/) - was created to help people research and reconnect with one another by performing cell phone lookups. The lookup products includes have billions of records that can be accessed at any time, as well as free searches one hour a day, every day.
 * [NumSpy-API](https://numspy.pythonanywhere.com) - find details of any mobile number in india for free and get a JSON formated output, inspired by [NumSpy](https://bhattsameer.github.io/numspy).
 * [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
 * [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
@@ -708,7 +708,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Domain and IP Research
 
 * [Accuranker](https://www.accuranker.com)
-* [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more. 
+* [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
 * [Alexa](http://www.alexa.com)
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 * [BuiltWith](http://builtwith.com)
@@ -758,7 +758,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Remote DNS Lookup](https://remote.12dt.com)
 * [Robtex](https://www.robtex.com)
 * [SameID](http://sameid.net)
-* [SecurityTrails](https://securitytrails.com) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc. 
+* [SecurityTrails](https://securitytrails.com) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
 * [SEMrush](https://www.semrush.com)
 * [SEO Chat Tools](http://tools.seochat.com)
 * [SEOTools for Excel](http://seotoolsforexcel.com)
@@ -767,7 +767,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [StatsCrop](http://www.statscrop.com)
 * [TCPIPUTILS.com](http://www.tcpiputils.com)
 * [urlQuery](http://urlquery.net)
-* [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites. 
+* [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
 * [Wappalyzer](https://wappalyzer.com)
 * [WebMeUp](http://webmeup.com)
 * [Website Informer](http://website.informer.com)
@@ -978,7 +978,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Open Grey](http://www.opengrey.eu)
 * [The Open Syllabus Project](http://opensyllabusproject.org/)
 * [Oxford Journals](http://www.oxfordjournals.org)
-* [PubMed](http://www.ncbi.nlm.nih.gov/pubmed) - Search more than 27 millions citations for biomedical literature from MEDLINE, life science journals, and online books. 
+* [PubMed](http://www.ncbi.nlm.nih.gov/pubmed) - Search more than 27 millions citations for biomedical literature from MEDLINE, life science journals, and online books.
 * [Quetzal Search](https://www.quetzal-search.info)
 * [Research Gate](http://www.researchgate.net)
 * [SAGE Journals](http://online.sagepub.com)
@@ -1488,7 +1488,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Slide Show and Presentation Tools
 
 * [Canva](https://www.canva.com/create/presentations)
-* [Convert Words to Time](https://wordstotime.com)
+* [Convert Words to Time](https://wordstotime.com) - Converts the number of words in a presentation or speech to how many minutes it will take to read.
 * [Deckset](http://www.decksetapp.com)
 * [emaze](https://www.emaze.com)
 * [GoogleDocs](https://docs.google.com)
@@ -2258,7 +2258,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
-* [Maltego](http://www.paterva.com/web6/products/maltego.php) - Interactive data mining tool that renders directed graphs for link analysis. 
+* [Maltego](http://www.paterva.com/web6/products/maltego.php) - Interactive data mining tool that renders directed graphs for link analysis.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
