@@ -563,7 +563,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [EmailSearch.net](http://www.email-search.org/search-emails)
 * [Email Validator](https://chema.ga/emailvalidator/index.php)
 * [Email Validator Tool](http://e-mailvalidator.com)
-* [Have I Been Pwned](https://haveibeenpwned.com)
+* [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
 * [MailTester](http://mailtester.com/testmail.php)
 * [Peepmail](http://www.samy.pl/peepmail)
 * [Pipl](https://pipl.com)
@@ -572,7 +572,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup)
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
-* [VoilaNorbert](https://www.voilanorbert.com)
+* [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
 
 ## [↑](#contents) Phone Number Research
 * [National Cellular Directory](https://www.nationalcellulardirectory.com/) - was created to help people research and reconnect with one another by performing cell phone lookups. The lookup products includes have billions of records that can be accessed at any time, as well as free searches one hour a day, every day.
@@ -762,7 +762,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [SEMrush](https://www.semrush.com)
 * [SEO Chat Tools](http://tools.seochat.com)
 * [SEOTools for Excel](http://seotoolsforexcel.com)
-* [Similar Web](https://www.similarweb.com)
+* [Similar Web](https://www.similarweb.com) - Compare any website traffic statistics & analytics.
 * [SmallSEOTools](http://smallseotools.com)
 * [StatsCrop](http://www.statscrop.com)
 * [TCPIPUTILS.com](http://www.tcpiputils.com)
@@ -821,7 +821,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Free Website Translation](http://free-website-translation.com)
 * [Frengly](http://frengly.com)
 * [Gengo](http://gengo.com)
-* [Google Input Tools](https://www.google.com/inputtools/try)
+* [Google Input Tools](https://www.google.com/inputtools/try) - Makes it easy to type in the language you choose, anywhere on the web.
 * [Google Translate](https://translate.google.com)
 * [Google Tranlslate Extension](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
 * [IdiomaX Translation](http://www.idiomax.com/online-translator.aspx)
@@ -868,7 +868,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [PicTriev](http://www.pictriev.com)
 * [Reverse Image Search](https://inteltechniques.com/osint/menu.reverse.image.html)
 * [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
-* [TinEye](https://tineye.com)
+* [TinEye](https://tineye.com) - Reverse image search engine.
 * [Websta](http://websta.me)
 * [Worldcam](http://www.worldc.am)
 * [Yahoo Image Search](https://images.search.yahoo.com)
@@ -1185,7 +1185,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Fact Check](http://www.factcheck.org)
 * [Full Fact](https://fullfact.org)
 * [MediaBugs](http://mediabugs.org)
-* [Snopes](http://www.snopes.com)
+* [Snopes](http://www.snopes.com) - The definitive Internet reference source for urban legends, folklore, myths, rumors, and misinformation.
 * [Verification Handbook](http://verificationhandbook.com)
 * [Verification Junkie](http://verificationjunkie.com)
 * [Verily](https://veri.ly)
@@ -1300,7 +1300,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [FetchRSS](http://fetchrss.com)
 * [Flipboard](http://flipboard.com)
 * [FollowThatPage](http://www.followthatpage.com)
-* [Google Alerts](http://www.google.com/alerts)
+* [Google Alerts](http://www.google.com/alerts) - A content change detection and notification service.
 * [InfoMinder](http://www.infominder.com/webminder)
 * [IQAlerts](http://iqalerts.com)
 * [Mention](https://en.mention.com)
@@ -1768,7 +1768,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Sortd](http://www.sortd.com)
 * [TrueNew](https://chrome.google.com/webstore/detail/truenewtm-count-for-gmail/lhgbgmbdabgjdephnmkpmcdkmnpiahlb)
 * [Ugly Email](https://uglyemail.com)
-* [Unroll.me](https://unroll.me)
+* [Unroll.me](https://unroll.me) - Easily unsubscribe in one click from email subscriptions.
 * [Wisestamp](https://chrome.google.com/webstore/detail/wisestamp-email-signature/pbcgnkmbeodkmiijjfnliicelkjfcldg)
 
 ## [↑](#contents) Document and Reference Management
