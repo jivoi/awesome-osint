@@ -765,6 +765,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Similar Web](https://www.similarweb.com) - Compare any website traffic statistics & analytics.
 * [SmallSEOTools](http://smallseotools.com)
 * [StatsCrop](http://www.statscrop.com)
+* [Squatm3gator](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 * [TCPIPUTILS.com](http://www.tcpiputils.com)
 * [urlQuery](http://urlquery.net)
 * [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
