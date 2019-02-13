@@ -2256,6 +2256,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Other Tools
 
 * [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
+* [Belati](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
@@ -2264,12 +2265,13 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
 * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
-* [Outwit](http://www.outwit.com) -  Find, grab and organize all kinds of data and media from online sources.
+* [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
+* [Pown Recon](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 * [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Full-featured Web Reconnaissance framework written in python.
+* [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
-* [Belati](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 
 ## [↑](#contents) OSINT Videos
