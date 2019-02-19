@@ -162,6 +162,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Qwant](http://www.qwant.com)
 * [Sputtr](http://www.sputtr.com)
 * [Trovando](http://www.trovando.it)
+* [WebOasis](https://weboas.is/)
 * [WiinkZ](http://www.wiinkz.com)
 * [Zapmeta](http://www.zapmeta.com)
 
