@@ -1729,6 +1729,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [RescueTime](https://www.rescuetime.com)
 * [Restya](http://restya.com)
 * [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji/details)
+* [Taskade](https://taskade.com)
 * [Taskboard](https://taskboard.matthewross.me)
 * [TikiTiki](https://ticktick.com)
 * [Tinygain](https://tinygain.com)
