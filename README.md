@@ -1284,7 +1284,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [AlertBox](https://addons.mozilla.org/en-US/firefox/addon/alertbox)
 * [Alltop](http://alltop.com)
-* [AOL Reader](http://reader.aol.com)
 * [Awasu](http://www.awasu.com)
 * [Bridge.Leslibres](https://bridge.leslibres.org)
 * [Bridge.Suumitsu](https://bridge.suumitsu.eu)
