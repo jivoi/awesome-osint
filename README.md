@@ -1118,6 +1118,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Associated France Press (AFP)](http://www.afp.com)
 * [BBC News](http://www.bbc.co.uk/news)
 * [Bing News](http://www.bing.com/news)
+* [BuzzStreet](https://play.google.com/store/apps/details?id=buzzstreet.app)
 * [CNN](http://edition.cnn.com)
 * [Cyber Alert](http://www.cyberalert.com)
 * [DailyEarth](http://dailyearth.com)
@@ -1156,16 +1157,14 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#contents) News Digest and Discovery Tools
 
+* [BuzzStreet](https://play.google.com/store/apps/details?id=buzzstreet.app)
 * [Flipboard](https://flipboard.com)
-* [Hubii](http://hubii.com)
 * [Inshorts](https://www.inshorts.com)
 * [Inside](http://blog.inside.com)
+* [Logically](https://www.logically.co.uk)
 * [News360](https://news360.com)
 * [NewsBot](https://getnewsbot.com)
-* [Newsinshorts](http://newsinshorts.com)
-* [Nod](http://get-nod.com)
 * [Nuzzle](http://nuzzel.com)
-* [Quibb](http://quibb.com)
 * [Reeder](http://reederapp.com)
 * [Spike](http://www.newswhip.com)
 * [Storyful](http://storyful.com)
