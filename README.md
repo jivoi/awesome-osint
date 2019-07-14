@@ -1,10 +1,8 @@
-# Awesome OSINT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+this is raw output bc web clone is taking to long...................
 
-[<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
+A curated list of tools to make you the smartest mutha fucka at TPI
+.............................all collected from publicly available sources.
 
-A curated list of amazingly awesome open source intelligence tools and resources.
-[Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) is intelligence collected from publicly available sources.
-In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources)
 
 ## Contents
 
@@ -89,17 +87,10 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Other Tools](#-other-tools)
  - [OSINT Videos](#-osint-videos)
 
-## [↑](#contents) Contributing
-
-Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resources.
-
-## [↑](#contents) Credits
-
-This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/). I-intelligence is dedicated to helping you improve your ability to collect, analyze, manage, share and communicate information, whether in support of government policy or in pursuit of competitive advantage.
 
 ## [↑](#contents) General Search
 
-*The main search engines used by users.*
+*The main search engines *
 
 * [Advangle](http://advangle.com)
 * [Aol](http://search.aol.com)
@@ -2278,6 +2269,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
 * [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M)
 
+dunno if i legal need this in there.. but just in case... 
 ## License
 
 ![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
