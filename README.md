@@ -635,7 +635,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [European Business Register](http://www.ebr.org)
 * [Ezilon](http://www.ezilon.com)
 * [Factiva](https://global.factiva.com)
-* [FindtheCompany](http://www.findthecompany.com)
 * [Glassdoor](https://www.glassdoor.com)
 * [Global Business Register](http://www.globalbusinessregister.com)
 * [globalEdge](http://globaledge.msu.edu)
