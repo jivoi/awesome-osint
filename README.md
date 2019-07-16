@@ -22,7 +22,6 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Social Media Tools](#social-media-tools)
    - [Twitter](#-twitter)
    - [Facebook](#-facebook)
-   - [Google+](#-google)
    - [Instagram](#-instagram)
    - [Pinterest](#-pinterest)
    - [Reddit](#-reddit)
@@ -237,7 +236,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Draugiem (Latvia)](https://www.draugiem.lv)
 * [Facebook](http://www.facebook.com)
 * [Facenama (Iran)](http://facenama.com)
-* [Google+](https://plus.google.com)
 * [Instagram](https://www.instagram.com)
 * [Linkedin](https://www.linkedin.com)
 * [Mixi (Japan)](https://mixi.jp)
@@ -269,7 +267,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Hashtatit](http://www.hashatit.com)
 * [Icerocket](http://www.icerocket.com)
 * [Klear](http://klear.com)
-* [Klout](http://klout.com)
 * [Kred](http://kred.com)
 * [MustBePresent](http://mustbepresent.com)
 * [Netvibes](http://www.netvibes.com)
@@ -374,40 +371,29 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [LikeAlyzer](http://likealyzer.com)
 * [Lookup-ID.com](https://lookup-id.com)
 * [SearchIsBack](https://searchisback.com)
-* [Socialsearching](http://socialsearching.info/#/fb)
 * [Wallfux](https://www.wallflux.com)
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 * [Zesty Facebook Search](http://zesty.ca/facebook)
-
-### [↑](#contents) Google+
-
-* [CircleCount](http://www.circlecount.com)
-* [Google Plus Search](http://googleplussearch.chromefans.org)
-* [PlusFeed](http://plusfeed.frosas.net)
 
 ### [↑](#contents) Instagram
 
 * [Hashtagify](http://hashtagify.me)
 * [Iconosquare](http://iconosquare.com)
-* [Ink361](http://ink361.com)
 * [Picodash](https://www.picodash.com)
 * [SnapMap](https://snapmap.knightlab.com/)
 * [Social Rank](https://www.socialrank.com)
 * [Tofo.me](https://tofo.me)
-* [Websta (Instagram)](http://websta.me)
 * [Worldcam](http://worldc.am)
 
 ### [↑](#contents) Pinterest
 
 * [Pingroupie](http://pingroupie.com)
-* [Pin Search](https://chrome.google.com/webstore/detail/pin-search-image-search-o/okiaciimfpgbpdhnfdllhdkicpmdoakm)
 
 ### [↑](#contents) Reddit
 
 *Tools to help discover more about a reddit user or subreddit.*
 
 * [Imgur](http://imgur.com/search?q=) - The most popular image hosting website used by redditors.
-* [Metareddit](http://metareddit.com) - Explore various subreddits.
 * [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - Mostly Harmless looks up the page you are currently viewing to see if it has been submitted to reddit.
 * [Reddit Archive](http://www.redditarchive.com) - Historical archives of reddit posts.
 * [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Enhances your reddit experience.
@@ -424,10 +410,8 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [Дезертир](http://vk.com/app3046467)
 * [Barkov.net](http://vk.barkov.net)
-* [Find Face](http://findface.ru) - Search for people on VK by photo.
 * [Report Tree](http://dcpu.ru/vk_repost_tree.php)
 * [Social Stats](http://socialstats.ru)
-* [Spotlight](http://spotlight.svezet.ru)
 * [Snradar](http://snradar.azurewebsites.net) - Search pictures by time and location they were taken
 * [Target Hunter](https://targethunter.net)
 * [Target Log](http://targetolog.com)
@@ -439,7 +423,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ### [↑](#contents) Tumblr
 
-* [Searchlr](http://searchlr.net) - Search engine for tumblr posts.
 * [Tumblr Search](http://www.tumblr.com/search)
 
 ### [↑](#contents) LinkedIn
@@ -450,7 +433,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [BlogSearchEngine](http://www.blogsearchengine.org)
 * [Icerocket](http://www.icerocket.com)
-* [NetworkedBlogs](http://www.networkedblogs.com)
 * [Notey](http://www.notey.com) - Blog post search engine.
 * [Sphere](https://www.sphere.com)
 * [Twingly](http://www.twingly.com)
@@ -469,7 +451,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Username Check
 
 * [Check User Names](http://www.checkusernames.com)
-* [Gaddr](https://gaddr.me) - Scan 50+ different websites for usernames.
 * [Knowem](http://www.Knowem.com) - Search for a username on over 500 popular social networks.  
 * [Name Chk](http://www.namechk.com)
 * [Name Checkr](http://www.namecheckr.com)    
@@ -488,13 +469,11 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [CrunchBase](http://www.crunchbase.com)
 * [CVGadget](http://www.cvgadget.com)
 * [Data 24-7](https://www.data24-7.com)
-* [Gaddr](https://gaddr.me)
 * [facesearch](http://facesaerch.com) - Search for images of a person by name.
 * [Family Search](https://familysearch.org)
 * [Family Tree Now](http://www.familytreenow.com/)
 * [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Find an inmate that is in the Federal Bureau of Prisons system.
 * [Fold3 (US Military Records)](http://www.fold3.com) - Browse records of US Military members.
-* [Forebears](http://forebears.io)
 * [Genealogy Bank](http://www.genealogybank.com)
 * [Genealogy Links](http://www.genealogylinks.net)
 * [Hey Press (Search for Journalists)](https://www.hey.press)
@@ -537,17 +516,14 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#contents) E-mail Search / E-mail Check
 
-* [Breach OR Clear](http://breachorclear.jesterscourt.cc)
 * [BriteVerify Email Verification](http://www.briteverify.co.uk)
 * [Email Address Validator](http://www.email-validator.net)
 * [Email Format](http://email-format.com)
 * [EmailHippo](https://tools.verifyemailaddress.io)
 * [Email Hunter](https://emailhunter.co)
 * [Email Permutator+](http://metricsparrow.com/toolkit/email-permutator)
-* [Emails4corporations](https://sites.google.com/site/emails4corporations/home)
 * [EmailSearch.net](http://www.email-search.org/search-emails)
 * [Email Validator](https://chema.ga/emailvalidator/index.php)
-* [Email Validator Tool](http://e-mailvalidator.com)
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
 * [MailTester](http://mailtester.com/testmail.php)
 * [Peepmail](http://www.samy.pl/peepmail)
@@ -558,6 +534,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
+* [We Leak Info](https://weleakinfo.com/) - We Leak Info is the industry leading data breach search engine. Database containing over 10 billion records and 7,000 data breaches.
 
 ## [↑](#contents) Phone Number Research
 * [National Cellular Directory](https://www.nationalcellulardirectory.com/) - was created to help people research and reconnect with one another by performing cell phone lookups. The lookup products includes have billions of records that can be accessed at any time, as well as free searches one hour a day, every day.
@@ -1408,6 +1385,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) VPN Services
 
 * [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
+* [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/)
 
 ## [↑](#contents) Note-taking
 
