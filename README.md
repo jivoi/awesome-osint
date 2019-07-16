@@ -221,7 +221,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 *Find information that has been uploaded to Pastebin.*
 
-* [Custom Pastebin Search](https://inteltechniques.com/osint/menu.pastebins.html) - A custom search page that indexes 57 different paste sites.
 * [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
 
 ## [↑](#contents) Code Search
@@ -295,7 +294,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Blue Nod](http://bluenod.com)
 * [burrrd.](https://burrrd.com)
 * [Crate](https://getcrate.co)
-* [Custom Twitter Tools](https://inteltechniques.com/osint/menu.twitter.html)
 * [doesfollow](https://doesfollow.com)
 * [Fake Follower Check](https://fakers.statuspeople.com)
 * [FirstTweet](https://discover.twitter.com/first-tweet#i_intelligence)
@@ -363,7 +361,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Twitter Counter](http://twittercounter.com)
 * [Twitterfall](http://twitterfall.com)
 * [Twitter Search](http://search.twitter.com)
-* [Twitter Search Tools](https://inteltechniques.com/intel/OSINT/twitter.html)
 * [TWUBS Twitter Chat](http://twubs.com/twitter-chats)
 * [Schedule Warble](https://warble.co)
 
@@ -371,12 +368,10 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [Agora Pulse](http://barometer.agorapulse.com)
 * [Commun.it](http://commun.it)
-* [Custom Facebook Tools](https://inteltechniques.com/osint/menu.facebook.html)
 * [ExtractFace](http://le-tools.com/ExtractFace.html#download)
 * [Fanpage Karma](http://www.fanpagekarma.com)
 * [Facebook Search](http://search.fb.com/)
 * [Facebook Search Tool](http://netbootcamp.org/facebook.html)
-* [Facebook Search Tools](https://inteltechniques.com/intel/OSINT/facebook.html)
 * [FaceLIVE](https://www.facelive.org)
 * [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats)
 * [Find my Facebook ID](https://findmyfbid.in)
@@ -396,7 +391,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ### [↑](#contents) Instagram
 
-* [Custom Instagram Search Tools](https://inteltechniques.com/osint/menu.instagram.html)
 * [Hashtagify](http://hashtagify.me)
 * [Iconosquare](http://iconosquare.com)
 * [Ink361](http://ink361.com)
@@ -479,7 +473,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Username Check
 
 * [Check User Names](http://www.checkusernames.com)
-* [Custom Username Tools](https://inteltechniques.com/osint/menu.user.html)
 * [Gaddr](https://gaddr.me) - Scan 50+ different websites for usernames.
 * [Knowem](http://www.Knowem.com) - Search for a username on over 500 popular social networks.  
 * [Name Chk](http://www.namechk.com)
@@ -497,7 +490,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Charlie App](https://charlieapp.com)
 * [Classmates](http://www.classmates.com)
 * [CrunchBase](http://www.crunchbase.com)
-* [Custom Person Search Tools](https://inteltechniques.com/osint/menu.name.html)
 * [CVGadget](http://www.cvgadget.com)
 * [Data 24-7](https://www.data24-7.com)
 * [Gaddr](https://gaddr.me)
@@ -550,7 +542,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) E-mail Search / E-mail Check
 
 * [Breach OR Clear](http://breachorclear.jesterscourt.cc)
-* [Custom Email Search Tools](https://inteltechniques.com/osint/menu.email.html)
 * [BriteVerify Email Verification](http://www.briteverify.co.uk)
 * [Email Address Validator](http://www.email-validator.net)
 * [Email Format](http://email-format.com)
@@ -710,8 +701,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 * [BuiltWith](http://builtwith.com)
 * [Central Ops](http://centralops.net)
-* [Custom Domain Search Tools](https://inteltechniques.com/osint/menu.domain.html)
-* [Custom IP Address Search Tools](https://inteltechniques.com/osint/menu.ip.html)
 * [Dedicated or Not](http://dedicatedornot.com)
 * [DNSDumpster](https://dnsdumpster.com)
 * [DNS History](http://dnshistory.org)
@@ -863,7 +852,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [PhotoBucket](http://photobucket.com)
 * [Picsearch](http://www.picsearch.com)
 * [PicTriev](http://www.pictriev.com)
-* [Reverse Image Search](https://inteltechniques.com/osint/menu.reverse.image.html)
 * [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
 * [TinEye](https://tineye.com) - Reverse image search engine.
 * [Websta](http://websta.me)
@@ -913,7 +901,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Blinkx](http://www.blinkx.com)
 * [Clarify](http://clarify.io)
 * [Clip Blast](http://www.clipblast.com)
-* [Custom YouTube Search Tools](https://inteltechniques.com/osint/menu.youtube.html)
 * [DailyMotion](http://www.dailymotion.com)
 * [Deturl](http://deturl.com)
 * [DownloadHealper](http://www.downloadhelper.net)
@@ -925,7 +912,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Metacafe](http://www.metacafe.com)
 * [Metatube](http://www.metatube.com)
 * [Montage](https://montage.storyful.com)
-* [Reverse Image Search Tools](https://inteltechniques.com/osint/menu.reverse.html)
 * [Veoh](http://www.veoh.com)
 * [Vimeo](https://vimeo.com)
 * [Voxalead](http://voxalead.labs.exalead.com)
@@ -1057,7 +1043,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Colorbrewer](http://colorbrewer2.org)
 * [CrowdMap](https://crowdmap.com)
 * [CTLRQ Address Lookup](https://ctrlq.org/maps/address)
-* [Custom Satellite View Tools](https://inteltechniques.com/osint/menu.maps.html)
 * [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html)
 * [DualMaps](http://data.mashedworld.com/dualmaps/map.htm)
 * [GeoGig](http://geogig.org)
