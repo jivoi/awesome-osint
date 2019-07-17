@@ -95,7 +95,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#contents) Credits
 
-This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/). I-intelligence is dedicated to helping you improve your ability to collect, analyze, manage, share and communicate information, whether in support of government policy or in pursuit of competitive advantage.
+This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/). 
+
+Thanks to our main contributors
+[jivoi EK_](https://github.com/jivoi)
+[spmedia](https://github.com/spmedia)
 
 ## [↑](#contents) General Search
 
@@ -504,11 +508,12 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Email Address Validator](http://www.email-validator.net)
 * [Email Format](http://email-format.com)
 * [EmailHippo](https://tools.verifyemailaddress.io)
-* [Email Hunter](https://emailhunter.co)
 * [Email Permutator+](http://metricsparrow.com/toolkit/email-permutator)
 * [EmailSearch.net](http://www.email-search.org/search-emails)
 * [Email Validator](https://chema.ga/emailvalidator/index.php)
+* [h8mail]https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
+* [Hunter](https://hunter.io)
 * [MailTester](http://mailtester.com/testmail.php)
 * [Peepmail](http://www.samy.pl/peepmail)
 * [Pipl](https://pipl.com)
