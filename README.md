@@ -86,6 +86,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Privacy and Encryption Tools](#-privacy-and-encryption-tools)
  - [DNS](#-dns)
  - [Other Tools](#-other-tools)
+ - [Threat Intelligence](#threat-intel)
  - [OSINT Videos](#-osint-videos)
 
 ## [↑](#contents) Contributing
@@ -104,7 +105,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Aol](http://search.aol.com)
 * [Ask](http://www.ask.com)
 * [Bing](http://www.bing.com)
-* [Better Search](https://chrome.google.com/webstore/detail/better-search/ipicopkjbiphdmegamfkeieghhmcjema)
 * [Dothop](http://dothop.com)
 * [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
 * [Factbites](http://www.factbites.com)
@@ -117,7 +117,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [ixquick](https://www.ixquick.com)
 * [Lycos](http://www.lycos.com)
 * [Parseek (Iran)](http://www.parseek.com)
-* [Peeplo](http://www.peeplo.com)
 * [Search.com](http://www.search.com)
 * [SurfCanyon](http://www.surfcanyon.com)
 * [Teoma](http://www.teoma.com)
@@ -130,7 +129,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [Alleba (Philippines)](http://www.alleba.com) - Philippines search engine
 * [Baidu (China)](http://www.baidu.com) - The major search engine used in China
-* [Daum (South Korea)](http://www.daum.net)
 * [Eniro (Sweden)](http://www.eniro.se)
 * [Goo (Japan)](http://www.goo.ne.jp)
 * [Najdsi (Slovenia)](http://www.najdi.si)
@@ -151,18 +149,15 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [AllTheInternet](http://www.alltheinternet.com)
 * [Etools](http://www.etools.ch)
 * [FaganFinder](http://www.faganfinder.com/engines)
-* [Glearch](http://www.glearch.com)
 * [Goofram](http://www.goofram.com)
 * [iZito](http://www.izito.com)
 * [Nextaris](http://www.nextaris.com)
 * [Metabear](http://www.metabear.com)
 * [Myallsearch](http://www.myallsearch.com)
-* [Qrobe](http://qrobe.it)
 * [Qwant](http://www.qwant.com)
 * [Sputtr](http://www.sputtr.com)
 * [Trovando](http://www.trovando.it)
 * [WebOasis](https://weboas.is/)
-* [WiinkZ](http://www.wiinkz.com)
 * [Zapmeta](http://www.zapmeta.com)
 
 ## [↑](#contents) Specialty Search Engines
@@ -172,7 +167,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [2lingual Search](http://www.2lingual.com)
 * [Biznar](http://biznar.com)
 * [CiteSeerX](http://citeseer.ist.psu.edu)
-* [FindTheCompany](http://www.findthecompany.com)
 * [Digle](https://www.digle.com)
 * [Google Custom Search](http://www.google.com/cse)
 * [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
@@ -186,7 +180,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 *Search engines that scrape multiple sites (Google, Yahoo, Bing, Goo, etc) at the same time and return results.*
 
 * [Carrot2](http://search.carrot2.org) - Organizes your search results into topics.
-* [Cluuz](http://www.cluuz.com) - Generates easier to understand search results through graphs, images, and tag clouds.
 * [Yippy](http://yippy.com) - Search using multiple sources at once
 
 ## [↑](#contents) Similar Sites Search
@@ -194,7 +187,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 *Find websites that are similar. Good for business competition research.*
 
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej)
-* [SimilarPages](http://www.similarpages.com) - Find pages similar to each other
 * [SimilarSites](http://www.similarsites.com) - Discover websites that are similar to each other
 * [SitesLike](http://www.siteslike.com) - Find similar websites by category
 
@@ -205,11 +197,9 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Authorstream](http://www.authorstream.com)
 * [Find-pdf-doc](http://www.findpdfdoc.com)
 * [Free Full PDF](http://www.freefullpdf.com)
-* [Hashdoc](https://www.hashdoc.com)
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
 * [PasteLert](http://andrewmohawk.com/pasteLert/index.php)
 * [PDF Search Engine](http://www.pdfsearchengine.info)
-* [PPTHunter](http://www.ppthunter.com)
 * [RECAP](http://archive.recapthelaw.org)
 * [Scribd](http://www.scribd.com)
 * [SlideShare](http://www.slideshare.net)
@@ -226,8 +216,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 *Search by website source code*
 
-* [CoCaBu](http://code-search.uni.lu/cocabu) - Search engine that augments user query into code-friendly for retrieving precise examples.
-* [FaCoY](http://code-search.uni.lu/facoy) - Search engine that retrieves code examples that are syntactically and semantically similar.
 * [NerdyData](https://search.nerdydata.com) - Search engine for source code.
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
 
@@ -258,8 +246,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Brandwatch](https://www.brandwatch.com)
 * [Buffer](https://buffer.com)
 * [Buzz sumo](http://buzzsumo.com)
-* [Flumes](http://flumes.com)
-* [Gaddr](https://gaddr.me)
 * [Geocreepy](http://www.geocreepy.com)
 * [Geofeedia](https://geofeedia.com)
 * [Hootsuite](http://hootsuite.com)
@@ -273,11 +259,9 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [OpinionCrawl](http://www.opinioncrawl.com)
 * [Rival IQ](https://www.rivaliq.com)
 * [RSS Social Analyzer](https://chrome.google.com/webstore/detail/rss-social-analyzer/ncmajlpbfckecekfamgfkmckbpihjfdn?hl=en)
-* [SmashFuse](http://smashfuse.com)
 * [SocialBakers](http://www.socialbakers.com)
 * [SociaBlade](http://socialblade.com)
 * [Social DownORNot](http://social.downornot.com)
-* [Social Mention](http://socialmention.com)
 * [Social Searcher](http://www.social-searcher.com)
 * [Tagboard](https://tagboard.com)
 * [Trackur](http://www.trackur.com)
@@ -546,14 +530,12 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Expert Search
 
 * [Academia](http://academia.edu)
-* [AllExperts](http://www.allexperts.com)
 * [CanLaw](http://www.canlaw.com)
 * [ExpertiseFinder](http://www.expertisefinder.com)
 * [ExpertGuide](http://www.expertguide.com.au)
 * [ExpertPages](http://expertpages.com)
 * [Experts.com](http://www.experts.com)
 * [HARO](http://www.helpareporter.com)
-* [HerSay](http://www.hersay.co.uk)
 * [GlobalExperts](http://www.theglobalexperts.org)
 * [Idealist](http://www.idealist.org)
 * [Innocentive](http://www.innocentive.com)
@@ -567,7 +549,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [PRNewswire](https://prnmedia.prnewswire.com)
 * [ProfNet](http://www.prnewswire.com/profnet)
 * [ReseacherID](http://www.researcherid.com)
-* [ScholarUniverse](http://www.scholaruniverse.com)
 * [SheSource](http://www.shesource.org)
 * [Speakezee](https://www.speakezee.org)
 * [Sources](http://www.sources.com)
@@ -580,7 +561,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Battle of the Internet Giants](http://pennystocks.la/battle-of-internet-giants)
 * [Better Business Bureau](http://www.bbb.org)
 * [Bizeurope](http://www.bizeurope.com)
-* [Biznar](http://biznar.com/biznar/desktop/en/lightblue/search.html)
 * [Bloomberg](http://www.bloomberg.com/research/company/overview/overview.asp)
 * [Business Source](https://www.ebscohost.com/academic/business-source-complete)
 * [Bureau Van Dijk](http://www.bvdinfo.com)
@@ -599,7 +579,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Ezilon](http://www.ezilon.com)
 * [Factiva](https://global.factiva.com)
 * [Glassdoor](https://www.glassdoor.com)
-* [Global Business Register](http://www.globalbusinessregister.com)
 * [globalEdge](http://globaledge.msu.edu)
 * [GuideStar](http://www.guidestar.org)
 * [Hoovers](http://www.hoovers.com)
@@ -624,7 +603,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Serpstat](https://serpstat.com)
 * [SpyFu](http://www.spyfu.com)
 * [Forbes Global 2000](http://www.forbes.com/global2000/)
-* [Tradezone Europages](http://www.tradezone.com/europages.php)
 * [Vault](http://www.vault.com)
 * [Xing](http://www.xing.com)
 
@@ -2215,6 +2193,11 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+
+## [↑](#contents) Threat Intelligence
+
+* [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
+* [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 
 ## [↑](#contents) OSINT Videos
 
