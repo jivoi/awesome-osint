@@ -86,7 +86,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Privacy and Encryption Tools](#-privacy-and-encryption-tools)
  - [DNS](#-dns)
  - [Other Tools](#-other-tools)
- - [Threat Intelligence](#threat-intel)
+ - [Threat Intelligence](#-threat-intelligence)
  - [OSINT Videos](#-osint-videos)
 
 ## [↑](#contents) Contributing
@@ -817,7 +817,6 @@ Thanks to our main contributors
 * [Gbimg.org](http://gbimg.org)
 * [Ghiro](http://www.getghiro.org)
 * [ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html)
-* [Izitru](http://www.izitru.com)
 * [Jeffreys Image Metadata Viewer](http://exif.regex.info/)
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 * [Metapicz](http://metapicz.com/)
@@ -972,9 +971,7 @@ Thanks to our main contributors
 * [Read](https://medium.com/@readapp/introducing-read-for-ios-de4d2799254a#.z3lrigjr7)
 * [Reader IQ](http://www.ereaderiq.com)
 * [Readgeek](http://www.readgeek.com)
-* [Readism](https://chrome.google.com/webstore/detail/readism-article-reading-t/bmiolhceebkeljaikojgcoeefblcihje)
 * [Riffle](https://www.rifflebooks.com)
-* [SendtoKindle](https://addons.mozilla.org/en-US/firefox/addon/sendtokindle/?src=search)
 * [Shelfie](http://www.shelfie.com)
 * [TasteKid: Books](http://www.tastekid.com/books)
 * [TheBooksProject](http://thebooksproject.co)
@@ -1205,14 +1202,12 @@ Thanks to our main contributors
 
 ## [↑](#contents) Web Monitoring
 
-* [AlertBox](https://addons.mozilla.org/en-US/firefox/addon/alertbox)
 * [Alltop](http://alltop.com)
 * [Awasu](http://www.awasu.com)
 * [Bridge.Leslibres](https://bridge.leslibres.org)
 * [Bridge.Suumitsu](https://bridge.suumitsu.eu)
 * [ChangeDetect](http://www.changedetect.com)
 * [ChangeDetection](http://www.changedetection.com)
-* [CurioStudio](http://www.curiostudio.com)
 * [Deltafeed](http://bitreading.com/deltafeed)
 * [DiggReader](http://digg.com/login?next=%2Freader)
 * [Feed43](http://feed43.com)
@@ -1242,7 +1237,6 @@ Thanks to our main contributors
 * [RSS Search Hub](http://www.rsssearchhub.com)
 * [RSSOwl](http://www.rssowl.org)
 * [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/bmjffnfcokiodbeiamclanljnaheeoke?hl=en)
-* [Sage](https://addons.mozilla.org/en-US/firefox/addon/sage/?src=search)
 * [Selfoss](http://selfoss.aditu.de)
 * [Silobreaker](http://www.silobreaker.com)
 * [Talkwalker](http://www.talkwalker.com)
@@ -1287,7 +1281,6 @@ Thanks to our main contributors
 * [Raindrop](https://raindrop.io)
 * [Refind](https://refind.com)
 * [Scoop.it](http://www.scoop.it)
-* [Scrapbook](https://addons.mozilla.org/en-US/firefox/addon/scrapbook)
 * [Scrible](http://www.scrible.com)
 * [Sitehoover](http://www.sitehoover.com)
 * [Spaaze](http://www.spaaze.com)
@@ -1296,7 +1289,6 @@ Thanks to our main contributors
 * [Thinkery](http://thinkery.me)
 * [Trackplanet](https://trackpanel.net)
 * [Wepware](http://www.wepware.com)
-* [Wonderpage](http://www.wonderpage.com)
 * [xmarks](http://www.xmarks.com)
 * [Zotero](http://www.zotero.org)
 
@@ -1526,7 +1518,6 @@ Thanks to our main contributors
 * [Cacoo](https://cacoo.com)
 * [Canva](https://www.canva.com)
 * [chartblocks](http://www.chartblocks.com)
-* [Charted](http://www.charted.co)
 * [Chartico](http://chartico.com)
 * [Chart.js](http://www.chartjs.org)
 * [Circos](http://circos.ca)
@@ -1641,7 +1632,7 @@ Thanks to our main contributors
 * [Focus booster](https://www.focusboosterapp.com)
 * [Freecamp](https://freedcamp.com)
 * [Good night Chrome](http://www.goodnightchrome.com)
-* [Leechblock](https://addons.mozilla.org/en-US/firefox/addon/leechblock)
+* [Leechblock NG](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng)
 * [MyLifeOrganized](http://www.mylifeorganized.net)
 * [Pintask](https://pintask.me)
 * [PomodoroTechnique](http://pomodorotechnique.com)
@@ -1670,7 +1661,6 @@ Thanks to our main contributors
 * [AutoHotkey](https://www.autohotkey.com)
 * [Batched Inbox](https://www.batchedinbox.com)
 * [Baydin](https://www.baydin.com)
-* [BetterGmail](https://addons.mozilla.org/en-US/firefox/addon/better-gmail-2/)
 * [Block Sender](https://chrome.google.com/webstore/detail/block-sender/bklnjbfcmglhiaoppcckdodanccbelcg)
 * [Boomerang Mail](http://www.boomeranggmail.com)
 * [ClearContext](http://www.clearcontext.com)
@@ -1679,7 +1669,6 @@ Thanks to our main contributors
 * [Complete](https://complete.li)
 * [FindBigMail](https://www.findbigmail.com)
 * [Followupthen](https://www.followupthen.com)
-* [Gpum](https://addons.mozilla.org/en-US/firefox/addon/gpum)
 * [Hiver](http://hiverhq.com)
 * [Integrated gmail](https://addons.mozilla.org/en-US/firefox/addon/integrated-gmail)
 * [Mailstore](http://www.mailstore.com)
@@ -1690,7 +1679,6 @@ Thanks to our main contributors
 * [Sanebox](https://www.sanebox.com)
 * [Send for Gmail](https://chrome.google.com/webstore/detail/send-from-gmail-by-google/pgphcomnlaojlmmcjmiddhdapjpbgeoc)
 * [Sortd](http://www.sortd.com)
-* [TrueNew](https://chrome.google.com/webstore/detail/truenewtm-count-for-gmail/lhgbgmbdabgjdephnmkpmcdkmnpiahlb)
 * [Ugly Email](https://uglyemail.com)
 * [Unroll.me](https://unroll.me) - Easily unsubscribe in one click from email subscriptions.
 * [Wisestamp](https://chrome.google.com/webstore/detail/wisestamp-email-signature/pbcgnkmbeodkmiijjfnliicelkjfcldg)
@@ -2102,12 +2090,9 @@ Thanks to our main contributors
 * [AdblockPlus](https://adblockplus.org)
 * [Adium](https://adium.im)
 * [Axcrypt](http://www.axantum.com/axcrypt)
-* [Blender](https://addons.mozilla.org/en-US/firefox/addon/blender-1)
 * [boxcryptor](https://www.boxcryptor.com)
 * [CCleaner](https://www.piriform.com/ccleaner)
 * [Chatsecure](https://chatsecure.org)
-* [ClearConsole](https://addons.mozilla.org/en-US/firefox/addon/clear-console)
-* [Click&Clean](https://addons.mozilla.org/en-US/firefox/addon/clickclean)
 * [Disconnect](https://disconnect.me)
 * [Do Not Track](http://donottrack.us)
 * [Duck Duck Go Search Engine](https://duckduckgo.com)
@@ -2170,6 +2155,8 @@ Thanks to our main contributors
 * [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
 * [Belati](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+* [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.  
+  * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
