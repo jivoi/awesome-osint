@@ -442,6 +442,7 @@ Thanks to our main contributors
 * [Knowem](http://www.Knowem.com) - Search for a username on over 500 popular social networks.  
 * [Name Chk](http://www.namechk.com)
 * [Name Checkr](http://www.namecheckr.com)    
+* [Name Checkup](https://namecheckup.com)
 * [User Search](http://www.usersearch.org)
 
 ## [↑](#contents) People Investigations
