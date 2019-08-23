@@ -86,7 +86,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Privacy and Encryption Tools](#-privacy-and-encryption-tools)
  - [DNS](#-dns)
  - [Other Tools](#-other-tools)
- - [Threat Intelligence](#threat-intel)
+ - [Threat Intelligence](#-threat-intelligence)
  - [OSINT Videos](#-osint-videos)
 
 ## [↑](#contents) Contributing
