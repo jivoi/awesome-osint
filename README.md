@@ -1648,7 +1648,7 @@ Thanks to our main contributors
 * [Focus booster](https://www.focusboosterapp.com)
 * [Freecamp](https://freedcamp.com)
 * [Good night Chrome](http://www.goodnightchrome.com)
-* [Leechblock](https://addons.mozilla.org/en-US/firefox/addon/leechblock)
+* [Leechblock NG](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng)
 * [MorningRoutine](http://www.ubicolor.com/morningroutine.html)
 * [MyLifeOrganized](http://www.mylifeorganized.net)
 * [Pintask](https://pintask.me)
