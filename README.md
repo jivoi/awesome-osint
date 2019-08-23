@@ -974,7 +974,6 @@ Thanks to our main contributors
 * [Read](https://medium.com/@readapp/introducing-read-for-ios-de4d2799254a#.z3lrigjr7)
 * [Reader IQ](http://www.ereaderiq.com)
 * [Readgeek](http://www.readgeek.com)
-* [Readism](https://chrome.google.com/webstore/detail/readism-article-reading-t/bmiolhceebkeljaikojgcoeefblcihje)
 * [Riffle](https://www.rifflebooks.com)
 * [SendtoKindle](https://addons.mozilla.org/en-US/firefox/addon/sendtokindle/?src=search)
 * [Shelfie](http://www.shelfie.com)
@@ -1702,7 +1701,6 @@ Thanks to our main contributors
 * [Sanebox](https://www.sanebox.com)
 * [Send for Gmail](https://chrome.google.com/webstore/detail/send-from-gmail-by-google/pgphcomnlaojlmmcjmiddhdapjpbgeoc)
 * [Sortd](http://www.sortd.com)
-* [TrueNew](https://chrome.google.com/webstore/detail/truenewtm-count-for-gmail/lhgbgmbdabgjdephnmkpmcdkmnpiahlb)
 * [Ugly Email](https://uglyemail.com)
 * [Unroll.me](https://unroll.me) - Easily unsubscribe in one click from email subscriptions.
 * [Wisestamp](https://chrome.google.com/webstore/detail/wisestamp-email-signature/pbcgnkmbeodkmiijjfnliicelkjfcldg)
