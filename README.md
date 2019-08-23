@@ -552,7 +552,6 @@ Thanks to our main contributors
 * [Newswise](http://www.newswise.com)
 * [Patent Attorneys/Agent Search](https://oedci.uspto.gov/OEDCI)
 * [PRNewswire](https://prnmedia.prnewswire.com)
-* [ProfNet](http://www.prnewswire.com/profnet)
 * [ReseacherID](http://www.researcherid.com)
 * [SheSource](http://www.shesource.org)
 * [Speakezee](https://www.speakezee.org)
@@ -725,7 +724,6 @@ Thanks to our main contributors
 ## [↑](#contents) Keywords Discovery and Research
 
 * [Google Adwords](http://adwords.google.com) - Get monthly keyword volume data and stats.
-* [Google Keyword Suggest Tool](http://tools.seochat.com/tools/suggest-tool)
 * [Google Trends](https://www.google.com/trends) - See how many users are searching for specific keywords.
 * [Keyword Discovery](http://www.keyworddiscovery.com)
 * [Keyword Spy](http://www.keywordspy.com)
@@ -1058,7 +1056,6 @@ Thanks to our main contributors
 * [Cyber Alert](http://www.cyberalert.com)
 * [DailyEarth](http://dailyearth.com)
 * [DPA International](http://www.dpa-international.com)
-* [The Economist Explorer](https://yvoschaap.com/economist)
 * [Euronews](http://www.euronews.com)
 * [Europe Media Monitor (EMM)](http)
 * [NewsExplorer](http://emm.newsexplorer.eu)
@@ -1112,7 +1109,6 @@ Thanks to our main contributors
 
 * [About Urban Legends](http://urbanlegends.about.com)
 * [Captin Fact](https://captainfact.io/)
-* [Churnalism](http://sunlightfoundation.com/tools/churnalism-us)
 * [Check](https://meedan.com/check)
 * [Citizen Desk](https://www.sourcefabric.org/en/citizendesk)
 * [Emergent](http://www.emergent.info)
@@ -1136,7 +1132,6 @@ Thanks to our main contributors
 * [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook)
 * [Center for International Earth Science Information Network](http://www.ciesin.org)
 * [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp)
-* [Colombia University Library: General Statistical Sources, International Statistics](http://library.columbia.edu/subject-guides/social-sciences/stats/int.html)
 * [Data.gov.uk](https://data.gov.uk)
 * [DBPedia](http://wiki.dbpedia.org)
 * [European Commission Eurobarometer](http://ec.europa.eu/COMMFrontOffice/PublicOpinion)
@@ -1152,14 +1147,12 @@ Thanks to our main contributors
 * [Government of Canada Open Data](http://open.canada.ca/en)
 * [HIS Piers](https://www.ihs.com/products/piers.html)
 * [Human Development Reports](http://hdr.undp.org/en/global-reports)
-* [IDEA Databases](http://www.idea.int/resources/databases.cfm)
 * [International Labour Comparisons](http://www.bls.gov/fls/chartbook.htm)
 * [International Trade Center](http://www.intracen.org/ByCountry.aspx)
 * [ILOSTAT](http://www.ilo.org/ilostat/faces/oracle/webcenter/portalapp/pagehierarchy/Page137.jspx?_afrLoop=443508925711569&clean=true#%40%3F_afrLoop%3D443508925711569%26clean%3Dtrue%26_adf.ctrl-state%3Dl4dwldaf3_9)
 * [ILO World Employment and Social Outlook Trends](http://www.ilo.org/global/research/global-reports/weso/2015/lang--en/index.htm)
 * [IMF World Economic Outlook Database](http://www.imf.org/external/ns/cs.aspx?id=28)
 * [Index Mundi](http://www.indexmundi.com)
-* [International Data Base](http://www.census.gov/population/international/data/idb/informationGateway.php)
 * [International Energy Agency Energy Atlas](http://energyatlas.iea.org)
 * [International Energy Agency Statistics](http://www.iea.org/statistics)
 * [International Finance Corporation Data and Indicators](https://www.wbginvestmentclimate.org/research-and-diagnostics)
@@ -1172,10 +1165,8 @@ Thanks to our main contributors
 * [OECD Aid Database](http://www.oecd.org/dac/stats/data.htm)
 * [OECD Data](https://data.oecd.org)
 * [OECD Factbook](http://www.oecd-ilibrary.org/economics/oecd-factbook_18147364)
-* [OECD Statistics Directorate](http://www.oecd.org/std)
 * [OFFSTATS](http://www.offstats.auckland.ac.nz)
 * [Open Data Network](http://www.opendatanetwork.com)
-* [Open Government Data](http://opengovernmentdata.org/data)
 * [Paul Hensel’s General Informational Data Page](http://www.paulhensel.org/dataintl.html)
 * [Penn World Table](http://www.rug.nl/research/ggdc/data/pwt/pwt-8.1)
 * [Pew Research Center](http://www.pewinternet.org/datasets)
@@ -1630,7 +1621,6 @@ Thanks to our main contributors
 * [Lunapic](http://www124.lunapic.com/editor)
 * [OnlineImageSplitter](http://www.htmlkit.com/services/is)
 * [Paint.NET](http://www.getpaint.net/index.html)
-* [PhotoPlus](http://www.serif.com/free-photo-editing-software)
 * [Photoscape](http://www.photoscape.org/ps/main/index.php)
 * [Photoshop](http://www.photoshop.com)
 * [picfull](http://www.picfull.com)
@@ -2036,7 +2026,6 @@ Thanks to our main contributors
 * [Viadesk](http://www.viadesk.com)
 * [VideoLink2](https://videolink2.me)
 * [Vivicom](http://www.vivicom.de)
-* [VMukti](http://www.vmukti.com/web-conferencing-software.html)
 * [Webex](http://www.webex.com)
 * [WhatsApp](https://www.whatsapp.com)
 * [worklife](https://www.worklife.com)
@@ -2185,7 +2174,6 @@ Thanks to our main contributors
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
-* [Maltego](http://www.paterva.com/web6/products/maltego.php) - Interactive data mining tool that renders directed graphs for link analysis.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
