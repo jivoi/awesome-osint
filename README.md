@@ -2162,6 +2162,7 @@ Thanks to our main contributors
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
+* [OSINT Curious](https://osintcurio.us) The OSINT Curious Project is a source of quality, actionable, Open Source Intelligence news, original blogs, instructional videos, and a bi-weekly webcast/podcast. 
 * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 * [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
