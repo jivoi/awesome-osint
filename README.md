@@ -766,6 +766,7 @@ Thanks to our main contributors
 * [imTranslator](http://imtranslator.net/translation)
 * [iTranslate](http://www.itranslateapp.com)
 * [iTranslate Voice](http://itranslatevoice.com)
+* [K&J Translations](https://kjtranslations.com)
 * [Lexicool Translation](http://www.lexicool.com/translate.asp)
 * [Linguee](http://www.linguee.com)
 * [LingvoSoftOnline](http://www.lingvozone.com)
