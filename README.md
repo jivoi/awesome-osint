@@ -253,7 +253,6 @@ Thanks to our main contributors
 * [Geocreepy](http://www.geocreepy.com)
 * [Geofeedia](https://geofeedia.com)
 * [Hootsuite](http://hootsuite.com)
-* [HowSociable](http://www.howsociable.com)
 * [Hashtatit](http://www.hashatit.com)
 * [Icerocket](http://www.icerocket.com)
 * [Klear](http://klear.com)
