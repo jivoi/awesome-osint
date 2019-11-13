@@ -467,7 +467,6 @@ Thanks to our main contributors
 * [Hey Press (Search for Journalists)](https://www.hey.press)
 * [Homemetry](https://homemetry.com)
 * [Infobel](http://www.infobel.com/en/world)
-* [Infospace White Pages](http://infospace.com/home/white-pages)
 * [Interment](http://www.interment.net/data/search.htm)
 * [International White and Yellow Pages](http://www.wayp.com)
 * [Itools](http://itools.com/search/people-search)
@@ -694,6 +693,7 @@ Thanks to our main contributors
 * [RedirectDetective](http://redirectdetective.com)
 * [Remote DNS Lookup](https://remote.12dt.com)
 * [Robtex](https://www.robtex.com)
+* [Spyse](https://spyse.com/) - Scans entire internet using OSINT and collects all valuable info in its own database: Ipv4 hosts, domains/Meta/Whois, AS, TLS/SSL, Ports/Banners/Protocols, technologies, OS and much other info.
 * [SameID](http://sameid.net)
 * [SecurityTrails](https://securitytrails.com/dns-trails) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
 * [SEMrush](https://www.semrush.com)
@@ -876,7 +876,6 @@ Thanks to our main contributors
 * [Listelive](http://www.listenlive.eu)
 * [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
 * [Podcast Chart](http://www.podcastchart.com)
-* [Podcast Directory](http://www.podcastdirectory.com)
 * [Podkicker](https://play.google.com/store/apps/details?id=ait.podka&hl=en)
 
 ## [↑](#contents) Academic Resources and Grey Literature
@@ -996,7 +995,6 @@ Thanks to our main contributors
 * [GeoNames](http://www.geonames.org)
 * [Esri](http://www.esri.com)
 * [Flash Earth](http://www.flashearth.com)
-* [Follow Your World](https://followyourworld.appspot.com)
 * [Google Earth](http://www.google.com/earth)
 * [Google Maps](https://www.google.com/maps)
 * [Google Maps Streetview Player](http://brianfolts.com/driver)
@@ -1054,7 +1052,6 @@ Thanks to our main contributors
 * [DailyEarth](http://dailyearth.com)
 * [DPA International](http://www.dpa-international.com)
 * [Euronews](http://www.euronews.com)
-* [Europe Media Monitor (EMM)](http)
 * [NewsExplorer](http://emm.newsexplorer.eu)
 * [Factiva](http://www.dowjones.com/factiva)
 * [France24](http://www.france24.com)
@@ -2149,6 +2146,7 @@ Thanks to our main contributors
 
 ## [↑](#contents) DNS
 * [Amass](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
+* [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting. 
 
 ## [↑](#contents) Other Tools
 
@@ -2167,7 +2165,6 @@ Thanks to our main contributors
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 * [Pown Recon](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
-* [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Full-featured Web Reconnaissance framework written in python.
 * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
