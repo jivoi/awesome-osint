@@ -677,6 +677,7 @@ Thanks to our main contributors
 * [IPFingerprints](http://www.ipfingerprints.com)
 * [IPVoid](http://www.ipvoid.com) - IP address toolset.
 * [IntelliTamper](http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml)
+* [Let’s Encrypt](https://letsencrypt.org/) - Free, automated, and open Certificate Authority
 * [Kloth](http://www.kloth.net/services)
 * [NetworkTools](http://network-tools.com)
 * [Majestic](https://majestic.com)
