@@ -488,6 +488,7 @@ Thanks to our main contributors
 * [Rootsweb](http://home.rootsweb.ancestry.com)
 * [SearchBug](http://www.searchbug.com)
 * [Skip Ease](http://www.skipease.com)
+* [Smart Background Checks](https://www.smartbackgroundchecks.com/people/)
 * [snitch.name](http://www.snitch.name)
 * [SnoopStation](http://snoopstation.com)
 * [Spokeo](http://www.spokeo.com)
