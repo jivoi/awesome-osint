@@ -199,6 +199,7 @@ Thanks to our main contributors
 *Search for data located on PDFs, Word documents, presentation slides, and more.*
 
 * [Authorstream](http://www.authorstream.com)
+* [DataDrifter](https://datadrifter.xyz/) - Search through Amazon S3 public buckets
 * [Find-pdf-doc](http://www.findpdfdoc.com)
 * [Free Full PDF](http://www.freefullpdf.com)
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
