@@ -348,7 +348,7 @@ Thanks to our main contributors
 
 * [Agora Pulse](http://barometer.agorapulse.com)
 * [Commun.it](http://commun.it)
-* [ExtractFace](http://le-tools.com/ExtractFace.html#download)
+* [DumpItBlue](http://le-tools.com/DumpItBlue.html)
 * [Fanpage Karma](http://www.fanpagekarma.com)
 * [Facebook Search](http://search.fb.com/)
 * [Facebook Search Tool](http://netbootcamp.org/facebook.html)
@@ -358,7 +358,6 @@ Thanks to our main contributors
 * [LikeAlyzer](http://likealyzer.com)
 * [Lookup-ID.com](https://lookup-id.com)
 * [SearchIsBack](https://searchisback.com)
-* [Wallfux](https://www.wallflux.com)
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 * [Zesty Facebook Search](http://zesty.ca/facebook)
 
@@ -2159,6 +2158,7 @@ Thanks to our main contributors
   * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
+* [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
@@ -2178,6 +2178,7 @@ urls and other data effortlessly
 
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 * [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
+* [Digital Stakeout](https://www.digitalstakeout.com/platform) - DigitalStakeout Scout™ is the leading security intelligence tool to collect data from the surface web, social media, dark web and technical sources to illuminate and investigate external threats.
 
 ## [↑](#contents) OSINT Videos
 
