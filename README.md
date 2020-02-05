@@ -1463,6 +1463,7 @@ Thanks to our main contributors
 * [Sendicate](https://www.sendicate.net)
 * [Sendloop](https://sendloop.com)
 * [Signupto](https://www.signupto.com)
+* [SpiceSend](http://spicesend.com)
 * [TinyLetter](http://tinyletter.com)
 * [VerticalResponse](http://www.verticalresponse.com)
 * [Vision6](http://www.vision6.com.au)
