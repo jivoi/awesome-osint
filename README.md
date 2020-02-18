@@ -505,6 +505,7 @@ Thanks to our main contributors
 ## [↑](#contents) E-mail Search / E-mail Check
 
 * [BriteVerify Email Verification](http://www.briteverify.co.uk)
+* [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
 * [Email Address Validator](http://www.email-validator.net)
 * [Email Format](http://email-format.com)
 * [EmailHippo](https://tools.verifyemailaddress.io)
@@ -523,7 +524,6 @@ Thanks to our main contributors
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
-* [We Leak Info](https://weleakinfo.com/) - We Leak Info is the industry leading data breach search engine. Database containing over 10 billion records and 7,000 data breaches.
 
 ## [↑](#contents) Phone Number Research
 * [National Cellular Directory](https://www.nationalcellulardirectory.com/) - was created to help people research and reconnect with one another by performing cell phone lookups. The lookup products includes have billions of records that can be accessed at any time, as well as free searches one hour a day, every day.
