@@ -109,9 +109,7 @@ Thanks to our main contributors
 * [Aol](http://search.aol.com)
 * [Ask](http://www.ask.com)
 * [Bing](http://www.bing.com)
-* [Dothop](http://dothop.com)
 * [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
-* [Factbites](http://www.factbites.com)
 * [Gigablast](http://gigablast.com)
 * [Goodsearch](http://www.goodsearch.com)
 * [Google Search](http://www.google.com) - Most popular search engine.
@@ -199,7 +197,6 @@ Thanks to our main contributors
 *Search for data located on PDFs, Word documents, presentation slides, and more.*
 
 * [Authorstream](http://www.authorstream.com)
-* [DataDrifter](https://datadrifter.xyz/) - Search through Amazon S3 public buckets
 * [Find-pdf-doc](http://www.findpdfdoc.com)
 * [Free Full PDF](http://www.freefullpdf.com)
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
@@ -255,7 +252,6 @@ Thanks to our main contributors
 * [Geofeedia](https://geofeedia.com)
 * [Hootsuite](http://hootsuite.com)
 * [Hashtatit](http://www.hashatit.com)
-* [Icerocket](http://www.icerocket.com)
 * [Klear](http://klear.com)
 * [Kred](http://kred.com)
 * [MustBePresent](http://mustbepresent.com)
