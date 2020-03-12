@@ -1379,6 +1379,7 @@ Thanks to our main contributors
 
 * [Arguman](http://en.arguman.org)
 * [Bibme](http://www.bibme.org)
+* [Citationsy](https://citationsy.com)
 * [Cite This For Me](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle?hl=en)
 * [Classeur.io](http://classeur.io)
 * [FreeOffice](http://www.freeoffice.com)
