@@ -118,7 +118,6 @@ Thanks to our main contributors
 * [iSEEK Education](http://education.iseek.com/iseek/home.page)
 * [ixquick](https://www.ixquick.com)
 * [Lycos](http://www.lycos.com)
-* [Parseek (Iran)](http://www.parseek.com)
 * [Search.com](http://www.search.com)
 * [SurfCanyon](http://www.surfcanyon.com)
 * [Teoma](http://www.teoma.com)
