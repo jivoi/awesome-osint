@@ -119,6 +119,7 @@ Thanks to our main contributors
 * [ixquick](https://www.ixquick.com)
 * [Lycos](http://www.lycos.com)
 * [Parseek (Iran)](http://www.parseek.com)
+* [Qwant](https://www.qwant.com)
 * [Search.com](http://www.search.com)
 * [SurfCanyon](http://www.surfcanyon.com)
 * [Teoma](http://www.teoma.com)
