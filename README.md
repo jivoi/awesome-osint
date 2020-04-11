@@ -2,6 +2,8 @@
 
 [<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
 
+**HELLO TO ALL THE TRACE LABS MISSING PERSONS OSINT CTF MEMBERS :) AND GOOD LUCK! Please come back after the event and help update this page with any useful tools that you find. Thank you!**
+
 A curated list of amazingly awesome open source intelligence tools and resources.
 [Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) is intelligence collected from publicly available sources.
 In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources)
