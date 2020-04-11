@@ -365,7 +365,6 @@ Thanks to our main contributors
 * [Picodash](https://www.picodash.com)
 * [SnapMap](https://snapmap.knightlab.com/)
 * [Social Rank](https://www.socialrank.com)
-* [Tofo.me](https://tofo.me)
 * [Worldcam](http://worldc.am)
 
 ### [↑](#contents) Pinterest
