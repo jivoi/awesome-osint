@@ -2082,7 +2082,6 @@ Thanks to our main contributors
 ## [↑](#contents) Privacy and Encryption Tools
 
 * [Abine](https://www.abine.com)
-* [AdblockPlus](https://adblockplus.org)
 * [Adium](https://adium.im)
 * [Axcrypt](http://www.axantum.com/axcrypt)
 * [boxcryptor](https://www.boxcryptor.com)
@@ -2135,7 +2134,7 @@ Thanks to our main contributors
 * [Tails](https://tails.boum.org)
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird)
 * [Tor Project](https://www.torproject.org)
-* [uBlock](https://www.ublock.org)
+* [uBlock Origin](https://github.com/gorhill/uBlock)
 * [Unseen.is](https://unseen.is)
 * [Wickr](https://wickr.com)
 * [WOT](https://www.mywot.com)
