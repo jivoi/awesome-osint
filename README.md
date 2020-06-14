@@ -511,6 +511,7 @@ Thanks to our main contributors
 * [MailTester](http://mailtester.com/testmail.php)
 * [Peepmail](http://www.samy.pl/peepmail)
 * [Pipl](https://pipl.com)
+* [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
 * [ReverseGenie](http://www.reversegenie.com/email.php)
 * [TCIPUTILS.com Email Test](http://www.tcpiputils.com/email-test)
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup)
