@@ -964,6 +964,7 @@ Thanks to our main contributors
 * [Read](https://medium.com/@readapp/introducing-read-for-ios-de4d2799254a#.z3lrigjr7)
 * [Reader IQ](http://www.ereaderiq.com)
 * [Readgeek](http://www.readgeek.com)
+* [ReadThisTwice](https://readthistwice.com)
 * [Riffle](https://www.rifflebooks.com)
 * [Shelfie](http://www.shelfie.com)
 * [TasteKid: Books](http://www.tastekid.com/books)
