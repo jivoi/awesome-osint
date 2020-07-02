@@ -1609,6 +1609,7 @@ Thanks to our main contributors
 * [PicMoneky](http://www.picmonkey.com)
 * [Pixlr](https://pixlr.com)
 * [Polarr](https://www.polarr.co)
+* [Resizing.app](https://resizing.app/) - Convert, optimize, crop, and resize images online.
 * [Seashore](http://seashore.sourceforge.net)
 * [SumoPaint](http://www.sumopaint.com)
 * [TinyPNG](https://tinypng.com)
