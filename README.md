@@ -400,6 +400,9 @@ Thanks to our main contributors
 * [VK Parser](http://vkparser.ru) - A tool to search for a target audience and potential customers.
 * [VK People Search](http://vk.com/people)
 * [VK to RSS Appspot](http://vk-to-rss.appspot.com)
+* [220vk](https://220vk.com) - Many tools for scanning page and friends
+* [findclone](https://findclone.ru) - Find profile by using photo of person (search by face)
+* [VKS](https://github.com/V1A0/VKS) - Program for monitor and visualising online activity
 
 ### [↑](#contents) Tumblr
 
