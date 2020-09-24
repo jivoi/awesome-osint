@@ -1627,6 +1627,7 @@ Thanks to our main contributors
 * [Freecamp](https://freedcamp.com)
 * [Good night Chrome](http://www.goodnightchrome.com)
 * [Leechblock NG](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng)
+* [Market Maker](https://www.marketmakerleads.com/)
 * [MyLifeOrganized](http://www.mylifeorganized.net)
 * [Pintask](https://pintask.me)
 * [PomodoroTechnique](http://pomodorotechnique.com)
