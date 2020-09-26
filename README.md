@@ -1305,6 +1305,7 @@ Thanks to our main contributors
 ## [↑](#contents) Browsers
 
 * [Brave](https://brave.com)
+* [Kingpin Private Browser](https://kingpinbrowser.com/)
 * [CentBrowser](http://www.centbrowser.com)
 * [Chrome](https://www.google.com/chrome)
 * [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)
