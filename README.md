@@ -209,14 +209,45 @@ Thanks to our main contributors
 
 ## [↑](#contents) Pastebins
 
-*Find information that has been uploaded to Pastebin.*
+*Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
 * [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
+* [zerobin](https://batman.gyptis.org/zerobin)
+* [cl1p](https://Cl1p.net)
+* [codepad](https://Codepad.org)
+* [controlc](https://Controlc.com)
+* [doxbin](https://Doxbin.org)
+* [dpaste](https://Dpaste.com)
+* [dpaste2](https://Dpaste.org)
+* [dumpz](https://Dumpz.org)
+* [Friendpast](https://Friendpast.com)
+* [ghostbin](https://ghostbin.co/)
+* [hastebin](https://Hastebin.com)
+* [heypasteit](https://Heypasteit.com)
+* [hpaste](https://Hpaste.org)
+* [ideone](https://Ideone.com)
+* [ivpaste](https://Ivpaste.com)
+* [jsbin](https://Jsbin.com)
+* [justpaste](https://Justpaste.it)
+* [mysticpaste](https://Mysticpaste.com)
+* [nopaste](https://Nopaste.info)
+* [0bin](https://0bin.net)
+* [Obin](https://Obin.net)
+* [paste.debian](https://Paste.debian.net)
+* [paste.ee](https://Paste.ee)
+* [paste.fedoraproject](https://Paste.fedoraproject.org)
+* [paste.frubar](https://Paste.frubar.net)
+* [paste.kde](https://Paste.kde.org)
+* [paste.lisp](https://Paste.lisp.org)
+* [paste.pound-python](https://Paste.pound-python.org)
+* [paste.openuse](https://Paste.openuse.org)
+
 
 ## [↑](#contents) Code Search
 
 *Search by website source code*
 
+* [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
 * [NerdyData](https://search.nerdydata.com) - Search engine for source code.
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
 
@@ -319,7 +350,6 @@ Thanks to our main contributors
 * [Tweeten](http://tweeten.xyz)
 * [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 * [TweetMap](http://worldmap.harvard.edu/tweetmap)
-* [Tweetpaths](http://www.tweetpaths.com)
 * [TweetPsych](http://tweetpsych.com)
 * [Tweetreach](http://tweetreach.com)
 * [TweetStats](http://www.tweetstats.com)
@@ -445,6 +475,7 @@ Thanks to our main contributors
 * [192 (UK)](http://www.192.com)
 * [Alumni.net](http://www.alumni.net)
 * [Ancestry](http://www.ancestry.com)
+* [Black Book Online](https://www.blackbookonline.info/) - Free public records searches by Black Book Online of federal, state and county public records. 
 * [Canada411](http://www.canada411.ca)
 * [Cedar](http://www.cedar.buffalo.edu/AdServ/person-search.html)
 * [Charlie App](https://charlieapp.com)
@@ -465,6 +496,7 @@ Thanks to our main contributors
 * [Interment](http://www.interment.net/data/search.htm)
 * [International White and Yellow Pages](http://www.wayp.com)
 * [Itools](http://itools.com/search/people-search)
+* [Judyrecords](https://www.judyrecords.com/) - Free Public Records Search
 * [Kompass](http://www.kompass.com)
 * [LookUpUK](http://www.lookupuk.com)
 * [Lullar](http://com.lullar.com)
@@ -489,6 +521,7 @@ Thanks to our main contributors
 * [Spokeo](http://www.spokeo.com)
 * [Switchboard](http://www.switchboard.com)
 * [That’sThem](https://thatsthem.com)
+* [UniCourt](https://unicourt.com/) - One Portal to Access Court Records & Legal Data
 * [USSearch](http://www.ussearch.com)
 * [WebMiii](http://www.webmii.com)
 * [White Pages (US)](http://www.whitepages.com)
@@ -1040,9 +1073,9 @@ Thanks to our main contributors
 
 * [1st Headlines](http://www.1stheadlines.com)
 * [ABYZNewsLinks](http://www.abyznewslinks.com)
+* [Agence France-Presse (AFP)](http://www.afp.com)
 * [AllYouCanRead](http://www.allyoucanread.com)
 * [AP](http://hosted.ap.org)
-* [Associated France Press (AFP)](http://www.afp.com)
 * [BBC News](http://www.bbc.co.uk/news)
 * [Bing News](http://www.bing.com/news)
 * [CNN](http://edition.cnn.com)
@@ -2004,7 +2037,6 @@ Thanks to our main contributors
 * [Toc](http://toc.im)
 * [TrueConf](http://trueconf.com)
 * [Twchat](http://twchat.com)
-* [Unicorns](https://unicorns.io)
 * [Vanilla Forums](http://vanillaforums.org)
 * [Veeting rooms](https://www.veeting.com)
 * [VeriShow](http://www.verishow.com)
