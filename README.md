@@ -2094,6 +2094,7 @@ Thanks to our main contributors
 * [Mindmeister](https://www.mindmeister.com)
 * [Mindomo](https://www.mindomo.com)
 * [MindMup](https://www.mindmup.com/)
+* [Octopus](https://octopus.do/sitemap/resource/generator)
 * [Popplet](http://popplet.com)
 * [Realtimeboard](https://realtimeboard.com)
 * [Scapple](http://literatureandlatte.com/scapple.php)
