@@ -973,7 +973,6 @@ Thanks to our main contributors
 * [Gnooks](http://www.gnooks.com)
 * [Google Books](https://books.google.com)
 * [Goodreads](http://www.goodreads.com)
-* [Groundera](http://groundera.com)
 * [How Long To Read](https://www.howlongtoreadthis.com)
 * [I love my Kindle](https://ilmk.wordpress.com)
 * [Internet Archive Texts](http://archive.org/details.php?identifier=texts)
