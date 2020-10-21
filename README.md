@@ -1590,7 +1590,6 @@ Thanks to our main contributors
 * [Quadrigram](http://www.quadrigram.com)
 * [Raphael](http://dmitrybaranovskiy.github.io/raphael)
 * [RAW](http://raw.densitydesign.org)
-* [RichChartLive](http://www.richchartlive.com/RichChartLive)
 * [Shanti Interactive](http://www.viseyes.org)
 * [Silk](https://www.silk.co)
 * [Snappa](https://snappa.io)
