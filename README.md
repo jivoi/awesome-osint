@@ -1011,7 +1011,6 @@ Thanks to our main contributors
 
 ## [↑](#contents) Geospatial Research and Mapping Tools
 
-* [Animaps](http://www.animaps.com)
 * [Atlasify](http://www.atlasify.com)
 * [Batchgeo](http://batchgeo.com)
 * [Bing Maps](http://www.bing.com/maps)
