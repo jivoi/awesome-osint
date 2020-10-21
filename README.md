@@ -120,8 +120,9 @@ Thanks to our main contributors
 * [Lycos](http://www.lycos.com)
 * [Search.com](http://www.search.com)
 * [SurfCanyon](http://www.surfcanyon.com)
-* [Teoma](http://www.teoma.com)
-* [Wolfram Alpha](http://www.wolframalpha.com)
+* [Teoma](http://www.teoma.com) - Teoma (from Scottish Gaelic teòma "expert") was an Internet search engine founded in April 2000 by Professor Apostolos Gerasoulis and his colleagues at Rutgers University in New Jersey.
+* [Wolfram Alpha](http://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
+algorithms, knowledgebase and AI technology.
 * [Yahoo! Search](http://www.yahoo.com) -
 
 ## [↑](#contents) Main National Search Engines
@@ -273,11 +274,11 @@ Thanks to our main contributors
 
 ## [↑](#contents) Real-Time Search, Social Media Search, and General Social Media Tools
 
-* [Audiense](https://www.audiense.com)
+* [Audiense](https://www.audiense.com) - Tool to identify relevant audience, discover actionable insights and inform strategies to grow your business.
 * [Bottlenose](http://bottlenose.com)
 * [Brandwatch](https://www.brandwatch.com)
 * [Buffer](https://buffer.com)
-* [Buzz sumo](http://buzzsumo.com)
+* [Buzz sumo](http://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
 * [Geocreepy](http://www.geocreepy.com)
 * [Geofeedia](https://geofeedia.com)
 * [Hootsuite](http://hootsuite.com)
@@ -301,7 +302,7 @@ Thanks to our main contributors
 
 ### [↑](#contents) Twitter
 
-* [Backtweets](http://backtweets.com)
+* [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
 * [Blue Nod](http://bluenod.com)
 * [burrrd.](https://burrrd.com)
 * [Crate](https://getcrate.co)
