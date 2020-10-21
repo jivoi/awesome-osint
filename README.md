@@ -1115,7 +1115,6 @@ Thanks to our main contributors
 * [Flipboard](https://flipboard.com)
 * [Hubii](http://hubii.com)
 * [Inshorts](https://www.inshorts.com)
-* [Inside](http://blog.inside.com)
 * [News360](https://news360.com)
 * [NewsBot](https://getnewsbot.com)
 * [Newsinshorts](http://newsinshorts.com)
