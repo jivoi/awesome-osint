@@ -1261,7 +1261,6 @@ Thanks to our main contributors
 * [RSS Search Engine](http://ctrlq.org/rss)
 * [RSS Search Hub](http://www.rsssearchhub.com)
 * [RSSOwl](http://www.rssowl.org)
-* [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/bmjffnfcokiodbeiamclanljnaheeoke?hl=en)
 * [Selfoss](http://selfoss.aditu.de)
 * [Silobreaker](http://www.silobreaker.com)
 * [Talkwalker](http://www.talkwalker.com)
