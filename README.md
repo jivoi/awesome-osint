@@ -139,6 +139,7 @@ Thanks to our main contributors
 * [Parseek (Iran)](http://www.parseek.com)
 * [SAPO (Portugal)](http://www.sapo.pt)
 * [Search.ch (Switzerland)](http://www.search.ch)
+* [Seznam(Czech Republic)](https://seznam.cz)
 * [Walla (Israel)](http://www.walla.co.il)
 * [Yandex (Russia)](http://www.yandex.com)
 
@@ -1339,6 +1340,7 @@ Thanks to our main contributors
 
 ## [↑](#contents) Browsers
 
+* [Atom](https://browser.ru/)
 * [Brave](https://brave.com)
 * [CentBrowser](http://www.centbrowser.com)
 * [Chrome](https://www.google.com/chrome)
