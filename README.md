@@ -95,7 +95,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#contents) Credits
 
-This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/). 
+This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/).
 
 Thanks to our main contributors
 [jivoi EK_](https://github.com/jivoi)
@@ -120,8 +120,9 @@ Thanks to our main contributors
 * [Lycos](http://www.lycos.com)
 * [Search.com](http://www.search.com)
 * [SurfCanyon](http://www.surfcanyon.com)
-* [Teoma](http://www.teoma.com)
-* [Wolfram Alpha](http://www.wolframalpha.com)
+* [Teoma](http://www.teoma.com) - Teoma (from Scottish Gaelic teòma "expert") was an Internet search engine founded in April 2000 by Professor Apostolos Gerasoulis and his colleagues at Rutgers University in New Jersey.
+* [Wolfram Alpha](http://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
+algorithms, knowledgebase and AI technology.
 * [Yahoo! Search](http://www.yahoo.com) -
 
 ## [↑](#contents) Main National Search Engines
@@ -273,11 +274,11 @@ Thanks to our main contributors
 
 ## [↑](#contents) Real-Time Search, Social Media Search, and General Social Media Tools
 
-* [Audiense](https://www.audiense.com)
+* [Audiense](https://www.audiense.com) - Tool to identify relevant audience, discover actionable insights and inform strategies to grow your business.
 * [Bottlenose](http://bottlenose.com)
 * [Brandwatch](https://www.brandwatch.com)
 * [Buffer](https://buffer.com)
-* [Buzz sumo](http://buzzsumo.com)
+* [Buzz sumo](http://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
 * [Geocreepy](http://www.geocreepy.com)
 * [Geofeedia](https://geofeedia.com)
 * [Hootsuite](http://hootsuite.com)
@@ -301,7 +302,7 @@ Thanks to our main contributors
 
 ### [↑](#contents) Twitter
 
-* [Backtweets](http://backtweets.com)
+* [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
 * [Blue Nod](http://bluenod.com)
 * [burrrd.](https://burrrd.com)
 * [Crate](https://getcrate.co)
@@ -468,6 +469,7 @@ Thanks to our main contributors
 * [Name Chk](http://www.namechk.com)
 * [Name Checkr](http://www.namecheckr.com)    
 * [Name Checkup](https://namecheckup.com)
+* [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 * [User Search](http://www.usersearch.org)
 
 ## [↑](#contents) People Investigations
@@ -476,7 +478,7 @@ Thanks to our main contributors
 * [192 (UK)](http://www.192.com)
 * [Alumni.net](http://www.alumni.net)
 * [Ancestry](http://www.ancestry.com)
-* [Black Book Online](https://www.blackbookonline.info/) - Free public records searches by Black Book Online of federal, state and county public records. 
+* [Black Book Online](https://www.blackbookonline.info/) - Free public records searches by Black Book Online of federal, state and county public records.
 * [Canada411](http://www.canada411.ca)
 * [Cedar](http://www.cedar.buffalo.edu/AdServ/person-search.html)
 * [Charlie App](https://charlieapp.com)
@@ -2180,7 +2182,7 @@ Thanks to our main contributors
 
 ## [↑](#contents) DNS
 * [Amass](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
-* [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting. 
+* [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting.
 
 ## [↑](#contents) Other Tools
 
