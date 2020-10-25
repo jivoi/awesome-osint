@@ -976,7 +976,6 @@ algorithms, knowledgebase and AI technology.
 * [Gnooks](http://www.gnooks.com)
 * [Google Books](https://books.google.com)
 * [Goodreads](http://www.goodreads.com)
-* [Groundera](http://groundera.com)
 * [How Long To Read](https://www.howlongtoreadthis.com)
 * [I love my Kindle](https://ilmk.wordpress.com)
 * [Internet Archive Texts](http://archive.org/details.php?identifier=texts)
@@ -1015,7 +1014,6 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#contents) Geospatial Research and Mapping Tools
 
-* [Animaps](http://www.animaps.com)
 * [Atlasify](http://www.atlasify.com)
 * [Batchgeo](http://batchgeo.com)
 * [Bing Maps](http://www.bing.com/maps)
@@ -1120,7 +1118,6 @@ algorithms, knowledgebase and AI technology.
 * [Flipboard](https://flipboard.com)
 * [Hubii](http://hubii.com)
 * [Inshorts](https://www.inshorts.com)
-* [Inside](http://blog.inside.com)
 * [News360](https://news360.com)
 * [NewsBot](https://getnewsbot.com)
 * [Newsinshorts](http://newsinshorts.com)
@@ -1267,7 +1264,6 @@ algorithms, knowledgebase and AI technology.
 * [RSS Search Engine](http://ctrlq.org/rss)
 * [RSS Search Hub](http://www.rsssearchhub.com)
 * [RSSOwl](http://www.rssowl.org)
-* [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/bmjffnfcokiodbeiamclanljnaheeoke?hl=en)
 * [Selfoss](http://selfoss.aditu.de)
 * [Silobreaker](http://www.silobreaker.com)
 * [Talkwalker](http://www.talkwalker.com)
@@ -1597,7 +1593,6 @@ algorithms, knowledgebase and AI technology.
 * [Quadrigram](http://www.quadrigram.com)
 * [Raphael](http://dmitrybaranovskiy.github.io/raphael)
 * [RAW](http://raw.densitydesign.org)
-* [RichChartLive](http://www.richchartlive.com/RichChartLive)
 * [Shanti Interactive](http://www.viseyes.org)
 * [Silk](https://www.silk.co)
 * [Snappa](https://snappa.io)
