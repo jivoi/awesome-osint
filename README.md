@@ -323,6 +323,7 @@ Thanks to our main contributors
 * [Hashtags.org](http://www.hashtags.org)
 * [ManageFlitter](http://manageflitter.com)
 * [Mentionmapp](http://mentionmapp.com)
+* [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
 * [Nations24](https://nations24.com)
 * [OneMillionTweetMap](http://onemilliontweetmap.com)
 * [Queryfeed](https://queryfeed.net)
