@@ -475,64 +475,29 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#contents) People Investigations
 
-* [411 (US)](http://www.411.com)
-* [192 (UK)](http://www.192.com)
-* [Alumni.net](http://www.alumni.net)
-* [Ancestry](http://www.ancestry.com)
-* [Black Book Online](https://www.blackbookonline.info/) - Free public records searches by Black Book Online of federal, state and county public records.
-* [Canada411](http://www.canada411.ca)
-* [Cedar](http://www.cedar.buffalo.edu/AdServ/person-search.html)
-* [Charlie App](https://charlieapp.com)
-* [Classmates](http://www.classmates.com)
-* [CrunchBase](http://www.crunchbase.com)
-* [CVGadget](http://www.cvgadget.com)
-* [Data 24-7](https://www.data24-7.com)
-* [facesearch](http://facesaerch.com) - Search for images of a person by name.
-* [Family Search](https://familysearch.org)
-* [Family Tree Now](http://www.familytreenow.com/)
-* [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Find an inmate that is in the Federal Bureau of Prisons system.
-* [Fold3 (US Military Records)](http://www.fold3.com) - Browse records of US Military members.
-* [Genealogy Bank](http://www.genealogybank.com)
-* [Genealogy Links](http://www.genealogylinks.net)
-* [Hey Press (Search for Journalists)](https://www.hey.press)
-* [Homemetry](https://homemetry.com)
-* [Infobel](http://www.infobel.com/en/world)
-* [Interment](http://www.interment.net/data/search.htm)
-* [International White and Yellow Pages](http://www.wayp.com)
-* [Itools](http://itools.com/search/people-search)
-* [Judyrecords](https://www.judyrecords.com/) - Free Public Records Search
-* [Kompass](http://www.kompass.com)
-* [LookUpUK](http://www.lookupuk.com)
-* [Lullar](http://com.lullar.com)
-* [MarketVisual](http://www.marketvisual.com)
-* [MelissaDATA](http://www.melissadata.com/lookups/peoplefinder.asp)
-* [My Life People Search](https://www.mylife.com/people-search)
-* [The National Archives (UK)](http://www.nationalarchives.gov.uk)
-* [PeekYou](http://www.peekyou.com)
-* [People Search (Australia)](http://www.peoplesearch.com.au)
-* [PeopleSearch.net](http://www.peoplesearch.net)
-* [Pipl](https://pipl.com)
-* [Rapportive](http://rapportive.com)
-* [RecordsPedia](http://recordspedia.com)
-* [Recruitem](http://recruitin.net)
-* [Reunion](http://reunion.com)
-* [Rootsweb](http://home.rootsweb.ancestry.com)
-* [SearchBug](http://www.searchbug.com)
-* [Skip Ease](http://www.skipease.com)
-* [Smart Background Checks](https://www.smartbackgroundchecks.com/people/)
-* [snitch.name](http://www.snitch.name)
-* [SnoopStation](http://snoopstation.com)
-* [Spokeo](http://www.spokeo.com)
-* [Switchboard](http://www.switchboard.com)
-* [That’sThem](https://thatsthem.com)
-* [UniCourt](https://unicourt.com/) - One Portal to Access Court Records & Legal Data
-* [USSearch](http://www.ussearch.com)
-* [WebMiii](http://www.webmii.com)
-* [White Pages (US)](http://www.whitepages.com)
-* [Wink](http://itools.com/tool/wink-people-search)
-* [Yasni](http://www.yasni.com)
-* [Zabasearch](http://www.zabasearch.com)
-* [Zoominfo](http://www.zoominfo.com)
+* [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
+* [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
+* [Ancestry](http://www.ancestry.com) - Premium data, free trial with credit card.
+* [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
+* [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
+* [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
+* [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
+* [facesearch](http://facesaerch.com) - Handy proxy to search Google face-only image search results.
+* [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
+* [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present. 
+* [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
+* [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
+* [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.
+* [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent.
+* [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
+* [Kompass](http://www.kompass.com) - Business directory and search.
+* [My Life People Search](https://www.mylife.com/people-search) - People search. Limited free info, premium data upsell.
+* [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
+* [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
+* [SearchBug](http://www.searchbug.com) - People search. Limited free info, premium data upsell.
+* [Spokeo](http://www.spokeo.com) - People search. Limited free info, premium data upsell.
+* [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
+* [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
 
 ## [↑](#contents) E-mail Search / E-mail Check
 
@@ -615,6 +580,7 @@ algorithms, knowledgebase and AI technology.
 * [European Business Register](http://www.ebr.org)
 * [Ezilon](http://www.ezilon.com)
 * [Factiva](https://global.factiva.com)
+* [Forbes Global 2000](http://www.forbes.com/global2000/)
 * [Glassdoor](https://www.glassdoor.com)
 * [globalEdge](http://globaledge.msu.edu)
 * [GuideStar](http://www.guidestar.org)
@@ -622,6 +588,7 @@ algorithms, knowledgebase and AI technology.
 * [Inc. 5000](http://www.inc.com/inc5000)
 * [InstantLogoSearch](http://instantlogosearch.com)
 * [iSpionage](https://www.ispionage.com)
+* [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Knowledge guide to international company registration](http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
 * [Linkedin](https://www.linkedin.com)
 * [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
@@ -639,7 +606,7 @@ algorithms, knowledgebase and AI technology.
 * [SEMrush](https://www.semrush.com)
 * [Serpstat](https://serpstat.com)
 * [SpyFu](http://www.spyfu.com)
-* [Forbes Global 2000](http://www.forbes.com/global2000/)
+* [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [Vault](http://www.vault.com)
 * [Xing](http://www.xing.com)
 
