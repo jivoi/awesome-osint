@@ -529,6 +529,7 @@ algorithms, knowledgebase and AI technology.
 * [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 * [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
 * [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
+* [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
 
 ## [↑](#contents) Expert Search
 
