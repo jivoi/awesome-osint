@@ -388,7 +388,6 @@ algorithms, knowledgebase and AI technology.
 * [Lookup-ID.com](https://lookup-id.com)
 * [SearchIsBack](https://searchisback.com)
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
-* [Zesty Facebook Search](http://zesty.ca/facebook)
 
 ### [↑](#contents) Instagram
 
