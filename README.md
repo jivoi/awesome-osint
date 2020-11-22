@@ -1664,7 +1664,6 @@ algorithms, knowledgebase and AI technology.
 * [ClearContext](http://www.clearcontext.com)
 * [Cleanfox](https://www.cleanfox.io)
 * [CloudMagic](https://cloudmagic.com)
-* [Complete](https://complete.li)
 * [FindBigMail](https://www.findbigmail.com)
 * [Followupthen](https://www.followupthen.com)
 * [Hiver](http://hiverhq.com)
