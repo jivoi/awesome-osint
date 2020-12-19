@@ -1445,7 +1445,6 @@ algorithms, knowledgebase and AI technology.
 * [AWeber](http://www.aweber.com)
 * [BombBomb](http://bombbomb.com)
 * [Campayn](http://campayn.com)
-* [Canva](https://www.canva.com)
 * [ConstantContact](http://www.constantcontact.com)
 * [Freshmail](http://freshmail.com)
 * [GetResponse](http://www.getresponse.com)
