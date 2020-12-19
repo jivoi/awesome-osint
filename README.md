@@ -1431,7 +1431,6 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#contents) Digital Publishing
 
-* [Canva](https://www.canva.com)
 * [Doclayer](https://standaert.net/doclayer)
 * [Issuu](https://issuu.com)
 * [Lucidpress](https://www.lucidpress.com)
