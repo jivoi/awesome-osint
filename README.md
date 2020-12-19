@@ -1503,7 +1503,6 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#contents) Infographics and Data Visualization
 
-* [Adobe Color CC](https://color.adobe.com/create/color-wheel)
 * [Aeon](http://www.aeontimeline.com)
 * [Arbor.js](http://arborjs.org)
 * [Beaker](http://beakernotebook.com)
