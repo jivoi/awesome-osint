@@ -1754,7 +1754,6 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#contents) Web Automation
 
 * [Cloud Work](https://cloudwork.com)
-* [Dropbox](http://wappwolf.com/dropboxautomator)
 * [IFTTT](https://ifttt.com)
 * [Sikuli](http://www.sikuli.org)
 * [WeWiredWeb](https://wewiredweb.com)
