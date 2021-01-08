@@ -340,6 +340,7 @@ algorithms, knowledgebase and AI technology.
 * [Tagdef](https://tagdef.com)
 * [TeachingPrivacy](http://app.teachingprivacy.com)
 * [Tinfoleak](https://tinfoleak.com)
+* [Topics Trending Today on Twitter](http://www.topicstrendingtoday.com)
 * [Trends24](http://trends24.in)
 * [TrendsMap](http://trendsmap.com)
 * [Ttrends](https://ttrends.co)
