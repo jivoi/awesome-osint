@@ -1700,6 +1700,7 @@ algorithms, knowledgebase and AI technology.
 * [ilovepdf](http://www.ilovepdf.com)
 * [PDFExpert](https://pdfexpert.com)
 * [PDFx](http://www.metachris.com/pdfx)
+* [PDF Shelter](https://pdfshelter.com/) - Unlimited, privacy-aware, PDF tools running locally on browser
 * [Smallpdf](http://smallpdf.com)
 * [Tabula](http://tabula.technology)
 * [XODO](http://xodo.com)
