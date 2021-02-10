@@ -2190,6 +2190,14 @@ urls and other data effortlessly
 * [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
 * [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M)
 
+## [↑](#contents) Project Management Tools
+
+*Project management tools, Scrum tools, and Project Boards.*
+
+* [ClickUp](https://www.clickup.com) - Heavy-weight Task Management 
+* [Scrumfast](https://www.scrumfast.com) - Light-weight, Free Project Management Tool
+* [Trello](http://www.trello.com) - Free Team Project Board
+
 ## License
 
 ![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
