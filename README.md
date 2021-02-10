@@ -2196,7 +2196,7 @@ urls and other data effortlessly
 
 * [ClickUp](https://www.clickup.com) - Heavy-weight Task Management 
 * [Scrumfast](https://www.scrumfast.com) - Light-weight, Free Project Management Tool
-* [Trello](http://www.trello.com) - Free Team Project Board
+* [Trello](https://www.trello.com) - Free Team Project Board
 
 ## License
 
