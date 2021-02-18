@@ -478,6 +478,7 @@ algorithms, knowledgebase and AI technology.
 * [Name Checkup](https://namecheckup.com)
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 * [User Search](http://www.usersearch.org)
+* [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 
 ## [↑](#contents) People Investigations
 
