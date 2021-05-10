@@ -178,6 +178,7 @@ algorithms, knowledgebase and AI technology.
 * [Million Short](https://millionshort.com)
 * [WorldWideScience.org](http://worldwidescience.org)
 * [Zanran](http://zanran.com)
+* [Intelligence X](https://intelx.io/tools)
 
 ## [↑](#contents) Visual Search and Clustering Search Engines
 
