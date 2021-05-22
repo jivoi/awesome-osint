@@ -89,6 +89,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Other Tools](#-other-tools)
  - [Threat Intelligence](#-threat-intelligence)
  - [OSINT Videos](#-osint-videos)
+ - [OSINT Blogs](#-osint-blogs)
 
 ## [↑](#contents) Contributing
 
@@ -163,6 +164,7 @@ algorithms, knowledgebase and AI technology.
 * [Trovando](http://www.trovando.it)
 * [WebOasis](https://weboas.is/)
 * [Zapmeta](http://www.zapmeta.com)
+* [Swisscows](https://swisscows.com/)
 
 ## [↑](#contents) Specialty Search Engines
 
@@ -517,7 +519,8 @@ algorithms, knowledgebase and AI technology.
 * [Email Permutator+](http://metricsparrow.com/toolkit/email-permutator)
 * [EmailSearch.net](http://www.email-search.org/search-emails)
 * [Email Validator](https://chema.ga/emailvalidator/index.php)
-* [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email
+* [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
+* [Holehe](https://github.com/megadose/holehe)
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
 * [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
 * [MailTester](http://mailtester.com/testmail.php)
@@ -864,7 +867,7 @@ algorithms, knowledgebase and AI technology.
 * [Deturl](http://deturl.com)
 * [DownloadHealper](http://www.downloadhelper.net)
 * [Earthcam](http://www.earthcam.com)
-* [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame-for-youtub/elkadbdicdciddfkdpmaolomehalghio?hl=en-GB) - Browser plugin that allows you to watch YouTube videos frame by frame.
+* [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh/) - Browser plugin that allows you to watch YouTube videos frame by frame.
 * [Geosearch](http://www.geosearchtool.com)
 * [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
 * [LiveLeak](http://www.liveleak.com)
@@ -1007,6 +1010,7 @@ algorithms, knowledgebase and AI technology.
 * [Esri](http://www.esri.com)
 * [Flash Earth](http://www.flashearth.com)
 * [Google Earth](http://www.google.com/earth)
+* [Google Earth Pro](https://www.google.com/intl/en/earth/versions/#earth-pro)
 * [Google Maps](https://www.google.com/maps)
 * [Google Maps Streetview Player](http://brianfolts.com/driver)
 * [Google My Maps](https://www.google.com/maps/about/mymaps)
@@ -1048,6 +1052,12 @@ algorithms, knowledgebase and AI technology.
 * [ViaMichelin](http://www.viamichelin.com)
 * [Yahoo Maps](https://maps.yahoo.com)
 * [Zeemaps](https://www.zeemaps.com)
+* [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/)
+* [Maxar](https://discover.digitalglobe.com/)
+* [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
+* [Zoom Earth](https://zoom.earth/)
+* [Remote Pixel](https://remotepixel.ca/projects/index.html)
+* [SunCalc](https://www.suncalc.org/)
 
 ## [↑](#contents) News
 
@@ -2164,6 +2174,7 @@ algorithms, knowledgebase and AI technology.
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 * [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
+* [Hunchly](https://www.hunch.ly/) - Hunchly is a web capture tool designed specifically for online investigations.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
@@ -2190,6 +2201,15 @@ urls and other data effortlessly
 * [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI)
 * [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
 * [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M)
+* [Bendobrown](https://www.youtube.com/c/Bendobrown)
+
+## [↑](#contents) OSINT Blogs
+
+* [Bellingcat](https://www.bellingcat.com/)
+* [NixIntel](https://nixintel.info/)
+* [Social Links](https://blog.sociallinks.io/)
+* [eInvestigator](https://www.einvestigator.com/)
+* [OSINT Techniques](https://www.osinttechniques.com/blog)
 
 ## License
 
