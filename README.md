@@ -464,6 +464,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#contents) Forums and Discussion Boards Search
 
 * [Boardreader](http://boardreader.com)
+* [Built With Flarum](https://builtwithflarum.com/)
 * [Facebook Groups](https://www.facebook.com)
 * [Google Groups](https://groups.google.com)
 * [Linkedin Groups](http://www.linkedin.com)
