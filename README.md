@@ -15,6 +15,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Visual Search and Clustering Search Engines](#-visual-search-and-clustering-search-engines)
  - [Similar Sites Search](#-similar-sites-search)
  - [Document and Slides Search](#-document-and-slides-search)
+ - [File Search](#-file-search)
  - [Pastebins](#-pastebins)
  - [Code Search](#-code-search)
  - [Major Social Networks](#-major-social-networks)
@@ -90,6 +91,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Threat Intelligence](#-threat-intelligence)
  - [OSINT Videos](#-osint-videos)
  - [OSINT Blogs](#-osint-blogs)
+ - [Other Resources](#-other-resources)
 
 ## [↑](#contents) Contributing
 
@@ -181,6 +183,11 @@ algorithms, knowledgebase and AI technology.
 * [WorldWideScience.org](http://worldwidescience.org)
 * [Zanran](http://zanran.com)
 * [Intelligence X](https://intelx.io/tools)
+* [OCCRP Aleph](https://aleph.occrp.org/)
+* [Shodan](https://www.shodan.io/)
+* [Mamont](https://www.mmnt.ru/)
+* [GrayhatWarfare](https://grayhatwarfare.com/)
+* [WIPO](https://www3.wipo.int/branddb/en/)
 
 ## [↑](#contents) Visual Search and Clustering Search Engines
 
@@ -212,6 +219,18 @@ algorithms, knowledgebase and AI technology.
 * [SlideShare](http://www.slideshare.net)
 * [Slideworld](http://www.slideworld.com)
 * [soPDF.com](http://www.sopdf.com)
+
+## [↑](#contents) File Search
+
+*Search for all kind of files.*
+
+* [FileChef](https://www.filechef.com/)
+* [File Search Engine](https://www.filesearch.link/)
+* [de digger](https://www.dedigger.com/)
+* [FilePursuit](https://filepursuit.com/)
+* [SearchFiles.de](https://searchfiles.de/)
+* [NAPALM FTP Indexer](https://www.searchftps.net/)
+* [FileListing](https://filelisting.com/)
 
 ## [↑](#contents) Pastebins
 
@@ -247,6 +266,7 @@ algorithms, knowledgebase and AI technology.
 * [paste.lisp](https://Paste.lisp.org)
 * [paste.pound-python](https://Paste.pound-python.org)
 * [paste.openuse](https://Paste.openuse.org)
+* [Rentry](https://rentry.co/)
 
 
 ## [↑](#contents) Code Search
@@ -256,6 +276,9 @@ algorithms, knowledgebase and AI technology.
 * [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
 * [NerdyData](https://search.nerdydata.com) - Search engine for source code.
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
+* [grep.app](https://grep.app/)
+* [Reposearch](http://codefinder.org/)
+* [PublicWWW](https://publicwww.com/)
 
 ## [↑](#contents) Major Social Networks
 
@@ -302,6 +325,11 @@ algorithms, knowledgebase and AI technology.
 * [Tagboard](https://tagboard.com)
 * [Trackur](http://www.trackur.com)
 * [UVRX](http://www.uvrx.com/social.html)
+* [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
+* [Kribrum](https://kribrum.io/)
+* [WATools](https://watools.io/)
+* [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
+* [Oblivion](https://github.com/loseys/Oblivion)
 
 ## Social Media Tools
 
@@ -401,6 +429,7 @@ algorithms, knowledgebase and AI technology.
 * [Social Rank](https://www.socialrank.com)
 * [Toutatis](https://github.com/megadose/toutatis)
 * [Worldcam](http://worldc.am)
+* [SearchMyBio](https://www.searchmy.bio/)
 
 ### [↑](#contents) Pinterest
 
@@ -437,6 +466,7 @@ algorithms, knowledgebase and AI technology.
 * [VK Parser](http://vkparser.ru) - A tool to search for a target audience and potential customers.
 * [VK People Search](http://vk.com/people)
 * [VK to RSS Appspot](http://vk-to-rss.appspot.com)
+* [VK.watch](https://vk.watch/)
 
 ### [↑](#contents) Tumblr
 
@@ -473,6 +503,7 @@ algorithms, knowledgebase and AI technology.
 * [Omgili](http://omgili.com)
 * [Xing Groups](https://www.xing.com/communities)
 * [Yahoo Groups](https://groups.yahoo.com)
+* [4chan Search](https://4chansearch.com/)
 
 ## [↑](#contents) Username Check
 
@@ -483,6 +514,7 @@ algorithms, knowledgebase and AI technology.
 * [Name Checkup](https://namecheckup.com)
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 * [User Search](http://www.usersearch.org)
+* [WhatsMyName](https://whatsmyname.app/)
 
 ## [↑](#contents) People Investigations
 
@@ -509,6 +541,10 @@ algorithms, knowledgebase and AI technology.
 * [Spokeo](http://www.spokeo.com) - People search. Limited free info, premium data upsell.
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
+* [ZabaSearch](https://www.zabasearch.com/)
+* [JailBase](https://www.jailbase.com/)
+* [Black Book Online](https://www.blackbookonline.info/)
+* [Mugshots](https://mugshots.com/)
 
 ## [↑](#contents) E-mail Search / E-mail Check
 
@@ -543,6 +579,8 @@ algorithms, knowledgebase and AI technology.
 * [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
 * [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
 * [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
+* [FreeCarrierLookup](https://freecarrierlookup.com/)
+* [Sync.ME](https://sync.me/)
 
 ## [↑](#contents) Expert Search
 
@@ -562,7 +600,7 @@ algorithms, knowledgebase and AI technology.
 * [MuckRack](http://muckrack.com)
 * [National Speakers Association](http://www.nsaspeaker.org)
 * [Newswise](http://www.newswise.com)
-* [Patent Attorneys/Agent Search](https://oedci.uspto.gov/OEDCI)
+* [Patent Attorneys/Agent Search](https://oedci.uspto.gov/OEDCI/)
 * [PRNewswire](https://prnmedia.prnewswire.com)
 * [ReseacherID](http://www.researcherid.com)
 * [SheSource](http://www.shesource.org)
@@ -623,6 +661,11 @@ algorithms, knowledgebase and AI technology.
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [Vault](http://www.vault.com)
 * [Xing](http://www.xing.com)
+* [Caselaw Access Project](https://case.law/)
+* [BrownBook](https://www.brownbook.net/)
+* [CorporationWiki](https://www.corporationwiki.com/)
+* [GoodFirms](https://www.goodfirms.co/)
+* [YouControl](https://youcontrol.com.ua/en/)
 
 ## [↑](#contents) Job Search Resources
 
@@ -649,6 +692,7 @@ algorithms, knowledgebase and AI technology.
 * [SimplyHired](http://www.simplyhired.com)
 * [Xing](http://www.xing.com)
 * [ZipRecruiter](https://www.ziprecruiter.com)
+* [RecruitEm](https://recruitin.net/)
 
 ## [↑](#contents) Q&A Sites
 
@@ -658,6 +702,7 @@ algorithms, knowledgebase and AI technology.
 * [Quora](http://www.quora.com)
 * [StackExchange](http://stackexchange.com)
 * [Yahoo Answers](http://answers.yahoo.com)
+* [Ответы](https://otvet.mail.ru/)
 
 ## [↑](#contents) Domain and IP Research
 
@@ -735,6 +780,8 @@ algorithms, knowledgebase and AI technology.
 * [Verisign](http://dnssec-debugger.verisignlabs.com)
 * [ViewDNS.info](http://viewdns.info)
 * [You Get Signal](http://www.yougetsignal.com)
+* [WiGLE](https://wigle.net/)
+* [urlscan](https://urlscan.io/)
 
 ## [↑](#contents) Keywords Discovery and Research
 
@@ -823,6 +870,8 @@ algorithms, knowledgebase and AI technology.
 * [Worldcam](http://www.worldc.am)
 * [Yahoo Image Search](https://images.search.yahoo.com)
 * [Yandex Images](https://www.yandex.com/images)
+* [Betaface](https://www.betaface.com/demo.html)
+* [Search4faces](https://search4faces.com/)
 
 ## [↑](#contents) Image Analysis
 
@@ -835,6 +884,9 @@ algorithms, knowledgebase and AI technology.
 * [Jeffreys Image Metadata Viewer](http://exif.regex.info/)
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 * [Metapicz](http://metapicz.com/)
+* [Forensically](https://29a.ch/photo-forensics/)
+* [DiffChecker](https://www.diffchecker.com/image-diff/)
+* [ImgOps](https://imgops.com/)
 
 ## [↑](#contents) Stock Images
 
@@ -869,6 +921,7 @@ algorithms, knowledgebase and AI technology.
 * [Deturl](http://deturl.com)
 * [DownloadHealper](http://www.downloadhelper.net)
 * [Earthcam](http://www.earthcam.com)
+* [Insecam](http://insecam.org/)
 * [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh/) - Browser plugin that allows you to watch YouTube videos frame by frame.
 * [Geosearch](http://www.geosearchtool.com)
 * [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
@@ -883,6 +936,9 @@ algorithms, knowledgebase and AI technology.
 * [YouTube](https://www.youtube.com)
 * [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence)
 * [ccSUBS](http://ccsubs.com/) - Download Closed Captions & Subtitles from YouTube
+* [YouTube Metadata](https://mattw.io/youtube-metadata/)
+* [YouTube Geofind](https://mattw.io/youtube-geofind/)
+* [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
 
 ## [↑](#contents) Radio and Podcasts Tools
 
@@ -1006,7 +1062,7 @@ algorithms, knowledgebase and AI technology.
 * [CrowdMap](https://crowdmap.com)
 * [CTLRQ Address Lookup](https://ctrlq.org/maps/address)
 * [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html)
-* [DualMaps](http://data.mashedworld.com/dualmaps/map.htm)
+* [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
 * [GeoGig](http://geogig.org)
 * [GeoNames](http://www.geonames.org)
 * [Esri](http://www.esri.com)
@@ -1060,6 +1116,18 @@ algorithms, knowledgebase and AI technology.
 * [Zoom Earth](https://zoom.earth/)
 * [Remote Pixel](https://remotepixel.ca/projects/index.html)
 * [SunCalc](https://www.suncalc.org/)
+* [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
+* [Pic2Map](https://www.pic2map.com/)
+* [Mapillary](https://www.mapillary.com/app/)
+* [KartaView](https://kartaview.org/map/)
+* [Satellites Pro](https://satellites.pro/)
+* [Liveuamap](https://liveuamap.com/)
+* [Descartes Labs](https://maps.descarteslabs.com/)
+* [Baidu Maps](https://map.baidu.com/)
+* [MapChecking](https://www.mapchecking.com/)
+* [Windy](https://www.windy.com/)
+* [SOAR](https://soar.earth/)
+* [digiKam](https://www.digikam.org/)
 
 ## [↑](#contents) News
 
@@ -1608,6 +1676,7 @@ algorithms, knowledgebase and AI technology.
 * [visually](http://create.visual.ly)
 * [Vortex](http://www.dotmatics.com/products/vortex)
 * [ZingChart](http://www.zingchart.com)
+* [Observable](https://observablehq.com/)
 
 ## [↑](#contents) Image and Photo Editing
 
@@ -2190,6 +2259,10 @@ urls and other data effortlessly
 * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+* [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
+* [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot is an open source intelligence (OSINT) automation tool.
+* [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+
 
 ## [↑](#contents) Threat Intelligence
 
@@ -2204,6 +2277,7 @@ urls and other data effortlessly
 * [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
 * [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M)
 * [Bendobrown](https://www.youtube.com/c/Bendobrown)
+* [SANS OSINT Summit 2021 (Playlist)](https://www.youtube.com/playlist?list=PLs4eo9Tja8bj3jJvv42LxOkhc2_ylpS9y)
 
 ## [↑](#contents) OSINT Blogs
 
@@ -2212,6 +2286,17 @@ urls and other data effortlessly
 * [Social Links](https://blog.sociallinks.io/)
 * [eInvestigator](https://www.einvestigator.com/)
 * [OSINT Techniques](https://www.osinttechniques.com/blog)
+* [IntelTechniques](https://inteltechniques.com/)
+* [OSINTCurious](https://osintcurio.us/)
+* [Sector035](https://sector035.nl/)
+* [Skopenow](https://www.skopenow.com/news)
+* [Sleuth For The Truth](http://sleuthforthetruth.com/)
+
+## [↑](#contents) Other Resources
+
+* [OSINT Dojo](https://www.osintdojo.com/resources/)
+* [OSINT Belarus](https://t.me/s/osintby)
+* [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
 
 ## License
 
