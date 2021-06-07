@@ -770,6 +770,7 @@ algorithms, knowledgebase and AI technology.
 * [Google Translate](https://translate.google.com)
 * [Google Tranlslate Extension](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
 * [IdiomaX Translation](http://www.idiomax.com/online-translator.aspx)
+* [IloveTyping](https://ilovetyping.com/) - Write in any language from English
 * [India Typing](http://indiatyping.com/index.php/translations/english-to-hindi-translation)
 * [imTranslator](http://imtranslator.net/translation)
 * [iTranslate](http://www.itranslateapp.com)
