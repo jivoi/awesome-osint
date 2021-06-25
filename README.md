@@ -987,6 +987,7 @@ algorithms, knowledgebase and AI technology.
 * [TheBooksProject](http://thebooksproject.co)
 * [TheFrugaleReader](http://www.thefrugalereader.com)
 * [Tinderizer](http://tinderizer.com)
+* [Vuibo](https://vuibo.com)
 * [WhatShouldIReadNext](http://www.whatshouldireadnext.com)
 * [YourNextRead](http://www.yournextread.com)
 
