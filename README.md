@@ -2176,6 +2176,7 @@ urls and other data effortlessly
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+* [SpiderFoot](https://www.spiderfoot.net) - OSINT automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 
 ## [↑](#contents) Threat Intelligence
