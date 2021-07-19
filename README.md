@@ -513,7 +513,7 @@ algorithms, knowledgebase and AI technology.
 * [Email Address Validator](http://www.email-validator.net)
 * [Email Format](http://email-format.com)
 * [EmailHippo](https://tools.verifyemailaddress.io)
-* [Email Permutator+](http://metricsparrow.com/toolkit/email-permutator)
+* [Email Permutator](https://www.polished.app/email-permutator/)
 * [EmailSearch.net](http://www.email-search.org/search-emails)
 * [Email Validator](https://chema.ga/emailvalidator/index.php)
 * [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email
