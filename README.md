@@ -826,6 +826,8 @@ algorithms, knowledgebase and AI technology.
 * [Google Translate](https://translate.google.com)
 * [Google Tranlslate Extension](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
 * [IdiomaX Translation](http://www.idiomax.com/online-translator.aspx)
+* [IloveTyping](https://ilovetyping.com/english-to-hindi-typing) - Translate English to Hindi
+* [Inasentence](https://inasentence.me/) - Find Sentences from Words
 * [India Typing](http://indiatyping.com/index.php/translations/english-to-hindi-translation)
 * [imTranslator](http://imtranslator.net/translation)
 * [iTranslate](http://www.itranslateapp.com)
