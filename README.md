@@ -1027,6 +1027,7 @@ algorithms, knowledgebase and AI technology.
 * [MapHub](https://maphub.net)
 * [MapJam](http://mapjam.com)
 * [Mapline](https://mapline.com)
+* [Map Maker](https://maps.co)
 * [Mapquest](https://www.mapquest.com)
 * [Modest Maps](http://modestmaps.com)
 * [NGA GEOINT](https://github.com/ngageoint)
