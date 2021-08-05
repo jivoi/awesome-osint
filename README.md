@@ -593,6 +593,7 @@ algorithms, knowledgebase and AI technology.
 * [ExpertPages](http://expertpages.com)
 * [Experts.com](http://www.experts.com)
 * [HARO](http://www.helpareporter.com)
+* [Licenseplates](http://www.worldlicenseplates.com/)
 * [GlobalExperts](http://www.theglobalexperts.org)
 * [Idealist](http://www.idealist.org)
 * [Innocentive](http://www.innocentive.com)
