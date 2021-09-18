@@ -516,6 +516,7 @@ algorithms, knowledgebase and AI technology.
 * [Name Checkr](http://www.namecheckr.com)    
 * [Name Checkup](https://namecheckup.com)
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+* [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 * [User Search](http://www.usersearch.org)
 * [WhatsMyName](https://whatsmyname.app/)
 
