@@ -239,7 +239,7 @@ algorithms, knowledgebase and AI technology.
 * [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
 * [zerobin](https://batman.gyptis.org/zerobin)
 * [cl1p](https://Cl1p.net)
-* [codepad](https://Codepad.org)
+* [codepad](http://codepad.org)
 * [controlc](https://Controlc.com)
 * [doxbin](https://Doxbin.org)
 * [dpaste](https://Dpaste.com)
