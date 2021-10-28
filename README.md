@@ -388,7 +388,6 @@ algorithms, knowledgebase and AI technology.
 * [TweetPsych](http://tweetpsych.com)
 * [Tweetreach](http://tweetreach.com)
 * [TweetStats](http://www.tweetstats.com)
-* [Tweet Tag](http://www.tweet-tag.com)
 * [TweetTunnel](http://tweettunnel.com)
 * [Twellow](http://www.twellow.com)
 * [Tweriod](http://www.tweriod.com)
