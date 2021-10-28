@@ -376,7 +376,6 @@ algorithms, knowledgebase and AI technology.
 * [Trends24](http://trends24.in)
 * [TrendsMap](http://trendsmap.com)
 * [Ttrends](https://ttrends.co)
-* [Twazzup](http://www.twazzup.com)
 * [twbirthday](http://twbirthday.com)
 * [TwChat](http://twchat.com)
 * [tweepsect](http://tweepsect.com)
