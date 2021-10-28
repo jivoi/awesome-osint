@@ -1628,7 +1628,6 @@ algorithms, knowledgebase and AI technology.
 * [FusionCharts](http://www.fusioncharts.com)
 * [Google Developers: Charts](https://developers.google.com/chart)
 * [GraphX](http://spark.apache.org/graphx)
-* [Helpmeviz](http://helpmeviz.com)
 * [Highcharts](http://www.highcharts.com)
 * [Hohli](http://charts.hohli.com)
 * [Inkscape](https://inkscape.org)
