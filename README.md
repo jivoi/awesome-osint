@@ -317,7 +317,6 @@ algorithms, knowledgebase and AI technology.
 * [Netvibes](http://www.netvibes.com)
 * [OpinionCrawl](http://www.opinioncrawl.com)
 * [Rival IQ](https://www.rivaliq.com)
-* [RSS Social Analyzer](https://chrome.google.com/webstore/detail/rss-social-analyzer/ncmajlpbfckecekfamgfkmckbpihjfdn?hl=en)
 * [SocialBakers](http://www.socialbakers.com)
 * [SociaBlade](http://socialblade.com)
 * [Social DownORNot](http://social.downornot.com)
