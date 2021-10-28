@@ -2151,7 +2151,6 @@ algorithms, knowledgebase and AI technology.
 * [Mind Genius](http://www.mindgenius.com)
 * [Mindjet](https://www.mindjet.com)
 * [Mind Manager](https://www.mindjet.com/mindmanager)
-* [Mind Map](https://chrome.google.com/webstore/detail/mindmap/gdaeohpmcenmffofpikllphdhlkkocfa#detail/mindmap/gdaeohpmcenmffofpikllphdhlkkocfa)
 * [Mindmeister](https://www.mindmeister.com)
 * [Mindomo](https://www.mindomo.com)
 * [MindMup](https://www.mindmup.com/)
