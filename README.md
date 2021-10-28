@@ -1279,7 +1279,7 @@ algorithms, knowledgebase and AI technology.
 * [UN Data](http://data.un.org)
 * [UNDPs Human Development Index](http://hdr.undp.org/en/data)
 * [UNECE](http://w3.unece.org/PXWeb/en)
-* [UNESCO Institute for Statistics](http://www.uis.unesco.org)
+* [UNESCO Institute for Statistics](http://uis.unesco.org)
 * [UNIDO Statistical Databases](http://www.unido.org/resources/statistics/statistical-databases.html)
 * [UNStats Social Indicators](http://unstats.un.org/unsd/demographic/products/socind)
 * [Upsala Conflict Data Program](http://www.pcr.uu.se/research/UCDP)
