@@ -829,7 +829,7 @@ algorithms, knowledgebase and AI technology.
 * [IdiomaX Translation](http://www.idiomax.com/online-translator.aspx)
 * [IloveTyping](https://ilovetyping.com/english-to-hindi-typing) - Translate English to Hindi
 * [Inasentence](https://inasentence.me/) - Find Sentences from Words
-* [India Typing](http://indiatyping.com/index.php/translations/english-to-hindi-translation)
+* [India Typing](https://indiatyping.com/index.php/translate/english-to-hindi)
 * [imTranslator](http://imtranslator.net/translation)
 * [iTranslate](http://www.itranslateapp.com)
 * [iTranslate Voice](http://itranslatevoice.com)
