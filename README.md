@@ -339,7 +339,6 @@ algorithms, knowledgebase and AI technology.
 * [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
 * [Blue Nod](http://bluenod.com)
 * [burrrd.](https://burrrd.com)
-* [Crate](https://getcrate.co)
 * [doesfollow](https://doesfollow.com)
 * [Fake Follower Check](https://fakers.statuspeople.com)
 * [First Tweet](http://ctrlq.org/first)
