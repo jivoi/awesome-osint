@@ -371,6 +371,7 @@ algorithms, knowledgebase and AI technology.
 * [Tagdef](https://tagdef.com)
 * [TeachingPrivacy](http://app.teachingprivacy.com)
 * [Tinfoleak](https://tinfoleak.com)
+* [Trends Predictions](https://trendspredictions.com/) - A tool for discovering new trending topics.
 * [Trends24](http://trends24.in)
 * [TrendsMap](http://trendsmap.com)
 * [Ttrends](https://ttrends.co)
