@@ -313,6 +313,7 @@ algorithms, knowledgebase and AI technology.
 * [Hashtatit](http://www.hashatit.com)
 * [Klear](http://klear.com)
 * [Kred](http://kred.com)
+* [IDCrawl](https://www.idcrawl.com/) - Search for a name in popular social networks.
 * [MustBePresent](http://mustbepresent.com)
 * [Netvibes](http://www.netvibes.com)
 * [OpinionCrawl](http://www.opinioncrawl.com)
@@ -507,6 +508,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#contents) Username Check
 
 * [Check User Names](http://www.checkusernames.com)
+* [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
 * [Knowem](http://www.Knowem.com) - Search for a username on over 500 popular social networks.  
 * [Name Chk](http://www.namechk.com)
 * [Name Checkr](http://www.namecheckr.com)    
