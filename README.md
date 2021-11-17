@@ -479,6 +479,7 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#contents) Telegram
 
 * [Telegago](https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg#gsc.tab=0) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms. 
+* [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 
 
 
