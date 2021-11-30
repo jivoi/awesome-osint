@@ -113,6 +113,7 @@ Thanks to our main contributors
 * [Aol](http://search.aol.com)
 * [Ask](http://www.ask.com)
 * [Bing](http://www.bing.com)
+* [Brandlists](https://www.brandlists.com) - Brand Search Engine and Database
 * [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
 * [Gigablast](http://gigablast.com)
 * [Goodsearch](http://www.goodsearch.com)
