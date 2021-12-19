@@ -424,6 +424,7 @@ algorithms, knowledgebase and AI technology.
 * [Picodash](https://www.picodash.com)
 * [SnapMap](https://snapmap.knightlab.com/)
 * [Social Rank](https://www.socialrank.com)
+* [Sterra](https://github.com/novitae/sterraxcyl)
 * [Toutatis](https://github.com/megadose/toutatis)
 * [Worldcam](http://worldc.am)
 * [SearchMyBio](https://www.searchmy.bio/)
