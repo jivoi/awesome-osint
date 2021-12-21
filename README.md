@@ -540,6 +540,7 @@ algorithms, knowledgebase and AI technology.
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Kompass](http://www.kompass.com) - Business directory and search.
 * [My Life People Search](https://www.mylife.com/people-search) - People search. Limited free info, premium data upsell.
+* [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
 * [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
 * [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
 * [SearchBug](http://www.searchbug.com) - People search. Limited free info, premium data upsell.
@@ -658,6 +659,7 @@ algorithms, knowledgebase and AI technology.
 * [Notablist](https://www.notablist.com)
 * [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 * [opencorporates](https://opencorporates.com)
+* [OpenOwnership Register](https://register.openownership.org/)
 * [Owler](https://www.owler.com)
 * [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
 * [Plunkett Research](http://www.plunkettresearchonline.com)
