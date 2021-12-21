@@ -1110,6 +1110,7 @@ algorithms, knowledgebase and AI technology.
 * [Open Street Map](http://www.openstreetmap.org)
 * [QGIS](http://qgis.org)
 * [QuickMaps](https://chrome.google.com/webstore/detail/quick-maps/bgbojmobaekecckmomemopckmeipecij)
+* [SAS Planet](http://www.sasgis.org/sasplaneta/)  - Software used to view, download and stitch satellite images.
 * [StoryMaps](http://storymaps.arcgis.com/en)
 * [Scribble Maps](http://scribblemaps.com)
 * [Terrapattern](http://www.terrapattern.com)
