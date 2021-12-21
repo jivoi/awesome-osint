@@ -800,6 +800,7 @@ algorithms, knowledgebase and AI technology.
 * [Word Tracker](https://www.wordtracker.com)
 * [Soovle](http://www.soovle.com)
 * [Ubersuggest](http://ubersuggest.org)
+* [Yandex Wordstat](https://wordstat.yandex.com)
 
 ## [↑](#contents) Web History and Website Capture
 
