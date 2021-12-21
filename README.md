@@ -803,6 +803,7 @@ algorithms, knowledgebase and AI technology.
 * [BlackWidow](http://softbytelabs.com/wp/blackwidow/)
 * [CashedPages](http://www.cachedpages.com)
 * [CachedView](http://cachedview.com)
+* [stored.website](https://stored.website)
 * [Screenshots.com](http://www.screenshots.com)
 * [Wayback Machine](http://archive.org/web/web.php) - Explore the history of a website.
 * [Wayback Machine Archiver](https://github.com/jsvine/waybackpack)
