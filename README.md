@@ -147,6 +147,7 @@ algorithms, knowledgebase and AI technology.
 * [Seznam(Czech Republic)](https://seznam.cz)
 * [Walla (Israel)](http://www.walla.co.il)
 * [Yandex (Russia)](http://www.yandex.com)
+* [Najdi.si (Slovenia)](http://www.najdi.si/)
 
 ## [↑](#contents) Meta Search
 
