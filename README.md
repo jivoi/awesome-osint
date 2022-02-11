@@ -1812,6 +1812,7 @@ algorithms, knowledgebase and AI technology.
 * [XODO](http://xodo.com)
 * [Xpdf](http://www.foolabs.com/xpdf/home.html)
 * [Sejda](https://www.sejda.com/)
+* [GorillaPDF](https://www.gorillapdf.com/)
 
 ## [↑](#contents) OCR Tools
 
