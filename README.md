@@ -189,6 +189,7 @@ algorithms, knowledgebase and AI technology.
 * [Mamont](https://www.mmnt.ru/)
 * [GrayhatWarfare](https://grayhatwarfare.com/)
 * [WIPO](https://www3.wipo.int/branddb/en/)
+* [Netlas.io](https://app.netlas.io/)
 
 ## [↑](#contents) Visual Search and Clustering Search Engines
 
