@@ -323,6 +323,7 @@ algorithms, knowledgebase and AI technology.
 * [SocialBakers](http://www.socialbakers.com)
 * [SociaBlade](http://socialblade.com)
 * [Social DownORNot](http://social.downornot.com)
+* [SocialGrep](https://socialgrep.com) - a Reddit search engine/analysis tool, "signals out of the social web of noise."
 * [Social Searcher](http://www.social-searcher.com)
 * [Tagboard](https://tagboard.com)
 * [Trackur](http://www.trackur.com)
