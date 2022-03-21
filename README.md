@@ -776,6 +776,7 @@ algorithms, knowledgebase and AI technology.
 * [StatsCrop](http://www.statscrop.com)
 * [Squatm3gator](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 * [TCPIPUTILS.com](http://www.tcpiputils.com)
+* [Threat Jammer](https://threatjammer.com) - Risk scoring service from curated threat intelligence data.
 * [urlQuery](http://urlquery.net)
 * [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
 * [Wappalyzer](https://wappalyzer.com)
