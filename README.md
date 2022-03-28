@@ -413,6 +413,7 @@ algorithms, knowledgebase and AI technology.
 * [Commun.it](http://commun.it)
 * [DumpItBlue](http://le-tools.com/DumpItBlue.html)
 * [Fanpage Karma](http://www.fanpagekarma.com)
+* [Facebook Friend List Scraper](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 * [Facebook Search](http://search.fb.com/)
 * [Facebook Search Tool](http://netbootcamp.org/facebook.html)
 * [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats)
