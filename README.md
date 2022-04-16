@@ -119,7 +119,6 @@ Thanks to our main contributors
 * [Google Search](http://www.google.com) - Most popular search engine.
 * [Instya](http://www.instya.com)
 * [Impersonal.me](http://www.impersonal.me)
-* [iSEEK Education](http://education.iseek.com/iseek/home.page)
 * [ixquick](https://www.ixquick.com)
 * [Lycos](http://www.lycos.com)
 * [Search.com](http://www.search.com)
