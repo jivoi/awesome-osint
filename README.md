@@ -239,7 +239,6 @@ algorithms, knowledgebase and AI technology.
 * [dpaste](https://Dpaste.com)
 * [dpaste2](https://Dpaste.org)
 * [dumpz](https://Dumpz.org)
-* [Friendpast](https://Friendpast.com)
 * [ghostbin](https://ghostbin.co/)
 * [hastebin](https://Hastebin.com)
 * [heypasteit](https://Heypasteit.com)
