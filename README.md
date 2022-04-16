@@ -171,7 +171,6 @@ algorithms, knowledgebase and AI technology.
 * [2lingual Search](http://www.2lingual.com)
 * [Biznar](http://biznar.com)
 * [CiteSeerX](http://citeseer.ist.psu.edu)
-* [Digle](https://www.digle.com)
 * [Google Custom Search](http://www.google.com/cse)
 * [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
 * [Internet Archive](https://archive.org/)
