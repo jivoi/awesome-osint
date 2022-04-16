@@ -231,7 +231,7 @@ algorithms, knowledgebase and AI technology.
 *Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
 * [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
-* [zerobin](https://batman.gyptis.org/zerobin)
+* [zerobin](https://batman.gyptis.org/zerobin) - ⚠️ SSL issue
 * [cl1p](https://Cl1p.net)
 * [codepad](http://codepad.org)
 * [controlc](https://Controlc.com)
@@ -241,12 +241,12 @@ algorithms, knowledgebase and AI technology.
 * [dumpz](https://Dumpz.org)
 * [hastebin](https://Hastebin.com)
 * [heypasteit](https://Heypasteit.com)
-* [hpaste](https://Hpaste.org)
+* [hpaste](https://Hpaste.org) - ⚠️ SSL issue
 * [ideone](https://Ideone.com)
 * [ivpaste](https://Ivpaste.com)
 * [jsbin](https://Jsbin.com)
 * [justpaste](https://Justpaste.it)
-* [mysticpaste](https://Mysticpaste.com)
+* [mysticpaste](https://Mysticpaste.com) - ⚠️ SSL issue
 * [nopaste](https://Nopaste.info)
 * [0bin](https://0bin.net)
 * [Obin](https://Obin.net)
@@ -255,7 +255,7 @@ algorithms, knowledgebase and AI technology.
 * [paste.fedoraproject](https://Paste.fedoraproject.org)
 * [paste.frubar](https://Paste.frubar.net)
 * [paste.kde](https://Paste.kde.org)
-* [paste.lisp](https://Paste.lisp.org)
+* [paste.lisp](https://Paste.lisp.org) - ⚠️ SSL issue
 * [paste.pound-python](https://Paste.pound-python.org)
 * [paste.openuse](https://Paste.openuse.org)
 * [Rentry](https://rentry.co/)
