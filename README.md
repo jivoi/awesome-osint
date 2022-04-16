@@ -247,17 +247,13 @@ algorithms, knowledgebase and AI technology.
 * [jsbin](https://Jsbin.com)
 * [justpaste](https://Justpaste.it)
 * [mysticpaste](https://Mysticpaste.com) - ⚠️ SSL issue
-* [nopaste](https://Nopaste.info)
 * [0bin](https://0bin.net)
 * [Obin](https://Obin.net)
 * [paste.debian](https://Paste.debian.net)
 * [paste.ee](https://Paste.ee)
 * [paste.fedoraproject](https://Paste.fedoraproject.org)
-* [paste.frubar](https://Paste.frubar.net)
 * [paste.kde](https://Paste.kde.org)
 * [paste.lisp](https://Paste.lisp.org) - ⚠️ SSL issue
-* [paste.pound-python](https://Paste.pound-python.org)
-* [paste.openuse](https://Paste.openuse.org)
 * [Rentry](https://rentry.co/)
 
 
