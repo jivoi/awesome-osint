@@ -215,7 +215,6 @@ algorithms, knowledgebase and AI technology.
 * [Free Full PDF](http://www.freefullpdf.com)
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
 * [PasteLert](http://andrewmohawk.com/pasteLert/index.php)
-* [PDF Search Engine](http://www.pdfsearchengine.info)
 * [RECAP](http://archive.recapthelaw.org)
 * [Scribd](http://www.scribd.com)
 * [SlideShare](http://www.slideshare.net)
