@@ -159,7 +159,6 @@ algorithms, knowledgebase and AI technology.
 * [Goofram](http://www.goofram.com)
 * [iZito](http://www.izito.com)
 * [Nextaris](http://www.nextaris.com)
-* [Metabear](http://www.metabear.com)
 * [Myallsearch](http://www.myallsearch.com)
 * [Qwant](http://www.qwant.com)
 * [Sputtr](http://www.sputtr.com)
