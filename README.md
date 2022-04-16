@@ -161,7 +161,6 @@ algorithms, knowledgebase and AI technology.
 * [Nextaris](http://www.nextaris.com)
 * [Myallsearch](http://www.myallsearch.com)
 * [Qwant](http://www.qwant.com)
-* [Trovando](http://www.trovando.it)
 * [WebOasis](https://weboas.is/)
 * [Zapmeta](http://www.zapmeta.com)
 * [Swisscows](https://swisscows.com/)
