@@ -2286,6 +2286,7 @@ urls and other data effortlessly
 * [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
 * [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot is an open source intelligence (OSINT) automation tool.
 * [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+* [Sub3 Suite](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
 
 ## [↑](#-Table-of-Contents) Threat Intelligence
