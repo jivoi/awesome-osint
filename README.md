@@ -119,7 +119,6 @@ Thanks to our main contributors
 * [Google Search](http://www.google.com) - Most popular search engine.
 * [Instya](http://www.instya.com)
 * [Impersonal.me](http://www.impersonal.me)
-* [iSEEK Education](http://education.iseek.com/iseek/home.page)
 * [ixquick](https://www.ixquick.com)
 * [Lycos](http://www.lycos.com)
 * [Search.com](http://www.search.com)
@@ -160,12 +159,8 @@ algorithms, knowledgebase and AI technology.
 * [Goofram](http://www.goofram.com)
 * [iZito](http://www.izito.com)
 * [Nextaris](http://www.nextaris.com)
-* [Metabear](http://www.metabear.com)
 * [Myallsearch](http://www.myallsearch.com)
 * [Qwant](http://www.qwant.com)
-* [Sputtr](http://www.sputtr.com)
-* [Trovando](http://www.trovando.it)
-* [WebOasis](https://weboas.is/)
 * [Zapmeta](http://www.zapmeta.com)
 * [Swisscows](https://swisscows.com/)
 
@@ -176,7 +171,6 @@ algorithms, knowledgebase and AI technology.
 * [2lingual Search](http://www.2lingual.com)
 * [Biznar](http://biznar.com)
 * [CiteSeerX](http://citeseer.ist.psu.edu)
-* [Digle](https://www.digle.com)
 * [Google Custom Search](http://www.google.com/cse)
 * [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
 * [Internet Archive](https://archive.org/)
@@ -215,8 +209,6 @@ algorithms, knowledgebase and AI technology.
 * [Free Full PDF](http://www.freefullpdf.com)
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
 * [PasteLert](http://andrewmohawk.com/pasteLert/index.php)
-* [PDF Search Engine](http://www.pdfsearchengine.info)
-* [RECAP](http://archive.recapthelaw.org)
 * [Scribd](http://www.scribd.com)
 * [SlideShare](http://www.slideshare.net)
 * [Slideworld](http://www.slideworld.com)
@@ -239,7 +231,7 @@ algorithms, knowledgebase and AI technology.
 *Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
 * [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
-* [zerobin](https://batman.gyptis.org/zerobin)
+* [zerobin](https://batman.gyptis.org/zerobin) - ⚠️ SSL issue
 * [cl1p](https://Cl1p.net)
 * [codepad](http://codepad.org)
 * [controlc](https://Controlc.com)
@@ -247,27 +239,21 @@ algorithms, knowledgebase and AI technology.
 * [dpaste](https://Dpaste.com)
 * [dpaste2](https://Dpaste.org)
 * [dumpz](https://Dumpz.org)
-* [Friendpast](https://Friendpast.com)
-* [ghostbin](https://ghostbin.co/)
 * [hastebin](https://Hastebin.com)
 * [heypasteit](https://Heypasteit.com)
-* [hpaste](https://Hpaste.org)
+* [hpaste](https://Hpaste.org) - ⚠️ SSL issue
 * [ideone](https://Ideone.com)
 * [ivpaste](https://Ivpaste.com)
 * [jsbin](https://Jsbin.com)
 * [justpaste](https://Justpaste.it)
-* [mysticpaste](https://Mysticpaste.com)
-* [nopaste](https://Nopaste.info)
+* [mysticpaste](https://Mysticpaste.com) - ⚠️ SSL issue
 * [0bin](https://0bin.net)
 * [Obin](https://Obin.net)
 * [paste.debian](https://Paste.debian.net)
 * [paste.ee](https://Paste.ee)
 * [paste.fedoraproject](https://Paste.fedoraproject.org)
-* [paste.frubar](https://Paste.frubar.net)
 * [paste.kde](https://Paste.kde.org)
-* [paste.lisp](https://Paste.lisp.org)
-* [paste.pound-python](https://Paste.pound-python.org)
-* [paste.openuse](https://Paste.openuse.org)
+* [paste.lisp](https://Paste.lisp.org) - ⚠️ SSL issue
 * [Rentry](https://rentry.co/)
 
 
@@ -276,7 +262,7 @@ algorithms, knowledgebase and AI technology.
 *Search by website source code*
 
 * [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
-* [NerdyData](https://search.nerdydata.com) - Search engine for source code.
+* [NerdyData](https://nerdydata.com) - Search engine for source code.
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
 * [grep.app](https://grep.app/)
 * [Reposearch](http://codefinder.org/)
