@@ -416,7 +416,7 @@ algorithms, knowledgebase and AI technology.
 * [Facebook Search](http://search.fb.com/)
 * [Facebook Search Tool](http://netbootcamp.org/facebook.html)
 * [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats)
-* [Find my Facebook ID](https://findmyfbid.in)
+* [Find my Facebook ID](https://randomtools.io)
 * [Lookup-ID.com](https://lookup-id.com)
 * [SearchIsBack](https://searchisback.com)
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
