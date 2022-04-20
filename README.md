@@ -522,6 +522,7 @@ algorithms, knowledgebase and AI technology.
 * [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 * [User Search](http://www.usersearch.org)
 * [WhatsMyName](https://whatsmyname.app/)
+* [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
 
 ## [↑](#-Table-of-Contents) People Investigations
 
