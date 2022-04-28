@@ -1009,6 +1009,7 @@ algorithms, knowledgebase and AI technology.
 * [Amazon Cheap Books](http://www.amazon.com/b?tag=mak041-20&linkCode=as2&ie=UTF8&node=2245146011)
 * [Blinkist](https://www.blinkist.com)
 * [Bookbub](https://www.bookbub.com)
+* [Bookbrowse](https://www.bookbrowse.com)
 * [Bookish](https://bookish.netgalley.com)
 * [Booklikes](http://booklikes.com)
 * [Bookmate](https://bookmate.com)
