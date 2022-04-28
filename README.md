@@ -1019,7 +1019,6 @@ algorithms, knowledgebase and AI technology.
 * [Daily Cheap Reads](http://www.dailycheapreads.com)
 * [ExplainToMe](https://explaintome.herokuapp.com)
 * [Favobooks](http://favobooks.com)
-* [Free Book Search.net](http://www.freebooksearch.net)
 * [Free Kindle Books](http://freekindlebooks.org)
 * [Gnooks](http://www.gnooks.com)
 * [Google Books](https://books.google.com)
