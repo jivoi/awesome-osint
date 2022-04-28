@@ -1048,7 +1048,6 @@ algorithms, knowledgebase and AI technology.
 * [Readgeek](http://www.readgeek.com)
 * [Read This Twice](https://readthistwice.com)
 * [Riffle](https://www.rifflebooks.com)
-* [TheBooksProject](http://thebooksproject.co)
 * [TheFrugaleReader](http://www.thefrugalereader.com)
 * [Tinderizer](http://tinderizer.com)
 * [Vuibo](https://vuibo.com)
