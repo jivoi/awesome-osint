@@ -1041,7 +1041,6 @@ algorithms, knowledgebase and AI technology.
 * [Open Culture: Free Audiobooks](http://www.openculture.com/freeaudiobooks)
 * [OpeningtheBook](http://www.openingthebook.com)
 * [Overdrive](https://www.overdrive.com)
-* [ParrotRead](http://parrotread.com)
 * [Pixel of Ink](http://www.pixelofink.com)
 * [Project Gutenberg](http://www.gutenberg.org)
 * [Read](https://medium.com/@readapp/introducing-read-for-ios-de4d2799254a#.z3lrigjr7)
