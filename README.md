@@ -1012,6 +1012,7 @@ algorithms, knowledgebase and AI technology.
 * [Bookish](https://bookish.netgalley.com)
 * [Booklikes](http://booklikes.com)
 * [Bookmate](https://bookmate.com)
+* [Bookscovery](https://www.bookscovery.com)
 * [Bookseer](http://bookseer.com)
 * [Books on the Knob](http://blog.booksontheknob.org)
 * [Calibre](http://www.calibre-ebook.com)
