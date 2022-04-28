@@ -1036,7 +1036,6 @@ algorithms, knowledgebase and AI technology.
 * [Librivox](https://librivox.org)
 * [Loyal Books](http://www.loyalbooks.com)
 * [Many Books](http://manybooks.net)
-* [MobiPocket](http://www.mobipocket.com)
 * [MostRecommendedBooks](https://mostrecommendedbooks.com)
 * [Narro](https://www.narro.co)
 * [Open Culture: Free Audiobooks](http://www.openculture.com/freeaudiobooks)
