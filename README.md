@@ -1023,7 +1023,7 @@ algorithms, knowledgebase and AI technology.
 * [Gnooks](http://www.gnooks.com)
 * [Google Books](https://books.google.com)
 * [Goodreads](http://www.goodreads.com)
-* [How Long To Read](https://www.howlongtoreadthis.com)
+* [How Long To Read](https://howlongtoreadthis.com)
 * [I love my Kindle](https://ilmk.wordpress.com)
 * [Internet Archive Texts](http://archive.org/details.php?identifier=texts)
 * [Jellybooks](https://www.jellybooks.com)
