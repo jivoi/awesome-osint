@@ -1028,7 +1028,6 @@ algorithms, knowledgebase and AI technology.
 * [Internet Archive Texts](http://archive.org/details.php?identifier=texts)
 * [Jellybooks](https://www.jellybooks.com)
 * [Just Free Books](http://www.justfreebooks.info)
-* [Keendly](http://keendly.com)
 * [KindleFeeder](http://www.kindlefeeder.com)
 * [KindleNationDay](http://kindlenationdaily.com)
 * [KindleWorld](http://kindleworld.blogspot.com)
