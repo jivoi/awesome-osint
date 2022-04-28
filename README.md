@@ -1015,7 +1015,7 @@ algorithms, knowledgebase and AI technology.
 * [Bookscovery](https://www.bookscovery.com)
 * [Bookseer](http://bookseer.com)
 * [Books on the Knob](http://blog.booksontheknob.org)
-* [Calibre](http://www.calibre-ebook.com)
+* [Calibre](https://www.calibre-ebook.com)
 * [Daily Cheap Reads](http://www.dailycheapreads.com)
 * [ExplainToMe](https://explaintome.herokuapp.com)
 * [Favobooks](http://favobooks.com)
