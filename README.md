@@ -1951,7 +1951,6 @@ algorithms, knowledgebase and AI technology.
 * [Huddle](https://www.huddle.com)
 * [Ideaflip](http://ideaflip.com)
 * [KabanTool](http://kanbantool.com)
-* [Kanboard](https://kanboard.net)
 * [Kerika](http://kerika.com)
 * [Linky dink](http://linkydink.io)
 * [Listacular](http://www.bloomingsoft.com/listacular)
