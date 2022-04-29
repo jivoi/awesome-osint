@@ -212,7 +212,6 @@ algorithms, knowledgebase and AI technology.
 * [Scribd](http://www.scribd.com)
 * [SlideShare](http://www.slideshare.net)
 * [Slideworld](http://www.slideworld.com)
-* [soPDF.com](http://www.sopdf.com)
 
 ## [↑](#-Table-of-Contents) File Search
 
