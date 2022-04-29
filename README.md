@@ -1361,7 +1361,6 @@ algorithms, knowledgebase and AI technology.
 * [FAVable](http://www.favable.com)
 * [Instapaper](http://www.instapaper.com)
 * [Juxtapost](http://www.juxtapost.com)
-* [Keeeb](http://keeeb.com)
 * [Klart](https://klart.co)
 * [Linkman Pro](http://www.outertech.com/en/bookmarks-favorites)
 * [Linkstash](http://www.xrayz.co.uk)
