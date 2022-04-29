@@ -1969,7 +1969,6 @@ algorithms, knowledgebase and AI technology.
 * [Planleaf](http://www.planleaf.com)
 * [Planzone](https://www.planzone.com)
 * [Podio](https://podio.com)
-* [PrimaryPad](http://primarypad.com)
 * [ProjectManager](https://www.projectmanager.com)
 * [ProjectPlace](https://www.projectplace.com)
 * [ProofHub](https://www.proofhub.com)
