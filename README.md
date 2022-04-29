@@ -240,7 +240,6 @@ algorithms, knowledgebase and AI technology.
 * [dumpz](https://Dumpz.org)
 * [hastebin](https://www.toptal.com/developers/hastebin/)
 * [heypasteit](https://Heypasteit.com)
-* [hpaste](https://Hpaste.org) - ⚠️ SSL issue
 * [ideone](https://Ideone.com)
 * [ivpaste](https://Ivpaste.com)
 * [jsbin](https://Jsbin.com)
