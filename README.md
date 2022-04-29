@@ -249,7 +249,7 @@ algorithms, knowledgebase and AI technology.
 * [Obin](https://Obin.net)
 * [paste.debian](https://Paste.debian.net)
 * [paste.ee](https://Paste.ee)
-* [paste.fedoraproject](https://Paste.fedoraproject.org)
+* [paste.centos](https://paste.centos.org)
 * [paste.kde](https://Paste.kde.org)
 * [paste.lisp](https://Paste.lisp.org) - ⚠️ SSL issue
 * [Rentry](https://rentry.co/)
