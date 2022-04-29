@@ -1958,7 +1958,6 @@ algorithms, knowledgebase and AI technology.
 * [MyKanzen](https://mykanzen.com)
 * [Nozbe](https://nozbe.com)
 * [Nutcache](http://www.nutcache.com)
-* [Minute](https://www.getminute.com)
 * [Mural](https://mural.co)
 * [OmniGroup](https://www.omnigroup.com)
 * [OnlyOffice](https://www.onlyoffice.com)
