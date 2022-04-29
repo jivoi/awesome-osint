@@ -1359,7 +1359,6 @@ algorithms, knowledgebase and AI technology.
 * [Dropmark](http://www.dropmark.com)
 * [eLink](https://elink.io)
 * [FAVable](http://www.favable.com)
-* [Google Bookmarks](https://www.google.com/bookmarks)
 * [Instapaper](http://www.instapaper.com)
 * [Juxtapost](http://www.juxtapost.com)
 * [Keeeb](http://keeeb.com)
