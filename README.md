@@ -1378,7 +1378,6 @@ algorithms, knowledgebase and AI technology.
 * [Scoop.it](http://www.scoop.it)
 * [Scrible](http://www.scrible.com)
 * [Sitehoover](http://www.sitehoover.com)
-* [Spaaze](http://www.spaaze.com)
 * [Stache](http://getstache.com)
 * [start.me](https://www.start.me)
 * [Thinkery](http://thinkery.me)
