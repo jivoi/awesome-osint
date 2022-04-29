@@ -1953,7 +1953,6 @@ algorithms, knowledgebase and AI technology.
 * [KabanTool](http://kanbantool.com)
 * [Kerika](http://kerika.com)
 * [Kommon](http://www.inkommon.com)
-* [Listacular](http://www.bloomingsoft.com/listacular)
 * [Loomio](https://www.loomio.org)
 * [LumoFlow](https://lumoflow.com)
 * [Mammoth](https://mammothhq.com)
