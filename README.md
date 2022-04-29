@@ -1955,7 +1955,6 @@ algorithms, knowledgebase and AI technology.
 * [Kommon](http://www.inkommon.com)
 * [Loomio](https://www.loomio.org)
 * [LumoFlow](https://lumoflow.com)
-* [Mammoth](https://mammothhq.com)
 * [MyKanzen](https://mykanzen.com)
 * [Nozbe](https://nozbe.com)
 * [Nutcache](http://www.nutcache.com)
