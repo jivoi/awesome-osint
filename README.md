@@ -231,7 +231,6 @@ algorithms, knowledgebase and AI technology.
 *Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
 * [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
-* [zerobin](https://batman.gyptis.org/zerobin) - ⚠️ SSL issue
 * [cl1p](https://Cl1p.net)
 * [codepad](http://codepad.org)
 * [controlc](https://Controlc.com)
