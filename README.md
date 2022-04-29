@@ -1364,7 +1364,6 @@ algorithms, knowledgebase and AI technology.
 * [Linkman Pro](http://www.outertech.com/en/bookmarks-favorites)
 * [Linkstash](http://www.xrayz.co.uk)
 * [LiveBinders](http://www.livebinders.com)
-* [Memit](http://www.memit.com)
 * [Memonic](http://www.memonic.com)
 * [Microsoft OneNote](http://office.microsoft.com/en-us/onenote)
 * [mochimarks](https://mochimarks.com)
