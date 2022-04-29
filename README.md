@@ -1347,7 +1347,6 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-Table-of-Contents) Bookmarking
 
 * [Bibsonomy](http://www.bibsonomy.org)
-* [BonzoBox](http://bonzobox.com)
 * [Booky](http://booky.io)
 * [Candybank](https://www.candybank.com)
 * [ChannelKit](http://channelkit.com)
