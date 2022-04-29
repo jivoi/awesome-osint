@@ -1347,13 +1347,13 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-Table-of-Contents) Bookmarking
 
 * [Bibsonomy](http://www.bibsonomy.org)
+* [BookmarkOS](https://bookmarkos.com)
 * [Booky](http://booky.io)
 * [Candybank](https://www.candybank.com)
 * [ChannelKit](http://channelkit.com)
 * [Clipix](https://www.clipix.com)
 * [Curabase](https://www.curabase.com)
 * [Diigo](https://www.diigo.com)
-* [Dragdis](https://dragdis.com)
 * [Evernote](http://evernote.com)
 * [Dropmark](http://www.dropmark.com)
 * [eLink](https://elink.io)
