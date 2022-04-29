@@ -1366,7 +1366,6 @@ algorithms, knowledgebase and AI technology.
 * [LiveBinders](http://www.livebinders.com)
 * [Memonic](http://www.memonic.com)
 * [Microsoft OneNote](http://office.microsoft.com/en-us/onenote)
-* [mochimarks](https://mochimarks.com)
 * [Papaly](https://papaly.com)
 * [Paperwork](https://github.com/twostairs/paperwork)
 * [Pearltrees](http://www.pearltrees.com)
