@@ -245,7 +245,6 @@ algorithms, knowledgebase and AI technology.
 * [ivpaste](https://Ivpaste.com)
 * [jsbin](https://Jsbin.com)
 * [justpaste](https://Justpaste.it)
-* [mysticpaste](https://Mysticpaste.com) - ⚠️ SSL issue
 * [0bin](https://0bin.net)
 * [Obin](https://Obin.net)
 * [paste.debian](https://Paste.debian.net)
