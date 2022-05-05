@@ -1521,6 +1521,7 @@ algorithms, knowledgebase and AI technology.
 * [Presentation Next](http://www.presentationnext.net)
 * [presenterswall](http://www.presenterswall.com)
 * [Prezi](https://prezi.com)
+* [schnaq](https://schnaq.com)
 * [Slidedog](http://slidedog.com)
 * [Slideidea](http://slideidea.com)
 * [SlidePresenter](http://www.slidepresenter.com)
