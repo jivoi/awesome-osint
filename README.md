@@ -1566,7 +1566,6 @@ algorithms, knowledgebase and AI technology.
 * [Interlude](https://interlude.fm)
 * [Klynt](http://www.klynt.net)
 * [MakeBeliefsComix](http://www.makebeliefscomix.com)
-* [Metta](http://www.metta.io)
 * [Neatline](http://neatline.org)
 * [Odyssey](https://cartodb.github.io/odyssey.js)
 * [Pageflow](http://pageflow.io)
