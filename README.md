@@ -126,7 +126,7 @@ Thanks to our main contributors
 * [Teoma](http://www.teoma.com) - Teoma (from Scottish Gaelic teòma "expert") was an Internet search engine founded in April 2000 by Professor Apostolos Gerasoulis and his colleagues at Rutgers University in New Jersey.
 * [Wolfram Alpha](http://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
 algorithms, knowledgebase and AI technology.
-* [Yahoo! Search](http://www.yahoo.com) -
+* [Yahoo! Search](http://www.yahoo.com)
 
 ## [↑](#-Table-of-Contents) Main National Search Engines
 
