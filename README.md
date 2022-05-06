@@ -780,7 +780,7 @@ algorithms, knowledgebase and AI technology.
 * [Verisign](http://dnssec-debugger.verisignlabs.com)
 * [ViewDNS.info](http://viewdns.info)
 * [You Get Signal](http://www.yougetsignal.com)
-* [WiGLE](https://wigle.net/)
+* [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
 * [urlscan](https://urlscan.io/)
 
 ## [↑](#-Table-of-Contents) Keywords Discovery and Research
