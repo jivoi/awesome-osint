@@ -648,7 +648,7 @@ algorithms, knowledgebase and AI technology.
 * [Morningstar Research](http://library.morningstar.com)
 * [Notablist](https://www.notablist.com)
 * [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
-* [opencorporates](https://opencorporates.com)
+* [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
 * [OpenOwnership Register](https://register.openownership.org/)
 * [Owler](https://www.owler.com)
 * [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
