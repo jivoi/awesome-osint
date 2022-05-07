@@ -595,7 +595,7 @@ algorithms, knowledgebase and AI technology.
 * [Internet Experts](http://www.internetexperts.info)
 * [Library of Congress: Ask a Librarian](http://www.loc.gov/rr/askalib)
 * [Maven](http://www.maven.co)
-* [MuckRack](http://muckrack.com)
+* [MuckRack](http://muckrack.com) - Extensive database of U.S. government public records obtained through federal and state public records requests. Automated tool that will make public records requests and follow up until records are obtained on your behalf.
 * [National Speakers Association](http://www.nsaspeaker.org)
 * [Newswise](http://www.newswise.com)
 * [Patent Attorneys/Agent Search](https://oedci.uspto.gov/OEDCI/) - Official listing of U.S. attorneys qualified to represent individuals in U.S. patent office proceedings.
