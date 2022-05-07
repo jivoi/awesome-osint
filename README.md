@@ -598,7 +598,7 @@ algorithms, knowledgebase and AI technology.
 * [MuckRack](http://muckrack.com)
 * [National Speakers Association](http://www.nsaspeaker.org)
 * [Newswise](http://www.newswise.com)
-* [Patent Attorneys/Agent Search](https://oedci.uspto.gov/OEDCI/)
+* [Patent Attorneys/Agent Search](https://oedci.uspto.gov/OEDCI/) - Official listing of U.S. attorneys qualified to represent individuals in U.S. patent office proceedings.
 * [PRNewswire](https://prnmedia.prnewswire.com)
 * [ReseacherID](http://www.researcherid.com)
 * [SheSource](http://www.shesource.org)
