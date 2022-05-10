@@ -126,7 +126,7 @@ Thanks to our main contributors
 * [Teoma](http://www.teoma.com) - Teoma (from Scottish Gaelic teòma "expert") was an Internet search engine founded in April 2000 by Professor Apostolos Gerasoulis and his colleagues at Rutgers University in New Jersey.
 * [Wolfram Alpha](http://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
 algorithms, knowledgebase and AI technology.
-* [Yahoo! Search](http://www.yahoo.com) -
+* [Yahoo! Search](http://www.yahoo.com)
 
 ## [↑](#-Table-of-Contents) Main National Search Engines
 
@@ -595,10 +595,10 @@ algorithms, knowledgebase and AI technology.
 * [Internet Experts](http://www.internetexperts.info)
 * [Library of Congress: Ask a Librarian](http://www.loc.gov/rr/askalib)
 * [Maven](http://www.maven.co)
-* [MuckRack](http://muckrack.com)
+* [MuckRack](http://muckrack.com) - Extensive database of U.S. government public records obtained through federal and state public records requests. Automated tool that will make public records requests and follow up until records are obtained on your behalf.
 * [National Speakers Association](http://www.nsaspeaker.org)
 * [Newswise](http://www.newswise.com)
-* [Patent Attorneys/Agent Search](https://oedci.uspto.gov/OEDCI/)
+* [Patent Attorneys/Agent Search](https://oedci.uspto.gov/OEDCI/) - Official listing of U.S. attorneys qualified to represent individuals in U.S. patent office proceedings.
 * [PRNewswire](https://prnmedia.prnewswire.com)
 * [ReseacherID](http://www.researcherid.com)
 * [SheSource](http://www.shesource.org)
@@ -625,7 +625,7 @@ algorithms, knowledgebase and AI technology.
 * [Corporate Information](http://www.corporateinformation.com)
 * [CrunchBase](https://www.crunchbase.com)
 * [Data.com Connect](https://connect.data.com)
-* [EDGAR Online](http://www.edgar-online.com)
+* [EDGAR U.S. Securities and Exchange Commission Filings](http://www.edgar-online.com) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
 * [Europages](http://www.europages.co.uk)
 * [European Business Register](http://www.ebr.org)
 * [Ezilon](http://www.ezilon.com)
@@ -648,7 +648,7 @@ algorithms, knowledgebase and AI technology.
 * [Morningstar Research](http://library.morningstar.com)
 * [Notablist](https://www.notablist.com)
 * [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
-* [opencorporates](https://opencorporates.com)
+* [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
 * [OpenOwnership Register](https://register.openownership.org/)
 * [Owler](https://www.owler.com)
 * [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
@@ -780,7 +780,7 @@ algorithms, knowledgebase and AI technology.
 * [Verisign](http://dnssec-debugger.verisignlabs.com)
 * [ViewDNS.info](http://viewdns.info)
 * [You Get Signal](http://www.yougetsignal.com)
-* [WiGLE](https://wigle.net/)
+* [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
 * [urlscan](https://urlscan.io/)
 
 ## [↑](#-Table-of-Contents) Keywords Discovery and Research
