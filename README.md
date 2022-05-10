@@ -538,7 +538,6 @@ algorithms, knowledgebase and AI technology.
 * [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
 * [ZabaSearch](https://www.zabasearch.com/)
 * [JailBase](https://www.jailbase.com/)
-* [Black Book Online](https://www.blackbookonline.info/)
 * [Mugshots](https://mugshots.com/)
 
 ## [↑](#-Table-of-Contents) E-mail Search / E-mail Check
