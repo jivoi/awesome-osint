@@ -621,8 +621,8 @@ algorithms, knowledgebase and AI technology.
 * [Company Registration Round the World](http://www.commercial-register.sg.ch/home/worldwide.html)
 * [Company Research Resources by Country Comparably](https://www.comparably.com)
 * [CompeteShark](http://competeshark.com)
-* [Corporate Information](http://www.corporateinformation.com)
-* [CrunchBase](https://www.crunchbase.com)
+* [Corporate Information](http://www.corporateinformation.com) - Aggregated information from publicly available sources on publicly traded companies worldwide.
+* [CrunchBase](https://www.crunchbase.com) - Detailed information on startup businesses, with a specific focus on funding sources and funding procedures used by specific businesses. 
 * [Data.com Connect](https://connect.data.com)
 * [EDGAR U.S. Securities and Exchange Commission Filings](http://www.edgar-online.com) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
 * [Europages](http://www.europages.co.uk)
@@ -659,7 +659,7 @@ algorithms, knowledgebase and AI technology.
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [Vault](http://www.vault.com)
 * [Xing](http://www.xing.com)
-* [Caselaw Access Project](https://case.law/)
+* [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.  
 * [BrownBook](https://www.brownbook.net/)
 * [CorporationWiki](https://www.corporationwiki.com/)
 * [GoodFirms](https://www.goodfirms.co/)
