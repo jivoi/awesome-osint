@@ -657,7 +657,7 @@ algorithms, knowledgebase and AI technology.
 * [Serpstat](https://serpstat.com)
 * [SpyFu](http://www.spyfu.com)
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
-* [Vault](http://www.vault.com)
+* [Vault](http://www.vault.com) - Well-known ranking of largest United States Corporations.
 * [Xing](http://www.xing.com)
 * [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.  
 * [BrownBook](https://www.brownbook.net/)
