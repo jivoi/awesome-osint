@@ -609,7 +609,6 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-Table-of-Contents) Company Research
 
 * [AllStocksLinks](http://www.allstocks.com/links)
-* [Battle of the Internet Giants](http://pennystocks.la/battle-of-internet-giants)
 * [Better Business Bureau](http://www.bbb.org)
 * [Bizeurope](http://www.bizeurope.com)
 * [Bloomberg](http://www.bloomberg.com/research/company/overview/overview.asp)
@@ -639,7 +638,7 @@ algorithms, knowledgebase and AI technology.
 * [iSpionage](https://www.ispionage.com)
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Knowledge guide to international company registration](http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
-* [Linkedin](https://www.linkedin.com)
+* [Linkedin](https://www.linkedin.com) - Commonly used social-media platform with a focus on professional profiles and recruitment. Spans a wide variety of industries. Very useful for gathering information on what specific individuals are active within an entity.
 * [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
 * [MarketVisual](http://www.marketvisual.com)
 * [Mergent Intellect](http://www.mergentintellect.com)
