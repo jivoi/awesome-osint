@@ -1109,6 +1109,7 @@ algorithms, knowledgebase and AI technology.
 * [Wikimapia](http://wikimapia.org)
 * [World Aeronautical Database](http://worldaerodata.com)
 * [WorldMap Harvard](http://worldmap.harvard.edu)
+* [Worldwide OSINT Tools Map](https://cipher387.github.io/osintmap/) - A global map of databases and OSINT sources by applicable location.
 * [ViaMichelin](http://www.viamichelin.com)
 * [Yahoo Maps](https://maps.yahoo.com)
 * [Zeemaps](https://www.zeemaps.com)
