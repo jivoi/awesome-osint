@@ -2021,7 +2021,6 @@ algorithms, knowledgebase and AI technology.
 * [Zoho Meeting](https://www.zoho.com/meeting)
 * [Zoom](https://zoom.us)
 * [Zulip](https://www.zulip.org)
-* [Zyncro](http://www.zyncro.com)
 
 ## [↑](#-Table-of-Contents) Calendars and Scheduling
 
@@ -2030,8 +2029,6 @@ algorithms, knowledgebase and AI technology.
 * [Calendly](https://calendly.com)
 * [Cozi](http://www.cozi.com)
 * [Doodle](http://doodle.com)
-* [Foogi](http://www.foogi.me)
-* [Meekan](https://meekan.com)
 * [Meetin.gs](http://www.meetin.gs)
 * [MyMemorizer](http://www.mymemorizer.com)
 * [ScheduleOnce](http://www.scheduleonce.com)
@@ -2049,7 +2046,6 @@ algorithms, knowledgebase and AI technology.
 * [Fast Idea Generator](http://diytoolkit.org/tools/fast-idea-generator-2)
 * [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
 * [Freeplane](http://freeplane.sourceforge.net/wiki/index.php/Main_Page)
-* [Germ](https://germ.io)
 * [GroupMap](http://www.groupmap.com)
 * [iMindMap](http://imindmap.com/products/imindmap)
 * [iMindQ](https://www.imindq.com)
@@ -2078,7 +2074,6 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-Table-of-Contents) Social Network Analysis
 
 * [Gephi](https://gephi.org)
-* [NodeXL](http://nodexl.codeplex.com)
 * [ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php)
 * [Sentinel Visualizer](http://www.fmsasg.com)
 * [Wynyard Group](https://wynyardgroup.com)
@@ -2129,7 +2124,6 @@ algorithms, knowledgebase and AI technology.
 * [Privazer](http://privazer.com)
 * [Proton Mail](https://protonmail.com)
 * [Qubes](https://www.qubes-os.org)
-* [Ricochet](https://ricochet.im)
 * [Script Safe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en)
 * [Securesha](https://securesha.re)
 * [Silent circle](https://www.silentcircle.com)
@@ -2140,10 +2134,8 @@ algorithms, knowledgebase and AI technology.
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird)
 * [Tor Project](https://www.torproject.org)
 * [uBlock Origin](https://github.com/gorhill/uBlock)
-* [Unseen.is](https://unseen.is)
 * [Wickr](https://wickr.com)
 * [WOT](https://www.mywot.com)
-* [VeraCrypt](https://veracrypt.codeplex.com)
 * [ZMail](http://zmail.sourceforge.net)
 
 ## [↑](#-Table-of-Contents) DNS
