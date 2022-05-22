@@ -1273,7 +1273,6 @@ algorithms, knowledgebase and AI technology.
 * [Bibsonomy](http://www.bibsonomy.org)
 * [BookmarkOS](https://bookmarkos.com)
 * [Booky](http://booky.io)
-* [Candybank](https://www.candybank.com)
 * [ChannelKit](http://channelkit.com)
 * [Clipix](https://www.clipix.com)
 * [Curabase](https://www.curabase.com)
@@ -1304,7 +1303,6 @@ algorithms, knowledgebase and AI technology.
 * [Thinkery](http://thinkery.me)
 * [Trackplanet](https://trackpanel.net)
 * [Wepware](http://www.wepware.com)
-* [xmarks](http://www.xmarks.com)
 * [Zotero](http://www.zotero.org)
 
 ## [↑](#-Table-of-Contents) Startpages
@@ -1366,7 +1364,6 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-Table-of-Contents) Note-taking
 
-* [Cherrytree](http://www.giuspen.com/cherrytree)
 * [Evernote](https://www.evernote.com)
 * [Fetchnotes](http://www.fetchnotes.com)
 * [Google Keep](https://keep.google.com)
@@ -1376,7 +1373,6 @@ algorithms, knowledgebase and AI technology.
 * [Listacular](http://www.bloomingsoft.com/listacular)
 * [Microsoft OneNote](https://www.onenote.com)
 * [Notebook](https://www.zoho.com/notebook)
-* [Scribble](http://scribble.wreally.com)
 * [Simplenote](http://simplenote.com)
 * [somnote](http://somcloud.com/about/somnote)
 * [Squid](http://squidnotes.com)
@@ -1406,7 +1402,6 @@ algorithms, knowledgebase and AI technology.
 * [FreeOffice](http://www.freeoffice.com)
 * [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
 * [GoogleDocs](https://www.google.com/docs/about)
-* [KingSoft](http://www.kingsoftstore.com)
 * [LibreOffice](https://www.libreoffice.org)
 * [MS Office](https://products.office.com)
 * [Office Online](https://chrome.google.com/webstore/detail/office-online/ndjpnladcallmjemlbaebfadecfhkepb/related)
@@ -1416,7 +1411,6 @@ algorithms, knowledgebase and AI technology.
 * [Scrivener](http://literatureandlatte.com/scrivener.php)
 * [TextExpander](https://smilesoftware.com/textexpander)
 * [UltraEdit](http://www.ultraedit.com)
-* [WriteApp](https://writeapp.me)
 
 ## [↑](#-Table-of-Contents) Slide Show and Presentation Tools
 
@@ -1427,11 +1421,9 @@ algorithms, knowledgebase and AI technology.
 * [GoogleDocs](https://docs.google.com)
 * [Haiku Deck](https://www.haikudeck.com)
 * [Keyonote](http://www.apple.com/de/mac/keynote)
-* [KingSoft](http://ksosoft.com/product/presentation-free.html)
 * [KnowledgeVision](http://www.knowledgevision.com)
 * [LibreOffice](https://www.libreoffice.org)
 * [Live Slides](https://www.liveslides.com)
-* [Mighty Meeting](http://www.mightymeeting.com)
 * [Movenote](http://www.movenote.com)
 * [MS Office](https://products.office.com)
 * [MySlidePresenter](http://www.myslidepresenter.com)
