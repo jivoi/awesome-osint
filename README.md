@@ -802,7 +802,6 @@ algorithms, knowledgebase and AI technology.
 * [Systran](http://www.systransoft.com)
 * [Translate.com](https://www.translate.com)
 * [Unbabel](https://unbabel.com)
-* [WorldLingo](http://www.worldlingo.com)
 * [WorldReference.com](http://www.wordreference.com)
 * [Yamli (Arabic Search Engine)](http://www.yamli.com)
 * [Yandex Translate](https://translate.yandex.ru)
