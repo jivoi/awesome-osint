@@ -727,7 +727,6 @@ algorithms, knowledgebase and AI technology.
 * [Threat Jammer](https://threatjammer.com) - Risk scoring service from curated threat intelligence data.
 * [urlQuery](http://urlquery.net)
 * [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
-* [Wappalyzer](https://wappalyzer.com)
 * [WebMeUp](http://webmeup.com)
 * [Website Informer](http://website.informer.com)
 * [WhatIsMyIPAddress](http://whatismyipaddress.com)
@@ -764,7 +763,6 @@ algorithms, knowledgebase and AI technology.
 * [CashedPages](http://www.cachedpages.com)
 * [CachedView](http://cachedview.com)
 * [stored.website](https://stored.website)
-* [Screenshots.com](http://www.screenshots.com)
 * [Wayback Machine](http://archive.org/web/web.php) - Explore the history of a website.
 * [Wayback Machine Archiver](https://github.com/jsvine/waybackpack)
 * [waybackpy](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
@@ -778,7 +776,6 @@ algorithms, knowledgebase and AI technology.
 * [Bing Translator](http://www.bing.com/translator)
 * [Dict.cn](http://dict.cn)
 * [Dictionary.com: Translation](http://translate.reference.com)
-* [FreeTranslation](http://www.freetranslation.com)
 * [Free Translator](http://www.free-translator.com)
 * [Free Website Translation](http://free-website-translation.com)
 * [Frengly](http://frengly.com)
@@ -791,7 +788,6 @@ algorithms, knowledgebase and AI technology.
 * [Inasentence](https://inasentence.me/) - Find Sentences from Words
 * [India Typing](https://indiatyping.com/index.php/translate/english-to-hindi)
 * [imTranslator](http://imtranslator.net/translation)
-* [iTranslate](http://www.itranslateapp.com)
 * [iTranslate Voice](http://itranslatevoice.com)
 * [Lexicool Translation](http://www.lexicool.com/translate.asp)
 * [Linguee](http://www.linguee.com)
@@ -833,7 +829,6 @@ algorithms, knowledgebase and AI technology.
 * [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
 * [TinEye](https://tineye.com) - Reverse image search engine.
 * [Websta](http://websta.me)
-* [Worldcam](http://www.worldc.am)
 * [Yahoo Image Search](https://images.search.yahoo.com)
 * [Yandex Images](https://www.yandex.com/images)
 * [Betaface](https://www.betaface.com/demo.html)
