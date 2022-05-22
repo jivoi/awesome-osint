@@ -524,8 +524,6 @@ algorithms, knowledgebase and AI technology.
 * [Email Format](http://email-format.com)
 * [EmailHippo](https://tools.verifyemailaddress.io)
 * [Email Permutator](https://www.polished.app/email-permutator/)
-* [EmailSearch.net](http://www.email-search.org/search-emails)
-* [Email Validator](https://chema.ga/emailvalidator/index.php)
 * [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
 * [Holehe](https://github.com/megadose/holehe)
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
@@ -535,7 +533,6 @@ algorithms, knowledgebase and AI technology.
 * [Pipl](https://pipl.com)
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
 * [ReverseGenie](http://www.reversegenie.com/email.php)
-* [TCIPUTILS.com Email Test](http://www.tcpiputils.com/email-test)
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup)
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
@@ -558,7 +555,6 @@ algorithms, knowledgebase and AI technology.
 * [Academia](http://academia.edu)
 * [CanLaw](http://www.canlaw.com)
 * [ExpertiseFinder](http://www.expertisefinder.com)
-* [ExpertGuide](http://www.expertguide.com.au)
 * [ExpertPages](http://expertpages.com)
 * [Experts.com](http://www.experts.com)
 * [HARO](http://www.helpareporter.com)
@@ -598,7 +594,6 @@ algorithms, knowledgebase and AI technology.
 * [CompeteShark](http://competeshark.com)
 * [Corporate Information](http://www.corporateinformation.com)
 * [CrunchBase](https://www.crunchbase.com)
-* [Data.com Connect](https://connect.data.com)
 * [EDGAR U.S. Securities and Exchange Commission Filings](https://www.sec.gov/edgar/searchedgar/companysearch.html) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
 * [Europages](http://www.europages.co.uk)
 * [European Business Register](http://www.ebr.org)
