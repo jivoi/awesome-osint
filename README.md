@@ -1740,7 +1740,6 @@ algorithms, knowledgebase and AI technology.
 * [Mozy](http://mozy.com)
 * [Multicloud](https://www.multcloud.com)
 * [Onedrive](https://onedrive.live.com)
-* [Onehub](https://www.onehub.com)
 * [Otixo](http://www.otixo.com)
 * [pCloud](https://www.pcloud.com)
 * [Sendthisfile](https://www.sendthisfile.com)
