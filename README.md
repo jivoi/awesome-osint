@@ -1589,7 +1589,6 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-Table-of-Contents) Image and Photo Editing
 
 * [Apple Photos](http://www.apple.com/osx/photos)
-* [Aviary](https://www.aviary.com)
 * [Befunky](https://www.befunky.com)
 * [Croppola](http://croppola.com)
 * [FastSTone](http://www.faststone.org)
@@ -1647,7 +1646,6 @@ algorithms, knowledgebase and AI technology.
 * [Toodledo](https://www.toodledo.com)
 * [Tweek](https://tweek.so)
 * [Workflowy](https://workflowy.com)
-* [Wunderlist](https://www.wunderlist.com)
 
 ## [↑](#-Table-of-Contents) E-mail Management
 
@@ -1685,7 +1683,6 @@ algorithms, knowledgebase and AI technology.
 * [Investigative Dashboard Search](https://data.occrp.org)
 * [ManualsLib](https://www.manualslib.com/) - Database of More Than 2.6M Manuals.
 * [Mendeley](https://www.mendeley.com)
-* [Omnity](https://www.omnity.io)
 * [Overview](https://www.overviewdocs.com)
 * [Papers](http://papersapp.com)
 * [Readcube](https://www.readcube.com)
@@ -1722,21 +1719,17 @@ algorithms, knowledgebase and AI technology.
 * [Cloudapp](http://www.getcloudapp.com)
 * [CloudFuze](https://www.cloudfuze.com)
 * [CloudHQ](https://www.cloudhq.net)
-* [Copy](https://www.copy.com)
 * [Dropbox](https://www.dropbox.com)
-* [Dropcanvas](http://dropcanvas.com)
 * [Droplr](https://droplr.com)
 * [DropSend](http://www.dropsend.com)
 * [Duplicati](http://www.duplicati.com)
 * [Egnyte](http://www.egnyte.com)
-* [Ge.TT](http://ge.tt)
 * [GoodSync](http://www.goodsync.com)
 * [Google Drive](https://www.google.com/intl/nl/drive)
 * [hubiC](https://hubic.com)
 * [iCloud](https://www.icloud.com)
 * [Mediafire](https://www.mediafire.com)
 * [Mega](https://mega.nz)
-* [Mindbox](https://minbox.com)
 * [Mozy](http://mozy.com)
 * [Multicloud](https://www.multcloud.com)
 * [Onedrive](https://onedrive.live.com)
@@ -1754,10 +1747,8 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-Table-of-Contents) Web Automation
 
-* [Cloud Work](https://cloudwork.com)
 * [IFTTT](https://ifttt.com)
 * [Sikuli](http://www.sikuli.org)
-* [WeWiredWeb](https://wewiredweb.com)
 * [Workflow](https://workflow.is)
 * [Zapier](https://zapier.com)
 
@@ -1788,7 +1779,6 @@ algorithms, knowledgebase and AI technology.
 * [TWiki](http://twiki.org)
 * [Wikia](http://www.wikia.com/Wikia)
 * [Wikidot](http://www.wikidot.com)
-* [Wikispaces](http://www.wikispaces.com)
 * [wikidPad](http://wikidpad.sourceforge.net)
 * [Zim](http://zim-wiki.org/downloads.html)
 
