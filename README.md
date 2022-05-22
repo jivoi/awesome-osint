@@ -158,7 +158,6 @@ algorithms, knowledgebase and AI technology.
 * [FaganFinder](http://www.faganfinder.com/engines)
 * [Goofram](http://www.goofram.com)
 * [iZito](http://www.izito.com)
-* [Nextaris](http://www.nextaris.com)
 * [Myallsearch](http://www.myallsearch.com)
 * [Qwant](http://www.qwant.com)
 * [Zapmeta](http://www.zapmeta.com)
@@ -233,7 +232,6 @@ algorithms, knowledgebase and AI technology.
 * [cl1p](https://Cl1p.net)
 * [codepad](http://codepad.org)
 * [controlc](https://Controlc.com)
-* [doxbin](https://Doxbin.org)
 * [dpaste](https://Dpaste.com)
 * [dpaste2](https://Dpaste.org)
 * [dumpz](https://Dumpz.org)
@@ -250,7 +248,6 @@ algorithms, knowledgebase and AI technology.
 * [paste.ee](https://Paste.ee)
 * [paste.centos](https://paste.centos.org)
 * [paste.kde](https://Paste.kde.org)
-* [paste.lisp](https://Paste.lisp.org) - ⚠️ SSL issue
 * [Rentry](https://rentry.co/)
 
 
@@ -297,7 +294,6 @@ algorithms, knowledgebase and AI technology.
 * [Hootsuite](http://hootsuite.com)
 * [Hashtatit](http://www.hashatit.com)
 * [Klear](http://klear.com)
-* [Kred](http://kred.com)
 * [IDCrawl](https://www.idcrawl.com/) - Search for a name in popular social networks.
 * [MustBePresent](http://mustbepresent.com)
 * [Netvibes](http://www.netvibes.com)
@@ -324,7 +320,6 @@ algorithms, knowledgebase and AI technology.
 * [Alldaytrends](https://alldaytrends.com) - A website where you can find trending hashtags.
 * [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
 * [Blue Nod](http://bluenod.com)
-* [burrrd.](https://burrrd.com)
 * [doesfollow](https://doesfollow.com)
 * [Fake Follower Check](https://fakers.statuspeople.com)
 * [First Tweet](http://ctrlq.org/first)
