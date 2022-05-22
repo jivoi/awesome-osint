@@ -237,7 +237,7 @@ algorithms, knowledgebase and AI technology.
 * [dpaste](https://Dpaste.com)
 * [dpaste2](https://Dpaste.org)
 * [dumpz](https://Dumpz.org)
-* [GitHub gist](https://https://gist.github.com)
+* [GitHub gist](https://gist.github.com)
 * [hastebin](https://www.toptal.com/developers/hastebin/)
 * [heypasteit](https://Heypasteit.com)
 * [ideone](https://Ideone.com)
