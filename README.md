@@ -599,7 +599,7 @@ algorithms, knowledgebase and AI technology.
 * [Corporate Information](http://www.corporateinformation.com)
 * [CrunchBase](https://www.crunchbase.com)
 * [Data.com Connect](https://connect.data.com)
-* [EDGAR U.S. Securities and Exchange Commission Filings](http://www.edgar-online.com) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
+* [EDGAR U.S. Securities and Exchange Commission Filings](https://www.sec.gov/edgar/searchedgar/companysearch.html) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
 * [Europages](http://www.europages.co.uk)
 * [European Business Register](http://www.ebr.org)
 * [Ezilon](http://www.ezilon.com)
