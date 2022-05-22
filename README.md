@@ -429,13 +429,10 @@ algorithms, knowledgebase and AI technology.
 * [Barkov.net](http://vk.barkov.net)
 * [Report Tree](http://dcpu.ru/vk_repost_tree.php)
 * [Snradar](http://snradar.azurewebsites.net) - Search pictures by time and location they were taken
-* [Target Hunter](https://targethunter.net)
-* [Target Log](http://targetolog.com)
 * [VK5](http://vk5.city4me.com)
 * [VK Community Search](http://vk.com/communities)
 * [VK Parser](http://vkparser.ru) - A tool to search for a target audience and potential customers.
 * [VK People Search](http://vk.com/people)
-* [VK to RSS Appspot](http://vk-to-rss.appspot.com)
 * [VK.watch](https://vk.watch/)
 
 ### [↑](#-Table-of-Contents) Tumblr
@@ -457,7 +454,6 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-Table-of-Contents) Blog Search
 
 * [BlogSearchEngine](http://www.blogsearchengine.org)
-* [Icerocket](http://www.icerocket.com)
 * [Notey](http://www.notey.com) - Blog post search engine.
 * [Sphere](https://www.sphere.com)
 * [Twingly](http://www.twingly.com)
@@ -508,7 +504,6 @@ algorithms, knowledgebase and AI technology.
 * [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent.
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Kompass](http://www.kompass.com) - Business directory and search.
-* [My Life People Search](https://www.mylife.com/people-search) - People search. Limited free info, premium data upsell.
 * [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
 * [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
 * [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
