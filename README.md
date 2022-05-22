@@ -357,7 +357,6 @@ algorithms, knowledgebase and AI technology.
 * [tweepsect](http://tweepsect.com)
 * [TweetArchivist](http://www.tweetarchivist.com)
 * [TweetDeck](https://www.tweetdeck.com)
-* [Tweeten](http://tweeten.xyz)
 * [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 * [TweetMap](http://worldmap.harvard.edu/tweetmap)
 * [TweetPsych](http://tweetpsych.com)
@@ -365,13 +364,11 @@ algorithms, knowledgebase and AI technology.
 * [TweetStats](http://www.tweetstats.com)
 * [TweetTunnel](http://tweettunnel.com)
 * [Twellow](http://www.twellow.com)
-* [Tweriod](http://www.tweriod.com)
 * [Twiangulate](http://www.twiangulate.com)
 * [Twicsy](http://twicsy.com)
 * [Twilert](http://www.twilert.com)
 * [Twipho](http://www.twipho.net)
 * [Twitonomy](http://www.twitonomy.com)
-* [TwitRSS](https://twitrss.me)
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
 * [Twitter Audit](https://www.twitteraudit.com)
 * [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule)
@@ -385,7 +382,6 @@ algorithms, knowledgebase and AI technology.
 
 * [Agora Pulse](http://barometer.agorapulse.com)
 * [Commun.it](http://commun.it)
-* [DumpItBlue](http://le-tools.com/DumpItBlue.html)
 * [Fanpage Karma](http://www.fanpagekarma.com)
 * [Facebook Friend List Scraper](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 * [Facebook Search](http://search.fb.com/)
@@ -405,7 +401,6 @@ algorithms, knowledgebase and AI technology.
 * [Social Rank](https://www.socialrank.com)
 * [Sterra](https://github.com/novitae/sterraxcyl)
 * [Toutatis](https://github.com/megadose/toutatis)
-* [Worldcam](http://worldc.am)
 * [SearchMyBio](https://www.searchmy.bio/)
 
 ### [↑](#-Table-of-Contents) Pinterest
