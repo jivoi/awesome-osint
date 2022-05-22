@@ -321,10 +321,8 @@ algorithms, knowledgebase and AI technology.
 * [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
 * [Blue Nod](http://bluenod.com)
 * [doesfollow](https://doesfollow.com)
-* [Fake Follower Check](https://fakers.statuspeople.com)
 * [First Tweet](http://ctrlq.org/first)
 * [Foller.me](http://foller.me)
-* [FollowCheck](http://followcheck.com)
 * [Followerwonk](http://followerwonk.com)
 * [Geochirp](http://www.geochirp.com)
 * [GeoSocial Footprint](http://geosocialfootprint.com)
@@ -340,7 +338,6 @@ algorithms, knowledgebase and AI technology.
 * [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
 * [Nations24](https://nations24.com)
 * [OneMillionTweetMap](http://onemilliontweetmap.com)
-* [Queryfeed](https://queryfeed.net)
 * [Rank Speed](http://www.rankspeed.com)
 * [Riffle](http://crowdriff.com/riffle/)
 * [RiteTag](https://ritetag.com)
@@ -351,12 +348,10 @@ algorithms, knowledgebase and AI technology.
 * [Social Rank First Follower](http://socialrank.com/firstfollower)
 * [Spoonbill](http://spoonbill.io)
 * [Tagdef](https://tagdef.com)
-* [TeachingPrivacy](http://app.teachingprivacy.com)
 * [Tinfoleak](https://tinfoleak.com)
 * [Trends Predictions](https://trendspredictions.com/) - A tool for discovering new trending topics.
 * [Trends24](http://trends24.in)
 * [TrendsMap](http://trendsmap.com)
-* [Ttrends](https://ttrends.co)
 * [twbirthday](http://twbirthday.com)
 * [TwChat](http://twchat.com)
 * [tweepsect](http://tweepsect.com)
