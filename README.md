@@ -339,7 +339,6 @@ algorithms, knowledgebase and AI technology.
 * [Nations24](https://nations24.com)
 * [OneMillionTweetMap](http://onemilliontweetmap.com)
 * [Rank Speed](http://www.rankspeed.com)
-* [Riffle](http://crowdriff.com/riffle/)
 * [RiteTag](https://ritetag.com)
 * [Sentiment140](http://www.twittersentiment.appspot.com)
 * [SnapBird](http://snapbird.org)
@@ -1001,7 +1000,6 @@ algorithms, knowledgebase and AI technology.
 * [Tinderizer](http://tinderizer.com)
 * [Vuibo](https://vuibo.com)
 * [WhatShouldIReadNext](http://www.whatshouldireadnext.com)
-* [YourNextRead](http://www.yournextread.com)
 
 ## [↑](#-Table-of-Contents) Geospatial Research and Mapping Tools
 
@@ -1021,7 +1019,6 @@ algorithms, knowledgebase and AI technology.
 * [Google Earth](http://www.google.com/earth)
 * [Google Earth Pro](https://www.google.com/intl/en/earth/versions/#earth-pro)
 * [Google Maps](https://www.google.com/maps)
-* [Google Maps Streetview Player](http://brianfolts.com/driver)
 * [Google My Maps](https://www.google.com/maps/about/mymaps)
 * [GPSVisualizer](http://www.gpsvisualizer.com)
 * [GrassGIS](http://grass.osgeo.org)
@@ -1034,7 +1031,6 @@ algorithms, knowledgebase and AI technology.
 * [Leaflet](http://leafletjs.com)
 * [MapAList](http://mapalist.com)
 * [MapBox](https://www.mapbox.com)
-* [Mapbuildr](https://mapbuildr.com)
 * [Mapchart.net](https://mapchart.net)
 * [Maperitive](http://maperitive.net)
 * [MapHub](https://maphub.net)
@@ -1053,7 +1049,6 @@ algorithms, knowledgebase and AI technology.
 * [SAS Planet](http://www.sasgis.org/sasplaneta/)  - Software used to view, download and stitch satellite images.
 * [StoryMaps](http://storymaps.arcgis.com/en)
 * [Scribble Maps](http://scribblemaps.com)
-* [Terrapattern](http://www.terrapattern.com)
 * [Tableau](http://www.tableausoftware.com)
 * [Timescape](https://www.timescape.io)
 * [View in Google Earth](http://www.mgmaps.com/kml/#view)
