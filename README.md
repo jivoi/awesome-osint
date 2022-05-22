@@ -715,7 +715,6 @@ algorithms, knowledgebase and AI technology.
 * [RedirectDetective](http://redirectdetective.com)
 * [Remote DNS Lookup](https://remote.12dt.com)
 * [Robtex](https://www.robtex.com)
-* [Spyse](https://spyse.com/) - Scans entire internet using OSINT and collects all valuable info in its own database: Ipv4 hosts, domains/Meta/Whois, AS, TLS/SSL, Ports/Banners/Protocols, technologies, OS and much other info.
 * [SameID](http://sameid.net)
 * [SecurityTrails](https://securitytrails.com/dns-trails) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
 * [SEMrush](https://www.semrush.com)
@@ -725,7 +724,6 @@ algorithms, knowledgebase and AI technology.
 * [SmallSEOTools](http://smallseotools.com)
 * [StatsCrop](http://www.statscrop.com)
 * [Squatm3gator](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
-* [TCPIPUTILS.com](http://www.tcpiputils.com)
 * [Threat Jammer](https://threatjammer.com) - Risk scoring service from curated threat intelligence data.
 * [urlQuery](http://urlquery.net)
 * [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
