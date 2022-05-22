@@ -1784,7 +1784,7 @@ algorithms, knowledgebase and AI technology.
 * [Scribbleton](http://scribbleton.com)
 * [TiddlyWiki](http://tiddlywiki.com)
 * [Tiki Wiki](https://info.tiki.org)
-* [Torchpad](https://torchpad.com)
+* [Torchpad](http://torchpad.com/)
 * [TWiki](http://twiki.org)
 * [Wikia](http://www.wikia.com/Wikia)
 * [Wikidot](http://www.wikidot.com)
