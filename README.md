@@ -234,6 +234,7 @@ algorithms, knowledgebase and AI technology.
 * [controlc](https://Controlc.com)
 * [dpaste](https://Dpaste.com)
 * [dpaste2](https://Dpaste.org)
+* [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers
 * [dumpz](https://Dumpz.org)
 * [GitHub gist](https://gist.github.com)
 * [hastebin](https://www.toptal.com/developers/hastebin/)
@@ -243,12 +244,12 @@ algorithms, knowledgebase and AI technology.
 * [jsbin](https://Jsbin.com)
 * [justpaste](https://Justpaste.it)
 * [0bin](https://0bin.net)
-* [Obin](https://Obin.net)
 * [paste.debian](https://Paste.debian.net)
 * [paste.ee](https://Paste.ee)
 * [paste.centos](https://paste.centos.org)
 * [paste.kde](https://Paste.kde.org)
 * [Rentry](https://rentry.co/)
+* [Skidbin](https://skidbin.net/) - A dox style pastebin ran by hackers
 
 
 ## [↑](#-Table-of-Contents) Code Search
