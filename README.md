@@ -358,8 +358,6 @@ algorithms, knowledgebase and AI technology.
 * [TweetDeck](https://www.tweetdeck.com)
 * [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 * [TweetMap](http://worldmap.harvard.edu/tweetmap)
-* [TweetPsych](http://tweetpsych.com)
-* [Tweetreach](http://tweetreach.com)
 * [TweetStats](http://www.tweetstats.com)
 * [TweetTunnel](http://tweettunnel.com)
 * [Twellow](http://www.twellow.com)
