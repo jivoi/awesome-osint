@@ -670,6 +670,7 @@ algorithms, knowledgebase and AI technology.
 * [Accuranker](https://www.accuranker.com)
 * [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
 * [Alexa](http://www.alexa.com)
+* [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID 
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 * [BuiltWith](http://builtwith.com)
 * [Central Ops](http://centralops.net)
