@@ -87,6 +87,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Social Network Analysis](#-social-network-analysis)
  - [Privacy and Encryption Tools](#-privacy-and-encryption-tools)
  - [DNS](#-dns)
+ - [Maritime](#-maritime)
  - [Other Tools](#-other-tools)
  - [Threat Intelligence](#-threat-intelligence)
  - [OSINT Videos](#-osint-videos)
@@ -387,6 +388,7 @@ algorithms, knowledgebase and AI technology.
 * [Lookup-ID.com](https://lookup-id.com)
 * [SearchIsBack](https://searchisback.com)
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
+* [haveibeenzuckered](https://haveibeenzuckered.com/) - A large dataset containing 533 million Facebook accounts was made available for download. The data was obtained by exploiting a vulnerability that was, according to Facebook, corrected in August 2019. Check if a telephone number is present within the Facebook data breach.
 
 ### [↑](#-Table-of-Contents) Instagram
 
@@ -536,7 +538,6 @@ algorithms, knowledgebase and AI technology.
 * [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 
 ## [↑](#-Table-of-Contents) Phone Number Research
-* [National Cellular Directory](https://www.nationalcellulardirectory.com/) - was created to help people research and reconnect with one another by performing cell phone lookups. The lookup products includes have billions of records that can be accessed at any time, as well as free searches one hour a day, every day.
 * [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
 * [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 * [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
@@ -892,6 +893,7 @@ algorithms, knowledgebase and AI technology.
 * [YouTube Metadata](https://mattw.io/youtube-metadata/)
 * [YouTube Geofind](https://mattw.io/youtube-geofind/)
 * [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
+* [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 
 ## [↑](#-Table-of-Contents) Radio and Podcasts Tools
 
@@ -2095,6 +2097,10 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-Table-of-Contents) DNS
 * [Amass](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
 * [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting.
+
+## [↑](#-Table-of-Contents) Martime
+
+* [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
 
 ## [↑](#-Table-of-Contents) Other Tools
 
