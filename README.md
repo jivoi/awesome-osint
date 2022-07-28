@@ -351,6 +351,7 @@ algorithms, knowledgebase and AI technology.
 * [Trends Predictions](https://trendspredictions.com/) - A tool for discovering new trending topics.
 * [Trends24](http://trends24.in)
 * [TrendsMap](http://trendsmap.com)
+* [Todaytagz](https://todaytagz.com)
 * [twbirthday](http://twbirthday.com)
 * [TwChat](http://twchat.com)
 * [tweepsect](http://tweepsect.com)
