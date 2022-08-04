@@ -798,6 +798,7 @@ algorithms, knowledgebase and AI technology.
 * [PROMT-Online](http://translation2.paralink.com)
 * [Reddit/r/translator](https://www.reddit.com/r/translator)
 * [Reverso](http://www.reverso.net)
+* [Sentence Stack](https://sentencestack.com/) - Sentence search engine with grammar check, translation, and idiom detection.
 * [Slangit](http://slangit.com)
 * [Systran](http://www.systransoft.com)
 * [Translate.com](https://www.translate.com)
