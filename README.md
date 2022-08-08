@@ -831,6 +831,7 @@ algorithms, knowledgebase and AI technology.
 * [Yandex Images](https://www.yandex.com/images)
 * [Betaface](https://www.betaface.com/demo.html)
 * [Search4faces](https://search4faces.com/)
+* [PImEyes](https://pimeyes.com)
 
 ## [↑](#-Table-of-Contents) Image Analysis
 
