@@ -2171,6 +2171,7 @@ urls and other data effortlessly
 
 ## [↑](#-Table-of-Contents) Other Resources
 
+* [Bellingcat's Online Investigation Toolkit](http://bit.ly/bcattools)
 * [OSINT Dojo](https://www.osintdojo.com/resources/)
 * [OSINT Belarus](https://t.me/s/osintby)
 * [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
