@@ -2171,8 +2171,7 @@ urls and other data effortlessly
 
 ## [↑](#-Table-of-Contents) Other Resources
 
-* [Bellingcat Online Researcher Survey: Tool Wishes
-](https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit#gid=1378107220)
+* [Bellingcat Online Researcher Survey: Tool Wishes](https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit#gid=1378107220) — Wishlist of OSINT tools from a February Bellingcat survey. 
 * [OSINT Dojo](https://www.osintdojo.com/resources/)
 * [OSINT Belarus](https://t.me/s/osintby)
 * [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
