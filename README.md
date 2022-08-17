@@ -2171,7 +2171,7 @@ urls and other data effortlessly
 
 ## [↑](#-Table-of-Contents) Other Resources
 
-* [Bellingcat's Online Investigation Toolkit](http://bit.ly/bcattools)
+* [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022. 
 * [OSINT Dojo](https://www.osintdojo.com/resources/)
 * [OSINT Belarus](https://t.me/s/osintby)
 * [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
