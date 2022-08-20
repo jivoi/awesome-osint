@@ -847,6 +847,7 @@ algorithms, knowledgebase and AI technology.
 * [Forensically](https://29a.ch/photo-forensics/)
 * [DiffChecker](https://www.diffchecker.com/image-diff/)
 * [ImgOps](https://imgops.com/)
+* [ExifLooter](https://github.com/aydinnyunus/exiflooter)
 
 ## [↑](#-Table-of-Contents) Stock Images
 
