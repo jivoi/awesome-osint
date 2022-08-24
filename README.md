@@ -1696,6 +1696,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-Table-of-Contents) PDF Management
 
 * [Foxit Reader](https://www.foxitsoftware.com/products/pdf-reader)
+* [html2pdfrocket](https://html2pdfrocket.com) - Online HTML to PDF Converter
 * [ilovepdf](http://www.ilovepdf.com)
 * [PDFExpert](https://pdfexpert.com)
 * [PDFx](http://www.metachris.com/pdfx)
