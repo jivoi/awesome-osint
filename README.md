@@ -956,6 +956,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-Table-of-Contents) Books and Reading
 
 * [Amazon Cheap Books](http://www.amazon.com/b?tag=mak041-20&linkCode=as2&ie=UTF8&node=2245146011)
+* [BingeBooks](https://www.bingebooks.com)
 * [Blinkist](https://www.blinkist.com)
 * [Bookbub](https://www.bookbub.com)
 * [Bookbrowse](https://www.bookbrowse.com)
