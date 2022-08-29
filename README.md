@@ -838,6 +838,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-Table-of-Contents) Image Analysis
 
+* [ExifLooter](https://github.com/aydinnyunus/exiflooter)
 * [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
 * [Exif Search](http://www.exif-search.com)
 * [FotoForensics](http://www.fotoforensics.com)
