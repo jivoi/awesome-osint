@@ -167,6 +167,7 @@ algorithms, knowledgebase and AI technology.
 *Search engines for specific information or topics.*
 
 * [2lingual Search](http://www.2lingual.com)
+* [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
 * [Biznar](http://biznar.com)
 * [CiteSeerX](http://citeseer.ist.psu.edu)
 * [Google Custom Search](http://www.google.com/cse)
@@ -2111,6 +2112,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
 * [Belati](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+* [BeVigil-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
 * [CrowdSec](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 * [DuckDuckGo URL scraper](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper. 
@@ -2172,9 +2174,12 @@ urls and other data effortlessly
 
 ## [↑](#-Table-of-Contents) Other Resources
 
+* [Bellingcat's Online Investigation Toolkit](http://bit.ly/bcattools)
+* [Bellingcat Online Researcher Survey: Tool Wishes](https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit#gid=1378107220) — Wishlist of OSINT tools from a February Bellingcat survey. 
 * [OSINT Dojo](https://www.osintdojo.com/resources/)
 * [OSINT Belarus](https://t.me/s/osintby)
 * [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
+* [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022. 
 
 ## [↑](#-Table-of-Contents) Project Management Tools
 
