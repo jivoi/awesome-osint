@@ -351,6 +351,7 @@ algorithms, knowledgebase and AI technology.
 * [Trends Predictions](https://trendspredictions.com/) - A tool for discovering new trending topics.
 * [Trends24](http://trends24.in)
 * [TrendsMap](http://trendsmap.com)
+* [Todaytagz](https://todaytagz.com)
 * [twbirthday](http://twbirthday.com)
 * [TwChat](http://twchat.com)
 * [tweepsect](http://tweepsect.com)
@@ -484,6 +485,7 @@ algorithms, knowledgebase and AI technology.
 * [User Search](http://www.usersearch.org)
 * [WhatsMyName](https://whatsmyname.app/)
 * [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
+* [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 
 ## [↑](#-Table-of-Contents) People Investigations
 
@@ -797,6 +799,7 @@ algorithms, knowledgebase and AI technology.
 * [PROMT-Online](http://translation2.paralink.com)
 * [Reddit/r/translator](https://www.reddit.com/r/translator)
 * [Reverso](http://www.reverso.net)
+* [Sentence Stack](https://sentencestack.com/) - Sentence search engine with grammar check, translation, and idiom detection.
 * [Slangit](http://slangit.com)
 * [Systran](http://www.systransoft.com)
 * [Translate.com](https://www.translate.com)
@@ -830,6 +833,7 @@ algorithms, knowledgebase and AI technology.
 * [Yandex Images](https://www.yandex.com/images)
 * [Betaface](https://www.betaface.com/demo.html)
 * [Search4faces](https://search4faces.com/)
+* [PImEyes](https://pimeyes.com)
 
 ## [↑](#-Table-of-Contents) Image Analysis
 
@@ -2106,12 +2110,15 @@ algorithms, knowledgebase and AI technology.
 
 * [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
 * [Belati](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+* [CrowdSec](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 * [DuckDuckGo URL scraper](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper. 
 * [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.  
   * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
+* [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
+  * [LinkScope Client](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
 * [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 * [Hunchly](https://www.hunch.ly/) - Hunchly is a web capture tool designed specifically for online investigations.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
@@ -2126,10 +2133,10 @@ urls and other data effortlessly
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
-* [SpiderFoot](https://www.spiderfoot.net) - OSINT automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
+* [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
+  * [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 * [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
-* [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot is an open source intelligence (OSINT) automation tool.
 * [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 * [Sub3 Suite](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
@@ -2164,9 +2171,12 @@ urls and other data effortlessly
 
 ## [↑](#-Table-of-Contents) Other Resources
 
+* [Bellingcat's Online Investigation Toolkit](http://bit.ly/bcattools)
+* [Bellingcat Online Researcher Survey: Tool Wishes](https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit#gid=1378107220) — Wishlist of OSINT tools from a February Bellingcat survey. 
 * [OSINT Dojo](https://www.osintdojo.com/resources/)
 * [OSINT Belarus](https://t.me/s/osintby)
 * [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
+* [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022. 
 
 ## [↑](#-Table-of-Contents) Project Management Tools
 
