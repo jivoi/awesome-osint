@@ -1380,6 +1380,7 @@ algorithms, knowledgebase and AI technology.
 * [Listacular](http://www.bloomingsoft.com/listacular)
 * [Microsoft OneNote](https://www.onenote.com)
 * [Notebook](https://www.zoho.com/notebook)
+* [Obsidian](https://obsidian.md/)
 * [Simplenote](http://simplenote.com)
 * [somnote](http://somcloud.com/about/somnote)
 * [Squid](http://squidnotes.com)
