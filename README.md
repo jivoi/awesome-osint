@@ -320,6 +320,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Alldaytrends](https://alldaytrends.com) - A website where you can find trending hashtags.
 * [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
+* [Birdspotter](https://birdspotter.net) - A tool to automate Twitter searches.
 * [Blue Nod](http://bluenod.com)
 * [doesfollow](https://doesfollow.com)
 * [First Tweet](http://ctrlq.org/first)
