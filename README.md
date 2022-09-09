@@ -1968,7 +1968,7 @@ algorithms, knowledgebase and AI technology.
 * [StartMeeting](https://www.startmeeting.com)
 * [Talky](https://talky.io)
 * [Teamviewer](https://www.teamviewer.com)
-* [Telegram](https://telegram.org)
+* [Telegram](https://telegram.org) - is a secure and fast cloud-based mobile and desktop messaging platform.
 * [Tibbr](http://www.tibbr.com)
 * [Tixeo](https://www.tixeo.com/en/secure-video-conferencing)
 * [Toc](http://toc.im)
