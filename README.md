@@ -1524,7 +1524,7 @@ algorithms, knowledgebase and AI technology.
 * [Canva](https://www.canva.com)
 * [chartblocks](http://www.chartblocks.com)
 * [Chartico](http://chartico.com)
-* [Chart.js](http://www.chartjs.org)
+* [Chart.js](http://www.chartjs.org) - a javascript library that allows you to create charts easly
 * [Circos](http://circos.ca)
 * [creately](http://creately.com)
 * [Crossfilter](http://square.github.io/crossfilter)
