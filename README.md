@@ -1333,7 +1333,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-Table-of-Contents) Browsers
 
 * [Atom](https://browser.ru/)
-* [Brave](https://brave.com)
+* [Brave](https://brave.com) - is an open-source web browser that allows you to completely block ads and website trackers.
 * [CentBrowser](http://www.centbrowser.com)
 * [Chrome](https://www.google.com/chrome)
 * [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)
