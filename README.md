@@ -677,7 +677,7 @@ algorithms, knowledgebase and AI technology.
 * [Alexa](http://www.alexa.com)
 * [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID 
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
-* [BuiltWith](http://builtwith.com)
+* [BuiltWith](http://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 * [Central Ops](http://centralops.net)
 * [Dedicated or Not](http://dedicatedornot.com)
 * [DNSDumpster](https://dnsdumpster.com)
