@@ -1530,7 +1530,7 @@ algorithms, knowledgebase and AI technology.
 * [Crossfilter](http://square.github.io/crossfilter)
 * [csvkit](https://github.com/wireservice/csvkit)
 * [Data Visualization Catalogue](http://datavizcatalogue.com)
-* [D3js](https://d3js.org)
+* [D3js](https://d3js.org) - is a powerful data visualization javascript library.
 * [Datawrapper](https://datawrapper.de)
 * [Dropmark](http://www.dropmark.com)
 * [dygraphs](http://dygraphs.com)
