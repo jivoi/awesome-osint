@@ -681,7 +681,7 @@ algorithms, knowledgebase and AI technology.
 * [Central Ops](http://centralops.net)
 * [Dedicated or Not](http://dedicatedornot.com)
 * [DNSDumpster](https://dnsdumpster.com)
-* [DNS History](http://dnshistory.org)
+* [DNS History](https://completedns.com/dns-history/)
 * [DNSStuff](http://www.dnsstuff.com)
 * [DNSViz](http://dnsviz.net)
 * [Domain Crawler](http://www.domaincrawler.com)
