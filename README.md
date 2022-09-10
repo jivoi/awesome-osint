@@ -680,7 +680,7 @@ algorithms, knowledgebase and AI technology.
 * [BuiltWith](http://builtwith.com)
 * [Central Ops](http://centralops.net)
 * [Dedicated or Not](http://dedicatedornot.com)
-* [DNSDumpster](https://dnsdumpster.com)
+* [DNSDumpster](https://dnsdumpster.com) - is a website that will help you discover hosts related to a specific domain.
 * [DNS History](http://dnshistory.org)
 * [DNSStuff](http://www.dnsstuff.com)
 * [DNSViz](http://dnsviz.net)
