@@ -178,7 +178,7 @@ algorithms, knowledgebase and AI technology.
 * [Zanran](http://zanran.com)
 * [Intelligence X](https://intelx.io/tools)
 * [OCCRP Aleph](https://aleph.occrp.org/)
-* [Shodan](https://www.shodan.io/)
+* [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 * [Mamont](https://www.mmnt.ru/)
 * [GrayhatWarfare](https://grayhatwarfare.com/)
 * [WIPO](https://www3.wipo.int/branddb/en/)
