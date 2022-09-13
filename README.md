@@ -524,7 +524,7 @@ algorithms, knowledgebase and AI technology.
 * [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name. 
 * [Email Address Validator](http://www.email-validator.net)
 * [Email Format](http://email-format.com)
-* [EmailHippo](https://tools.verifyemailaddress.io)
+* [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
 * [Email Permutator](https://www.polished.app/email-permutator/)
 * [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
 * [Holehe](https://github.com/megadose/holehe)
