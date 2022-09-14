@@ -1603,7 +1603,7 @@ algorithms, knowledgebase and AI technology.
 * [FastSTone](http://www.faststone.org)
 * [Fotor](http://www.fotor.com)
 * [Foto Flexer](http://fotoflexer.com)
-* [Gimp](http://www.gimp.org)
+* [Gimp](http://www.gimp.org) - is a free and open-source cross-platform image editor software that can be used as an alternative for Adobe Photoshop.
 * [Hugin](http://hugin.sourceforge.net)
 * [Image Composite Editor](https://research.microsoft.com/en-us/um/redmond/projects/ice/)
 * [Image Tricks Lite](https://itunes.apple.com/us/app/image-tricks-lite/id403735824?mt=12)
