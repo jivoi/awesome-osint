@@ -760,7 +760,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-Table-of-Contents) Web History and Website Capture
 
-* [Archive.is](http://archive.is)
+* [Archive.is](http://archive.is) - is a website that allows you to archive a snapshot of you websites that will always remains online evenif the original page disappears.
 * [BlackWidow](http://softbytelabs.com/wp/blackwidow/)
 * [CashedPages](http://www.cachedpages.com)
 * [CachedView](http://cachedview.com)
