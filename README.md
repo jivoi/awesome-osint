@@ -2069,7 +2069,7 @@ algorithms, knowledgebase and AI technology.
 * [HTTPs Everywhere](https://www.eff.org/https-everywhere/)
 * [I2P](https://geti2p.net)
 * [justdeleteme](http://justdelete.me)
-* [KeePass Password Safe](http://keepass.info)
+* [KeePass Password Safe](http://keepass.info) - is a free and open-source password manager that uses the most secure encryption algorithms to safegard your passwords.
 * [Lastpass](https://lastpass.com)
 * [Lockbin](https://lockbin.com)
 * [Mailbox](https://mailbox.org)
