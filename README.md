@@ -1620,7 +1620,7 @@ algorithms, knowledgebase and AI technology.
 * [Polarr](https://www.polarr.co)
 * [Seashore](http://seashore.sourceforge.net)
 * [SumoPaint](http://www.sumopaint.com)
-* [TinyPNG](https://tinypng.com)
+* [TinyPNG](https://tinypng.com) - is a tool that can be used to compress various images formats in to smaller size.
 
 ## [↑](#-Table-of-Contents) Productivity Tools
 
