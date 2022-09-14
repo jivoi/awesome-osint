@@ -24,7 +24,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
    - [Twitter](#-twitter)
    - [Facebook](#-facebook)
    - [Instagram](#-instagram)
-   - [Pinterest](#-pinterest)
+   - [Pinterest](#-pinterest) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
    - [Reddit](#-reddit)
    - [VKontakte](#-vkontakte)
    - [Tumblr](#-tumblr)
