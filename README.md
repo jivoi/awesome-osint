@@ -694,7 +694,7 @@ algorithms, knowledgebase and AI technology.
 * [HypeStat](https://www.hypestat.com)
 * [Infosniper](http://www.infosniper.net)
 * [intoDNS](http://www.intodns.com)
-* [IP Checking](http://www.ipchecking.com)
+* [IP Checking](http://www.ipchecking.com) - is used to see general information and location of a given ip address.
 * [IP Location](https://www.iplocation.net)
 * [IP 2 Geolocation](http://ip2geolocation.com)
 * [IP 2 Location](http://www.ip2location.com/demo.aspx)
