@@ -534,7 +534,7 @@ algorithms, knowledgebase and AI technology.
 * [Peepmail](http://www.samy.pl/peepmail)
 * [Pipl](https://pipl.com)
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
-* [ReverseGenie](http://www.reversegenie.com/email.php)
+* [ReverseGenie](http://www.reversegenie.com/email.php) - a website used to look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates.
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup)
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
