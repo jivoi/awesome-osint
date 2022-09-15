@@ -695,7 +695,7 @@ algorithms, knowledgebase and AI technology.
 * [Infosniper](http://www.infosniper.net)
 * [intoDNS](http://www.intodns.com)
 * [IP Checking](http://www.ipchecking.com)
-* [IP Location](https://www.iplocation.net)
+* [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
 * [IP 2 Geolocation](http://ip2geolocation.com)
 * [IP 2 Location](http://www.ip2location.com/demo.aspx)
 * [IPFingerprints](http://www.ipfingerprints.com)
