@@ -716,7 +716,7 @@ algorithms, knowledgebase and AI technology.
 * [Quick Sprout](https://www.quicksprout.com)
 * [RedirectDetective](http://redirectdetective.com)
 * [Remote DNS Lookup](https://remote.12dt.com)
-* [Robtex](https://www.robtex.com)
+* [Robtex](https://www.robtex.com) - is an ip and domain name based researching websites that gives multiple servives susch as Reverse DNS Lookup, Whois, and AS Macros.
 * [SameID](http://sameid.net)
 * [SecurityTrails](https://securitytrails.com/dns-trails) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
 * [SEMrush](https://www.semrush.com)
