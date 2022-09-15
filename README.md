@@ -709,7 +709,7 @@ algorithms, knowledgebase and AI technology.
 * [OpenLinkProfiler](http://www.openlinkprofiler.org/ratelimit/domain.com)
 * [Open Site Explorer](https://moz.com/researchtools/ose)
 * [PageGlimpse](http://www.pageglimpse.com)
-* [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking)
+* [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
 * [PhishStats](https://phishstats.info/)
 * [Pulsedive](https://pulsedive.com)
 * [Quantcast](https://www.quantcast.com)
