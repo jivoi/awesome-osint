@@ -515,7 +515,7 @@ algorithms, knowledgebase and AI technology.
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
 * [ZabaSearch](https://www.zabasearch.com/)
-* [JailBase](https://www.jailbase.com/)
+* [JailBase](https://www.jailbase.com/) - is an information site that allows you to search for arrested persons you might know, and even get notified if someone you know gets arrested.
 * [Mugshots](https://mugshots.com/)
 
 ## [↑](#-Table-of-Contents) E-mail Search / E-mail Check
