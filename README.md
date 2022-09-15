@@ -647,7 +647,7 @@ algorithms, knowledgebase and AI technology.
 * [Fish4Jobs](http://www.fish4.co.uk)
 * [Glassdoor](https://www.glassdoor.com)
 * [Headhunter](http://www.headhunter.com)
-* [Indeed](http://www.indeed.com)
+* [Indeed](http://www.indeed.com) - is an online job searching website that gives job seekers free access to search for a job, post their resumes, and research companies.
 * [Jobs (Poland)](http://www.jobs.pl)
 * [Jobsite (UK)](http://www.jobsite.co.uk)
 * [Linkedin](https://www.linkedin.com)
