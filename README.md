@@ -734,7 +734,7 @@ algorithms, knowledgebase and AI technology.
 * [WhatIsMyIPAddress](http://whatismyipaddress.com)
 * [Who.is](https://who.is/) - Domain whois information.
 * [Whois Arin Online](https://whois.arin.net)
-* [WhoIsHostingThis](http://www.whoishostingthis.com)
+* [WhoIsHostingThis](http://www.whoishostingthis.com) - is a checker tool gives detailed ownership and hosting information about a website, including the host’s IP address, registration details and contact information.
 * [WhoisMind](http://www.whoismind.com)
 * [Whoisology](https://whoisology.com)
 * [WhoIsRequest](http://whoisrequest.com)
