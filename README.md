@@ -703,7 +703,7 @@ algorithms, knowledgebase and AI technology.
 * [IntelliTamper](http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml)
 * [Kloth](http://www.kloth.net/services)
 * [NetworkTools](http://network-tools.com)
-* [Majestic](https://majestic.com)
+* [Majestic](https://majestic.com) - Find out who links to your website.
 * [MaxMind](https://www.maxmind.com)
 * [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
 * [OpenLinkProfiler](http://www.openlinkprofiler.org/ratelimit/domain.com)
