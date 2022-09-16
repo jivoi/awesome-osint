@@ -706,7 +706,7 @@ algorithms, knowledgebase and AI technology.
 * [Majestic](https://majestic.com)
 * [MaxMind](https://www.maxmind.com)
 * [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
-* [OpenLinkProfiler](http://www.openlinkprofiler.org/ratelimit/domain.com)
+* [OpenLinkProfiler](http://www.openlinkprofiler.org/ratelimit/domain.com) - 
 * [Open Site Explorer](https://moz.com/researchtools/ose)
 * [PageGlimpse](http://www.pageglimpse.com)
 * [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
@@ -714,7 +714,7 @@ algorithms, knowledgebase and AI technology.
 * [Pulsedive](https://pulsedive.com)
 * [Quantcast](https://www.quantcast.com)
 * [Quick Sprout](https://www.quicksprout.com)
-* [RedirectDetective](http://redirectdetective.com)
+* [RedirectDetective](http://redirectdetective.com) - is a free URL redirection checker that allows you to see the complete path a redirected URL goes through.
 * [Remote DNS Lookup](https://remote.12dt.com)
 * [Robtex](https://www.robtex.com) - is an IP address and domain name based researching websites that offers multiple services such as Reverse DNS Lookup, Whois, and AS Macros.
 * [SameID](http://sameid.net)
