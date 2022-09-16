@@ -733,7 +733,7 @@ algorithms, knowledgebase and AI technology.
 * [Website Informer](http://website.informer.com)
 * [WhatIsMyIPAddress](http://whatismyipaddress.com)
 * [Who.is](https://who.is/) - Domain whois information.
-* [Whois Arin Online](https://whois.arin.net)
+* [Whois Arin Online](https://whois.arin.net) - is a web service for Whois data contained within ARIN's registration database
 * [WhoIsHostingThis](http://www.whoishostingthis.com)
 * [WhoisMind](http://www.whoismind.com)
 * [Whoisology](https://whoisology.com)
