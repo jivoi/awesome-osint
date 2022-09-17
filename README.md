@@ -738,7 +738,7 @@ algorithms, knowledgebase and AI technology.
 * [WhoisMind](http://www.whoismind.com)
 * [Whoisology](https://whoisology.com)
 * [WhoIsRequest](http://whoisrequest.com)
-* [w3snoop](http://webboar.com.w3snoop.com)
+* [w3snoop](http://webboar.com.w3snoop.com) - is a website that gives you a free and comprehensive report about a specific website.
 * [Verisign](http://dnssec-debugger.verisignlabs.com)
 * [ViewDNS.info](http://viewdns.info)
 * [You Get Signal](http://www.yougetsignal.com)
