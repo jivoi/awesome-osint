@@ -121,6 +121,7 @@ Thanks to our main contributors
 * [Instya](http://www.instya.com)
 * [Impersonal.me](http://www.impersonal.me)
 * [Lycos](http://www.lycos.com)
+* [Mojeek](https://www.mojeek.com/)
 * [Search.com](http://www.search.com)
 * [SurfCanyon](http://www.surfcanyon.com) - a real-time contextual search technology that observes user behavior in order to disambiguate intent "on the fly," and then automatically bring forward to page one relevant results that might otherwise have remain buried.
 * [Wolfram Alpha](http://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
