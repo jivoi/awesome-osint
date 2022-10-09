@@ -324,6 +324,7 @@ algorithms, knowledgebase and AI technology.
 * [Birdspotter](https://birdspotter.net) - A tool to automate Twitter searches.
 * [Blue Nod](http://bluenod.com)
 * [doesfollow](https://doesfollow.com)
+* [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
 * [First Tweet](http://ctrlq.org/first)
 * [Foller.me](http://foller.me)
 * [Followerwonk](http://followerwonk.com)
