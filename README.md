@@ -2094,6 +2094,7 @@ algorithms, knowledgebase and AI technology.
 * [Silent circle](https://www.silentcircle.com)
 * [Snort](https://www.snort.org)
 * [Spideroak](https://spideroak.com)
+* [Steganography Online Codec](https://www.pelock.com/products/steganography-online-codec)
 * [Surveilliance Self Defense](https://ssd.eff.org)
 * [Tails](https://tails.boum.org)
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird)
