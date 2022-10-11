@@ -24,7 +24,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
    - [Twitter](#-twitter)
    - [Facebook](#-facebook)
    - [Instagram](#-instagram)
-   - [Pinterest](#-pinterest) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
+   - [Pinterest](#-pinterest)
    - [Reddit](#-reddit)
    - [VKontakte](#-vkontakte)
    - [Tumblr](#-tumblr)
@@ -273,7 +273,7 @@ algorithms, knowledgebase and AI technology.
 * [Linkedin](https://www.linkedin.com)
 * [Mixi (Japan)](https://mixi.jp)
 * [Odnoklassniki (Russia)](http://ok.ru)
-* [Pinterest](http://www.pinterest.com)
+* [Pinterest](http://www.pinterest.com) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
 * [Qzone (China)](http://qzone.qq.com)
 * [Reddit](https://www.reddit.com)
 * [Taringa (Latin America)](http://www.taringa.net)
