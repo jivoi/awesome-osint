@@ -1362,7 +1362,7 @@ algorithms, knowledgebase and AI technology.
 * [gmapcatcher](https://github.com/heldersepu/gmapcatcher)
 * [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 * [HTTrack](http://www.httrack.com) - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
-* [Offliberty](http://offliberty.com)
+* [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 * [Resolver](https://metaproductsrevolver.com)
 * [SiteSucker](http://ricks-apps.com/osx/sitesucker/index.html)
 * [WebAssistant](http://www.proxy-offline-browser.com/download.html)
