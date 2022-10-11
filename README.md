@@ -556,7 +556,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-Table-of-Contents) Expert Search
 
-* [Academia](http://academia.edu)
+* [Academia](http://academia.edu) - is a platform for sharing academic research.
 * [CanLaw](http://www.canlaw.com)
 * [ExpertiseFinder](http://www.expertisefinder.com)
 * [ExpertPages](http://expertpages.com)
