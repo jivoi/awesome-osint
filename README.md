@@ -812,6 +812,7 @@ algorithms, knowledgebase and AI technology.
 * [WorldReference.com](http://www.wordreference.com)
 * [Yamli (Arabic Search Engine)](http://www.yamli.com)
 * [Yandex Translate](https://translate.yandex.ru)
+* [Lesan](https://lesan.ai)
 
 ## [↑](#-Table-of-Contents) Image Search
 
