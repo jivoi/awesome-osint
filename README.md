@@ -537,7 +537,6 @@ algorithms, knowledgebase and AI technology.
 * [Peepmail](http://www.samy.pl/peepmail)
 * [Pipl](https://pipl.com)
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
-* [ReverseGenie](http://www.reversegenie.com/email.php) - a website used to look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates.
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup)
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
@@ -546,6 +545,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-Table-of-Contents) Phone Number Research
 * [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
+* [Reverse Phone Check](https://www.reversephonecheck.com) - Look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates. Powered by infotracer.com
 * [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 * [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
 * [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
