@@ -2147,6 +2147,7 @@ urls and other data effortlessly
 * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 * [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
   * [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
+* [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 * [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
 * [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
