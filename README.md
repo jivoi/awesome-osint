@@ -114,6 +114,7 @@ Thanks to our main contributors
 * [Aol](http://search.aol.com)
 * [Ask](http://www.ask.com)
 * [Bing](http://www.bing.com)
+* [Brave](https://search.brave.com) - a private, independent, and transparent search engine.
 * [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
 * [Gigablast](http://gigablast.com) - provides large-scale, high-performance, real-time information retrieval technology and services for partner sites. 
 * [Goodsearch](http://www.goodsearch.com) - a search engine for shopping deals online.
