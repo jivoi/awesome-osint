@@ -493,6 +493,7 @@ algorithms, knowledgebase and AI technology.
 * [WhatsMyName](https://whatsmyname.app/)
 * [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+* [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
 
 ## [↑](#-Table-of-Contents) People Investigations
 
