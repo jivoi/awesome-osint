@@ -778,7 +778,7 @@ algorithms, knowledgebase and AI technology.
 * [Apertium](https://www.apertium.org)
 * [Babelfish](https://www.babelfish.com)
 * [Bablic](https://www.bablic.com)
-* [Bing Translator](http://www.bing.com/translator)
+* [Bing Translator](http://www.bing.com/translator) - is a user facing translation portal provided by Microsoft as part of its Bing services to translate texts or entire web pages into different languages.
 * [Dict.cn](http://dict.cn)
 * [Dictionary.com: Translation](http://translate.reference.com)
 * [Free Translator](http://www.free-translator.com)
