@@ -262,6 +262,7 @@ algorithms, knowledgebase and AI technology.
 * [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
 * [NerdyData](https://nerdydata.com) - Search engine for source code.
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
+* [SourceGraph](https://sourcegraph.com/search) - Search code from millions of open source repositories.
 * [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
 * [Reposearch](http://codefinder.org/)
 * [PublicWWW](https://publicwww.com/)
@@ -2151,6 +2152,8 @@ urls and other data effortlessly
 * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 * [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
   * [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
+* [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
+* [SerpScan](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 * [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
 * [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
