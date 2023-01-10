@@ -919,7 +919,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Academia](https://www.academia.edu)
 * [Academic Journals](http://www.academicjournals.org)
-* [African Journal Online](http://www.ajol.info)
+* [African Journal Online](http://www.ajol.info) -  is the world's largest and preeminent platform of African-published scholarly journals
 * [American Society of Civil Engineers](http://ascelibrary.org)
 * [Base](http://www.base-search.net)
 * [Bibsonomy](http://www.bibsonomy.org)
