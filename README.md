@@ -505,6 +505,7 @@ algorithms, knowledgebase and AI technology.
 * [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 * [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
 * [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
+* [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
 * [facesearch](http://facesaerch.com) - Handy proxy to search Google face-only image search results.
 * [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
 * [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present. 
@@ -827,6 +828,7 @@ algorithms, knowledgebase and AI technology.
 * [Baidu Images](http://image.baidu.com)
 * [Bing Images](http://www.bing.com/images)
 * [Clarify](http://clarify.io)
+* [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
 * [Flickr](https://secure.flickr.com)
 * [GoodSearch Image Search](http://www.goodsearch.com/search-image)
 * [Google Image](https://images.google.com)
