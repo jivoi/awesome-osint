@@ -834,7 +834,6 @@ algorithms, knowledgebase and AI technology.
 * [Lycos Image Search](http://search.lycos.com)
 * [MyPicsMap](http://www.mypicsmap.com)
 * [PhotoBucket](http://photobucket.com)
-* [Picsearch](http://www.picsearch.com)
 * [PicTriev](http://www.pictriev.com)
 * [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
 * [TinEye](https://tineye.com) - Reverse image search engine.
