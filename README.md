@@ -1571,6 +1571,7 @@ algorithms, knowledgebase and AI technology.
 * [Nodebox](https://www.nodebox.net)
 * [OpenLayers](http://openlayers.org)
 * [Palladio](http://hdlab.stanford.edu/palladio)
+* [Perspective](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
 * [Piktochart](https://piktochart.com)
 * [Pixcone](http://www.pixcone.com)
 * [Pixxa](http://www.pixxa.com)
