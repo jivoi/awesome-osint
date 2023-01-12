@@ -4,7 +4,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Insert a new entry **alphabetically**. The prefix "The" is not considered in this sorting.
+- Insert a new entry **alphabetically**. The prefix "The" (or any other language's equivelent of "the") is not considered in this sorting.
 - Make an individual pull request for each suggestion.
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
 - Use the following format: `[List Name](link)  - additional information.`
