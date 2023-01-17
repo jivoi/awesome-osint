@@ -899,6 +899,7 @@ algorithms, knowledgebase and AI technology.
 * [Earthcam](http://www.earthcam.com)
 * [Insecam](http://insecam.org/)
 * [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh/) - Browser plugin that allows you to watch YouTube videos frame by frame.
+* [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
 * [Geosearch](http://www.geosearchtool.com)
 * [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
 * [LiveLeak](http://www.liveleak.com)
