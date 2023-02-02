@@ -916,6 +916,7 @@ algorithms, knowledgebase and AI technology.
 * [ccSUBS](http://ccsubs.com/) - Download Closed Captions & Subtitles from YouTube
 * [YouTube Metadata](https://mattw.io/youtube-metadata/)
 * [YouTube Geofind](https://mattw.io/youtube-geofind/)
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 * [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
 * [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 
