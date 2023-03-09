@@ -1453,6 +1453,7 @@ algorithms, knowledgebase and AI technology.
 * [LibreOffice](https://www.libreoffice.org)
 * [Live Slides](https://www.liveslides.com)
 * [MS Office](https://products.office.com)
+* [nimdone](https://nimdone.com)
 * [Powtoon](https://www.powtoon.com)
 * [presenterswall](http://www.presenterswall.com)
 * [Prezi](https://prezi.com)
