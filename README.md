@@ -523,7 +523,7 @@ algorithms, knowledgebase and AI technology.
 * [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
 * [SearchBug](http://www.searchbug.com) - People search. Limited free info, premium data upsell.
 * [Spokeo](http://www.spokeo.com) - People search. Limited free info, premium data upsell.
-* [StrategyTribe](https://www.strategytribe.io/) - An open source project dedicated to crowdsourcing and crowdfunding OSINT locating the details of threat actors
+* [StrategyTribe](https://www.strategytribe.io/) - An open source project dedicated to crowdsourcing and crowdfunding OSINT locating the details of threat actors. Submit your finding and earn money.
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
 * [ZabaSearch](https://www.zabasearch.com/)
