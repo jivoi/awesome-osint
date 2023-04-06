@@ -185,7 +185,7 @@ algorithms, knowledgebase and AI technology.
 * [Mamont](https://www.mmnt.ru/)
 * [GrayhatWarfare](https://grayhatwarfare.com/)
 * [WIPO](https://www3.wipo.int/branddb/en/)
-* [Netlas.io](https://app.netlas.io/)
+* [Netlas.io](https://nt.ls/hTSvc) — Search engine for IoE that provide accurate technical information on IP addresses, domain names, websites, web applications, IoT devices, and other online assets.
 
 ## [↑](#-Table-of-Contents) Visual Search and Clustering Search Engines
 
