@@ -294,6 +294,7 @@ algorithms, knowledgebase and AI technology.
 * [Brandwatch](https://www.brandwatch.com)
 * [Buffer](https://buffer.com)
 * [Buzz sumo](http://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
+* [Epieos](https://epieos.com) - Search for social accounts with e-mail and phone
 * [Geocreepy](http://www.geocreepy.com)
 * [Geofeedia](https://geofeedia.com)
 * [Hootsuite](http://hootsuite.com)
