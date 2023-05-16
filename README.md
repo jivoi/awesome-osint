@@ -161,7 +161,6 @@ algorithms, knowledgebase and AI technology.
 * [iZito](http://www.izito.com)
 * [Myallsearch](http://www.myallsearch.com)
 * [Qwant](http://www.qwant.com)
-* [Zapmeta](http://www.zapmeta.com)
 * [Swisscows](https://swisscows.com/)
 
 ## [↑](#-Table-of-Contents) Specialty Search Engines
@@ -193,6 +192,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Carrot2](http://search.carrot2.org) - Organizes your search results into topics.
 * [Yippy](http://yippy.com) - Search using multiple sources at once
+* [Zapmeta](http://www.zapmeta.com)
 
 ## [↑](#-Table-of-Contents) Similar Sites Search
 
