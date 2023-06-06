@@ -128,6 +128,7 @@ Thanks to our main contributors
 * [Wolfram Alpha](http://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
 algorithms, knowledgebase and AI technology.
 * [Yahoo! Search](http://www.yahoo.com)
+* [YOU](https://you.com) - AI search engine
 
 ## [↑](#-Table-of-Contents) Main National Search Engines
 
