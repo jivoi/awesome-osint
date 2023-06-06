@@ -109,24 +109,23 @@ Thanks to our main contributors
 
 *The main search engines used by users.*
 
-* [Advangle](http://advangle.com)
-* [Aol](http://search.aol.com)
-* [Ask](http://www.ask.com)
-* [Bing](http://www.bing.com)
+* [Aol](https://search.aol.com) - The web for America.
+* [Ask](https://www.ask.com) - Ask something and get a answer.
+* [Bing](https://www.bing.com) - Microsoft´s search engine.
 * [Brave](https://search.brave.com) - a private, independent, and transparent search engine.
 * [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
-* [Goodsearch](http://www.goodsearch.com) - a search engine for shopping deals online.
-* [Google Search](http://www.google.com) - Most popular search engine.
-* [Instya](http://www.instya.com)
+* [Goodsearch](https://www.goodsearch.com) - a search engine for shopping deals online.
+* [Google Search](https://www.google.com) - Most popular search engine.
+* [Instya](https://www.instya.com) -  You can searching shopping sites, dictionaries, answer sites, news, images, videos and much more.
 * [Impersonal.me](http://www.impersonal.me)
-* [Lycos](http://www.lycos.com)
-* [Mojeek](https://www.mojeek.com/)
-* [Search.com](http://www.search.com)
-* [SurfCanyon](http://www.surfcanyon.com) - a real-time contextual search technology that observes user behavior in order to disambiguate intent "on the fly," and then automatically bring forward to page one relevant results that might otherwise have remain buried.
-* [Wolfram Alpha](http://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
+* [Lycos](https://www.lycos.com) - A search engine for pictures, videos, news and products.
+* [Mojeek](https://www.mojeek.com/) - A growing independent search engine which does not track you.
+* [Search.com](https://www.search.com) - Search the Web by searching the best engines from one place.
+* [SurfCanyon](https://www.surfcanyon.com) - a real-time contextual search technology that observes user behavior in order to disambiguate intent "on the fly," and then automatically bring forward to page one relevant results that might otherwise have remain buried.
+* [Wolfram Alpha](https://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
 algorithms, knowledgebase and AI technology.
-* [Yahoo! Search](http://www.yahoo.com)
-* [YOU](https://you.com) - AI search engine
+* [Yahoo! Search](https://www.yahoo.com) -  The search engine that helps you find exactly what you're looking for.
+* [YOU](https://you.com) - AI search engine.
 
 ## [↑](#-Table-of-Contents) Main National Search Engines
 
