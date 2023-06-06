@@ -761,45 +761,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-Table-of-Contents) Language Tools
 
-* [2lingual](http://www.2lingual.com)
-* [Apertium](https://www.apertium.org)
-* [Babelfish](https://www.babelfish.com)
-* [Bablic](https://www.bablic.com)
-* [Bing Translator](http://www.bing.com/translator) - is a user facing translation portal provided by Microsoft as part of its Bing services to translate texts or entire web pages into different languages.
-* [Dict.cn](http://dict.cn)
-* [Dictionary.com: Translation](http://translate.reference.com)
-* [Free Translator](http://www.free-translator.com)
-* [Free Website Translation](http://free-website-translation.com)
-* [Frengly](http://frengly.com)
-* [Gengo](http://gengo.com)
-* [Google Input Tools](https://www.google.com/inputtools/try) - Makes it easy to type in the language you choose, anywhere on the web.
-* [Google Translate](https://translate.google.com)
-* [Google Tranlslate Extension](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
-* [IdiomaX Translation](http://www.idiomax.com/online-translator.aspx)
-* [IloveTyping](https://ilovetyping.com/english-to-hindi-typing) - Translate English to Hindi
-* [Inasentence](https://inasentence.me/) - Find Sentences from Words
-* [India Typing](https://indiatyping.com/index.php/translate/english-to-hindi)
-* [imTranslator](http://imtranslator.net/translation)
-* [iTranslate Voice](http://itranslatevoice.com)
-* [Lexicool Translation](http://www.lexicool.com/translate.asp)
-* [Linguee](http://www.linguee.com)
-* [LingvoSoftOnline](http://www.lingvozone.com)
-* [Microsoft Translator](http://www.microsoft.com/en-us/translator)
-* [Noslang](http://www.noslang.com)
-* [OdysseyTranslator](http://odysseytranslator.com)
-* [Pleco](https://www.pleco.com)
-* [PROMT-Online](http://translation2.paralink.com)
-* [Reddit/r/translator](https://www.reddit.com/r/translator)
-* [Reverso](http://www.reverso.net)
-* [Sentence Stack](https://sentencestack.com/) - Sentence search engine with grammar check, translation, and idiom detection.
-* [Slangit](http://slangit.com)
-* [Systran](http://www.systransoft.com)
-* [Translate.com](https://www.translate.com)
-* [Unbabel](https://unbabel.com)
-* [WorldReference.com](http://www.wordreference.com)
-* [Yamli (Arabic Search Engine)](http://www.yamli.com)
-* [Yandex Translate](https://translate.yandex.ru)
-* [Lesan](https://lesan.ai)
+* see the [Awesome Translations list](https://github.com/mbiesiad/awesome-translations#tools)
 
 ## [↑](#-Table-of-Contents) Image Search
 
@@ -819,6 +781,7 @@ algorithms, knowledgebase and AI technology.
 * [MyPicsMap](http://www.mypicsmap.com)
 * [PhotoBucket](http://photobucket.com)
 * [PicTriev](http://www.pictriev.com)
+* [PimEyes](https://pimeyes.com)
 * [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
 * [TinEye](https://tineye.com) - Reverse image search engine.
 * [Websta](http://websta.me)
@@ -826,7 +789,6 @@ algorithms, knowledgebase and AI technology.
 * [Yandex Images](https://www.yandex.com/images)
 * [Betaface](https://www.betaface.com/demo.html)
 * [Search4faces](https://search4faces.com/)
-* [PImEyes](https://pimeyes.com)
 
 ## [↑](#-Table-of-Contents) Image Analysis
 
