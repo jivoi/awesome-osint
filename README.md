@@ -116,7 +116,6 @@ Thanks to our main contributors
 * [Bing](http://www.bing.com)
 * [Brave](https://search.brave.com) - a private, independent, and transparent search engine.
 * [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
-* [Gigablast](http://gigablast.com) - provides large-scale, high-performance, real-time information retrieval technology and services for partner sites. 
 * [Goodsearch](http://www.goodsearch.com) - a search engine for shopping deals online.
 * [Google Search](http://www.google.com) - Most popular search engine.
 * [Instya](http://www.instya.com)
@@ -206,7 +205,6 @@ algorithms, knowledgebase and AI technology.
 
 *Search for data located on PDFs, Word documents, presentation slides, and more.*
 
-* [Authorstream](http://www.authorstream.com)
 * [Find-pdf-doc](http://www.findpdfdoc.com)
 * [Free Full PDF](http://www.freefullpdf.com)
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
@@ -271,7 +269,6 @@ algorithms, knowledgebase and AI technology.
 
 * [Draugiem (Latvia)](https://www.draugiem.lv)
 * [Facebook](http://www.facebook.com)
-* [Facenama (Iran)](http://facenama.com)
 * [Instagram](https://www.instagram.com)
 * [Linkedin](https://www.linkedin.com)
 * [Mixi (Japan)](https://mixi.jp)
@@ -354,7 +351,6 @@ algorithms, knowledgebase and AI technology.
 * [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 * [TweetMap](http://worldmap.harvard.edu/tweetmap)
 * [TweetStats](http://www.tweetstats.com)
-* [TweetTunnel](http://tweettunnel.com)
 * [Twiangulate](http://www.twiangulate.com)
 * [Twitonomy](http://www.twitonomy.com)
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
@@ -411,7 +407,6 @@ algorithms, knowledgebase and AI technology.
 * [Дезертир](http://vk.com/app3046467)
 * [Barkov.net](http://vk.barkov.net)
 * [Report Tree](http://dcpu.ru/vk_repost_tree.php)
-* [Snradar](http://snradar.azurewebsites.net) - Search pictures by time and location they were taken
 * [VK5](http://vk5.city4me.com)
 * [VK Community Search](http://vk.com/communities)
 * [VK Parser](http://vkparser.ru) - A tool to search for a target audience and potential customers.
@@ -485,7 +480,6 @@ algorithms, knowledgebase and AI technology.
 * [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
 * [Digital Footprint Check](https://www.cyberoneintel.com/digitalfootprint) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
 * [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
-* [facesearch](http://facesaerch.com) - Handy proxy to search Google face-only image search results.
 * [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
 * [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present. 
 * [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
@@ -577,8 +571,6 @@ algorithms, knowledgebase and AI technology.
 * [Business Source](https://www.ebscohost.com/academic/business-source-complete)
 * [Bureau Van Dijk](http://www.bvdinfo.com)
 * [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
-* [Canadian Business Resource](http://www.cbr.ca)
-* [Central and Eastern European Business Directory](http://www.ceebd.co.uk/ceebd)
 * [Company Registration Round the World](http://www.commercial-register.sg.ch/home/worldwide.html)
 * [Company Research Resources by Country Comparably](https://www.comparably.com)
 * [CompeteShark](http://competeshark.com)
@@ -596,7 +588,6 @@ algorithms, knowledgebase and AI technology.
 * [GuideStar](http://www.guidestar.org)
 * [Hoovers](http://www.hoovers.com)
 * [Inc. 5000](http://www.inc.com/inc5000)
-* [InstantLogoSearch](http://instantlogosearch.com)
 * [iSpionage](https://www.ispionage.com)
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Knowledge guide to international company registration](http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
@@ -771,7 +762,6 @@ algorithms, knowledgebase and AI technology.
 * [Clarify](http://clarify.io)
 * [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
 * [Flickr](https://secure.flickr.com)
-* [GoodSearch Image Search](http://www.goodsearch.com/search-image)
 * [Google Image](https://images.google.com)
 * [Gramfeed](http://www.gramfeed.com)
 * [Image Identification Project](https://www.imageidentify.com)
@@ -875,7 +865,6 @@ algorithms, knowledgebase and AI technology.
 * [American Society of Civil Engineers](http://ascelibrary.org)
 * [Base](http://www.base-search.net)
 * [Bibsonomy](http://www.bibsonomy.org)
-* [Cambridge Journals](http://journals.cambridge.org)
 * [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - The CCSB is a collection of bibliographies of scientific literature in computer science from various sources, covering most aspects of computer science.
 * [Core](https://core.ac.uk/search)
 * [Elsevier](https://www.elsevier.com)
@@ -915,7 +904,6 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-Table-of-Contents) Books and Reading
 
-* [Amazon Cheap Books](http://www.amazon.com/b?tag=mak041-20&linkCode=as2&ie=UTF8&node=2245146011)
 * [BingeBooks](https://www.bingebooks.com)
 * [Blinkist](https://www.blinkist.com)
 * [Bookbub](https://www.bookbub.com)
@@ -927,7 +915,6 @@ algorithms, knowledgebase and AI technology.
 * [Bookseer](http://bookseer.com)
 * [Books on the Knob](http://blog.booksontheknob.org)
 * [Calibre](https://www.calibre-ebook.com)
-* [Daily Cheap Reads](http://www.dailycheapreads.com)
 * [ExplainToMe](https://explaintome.herokuapp.com)
 * [Favobooks](http://favobooks.com)
 * [Free Kindle Books](http://freekindlebooks.org)
@@ -1053,7 +1040,6 @@ algorithms, knowledgebase and AI technology.
 * [DailyEarth](http://dailyearth.com)
 * [DPA International](http://www.dpa-international.com)
 * [Euronews](http://www.euronews.com)
-* [NewsExplorer](http://emm.newsexplorer.eu)
 * [Factiva](http://www.dowjones.com/factiva)
 * [France24](http://www.france24.com)
 * [Google News](https://news.google.com)
@@ -1113,7 +1099,6 @@ algorithms, knowledgebase and AI technology.
 
 * [AGOA Data Center](http://agoa.info)
 * [AidData](http://aiddata.org)
-* [ADB Statistics and Databases](http://www.adb.org/data/statistics)
 * [AWS Public Datasets](http://aws.amazon.com/datasets)
 * [Bank for International Settlements Statistics](http://www.bis.org/statistics/index.htm)
 * [BP Statistical Review of World Energy](http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
@@ -1123,12 +1108,10 @@ algorithms, knowledgebase and AI technology.
 * [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp)
 * [Data.gov.uk](https://data.gov.uk)
 * [DBPedia](http://wiki.dbpedia.org)
-* [European Commission Eurobarometer](http://ec.europa.eu/COMMFrontOffice/PublicOpinion)
 * [European Union Open Data Portal](http://open-data.europa.eu/en/data)
 * [Eurostat](http://ec.europa.eu/eurostat)
 * [Freebase](https://developers.google.com/freebase)
 * [Gapminder World](http://www.gapminder.org/data)
-* [GEOHIVE](http://www.geohive.com)
 * [globalEDGE Database of International Business Statistics](http://globaledge.msu.edu/tools-and-data/dibs)
 * [Google Finance](https://www.google.com/finance)
 * [Google Public Data Explorer](http://www.google.com/publicdata/directory)
@@ -1141,7 +1124,6 @@ algorithms, knowledgebase and AI technology.
 * [ILO World Employment and Social Outlook Trends](http://www.ilo.org/global/research/global-reports/weso/2015/lang--en/index.htm)
 * [IMF World Economic Outlook Database](http://www.imf.org/external/ns/cs.aspx?id=28)
 * [Index Mundi](http://www.indexmundi.com)
-* [International Energy Agency Energy Atlas](http://energyatlas.iea.org)
 * [International Energy Agency Statistics](http://www.iea.org/statistics)
 * [Junar](http://junar.com)
 * [Knoema](https://knoema.com)
@@ -1198,7 +1180,6 @@ algorithms, knowledgebase and AI technology.
 * [ChangeDetection](http://www.changedetection.com)
 * [Deltafeed](http://bitreading.com/deltafeed)
 * [DiggReader](http://digg.com/login?next=%2Freader)
-* [Feed43](http://feed43.com)
 * [FeedBooster](http://www.qsensei.com)
 * [Feederator](http://www.feederator.org)
 * [Feed Exileed](http://feed.exileed.com)
@@ -1529,7 +1510,6 @@ algorithms, knowledgebase and AI technology.
 * [RAW](http://raw.densitydesign.org)
 * [Shanti Interactive](http://www.viseyes.org)
 * [Snappa](https://snappa.io)
-* [Statpedia](http://statpedia.com)
 * [Tableau](http://www.tableau.com)
 * [Tableau Public](https://public.tableau.com)
 * [Tagul](https://tagul.com)
@@ -1778,7 +1758,6 @@ algorithms, knowledgebase and AI technology.
 * [Comindwork](http://www.comindwork.com)
 * [Conceptboard](https://conceptboard.com)
 * [Confluence](https://www.atlassian.com/software/confluence)
-* [CoSketch](http://cosketch.com)
 * [Crowdbase](http://crowdbase.com)
 * [Dayboard](https://dayboard.co)
 * [Draw.to](http://draw.to)
@@ -1811,7 +1790,6 @@ algorithms, knowledgebase and AI technology.
 * [OnlyOffice](https://www.onlyoffice.com)
 * [Padlet](https://padlet.com)
 * [Piematrix](http://www.piematrix.com)
-* [Pinstriped](http://pinstriped.com)
 * [PivotalTracker](http://www.pivotaltracker.com)
 * [Plan](https://plan.io)
 * [Planleaf](http://www.planleaf.com)
@@ -1824,7 +1802,6 @@ algorithms, knowledgebase and AI technology.
 * [Quire](https://quire.io)
 * [Realtimeboard](https://realtimeboard.com)
 * [Redbooth](https://redbooth.com)
-* [Restya](http://restya.com)
 * [Reverb](http://reverbapp.com)
 * [ScadaPlan](http://scadaplan.com)
 * [Scribblar](http://www.scribblar.com)
@@ -1848,7 +1825,6 @@ algorithms, knowledgebase and AI technology.
 * [Tuzzit](https://www.tuzzit.com)
 * [Twiddla](http://www.twiddla.com)
 * [Twoodo](https://www.twoodo.com)
-* [updatey](http://updatey.com)
 * [Web Whiteboard](http://webwhiteboard.com)
 * [Weekdone](https://weekdone.com)
 * [Wekan](https://wekan.io)
@@ -1967,7 +1943,6 @@ algorithms, knowledgebase and AI technology.
 * [Coogle](https://coggle.it)
 * [Creately](http://creately.com)
 * [Edynco](https://www.edynco.com)
-* [Fast Idea Generator](http://diytoolkit.org/tools/fast-idea-generator-2)
 * [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
 * [Freeplane](http://freeplane.sourceforge.net/wiki/index.php/Main_Page)
 * [GroupMap](http://www.groupmap.com)
@@ -2007,7 +1982,6 @@ algorithms, knowledgebase and AI technology.
 
 * [Abine](https://www.abine.com)
 * [Adium](https://adium.im)
-* [Axcrypt](http://www.axantum.com/axcrypt)
 * [boxcryptor](https://www.boxcryptor.com)
 * [CCleaner](https://www.piriform.com/ccleaner)
 * [Chatsecure](https://chatsecure.org)
