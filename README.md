@@ -366,11 +366,9 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#-Table-of-Contents) Facebook
 
 * [Agora Pulse](http://barometer.agorapulse.com)
-* [Commun.it](http://commun.it)
 * [Fanpage Karma](http://www.fanpagekarma.com)
 * [Facebook Friend List Scraper](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 * [Facebook Search](http://search.fb.com/)
-* [Facebook Search Tool](http://netbootcamp.org/facebook.html)
 * [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats)
 * [Find my Facebook ID](https://randomtools.io)
 * [Lookup-ID.com](https://lookup-id.com)
@@ -384,8 +382,6 @@ algorithms, knowledgebase and AI technology.
 * [Iconosquare](http://iconosquare.com)
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname. 
 * [Picodash](https://www.picodash.com)
-* [SnapMap](https://snapmap.knightlab.com/)
-* [Social Rank](https://www.socialrank.com)
 * [Sterra](https://github.com/novitae/sterraxcyl)
 * [Toutatis](https://github.com/megadose/toutatis)
 
