@@ -191,8 +191,7 @@ algorithms, knowledgebase and AI technology.
 
 *Search engines that scrape multiple sites (Google, Yahoo, Bing, Goo, etc) at the same time and return results.*
 
-* [Carrot2](http://search.carrot2.org) - Organizes your search results into topics.
-* [Yippy](http://yippy.com) - Search using multiple sources at once
+* [Carrot2](https://search.carrot2.org) - Organizes your search results into topics.
 * [Zapmeta](http://www.zapmeta.com)
 
 ## [↑](#-Table-of-Contents) Similar Sites Search
@@ -326,34 +325,22 @@ algorithms, knowledgebase and AI technology.
 
 * [Alldaytrends](https://alldaytrends.com) - A website where you can find trending hashtags.
 * [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
-* [Birdspotter](https://birdspotter.net) - A tool to automate Twitter searches.
 * [Blue Nod](http://bluenod.com)
-* [doesfollow](https://doesfollow.com)
 * [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
-* [First Tweet](http://ctrlq.org/first)
 * [Foller.me](http://foller.me)
 * [Followerwonk](http://followerwonk.com)
-* [Geochirp](http://www.geochirp.com)
 * [GeoSocial Footprint](http://geosocialfootprint.com)
 * [GetTwitterID](http://gettwitterid.com)
-* [Gigatweeter](http://gigatweeter.com)
 * [Ground Signal](https://www.groundsignal.com)
 * [HappyGrumpy](https://www.happygrumpy.com)
 * [Harvard TweetMap](http://worldmap.harvard.edu/tweetmap)
 * [Hashtagify](http://hashtagify.me)
 * [Hashtags.org](http://www.hashtags.org)
-* [ManageFlitter](http://manageflitter.com)
-* [Mentionmapp](http://mentionmapp.com)
 * [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
-* [Nations24](https://nations24.com)
 * [OneMillionTweetMap](http://onemilliontweetmap.com)
-* [Rank Speed](http://www.rankspeed.com)
 * [RiteTag](https://ritetag.com)
 * [Sentiment140](http://www.twittersentiment.appspot.com)
-* [SnapBird](http://snapbird.org)
-* [Sleeping Time](http://sleepingtime.org)
 * [Social Bearing](http://www.socialbearing.com)
-* [Social Rank First Follower](http://socialrank.com/firstfollower)
 * [Spoonbill](http://spoonbill.io)
 * [Tagdef](https://tagdef.com)
 * [Tinfoleak](https://tinfoleak.com)
@@ -361,28 +348,19 @@ algorithms, knowledgebase and AI technology.
 * [Trends24](http://trends24.in)
 * [TrendsMap](http://trendsmap.com)
 * [Todaytagz](https://todaytagz.com)
-* [twbirthday](http://twbirthday.com)
 * [TwChat](http://twchat.com)
-* [tweepsect](http://tweepsect.com)
 * [TweetArchivist](http://www.tweetarchivist.com)
 * [TweetDeck](https://www.tweetdeck.com)
 * [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 * [TweetMap](http://worldmap.harvard.edu/tweetmap)
 * [TweetStats](http://www.tweetstats.com)
 * [TweetTunnel](http://tweettunnel.com)
-* [Twellow](http://www.twellow.com)
 * [Twiangulate](http://www.twiangulate.com)
-* [Twicsy](http://twicsy.com)
-* [Twilert](http://www.twilert.com)
-* [Twipho](http://www.twipho.net)
 * [Twitonomy](http://www.twitonomy.com)
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
 * [Twitter Audit](https://www.twitteraudit.com)
 * [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule)
-* [Twitter Counter](http://twittercounter.com)
-* [Twitterfall](http://twitterfall.com)
 * [Twitter Search](http://search.twitter.com)
-* [TWUBS Twitter Chat](http://twubs.com/twitter-chats)
 * [Schedule Warble](https://warble.co)
 
 ### [↑](#-Table-of-Contents) Facebook
