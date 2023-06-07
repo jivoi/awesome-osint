@@ -754,25 +754,20 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-Table-of-Contents) Image Search
 
-* [7Photos](http://7photos.net)
-* [Baidu Images](http://image.baidu.com)
-* [Bing Images](http://www.bing.com/images)
-* [Clarify](http://clarify.io)
+* [Baidu Images](https://image.baidu.com)
+* [Bing Images](https://www.bing.com/images)
+* [Clarify](https://clarify.io)
 * [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
-* [Flickr](https://secure.flickr.com)
+* [Flickr](https://flickr.com/search/)
 * [Google Image](https://images.google.com)
-* [Gramfeed](http://www.gramfeed.com)
 * [Image Identification Project](https://www.imageidentify.com)
 * [Image Raider](https://www.imageraider.com)
 * [KarmaDecay](http://karmadecay.com)
-* [Lycos Image Search](http://search.lycos.com)
-* [MyPicsMap](http://www.mypicsmap.com)
-* [PhotoBucket](http://photobucket.com)
-* [PicTriev](http://www.pictriev.com)
-* [PimEyes](https://pimeyes.com)
-* [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
+* [Lycos Image Search](https://search.lycos.com)
+* [PhotoBucket](https://photobucket.com)
+* [PicTriev](http://www.pictriev.com) - a face search engine.
+* [PimEyes](https://pimeyes.com) - an online face search engine that goes through the Internet to find pictures containing given faces. 
 * [TinEye](https://tineye.com) - Reverse image search engine.
-* [Websta](http://websta.me)
 * [Yahoo Image Search](https://images.search.yahoo.com)
 * [Yandex Images](https://www.yandex.com/images)
 * [Betaface](https://www.betaface.com/demo.html)
