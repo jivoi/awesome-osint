@@ -672,6 +672,7 @@ algorithms, knowledgebase and AI technology.
 * [HypeStat](https://www.hypestat.com)
 * [Infosniper](http://www.infosniper.net)
 * [intoDNS](http://www.intodns.com)
+* [Redirect Checker](https://redirectchecker.com)
 * [IP Checking](http://www.ipchecking.com)
 * [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
 * [IP 2 Geolocation](http://ip2geolocation.com)
