@@ -950,6 +950,7 @@ algorithms, knowledgebase and AI technology.
 * [Windy](https://www.windy.com/)
 * [SOAR](https://soar.earth/)
 * [digiKam](https://www.digikam.org/)
+* [SatIntel](https://github.com/ANG13T/SatIntel)
 
 ## [↑](#-Table-of-Contents) News
 
