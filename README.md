@@ -1497,6 +1497,7 @@ algorithms, knowledgebase and AI technology.
 * [Pintask](https://pintask.me)
 * [PomodoroTechnique](http://pomodorotechnique.com)
 * [Producteev](https://www.producteev.com)
+* [Pulse.red](https://pulse.red)
 * [Remember the Milk](https://www.rememberthemilk.com)
 * [RescueTime](https://www.rescuetime.com)
 * [Restya](http://restya.com)
