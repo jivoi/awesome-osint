@@ -65,7 +65,6 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Digital Storytelling](#-digital-storytelling)
  - [Infographics and Data Visualization](#-infographics-and-data-visualization)
  - [Image and Photo Editing](#-image-and-photo-editing)
- - [Productivity Tools](#-productivity-tools)
  - [E-mail Management](#-e-mail-management)
  - [Document and Reference Management](#-document-and-reference-management)
  - [PDF Management](#-pdf-management)
@@ -1372,40 +1371,6 @@ algorithms, knowledgebase and AI technology.
 * [Seashore](http://seashore.sourceforge.net)
 * [SumoPaint](http://www.sumopaint.com)
 * [TinyPNG](https://tinypng.com) - is a tool that can be used to compress various images formats in to smaller size.
-
-## [↑](#-Table-of-Contents) Productivity Tools
-
-* [2Do](http://www.2doapp.com)
-* [Any.do](http://www.any.do)
-* [Asana](https://asana.com)
-* [Dapulse](https://dapulse.com)
-* [Droptask](https://www.droptask.com)
-* [Flask](http://flask.io)
-* [Focus booster](https://www.focusboosterapp.com)
-* [Freecamp](https://freedcamp.com)
-* [Good night Chrome](http://www.goodnightchrome.com)
-* [Leechblock NG](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng)
-* [MyLifeOrganized](http://www.mylifeorganized.net)
-* [Pintask](https://pintask.me)
-* [PomodoroTechnique](http://pomodorotechnique.com)
-* [Producteev](https://www.producteev.com)
-* [Remember the Milk](https://www.rememberthemilk.com)
-* [RescueTime](https://www.rescuetime.com)
-* [Restya](http://restya.com)
-* [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji/details)
-* [Taskade](https://taskade.com)
-* [Taskboard](https://taskboard.matthewross.me)
-* [TikiTiki](https://ticktick.com)
-* [Tinygain](https://tinygain.com)
-* [Trello](https://trello.com)
-* [Todo.ly](https://todo.ly)
-* [Todo](http://todotxt.com)
-* [Todoist](https://en.todoist.com)
-* [Toggle](https://www.toggl.com)
-* [Tomighty](http://www.tomighty.org)
-* [Toodledo](https://www.toodledo.com)
-* [Tweek](https://tweek.so)
-* [Workflowy](https://workflowy.com)
 
 ## [↑](#-Table-of-Contents) E-mail Management
 
