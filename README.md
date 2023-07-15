@@ -46,7 +46,6 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Language Tools](#-language-tools)
  - [Image Search](#-image-search)
  - [Image Analysis](#-image-analysis)
- - [Stock Images](#-stock-images)
  - [Video Search and Other Video Tools](#-video-search-and-other-video-tools)
  - [Radio and Podcasts Tools](#-radio-and-podcasts-tools)
  - [Academic Resources and Grey Literature](#-academic-resources-and-grey-literature)
@@ -786,10 +785,6 @@ algorithms, knowledgebase and AI technology.
 * [Forensically](https://29a.ch/photo-forensics/)
 * [DiffChecker](https://www.diffchecker.com/image-diff/)
 * [ImgOps](https://imgops.com/)
-
-## [↑](#-Table-of-Contents) Stock Images
-
-* See the [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) list.
 
 ## [↑](#-Table-of-Contents) Video Search and Other Video Tools
 
