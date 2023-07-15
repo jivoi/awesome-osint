@@ -60,7 +60,6 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [VPN Services](#-vpn-services)
  - [Note-taking](#-note-taking)
  - [Annotation Tools](#-annotation-tools)
- - [Writing and Office Tools](#-writing-and-office-tools)
  - [Slide Show and Presentation Tools](#-slide-show-and-presentation-tools)
  - [Digital Publishing](#-digital-publishing)
  - [Newsletter Tools](#-newsletter-tools)
@@ -1203,25 +1202,6 @@ algorithms, knowledgebase and AI technology.
 * [Pith.li](http://pith.li)
 * [Pund.it](http://thepund.it)
 * [Skitch](https://evernote.com/skitch)
-
-## [↑](#-Table-of-Contents) Writing and Office Tools
-
-* [Arguman](http://en.arguman.org)
-* [Bibme](http://www.bibme.org)
-* [Citationsy](https://citationsy.com)
-* [Cite This For Me](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle?hl=en)
-* [FreeOffice](http://www.freeoffice.com)
-* [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
-* [GoogleDocs](https://www.google.com/docs/about)
-* [LibreOffice](https://www.libreoffice.org)
-* [MS Office](https://products.office.com)
-* [Office Online](https://chrome.google.com/webstore/detail/office-online/ndjpnladcallmjemlbaebfadecfhkepb/related)
-* [OmniOutliner](https://www.omnigroup.com/omnioutliner)
-* [OnlyOffice](https://www.onlyoffice.com)
-* [oTranscribe](http://otranscribe.com)
-* [Scrivener](http://literatureandlatte.com/scrivener.php)
-* [TextExpander](https://smilesoftware.com/textexpander)
-* [UltraEdit](http://www.ultraedit.com)
 
 ## [↑](#-Table-of-Contents) Slide Show and Presentation Tools
 
