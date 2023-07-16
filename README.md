@@ -47,7 +47,6 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Image Search](#-image-search)
  - [Image Analysis](#-image-analysis)
  - [Video Search and Other Video Tools](#-video-search-and-other-video-tools)
- - [Radio and Podcasts Tools](#-radio-and-podcasts-tools)
  - [Academic Resources and Grey Literature](#-academic-resources-and-grey-literature)
  - [Geospatial Research and Mapping Tools](#-geospatial-research-and-mapping-tools)
  - [News](#-news)
@@ -795,15 +794,6 @@ algorithms, knowledgebase and AI technology.
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 * [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
 * [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
-
-## [↑](#-Table-of-Contents) Radio and Podcasts Tools
-
-* [iTunes Podcasts](http://www.apple.com/itunes/podcasts)
-* [Listelive](http://www.listenlive.eu)
-* [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
-* [Podcast Chart](http://www.podcastchart.com)
-* [Podgrab](https://github.com/akhilrex/podgrab)
-* [Podkicker](https://play.google.com/store/apps/details?id=ait.podka&hl=en)
 
 ## [↑](#-Table-of-Contents) Academic Resources and Grey Literature
 
