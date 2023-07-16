@@ -68,6 +68,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [OSINT Videos](#-osint-videos)
  - [OSINT Blogs](#-osint-blogs)
  - [Other Resources](#-other-resources)
+ - [Related Awesome Lists](#-related-awesome-lists)
 
 ## [↑](#-Table-of-Contents) Contributing
 
@@ -1383,6 +1384,26 @@ urls and other data effortlessly
 * [OSINT Belarus](https://t.me/s/osintby)
 * [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
 * [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022. 
+
+## [↑](#-Table-of-Contents) Related Awesome Lists
+
+* [awesome-anti-forensic](https://github.com/remiflavien1/awesome-anti-forensic) by @remiflavien1
+* [awesome-ctf](https://github.com/apsdehal/awesome-ctf) by @apsdehal
+* [awesome-forensics](https://github.com/Cugu/awesome-forensics) by @cugu
+* [awesome-hacking](https://github.com/carpedm20/awesome-hacking) by @carpedm20
+* [awesome-honeypots](https://github.com/paralax/awesome-honeypots) by @paralax
+* [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) by @meirwah
+* [awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking) by @fabacab
+* [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
+* [awesome-pentest](https://github.com/enaqx/awesome-pentest) by @enaqx
+* [awesome-privacy](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
+* [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec
+* [awesome-security](https://github.com/sbilly/awesome-security) by @sbilly
+* [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
+* [infosec reference](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
+* [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
+* [SecLists](https://github.com/danielmiessler/SecLists) by @danielmiessler
+* [security-list](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
 
 ## License
 
