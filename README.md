@@ -1384,14 +1384,6 @@ urls and other data effortlessly
 * [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
 * [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022. 
 
-## [↑](#-Table-of-Contents) Project Management Tools
-
-*Project management tools, Scrum tools, and Project Boards.*
-
-* [ClickUp](https://www.clickup.com) - Heavy-weight Task Management 
-* [Scrumfast](https://www.scrumfast.com) - Light-weight, Free Project Management Tool
-* [Trello](https://www.trello.com) - Free Team Project Board
-
 ## License
 
 ![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
