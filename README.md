@@ -318,44 +318,24 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-Table-of-Contents) Twitter
 
-* [Alldaytrends](https://alldaytrends.com) - A website where you can find trending hashtags.
-* [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
-* [Blue Nod](http://bluenod.com)
 * [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
 * [Foller.me](http://foller.me)
-* [Followerwonk](http://followerwonk.com)
-* [GeoSocial Footprint](http://geosocialfootprint.com)
-* [GetTwitterID](http://gettwitterid.com)
-* [Ground Signal](https://www.groundsignal.com)
 * [HappyGrumpy](https://www.happygrumpy.com)
-* [Harvard TweetMap](http://worldmap.harvard.edu/tweetmap)
-* [Hashtagify](http://hashtagify.me)
-* [Hashtags.org](http://www.hashtags.org)
 * [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
 * [OneMillionTweetMap](http://onemilliontweetmap.com)
 * [RiteTag](https://ritetag.com)
 * [Sentiment140](http://www.twittersentiment.appspot.com)
-* [Social Bearing](http://www.socialbearing.com)
-* [Spoonbill](http://spoonbill.io)
 * [Tagdef](https://tagdef.com)
-* [Tinfoleak](https://tinfoleak.com)
 * [Trends Predictions](https://trendspredictions.com/) - A tool for discovering new trending topics.
 * [Trends24](http://trends24.in)
-* [TrendsMap](http://trendsmap.com)
-* [Todaytagz](https://todaytagz.com)
 * [TwChat](http://twchat.com)
-* [TweetArchivist](http://www.tweetarchivist.com)
 * [TweetDeck](https://www.tweetdeck.com)
 * [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 * [TweetMap](http://worldmap.harvard.edu/tweetmap)
-* [TweetStats](http://www.tweetstats.com)
-* [Twiangulate](http://www.twiangulate.com)
-* [Twitonomy](http://www.twitonomy.com)
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
 * [Twitter Audit](https://www.twitteraudit.com)
 * [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule)
 * [Twitter Search](http://search.twitter.com)
-* [Schedule Warble](https://warble.co)
 
 ### [↑](#-Table-of-Contents) Facebook
 
