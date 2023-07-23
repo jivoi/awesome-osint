@@ -663,6 +663,7 @@ algorithms, knowledgebase and AI technology.
 * [Threat Jammer](https://threatjammer.com) - Risk scoring service from curated threat intelligence data.
 * [urlQuery](http://urlquery.net)
 * [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
+* [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
 * [Web-Check](https://web-check.as93.net/) - All-in-one tool for viewing website and server meta data.
 * [WebMeUp](http://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
 * [Website Informer](http://website.informer.com)
