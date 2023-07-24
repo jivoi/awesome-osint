@@ -224,7 +224,6 @@ algorithms, knowledgebase and AI technology.
 * [paste.centos](https://paste.centos.org)
 * [paste.kde](https://Paste.kde.org)
 * [Rentry](https://rentry.co/)
-* [Skidbin](https://skidbin.net/) - A dox style pastebin ran by hackers
 
 
 ## [↑](#-Table-of-Contents) Code Search
