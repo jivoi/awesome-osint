@@ -1307,6 +1307,7 @@ urls and other data effortlessly
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 * [Pown Recon](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
+* [RedHunt Labs Attack Surface Recon API](https://devportal.redhuntlabs.com/home) - RedHunt Labs' Recon API offers comprehensive domain intelligence and reconnaissance capabilities. With access to their extensive in-house database of over 6 billion records, including domains, subdomains, third-party SaaS, data leaks, and intelligent correlations, this API empowers you to enhance your Attack Surface Management and InfoSec workflows.
 * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 * [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
