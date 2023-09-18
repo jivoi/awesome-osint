@@ -69,11 +69,11 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Other Resources](#-other-resources)
  - [Related Awesome Lists](#-related-awesome-lists)
 
-## [↑](#-Table-of-Contents) Contributing
+## [↑](#-table-of-contents) Contributing
 
 Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resources.
 
-## [↑](#-Table-of-Contents) Credits
+## [↑](#-table-of-contents) Credits
 
 This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/).
 
@@ -81,7 +81,7 @@ Thanks to our main contributors
 [jivoi EK_](https://github.com/jivoi)
 [spmedia](https://github.com/spmedia)
 
-## [↑](#-Table-of-Contents) General Search
+## [↑](#-table-of-contents) General Search
 
 *The main search engines used by users.*
 
@@ -103,7 +103,7 @@ algorithms, knowledgebase and AI technology.
 * [Yahoo! Search](https://www.yahoo.com) -  The search engine that helps you find exactly what you're looking for.
 * [YOU](https://you.com) - AI search engine.
 
-## [↑](#-Table-of-Contents) Main National Search Engines
+## [↑](#-table-of-contents) Main National Search Engines
 
 *Localized search engines by country.*
 
@@ -123,7 +123,7 @@ algorithms, knowledgebase and AI technology.
 * [Yandex (Russia)](http://www.yandex.com)
 * [Najdi.si (Slovenia)](http://www.najdi.si/)
 
-## [↑](#-Table-of-Contents) Meta Search
+## [↑](#-table-of-contents) Meta Search
 
 *Lesser known and used search engines.*
 
@@ -137,7 +137,7 @@ algorithms, knowledgebase and AI technology.
 * [Qwant](http://www.qwant.com)
 * [Swisscows](https://swisscows.com/)
 
-## [↑](#-Table-of-Contents) Specialty Search Engines
+## [↑](#-table-of-contents) Specialty Search Engines
 
 *Search engines for specific information or topics.*
 
@@ -160,14 +160,14 @@ algorithms, knowledgebase and AI technology.
 * [WIPO](https://www3.wipo.int/branddb/en/)
 * [Netlas.io](https://app.netlas.io/)
 
-## [↑](#-Table-of-Contents) Visual Search and Clustering Search Engines
+## [↑](#-table-of-contents) Visual Search and Clustering Search Engines
 
 *Search engines that scrape multiple sites (Google, Yahoo, Bing, Goo, etc) at the same time and return results.*
 
 * [Carrot2](https://search.carrot2.org) - Organizes your search results into topics.
 * [Zapmeta](http://www.zapmeta.com)
 
-## [↑](#-Table-of-Contents) Similar Sites Search
+## [↑](#-table-of-contents) Similar Sites Search
 
 *Find websites that are similar. Good for business competition research.*
 
@@ -175,7 +175,7 @@ algorithms, knowledgebase and AI technology.
 * [SimilarSites](http://www.similarsites.com) - Discover websites that are similar to each other
 * [SitesLike](http://www.siteslike.com) - Find similar websites by category
 
-## [↑](#-Table-of-Contents) Document and Slides Search
+## [↑](#-table-of-contents) Document and Slides Search
 
 *Search for data located on PDFs, Word documents, presentation slides, and more.*
 
@@ -187,7 +187,7 @@ algorithms, knowledgebase and AI technology.
 * [SlideShare](http://www.slideshare.net)
 * [Slideworld](http://www.slideworld.com)
 
-## [↑](#-Table-of-Contents) File Search
+## [↑](#-table-of-contents) File Search
 
 *Search for all kind of files.*
 
@@ -199,7 +199,7 @@ algorithms, knowledgebase and AI technology.
 * [NAPALM FTP Indexer](https://www.searchftps.net/)
 * [FileListing](https://filelisting.com/)
 
-## [↑](#-Table-of-Contents) Pastebins
+## [↑](#-table-of-contents) Pastebins
 
 *Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
@@ -226,7 +226,7 @@ algorithms, knowledgebase and AI technology.
 * [Rentry](https://rentry.co/)
 
 
-## [↑](#-Table-of-Contents) Code Search
+## [↑](#-table-of-contents) Code Search
 
 *Search by website source code*
 
@@ -238,7 +238,7 @@ algorithms, knowledgebase and AI technology.
 * [Reposearch](http://codefinder.org/)
 * [PublicWWW](https://publicwww.com/)
 
-## [↑](#-Table-of-Contents) Major Social Networks
+## [↑](#-table-of-contents) Major Social Networks
 
 * [Draugiem (Latvia)](https://www.draugiem.lv)
 * [Facebook](http://www.facebook.com)
@@ -257,7 +257,7 @@ algorithms, knowledgebase and AI technology.
 * [VKontakte](https://vk.com)
 * [Xing](https://www.xing.com)
 
-## [↑](#-Table-of-Contents) Real-Time Search, Social Media Search, and General Social Media Tools
+## [↑](#-table-of-contents) Real-Time Search, Social Media Search, and General Social Media Tools
 
 * [Audiense](https://www.audiense.com) - Tool to identify relevant audience, discover actionable insights and inform strategies to grow your business.
 * [Bottlenose](http://bottlenose.com)
@@ -291,7 +291,7 @@ algorithms, knowledgebase and AI technology.
 
 ## Social Media Tools
 
-### [↑](#-Table-of-Contents) Twitter
+### [↑](#-table-of-contents) Twitter
 
 * [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
 * [Foller.me](http://foller.me)
@@ -312,7 +312,7 @@ algorithms, knowledgebase and AI technology.
 * [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule)
 * [Twitter Search](http://search.twitter.com)
 
-### [↑](#-Table-of-Contents) Facebook
+### [↑](#-table-of-contents) Facebook
 
 * [Agora Pulse](http://barometer.agorapulse.com)
 * [Fanpage Karma](http://www.fanpagekarma.com)
@@ -325,7 +325,7 @@ algorithms, knowledgebase and AI technology.
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 * [haveibeenzuckered](https://haveibeenzuckered.com/) - A large dataset containing 533 million Facebook accounts was made available for download. The data was obtained by exploiting a vulnerability that was, according to Facebook, corrected in August 2019. Check if a telephone number is present within the Facebook data breach.
 
-### [↑](#-Table-of-Contents) Instagram
+### [↑](#-table-of-contents) Instagram
 
 * [Hashtagify](http://hashtagify.me)
 * [Iconosquare](http://iconosquare.com)
@@ -334,11 +334,11 @@ algorithms, knowledgebase and AI technology.
 * [Sterra](https://github.com/novitae/sterraxcyl)
 * [Toutatis](https://github.com/megadose/toutatis)
 
-### [↑](#-Table-of-Contents) Pinterest
+### [↑](#-table-of-contents) Pinterest
 
 * [Pingroupie](http://pingroupie.com)
 
-### [↑](#-Table-of-Contents) Reddit
+### [↑](#-table-of-contents) Reddit
 
 *Tools to help discover more about a reddit user or subreddit.*
 
@@ -353,7 +353,7 @@ algorithms, knowledgebase and AI technology.
 * [Reddit Comment Lookup](https://randomtools.io/reddit-comment-search/) - Search for reddit comments by reddit username.
 
 
-### [↑](#-Table-of-Contents) VKontakte
+### [↑](#-table-of-contents) VKontakte
 
 *Perform various OSINT on Russian social media site VKontakte.*
 
@@ -366,30 +366,30 @@ algorithms, knowledgebase and AI technology.
 * [VK People Search](http://vk.com/people)
 * [VK.watch](https://vk.watch/)
 
-### [↑](#-Table-of-Contents) Tumblr
+### [↑](#-table-of-contents) Tumblr
 
 * [Tumblr Search](http://www.tumblr.com/search)
 
-### [↑](#-Table-of-Contents) LinkedIn
+### [↑](#-table-of-contents) LinkedIn
 
 * [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB) - Browser plugin that finds emails of people's profiles in LinkedIn.
 
 
-### [↑](#-Table-of-Contents) Telegram
+### [↑](#-table-of-contents) Telegram
 
 * [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms. 
 * [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 
 
 
-## [↑](#-Table-of-Contents) Blog Search
+## [↑](#-table-of-contents) Blog Search
 
 * [BlogSearchEngine](http://www.blogsearchengine.org)
 * [Notey](http://www.notey.com) - Blog post search engine.
 * [Sphere](https://www.sphere.com)
 * [Twingly](http://www.twingly.com)
 
-## [↑](#-Table-of-Contents) Forums and Discussion Boards Search
+## [↑](#-table-of-contents) Forums and Discussion Boards Search
 
 * [Boardreader](http://boardreader.com)
 * [Built With Flarum](https://builtwithflarum.com/)
@@ -403,7 +403,7 @@ algorithms, knowledgebase and AI technology.
 * [Yahoo Groups](https://groups.yahoo.com)
 * [4chan Search](https://4chansearch.com/)
 
-## [↑](#-Table-of-Contents) Username Check
+## [↑](#-table-of-contents) Username Check
 
 * [Check User Names](http://www.checkusernames.com)
 * [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
@@ -422,7 +422,7 @@ algorithms, knowledgebase and AI technology.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 * [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
 
-## [↑](#-Table-of-Contents) People Investigations
+## [↑](#-table-of-contents) People Investigations
 
 * [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
 * [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
@@ -453,7 +453,7 @@ algorithms, knowledgebase and AI technology.
 * [Mugshots](https://mugshots.com/)
 * [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
 
-## [↑](#-Table-of-Contents) E-mail Search / E-mail Check
+## [↑](#-table-of-contents) E-mail Search / E-mail Check
 
 * [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
 * [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name. 
@@ -477,7 +477,7 @@ algorithms, knowledgebase and AI technology.
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
 * [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 
-## [↑](#-Table-of-Contents) Phone Number Research
+## [↑](#-table-of-contents) Phone Number Research
 * [EmobileTracker.com](https://www.emobiletracker.com/)
 * [FreeCarrierLookup](https://freecarrierlookup.com/)
 * [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
@@ -488,7 +488,7 @@ algorithms, knowledgebase and AI technology.
 * [Sync.ME](https://sync.me/)
 * [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
 
-## [↑](#-Table-of-Contents) Expert Search
+## [↑](#-table-of-contents) Expert Search
 
 * [Academia](http://academia.edu) - is a platform for sharing academic research.
 * [CanLaw](http://www.canlaw.com)
@@ -515,7 +515,7 @@ algorithms, knowledgebase and AI technology.
 * [TRExpertWitness](https://trexpertwitness.com)
 * [Zintro](https://www.zintro.com)
 
-## [↑](#-Table-of-Contents) Company Research
+## [↑](#-table-of-contents) Company Research
 
 * [AllStocksLinks](http://www.allstocks.com/links)
 * [Better Business Bureau](http://www.bbb.org)
@@ -567,7 +567,7 @@ algorithms, knowledgebase and AI technology.
 * [GoodFirms](https://www.goodfirms.co/)
 * [YouControl](https://youcontrol.com.ua/en/)
 
-## [↑](#-Table-of-Contents) Job Search Resources
+## [↑](#-table-of-contents) Job Search Resources
 
 * [Beyond](http://www.beyond.com)
 * [CampusCareerCenter](http://www.campuscareercenter.com)
@@ -594,7 +594,7 @@ algorithms, knowledgebase and AI technology.
 * [ZipRecruiter](https://www.ziprecruiter.com)
 * [RecruitEm](https://recruitin.net/)
 
-## [↑](#-Table-of-Contents) Q&A Sites
+## [↑](#-table-of-contents) Q&A Sites
 
 * [Answers.com](http://www.answers.com)
 * [Ask](http://www.ask.com)
@@ -604,7 +604,7 @@ algorithms, knowledgebase and AI technology.
 * [Yahoo Answers](http://answers.yahoo.com)
 * [Ответы](https://otvet.mail.ru/)
 
-## [↑](#-Table-of-Contents) Domain and IP Research
+## [↑](#-table-of-contents) Domain and IP Research
 
 * [Accuranker](https://www.accuranker.com)
 * [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
@@ -681,7 +681,7 @@ algorithms, knowledgebase and AI technology.
 * [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
 * [urlscan](https://urlscan.io/) -  is a free service to scan and analyse websites.
 
-## [↑](#-Table-of-Contents) Keywords Discovery and Research
+## [↑](#-table-of-contents) Keywords Discovery and Research
 
 * [Google Adwords](http://adwords.google.com) - Get monthly keyword volume data and stats.
 * [Google Trends](https://www.google.com/trends) - See how many users are searching for specific keywords.
@@ -694,7 +694,7 @@ algorithms, knowledgebase and AI technology.
 * [Ubersuggest](http://ubersuggest.org)
 * [Yandex Wordstat](https://wordstat.yandex.com)
 
-## [↑](#-Table-of-Contents) Web History and Website Capture
+## [↑](#-table-of-contents) Web History and Website Capture
 
 * [Archive.is](http://archive.is) - is a website that allows you to archive a snapshot of you websites that will always remains online evenif the original page disappears.
 * [BlackWidow](http://softbytelabs.com/wp/blackwidow/)
@@ -705,11 +705,11 @@ algorithms, knowledgebase and AI technology.
 * [Wayback Machine Archiver](https://github.com/jsvine/waybackpack)
 * [waybackpy](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
-## [↑](#-Table-of-Contents) Language Tools
+## [↑](#-table-of-contents) Language Tools
 
 * see the [Awesome Translations list](https://github.com/mbiesiad/awesome-translations#tools)
 
-## [↑](#-Table-of-Contents) Image Search
+## [↑](#-table-of-contents) Image Search
 
 * [Baidu Images](https://image.baidu.com)
 * [Bing Images](https://www.bing.com/images)
@@ -730,7 +730,7 @@ algorithms, knowledgebase and AI technology.
 * [Betaface](https://www.betaface.com/demo.html)
 * [Search4faces](https://search4faces.com/)
 
-## [↑](#-Table-of-Contents) Image Analysis
+## [↑](#-table-of-contents) Image Analysis
 
 * [ExifLooter](https://github.com/aydinnyunus/exiflooter)
 * [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
@@ -744,7 +744,7 @@ algorithms, knowledgebase and AI technology.
 * [DiffChecker](https://www.diffchecker.com/image-diff/)
 * [ImgOps](https://imgops.com/)
 
-## [↑](#-Table-of-Contents) Video Search and Other Video Tools
+## [↑](#-table-of-contents) Video Search and Other Video Tools
 
 * [Aol Videos](http://on.aol.com)
 * [Bing Videos](http://www.bing.com/?scope=video)
@@ -776,7 +776,7 @@ algorithms, knowledgebase and AI technology.
 * [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
 * [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 
-## [↑](#-Table-of-Contents) Academic Resources and Grey Literature
+## [↑](#-table-of-contents) Academic Resources and Grey Literature
 
 * [Academia](https://www.academia.edu)
 * [Academic Journals](http://www.academicjournals.org)
@@ -821,7 +821,7 @@ algorithms, knowledgebase and AI technology.
 * [Zetoc](http://zetoc.jisc.ac.uk)
 
 
-## [↑](#-Table-of-Contents) Geospatial Research and Mapping Tools
+## [↑](#-table-of-contents) Geospatial Research and Mapping Tools
 
 * [Atlasify](http://www.atlasify.com)
 * [Batchgeo](http://batchgeo.com)
@@ -896,7 +896,7 @@ algorithms, knowledgebase and AI technology.
 * [digiKam](https://www.digikam.org/)
 * [SatIntel](https://github.com/ANG13T/SatIntel)
 
-## [↑](#-Table-of-Contents) News
+## [↑](#-table-of-contents) News
 
 * [1st Headlines](http://www.1stheadlines.com)
 * [ABYZNewsLinks](http://www.abyznewslinks.com)
@@ -938,7 +938,7 @@ algorithms, knowledgebase and AI technology.
 * [World-Newspapers](http://www.world-newspapers.com)
 * [Yahoo News](http://news.yahoo.com)
 
-## [↑](#-Table-of-Contents) News Digest and Discovery Tools
+## [↑](#-table-of-contents) News Digest and Discovery Tools
 
 * [Flipboard](https://flipboard.com)
 * [Hubii](http://hubii.com)
@@ -953,7 +953,7 @@ algorithms, knowledgebase and AI technology.
 * [Superdesk](https://www.superdesk.org)
 * [Trooclick](http://trooclick.com)
 
-## [↑](#-Table-of-Contents) Fact Checking
+## [↑](#-table-of-contents) Fact Checking
 
 * [About Urban Legends](http://urbanlegends.about.com)
 * [Captin Fact](https://captainfact.io/)
@@ -965,7 +965,7 @@ algorithms, knowledgebase and AI technology.
 * [Verification Handbook](http://verificationhandbook.com)
 * [Verification Junkie](http://verificationjunkie.com)
 
-## [↑](#-Table-of-Contents) Data and Statistics
+## [↑](#-table-of-contents) Data and Statistics
 
 * [AGOA Data Center](http://agoa.info)
 * [AidData](http://aiddata.org)
@@ -1040,7 +1040,7 @@ algorithms, knowledgebase and AI technology.
 * [Vizala](https://vizala.com)
 * [Zanran](http://zanran.com)
 
-## [↑](#-Table-of-Contents) Web Monitoring
+## [↑](#-table-of-contents) Web Monitoring
 
 * [Alltop](http://alltop.com)
 * [Awasu](http://www.awasu.com)
@@ -1083,7 +1083,7 @@ algorithms, knowledgebase and AI technology.
 * [WebSite Watcher](http://www.aignes.com/index.htm)
 * [Winds](http://winds.getstream.io)
 
-## [↑](#-Table-of-Contents) Browsers
+## [↑](#-table-of-contents) Browsers
 
 * [Atom](https://browser.ru/)
 * [Brave](https://brave.com) - is an open-source web browser that allows you to completely block ads and website trackers.
@@ -1105,7 +1105,7 @@ algorithms, knowledgebase and AI technology.
 * [Vivaldi](https://vivaldi.com)
 * [Yandex Browser](https://browser.yandex.com/desktop/main)
 
-## [↑](#-Table-of-Contents) Offline Browsing
+## [↑](#-table-of-contents) Offline Browsing
 
 * [A1 Website Download](http://www.microsystools.com/products/website-download) - Download entire websites to disk.
 * [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
@@ -1118,12 +1118,12 @@ algorithms, knowledgebase and AI technology.
 * [WebAssistant](http://www.proxy-offline-browser.com/download.html)
 * [Website Ripper Copier](http://www.tensons.com/products/websiterippercopier)
 
-## [↑](#-Table-of-Contents) VPN Services
+## [↑](#-table-of-contents) VPN Services
 
 * [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
 * [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/) - is a summary list of top best VPN services.
 
-## [↑](#-Table-of-Contents) Infographics and Data Visualization
+## [↑](#-table-of-contents) Infographics and Data Visualization
 
 * [Aeon](http://www.aeontimeline.com)
 * [Arbor.js](http://arborjs.org)
@@ -1203,7 +1203,7 @@ algorithms, knowledgebase and AI technology.
 * [ZingChart](http://www.zingchart.com)
 * [Observable](https://observablehq.com/)
 
-## [↑](#-Table-of-Contents) Social Network Analysis
+## [↑](#-table-of-contents) Social Network Analysis
 
 * [Gephi](https://gephi.org) - is an open-source graph and network visualization software.
 * [ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php)
@@ -1211,7 +1211,7 @@ algorithms, knowledgebase and AI technology.
 * [Wynyard Group](https://wynyardgroup.com)
 * [Visual Investigative Scenarios](https://vis.occrp.org)
 
-## [↑](#-Table-of-Contents) Privacy and Encryption Tools
+## [↑](#-table-of-contents) Privacy and Encryption Tools
 
 * [Abine](https://www.abine.com)
 * [Adium](https://adium.im)
@@ -1270,16 +1270,16 @@ algorithms, knowledgebase and AI technology.
 * [WOT](https://www.mywot.com)
 * [ZMail](http://zmail.sourceforge.net)
 
-## [↑](#-Table-of-Contents) DNS
+## [↑](#-table-of-contents) DNS
 * [Amass](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
 * [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting.
 * [Columbus Project](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
-## [↑](#-Table-of-Contents) Maritime
+## [↑](#-table-of-contents) Maritime
 
 * [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
 
-## [↑](#-Table-of-Contents) Other Tools
+## [↑](#-table-of-contents) Other Tools
 
 * [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
 * [Belati](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
@@ -1320,14 +1320,14 @@ urls and other data effortlessly
 * [Sub3 Suite](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
 
-## [↑](#-Table-of-Contents) Threat Intelligence
+## [↑](#-table-of-contents) Threat Intelligence
 
 * [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 * [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 * [OnionScan](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 
-## [↑](#-Table-of-Contents) OSINT Videos
+## [↑](#-table-of-contents) OSINT Videos
 
 * [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI)
 * [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
@@ -1335,7 +1335,7 @@ urls and other data effortlessly
 * [Bendobrown](https://www.youtube.com/c/Bendobrown)
 * [SANS OSINT Summit 2021 (Playlist)](https://www.youtube.com/playlist?list=PLs4eo9Tja8bj3jJvv42LxOkhc2_ylpS9y)
 
-## [↑](#-Table-of-Contents) OSINT Blogs
+## [↑](#-table-of-contents) OSINT Blogs
 
 * [Bellingcat](https://www.bellingcat.com/)
 * [NixIntel](https://nixintel.info/)
@@ -1348,7 +1348,7 @@ urls and other data effortlessly
 * [Skopenow](https://www.skopenow.com/news)
 * [Sleuth For The Truth](http://sleuthforthetruth.com/)
 
-## [↑](#-Table-of-Contents) Other Resources
+## [↑](#-table-of-contents) Other Resources
 
 * [Bellingcat's Online Investigation Toolkit](http://bit.ly/bcattools)
 * [Bellingcat Online Researcher Survey: Tool Wishes](https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit#gid=1378107220) — Wishlist of OSINT tools from a February Bellingcat survey. 
@@ -1357,7 +1357,7 @@ urls and other data effortlessly
 * [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
 * [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022. 
 
-## [↑](#-Table-of-Contents) Related Awesome Lists
+## [↑](#-table-of-contents) Related Awesome Lists
 
 * [awesome-anti-forensic](https://github.com/remiflavien1/awesome-anti-forensic) by @remiflavien1
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf) by @apsdehal
