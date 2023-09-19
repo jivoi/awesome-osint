@@ -1323,6 +1323,7 @@ urls and other data effortlessly
 
 ## [↑](#-table-of-contents) Threat Intelligence
 
+* [ELLIO: IP Feed (Community version)](https://feed.ellio.tech/)- The community version of ELLIO: Feed (the "List “) is an external dynamic threat list, consisting of known malicious IP addresses anticipated to pose potential threats to your network in the near future. It also includes known benign scanners and IP addresses of actors with unknown intent.
 * [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 * [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
