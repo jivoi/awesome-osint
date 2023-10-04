@@ -1066,6 +1066,7 @@ algorithms, knowledgebase and AI technology.
 * [Newsblur](http://newsblur.com)
 * [OmeaReader](http://www.jetbrains.com/omea/reader)
 * [OnWebChange](http://onwebchange.com)
+* [PageCrawl](https://pagecrawl.io) - web change monitoring
 * [Reeder](http://reederapp.com)
 * [RSS Bridge](https://bridge.suumitsu.eu)
 * [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp)
