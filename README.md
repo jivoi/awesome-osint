@@ -453,6 +453,7 @@ algorithms, knowledgebase and AI technology.
 * [JailBase](https://www.jailbase.com/) - is an information site that allows you to search for arrested persons you might know, and even get notified if someone you know gets arrested.
 * [Mugshots](https://mugshots.com/)
 * [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
+* [VineLink](https://www.vinelink.com/#state-selection) - Inmate search and notification service for victims of crime, linked to multiple correctional facilities' booking systems in the U.S.
 
 ## [↑](#-table-of-contents) E-mail Search / E-mail Check
 
