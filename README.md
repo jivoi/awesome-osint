@@ -587,6 +587,7 @@ algorithms, knowledgebase and AI technology.
 * [Linkedin](https://www.linkedin.com)
 * [Monster](http://www.monster.com)
 * [Naukri (India)](http://www.naukri.com)
+* [OkJob](http://www.okjob.io) - 4 day week jobs
 * [Reed (UK)](http://www.reed.co.uk)
 * [Seek (Australia)](http://www.seek.com.au)
 * [SimplyHired](http://www.simplyhired.com)
