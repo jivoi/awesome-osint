@@ -277,7 +277,7 @@ algorithms, knowledgebase and AI technology.
 * [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
 * [Rival IQ](https://www.rivaliq.com)
 * [SocialBakers](http://www.socialbakers.com)
-* [SociaBlade](http://socialblade.com)
+* [SocialBlade](http://socialblade.com)
 * [Social DownORNot](http://social.downornot.com)
 * [SocialGrep](https://socialgrep.com) - a Reddit search engine/analysis tool, "signals out of the social web of noise."
 * [Social Searcher](http://www.social-searcher.com)
