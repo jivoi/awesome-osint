@@ -752,6 +752,7 @@ algorithms, knowledgebase and AI technology.
 * [Forensically](https://29a.ch/photo-forensics/)
 * [DiffChecker](https://www.diffchecker.com/image-diff/)
 * [ImgOps](https://imgops.com/)
+* [GeoSpy](https://geospy.web.app/) - AI based image osint tool
 
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
 
