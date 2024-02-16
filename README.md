@@ -436,6 +436,7 @@ algorithms, knowledgebase and AI technology.
 * [Digital Footprint Check](https://www.cyberoneintel.com/digitalfootprint) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
 * [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
 * [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
+* [FamilyTreeNow](https://familytreenow.com) - Research family and geneology, no registration required, can search addresses, phone numbers, and email addresses as well as associations.
 * [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present. 
 * [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
 * [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
@@ -454,6 +455,7 @@ algorithms, knowledgebase and AI technology.
 * [JailBase](https://www.jailbase.com/) - is an information site that allows you to search for arrested persons you might know, and even get notified if someone you know gets arrested.
 * [Mugshots](https://mugshots.com/)
 * [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
+* [VineLink](https://www.vinelink.com/#state-selection) - Inmate search and notification service for victims of crime, linked to multiple correctional facilities' booking systems in the U.S.
 
 ## [↑](#-table-of-contents) E-mail Search / E-mail Check
 
