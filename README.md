@@ -274,6 +274,7 @@ algorithms, knowledgebase and AI technology.
 * [MustBePresent](http://mustbepresent.com)
 * [Netvibes](http://www.netvibes.com)
 * [OpinionCrawl](http://www.opinioncrawl.com)
+* [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
 * [Rival IQ](https://www.rivaliq.com)
 * [SocialBakers](http://www.socialbakers.com)
 * [SociaBlade](http://socialblade.com)
