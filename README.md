@@ -423,6 +423,7 @@ algorithms, knowledgebase and AI technology.
 * [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 * [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
+* [CheckUser](https://checkuser.vercel.app/) - search username across social networks
 
 ## [↑](#-table-of-contents) People Investigations
 
@@ -480,6 +481,7 @@ algorithms, knowledgebase and AI technology.
 * [Verify Email](http://verify-email.org)
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
 * [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
+* [Gitrecon](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 
 ## [↑](#-table-of-contents) Phone Number Research
 * [EmobileTracker.com](https://www.emobiletracker.com/)
@@ -735,6 +737,7 @@ algorithms, knowledgebase and AI technology.
 * [Yandex Images](https://www.yandex.com/images)
 * [Betaface](https://www.betaface.com/demo.html)
 * [Search4faces](https://search4faces.com/)
+* [GeoSpyer](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
 
 ## [↑](#-table-of-contents) Image Analysis
 
