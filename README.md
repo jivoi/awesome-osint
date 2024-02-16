@@ -1052,6 +1052,8 @@ algorithms, knowledgebase and AI technology.
 * [Awasu](http://www.awasu.com)
 * [Bridge.Leslibres](https://bridge.leslibres.org)
 * [Bridge.Suumitsu](https://bridge.suumitsu.eu)
+* [ChangeDetection.io](https://changedetection.io)
+* [ChangeDetection.io Open Source](https://github.com/dgtlmoon/changedetection.io)
 * [ChangeDetect](http://www.changedetect.com)
 * [ChangeDetection](http://www.changedetection.com)
 * [Deltafeed](http://bitreading.com/deltafeed)
