@@ -289,6 +289,7 @@ algorithms, knowledgebase and AI technology.
 * [WATools](https://watools.io/)
 * [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
 * [Oblivion](https://github.com/loseys/Oblivion)
+* [Datalead AI](https://datalead.ai) - The power of people intelligence at your fingertip.
 
 ## Social Media Tools
 
@@ -567,6 +568,7 @@ algorithms, knowledgebase and AI technology.
 * [CorporationWiki](https://www.corporationwiki.com/)
 * [GoodFirms](https://www.goodfirms.co/)
 * [YouControl](https://youcontrol.com.ua/en/)
+* [Datalead AI](https://datalead.ai) - A 360-degree view to billions of people and companies with deep, actionable insights.
 
 ## [↑](#-table-of-contents) Job Search Resources
 
