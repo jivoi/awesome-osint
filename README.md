@@ -688,6 +688,7 @@ algorithms, knowledgebase and AI technology.
 * [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
 * [urlscan](https://urlscan.io/) -  is a free service to scan and analyse websites.
 * [Validin](https://app.validin.com/) - Website and API to search current and historical DNS records for free
+* [TinyScan](https://www.tiny-scan.com) - Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
 
 ## [↑](#-table-of-contents) Keywords Discovery and Research
 
