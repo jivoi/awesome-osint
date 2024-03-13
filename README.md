@@ -469,6 +469,7 @@ algorithms, knowledgebase and AI technology.
 * [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
 * [Holehe](https://github.com/megadose/holehe)
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
+* [Hudson Rock](https://www.hudsonrock.com/) - Free online tool to find if the email address was compromised in a global Infostealers attack
 * [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
 * [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 * [MailTester](http://mailtester.com)
