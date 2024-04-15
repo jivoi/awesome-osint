@@ -459,7 +459,7 @@ algorithms, knowledgebase and AI technology.
 * [VineLink](https://www.vinelink.com/#state-selection) - Inmate search and notification service for victims of crime, linked to multiple correctional facilities' booking systems in the U.S.
 
 ## [↑](#-table-of-contents) E-mail Search / E-mail Check
-
+* [WhiteIntel](https://whiteintel.io/) -  WhiteIntel assists companies in identifying compromised credentials through malware campaigns. 
 * [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
 * [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name. 
 * [Email Address Validator](http://www.email-validator.net)
