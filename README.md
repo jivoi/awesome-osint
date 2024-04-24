@@ -632,6 +632,7 @@ algorithms, knowledgebase and AI technology.
 * [Follow.net](http://follow.net)
 * [GraphyStories](http://app.graphystories.com)
 * [HypeStat](https://www.hypestat.com)
+* [Hosting Checker] (https://amazingalgorithms.com/hosting-checker)
 * [Infosniper](http://www.infosniper.net)
 * [intoDNS](http://www.intodns.com)
 * [IP Checking](http://www.ipchecking.com)
