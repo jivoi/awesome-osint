@@ -267,6 +267,7 @@ algorithms, knowledgebase and AI technology.
 * [Epieos](https://epieos.com) - Search for social accounts with e-mail and phone
 * [Geocreepy](http://www.geocreepy.com)
 * [Geofeedia](https://geofeedia.com)
+* [Castrick](https://castrickclues.com) - Find social media accounts with email, username and phone number
 * [Hootsuite](http://hootsuite.com)
 * [Hashtatit](http://www.hashatit.com)
 * [Klear](http://klear.com)
