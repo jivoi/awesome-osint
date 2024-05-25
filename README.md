@@ -492,6 +492,7 @@ algorithms, knowledgebase and AI technology.
 * [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
 * [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 * [Sync.ME](https://sync.me/)
+* [Truecaller] (https://truecaller.com) - Global reverse phone number search.
 * [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
 
 ## [↑](#-table-of-contents) Expert Search
