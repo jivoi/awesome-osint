@@ -298,7 +298,6 @@ algorithms, knowledgebase and AI technology.
 
 * [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
 * [Foller.me](http://foller.me)
-* [HappyGrumpy](https://www.happygrumpy.com)
 * [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
 * [OneMillionTweetMap](http://onemilliontweetmap.com)
 * [RiteTag](https://ritetag.com)
@@ -317,25 +316,23 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) Facebook
 
-* [Agora Pulse](http://barometer.agorapulse.com)
 * [Fanpage Karma](http://www.fanpagekarma.com)
 * [Facebook Friend List Scraper](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 * [Facebook Search](http://search.fb.com/)
-* [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats)
-* [Find my Facebook ID](https://randomtools.io)
-* [Lookup-ID.com](https://lookup-id.com)
+* [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) - Use Facebook to track your friends’ sleeping habits.
+* [Find my Facebook ID](https://randomtools.io) - To find your Facebook personal numeric ID for facebook graph API operations, fb:admins, social plugins.
+* [Lookup-ID.com](https://lookup-id.com) - Looking for your Facebook profile ID / Group ID / Page ID.
 * [SearchIsBack](https://searchisback.com)
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 * [haveibeenzuckered](https://haveibeenzuckered.com/) - A large dataset containing 533 million Facebook accounts was made available for download. The data was obtained by exploiting a vulnerability that was, according to Facebook, corrected in August 2019. Check if a telephone number is present within the Facebook data breach.
 
 ### [↑](#-table-of-contents) Instagram
 
-* [Hashtagify](http://hashtagify.me)
 * [Iconosquare](http://iconosquare.com)
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname. 
-* [Picodash](https://www.picodash.com)
-* [Sterra](https://github.com/novitae/sterraxcyl)
-* [Toutatis](https://github.com/megadose/toutatis)
+* [Picodash](https://www.picodash.com) - Find Instagram Target Audience and Influencers
+* [Sterra](https://github.com/novitae/sterraxcyl) - Instagram OSINT tool to export and analyse followers | following with their details
+* [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
 
 ### [↑](#-table-of-contents) Pinterest
 
