@@ -147,18 +147,18 @@ algorithms, knowledgebase and AI technology.
 * [CiteSeerX](http://citeseer.ist.psu.edu)
 * [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform 
 * [Google Custom Search](http://www.google.com/cse)
+* [GrayhatWarfare](https://grayhatwarfare.com/)
 * [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
-* [Internet Archive](https://archive.org/)
-* [Million Short](https://millionshort.com)
-* [WorldWideScience.org](http://worldwidescience.org)
-* [Zanran](http://zanran.com)
 * [Intelligence X](https://intelx.io/tools)
+* [Internet Archive](https://archive.org/)
+* [Mamont](https://www.mmnt.ru/)
+* [Million Short](https://millionshort.com)
+* [Netlas.io](https://app.netlas.io/)
 * [OCCRP Aleph](https://aleph.occrp.org/)
 * [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
-* [Mamont](https://www.mmnt.ru/)
-* [GrayhatWarfare](https://grayhatwarfare.com/)
 * [WIPO](https://www3.wipo.int/branddb/en/)
-* [Netlas.io](https://app.netlas.io/)
+* [WorldWideScience.org](http://worldwidescience.org)
+* [Zanran](http://zanran.com)
 
 ## [↑](#-table-of-contents) Visual Search and Clustering Search Engines
 
@@ -203,13 +203,13 @@ algorithms, knowledgebase and AI technology.
 
 *Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
-* [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
+* [0bin](https://0bin.net)
 * [cl1p](https://Cl1p.net)
 * [codepad](http://codepad.org)
 * [controlc](https://Controlc.com)
-* [dpaste](https://Dpaste.com)
-* [dpaste2](https://Dpaste.org)
 * [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers
+* [dpaste2](https://Dpaste.org)
+* [dpaste](https://Dpaste.com)
 * [dumpz](https://Dumpz.org)
 * [GitHub gist](https://gist.github.com)
 * [hastebin](https://www.toptal.com/developers/hastebin/)
@@ -218,11 +218,11 @@ algorithms, knowledgebase and AI technology.
 * [ivpaste](https://Ivpaste.com)
 * [jsbin](https://Jsbin.com)
 * [justpaste](https://Justpaste.it)
-* [0bin](https://0bin.net)
+* [paste.centos](https://paste.centos.org)
 * [paste.debian](https://Paste.debian.net)
 * [paste.ee](https://Paste.ee)
-* [paste.centos](https://paste.centos.org)
 * [paste.kde](https://Paste.kde.org)
+* [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
 * [Rentry](https://rentry.co/)
 
 
@@ -264,33 +264,33 @@ algorithms, knowledgebase and AI technology.
 * [Brandwatch](https://www.brandwatch.com)
 * [Buffer](https://buffer.com)
 * [Buzz sumo](http://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
+* [Castrick](https://castrickclues.com) - Find social media accounts with email, username and phone number
+* [Datalead AI](https://datalead.ai) - The power of people intelligence at your fingertip.
 * [Epieos](https://epieos.com) - Search for social accounts with e-mail and phone
 * [Geocreepy](http://www.geocreepy.com)
 * [Geofeedia](https://geofeedia.com)
-* [Castrick](https://castrickclues.com) - Find social media accounts with email, username and phone number
-* [Hootsuite](http://hootsuite.com)
 * [Hashtatit](http://www.hashatit.com)
-* [Klear](http://klear.com)
+* [Hootsuite](http://hootsuite.com)
 * [IDCrawl](https://www.idcrawl.com/) - Search for a name in popular social networks.
+* [Klear](http://klear.com)
+* [Kribrum](https://kribrum.io/)
+* [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
 * [MustBePresent](http://mustbepresent.com)
 * [Netvibes](http://www.netvibes.com)
+* [Oblivion](https://github.com/loseys/Oblivion)
 * [OpinionCrawl](http://www.opinioncrawl.com)
 * [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
+* [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
 * [Rival IQ](https://www.rivaliq.com)
+* [Social DownORNot](http://social.downornot.com)
+* [Social Searcher](http://www.social-searcher.com)
 * [SocialBakers](http://www.socialbakers.com)
 * [SocialBlade](http://socialblade.com)
-* [Social DownORNot](http://social.downornot.com)
 * [SocialGrep](https://socialgrep.com) - a Reddit search engine/analysis tool, "signals out of the social web of noise."
-* [Social Searcher](http://www.social-searcher.com)
 * [Tagboard](https://tagboard.com)
 * [Trackur](http://www.trackur.com)
 * [UVRX](http://www.uvrx.com/social.html)
-* [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
-* [Kribrum](https://kribrum.io/)
 * [WATools](https://watools.io/)
-* [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
-* [Oblivion](https://github.com/loseys/Oblivion)
-* [Datalead AI](https://datalead.ai) - The power of people intelligence at your fingertip.
 
 ## Social Media Tools
 
@@ -394,23 +394,25 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Forums and Discussion Boards Search
 
+* [4chan Search](https://4chansearch.com/)
 * [Boardreader](http://boardreader.com)
 * [Built With Flarum](https://builtwithflarum.com/)
-* [LinkBase](https://link-base.org/)
 * [Facebook Groups](https://www.facebook.com)
 * [Google Groups](https://groups.google.com)
+* [LinkBase](https://link-base.org/)
 * [Linkedin Groups](http://www.linkedin.com)
 * [Ning](http://www.ning.com)
 * [Omgili](http://omgili.com)
 * [Xing Groups](https://www.xing.com/communities)
 * [Yahoo Groups](https://groups.yahoo.com)
-* [4chan Search](https://4chansearch.com/)
 
 ## [↑](#-table-of-contents) Username Check
 
+* [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
+* [CheckUser](https://checkuser.vercel.app/) - search username across social networks
 * [Check User Names](http://www.checkusernames.com)
 * [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
-* [Knowem](http://www.Knowem.com) - Search for a username on over 500 popular social networks.  
+* [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 * [Name Chk](http://www.namechk.com)
 * [Name Checkr](http://www.namecheckr.com)    
 * [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
@@ -420,17 +422,16 @@ algorithms, knowledgebase and AI technology.
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 * [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 * [User Search](http://www.usersearch.org)
-* [WhatsMyName](https://whatsmyname.app/)
 * [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
-* [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
-* [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
-* [CheckUser](https://checkuser.vercel.app/) - search username across social networks
+* [WhatsMyName](https://whatsmyname.app/)
+
 
 ## [↑](#-table-of-contents) People Investigations
 
-* [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
 * [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
+* [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
 * [Ancestry](http://www.ancestry.com) - Premium data, free trial with credit card.
+* [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
 * [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
 * [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 * [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
@@ -443,45 +444,44 @@ algorithms, knowledgebase and AI technology.
 * [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
 * [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.
 * [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent.
+* [JailBase](https://www.jailbase.com/) - is an information site that allows you to search for arrested persons you might know, and even get notified if someone you know gets arrested.
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Kompass](http://www.kompass.com) - Business directory and search.
+* [Mugshots](https://mugshots.com/)
 * [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
-* [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
 * [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
 * [SearchBug](http://www.searchbug.com) - People search. Limited free info, premium data upsell.
 * [Spokeo](http://www.spokeo.com) - People search. Limited free info, premium data upsell.
+* [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
+* [VineLink](https://www.vinelink.com/#state-selection) - Inmate search and notification service for victims of crime, linked to multiple correctional facilities' booking systems in the U.S.
 * [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
 * [ZabaSearch](https://www.zabasearch.com/)
-* [JailBase](https://www.jailbase.com/) - is an information site that allows you to search for arrested persons you might know, and even get notified if someone you know gets arrested.
-* [Mugshots](https://mugshots.com/)
-* [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
-* [VineLink](https://www.vinelink.com/#state-selection) - Inmate search and notification service for victims of crime, linked to multiple correctional facilities' booking systems in the U.S.
 
 ## [↑](#-table-of-contents) E-mail Search / E-mail Check
 
 * [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
-* [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name. 
 * [Email Address Validator](http://www.email-validator.net)
 * [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
-* [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
 * [Email Permutator](https://www.polished.app/email-permutator/)
+* [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
+* [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
+* [Gitrecon](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 * [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
-* [Holehe](https://github.com/megadose/holehe)
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
+* [Holehe](https://github.com/megadose/holehe)
 * [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
-* [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
+* [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name. 
 * [MailTester](http://mailtester.com)
 * [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
 * [Peepmail](http://www.samy.pl/peepmail)
 * [Pipl](https://pipl.com)
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
+* [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup)
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
-* [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
-* [Gitrecon](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 
 ## [↑](#-table-of-contents) Phone Number Research
 * [CallerID Test](https://calleridtest.com/) - Get caller ID and telco carrier information back from a phone number. 
@@ -529,15 +529,19 @@ algorithms, knowledgebase and AI technology.
 * [Better Business Bureau](http://www.bbb.org)
 * [Bizeurope](http://www.bizeurope.com)
 * [Bloomberg](http://www.bloomberg.com/research/company/overview/overview.asp)
-* [Business Source](https://www.ebscohost.com/academic/business-source-complete)
+* [BrownBook](https://www.brownbook.net/)
 * [Bureau Van Dijk](http://www.bvdinfo.com)
+* [Business Source](https://www.ebscohost.com/academic/business-source-complete)
 * [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
+* [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.  
 * [Company Registration Round the World](http://www.commercial-register.sg.ch/home/worldwide.html)
 * [Company Research Resources by Country Comparably](https://www.comparably.com)
 * [CompeteShark](http://competeshark.com)
 * [Corporate Information](http://www.corporateinformation.com) - Aggregated information from publicly available sources on publicly traded companies worldwide.
+* [CorporationWiki](https://www.corporationwiki.com/)
 * [CrunchBase](https://www.crunchbase.com) - Detailed information on startup businesses, with a specific focus on funding sources and funding procedures used by specific businesses. 
 * [Data.com Connect](https://connect.data.com)
+* [Datalead AI](https://datalead.ai) - A 360-degree view to billions of people and companies with deep, actionable insights.
 * [EDGAR U.S. Securities and Exchange Commission Filings](http://www.edgar-online.com) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
 * [Europages](http://www.europages.co.uk)
 * [European Business Register](http://www.ebr.org)
@@ -546,6 +550,7 @@ algorithms, knowledgebase and AI technology.
 * [Forbes Global 2000](http://www.forbes.com/global2000/)
 * [Glassdoor](https://www.glassdoor.com)
 * [globalEdge](http://globaledge.msu.edu)
+* [GoodFirms](https://www.goodfirms.co/)
 * [GuideStar](http://www.guidestar.org)
 * [Hoovers](http://www.hoovers.com)
 * [Inc. 5000](http://www.inc.com/inc5000)
@@ -553,13 +558,13 @@ algorithms, knowledgebase and AI technology.
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Knowledge guide to international company registration](http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
 * [Linkedin](https://www.linkedin.com) - Commonly used social-media platform with a focus on professional profiles and recruitment. Spans a wide variety of industries. Very useful for gathering information on what specific individuals are active within an entity.
-* [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
 * [Mergent Intellect](http://www.mergentintellect.com)
 * [Mergent Online](http://www.mergentonline.com/login.php)
+* [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
 * [Notablist](https://www.notablist.com)
-* [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 * [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
 * [OpenOwnership Register](https://register.openownership.org/)
+* [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 * [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
 * [Plunkett Research](http://www.plunkettresearchonline.com)
 * [Scoot](http://www.scoot.co.uk)
@@ -569,12 +574,7 @@ algorithms, knowledgebase and AI technology.
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [Vault](http://www.vault.com) - Well-known ranking of largest United States Corporations.
 * [Xing](http://www.xing.com)
-* [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.  
-* [BrownBook](https://www.brownbook.net/)
-* [CorporationWiki](https://www.corporationwiki.com/)
-* [GoodFirms](https://www.goodfirms.co/)
 * [YouControl](https://youcontrol.com.ua/en/)
-* [Datalead AI](https://datalead.ai) - A 360-degree view to billions of people and companies with deep, actionable insights.
 
 ## [↑](#-table-of-contents) Job Search Resources
 
