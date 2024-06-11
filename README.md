@@ -205,15 +205,12 @@ algorithms, knowledgebase and AI technology.
 
 * [0bin](https://0bin.net)
 * [cl1p](https://Cl1p.net)
-* [codepad](http://codepad.org)
 * [controlc](https://Controlc.com)
 * [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers
 * [dpaste2](https://Dpaste.org)
 * [dpaste](https://Dpaste.com)
-* [dumpz](https://Dumpz.org)
 * [GitHub gist](https://gist.github.com)
 * [hastebin](https://www.toptal.com/developers/hastebin/)
-* [heypasteit](https://Heypasteit.com)
 * [ideone](https://Ideone.com)
 * [ivpaste](https://Ivpaste.com)
 * [jsbin](https://Jsbin.com)
@@ -222,7 +219,6 @@ algorithms, knowledgebase and AI technology.
 * [paste.debian](https://Paste.debian.net)
 * [paste.ee](https://Paste.ee)
 * [paste.kde](https://Paste.kde.org)
-* [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
 * [Rentry](https://rentry.co/)
 
 
