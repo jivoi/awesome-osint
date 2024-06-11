@@ -407,20 +407,19 @@ algorithms, knowledgebase and AI technology.
 
 * [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
 * [CheckUser](https://checkuser.vercel.app/) - search username across social networks
-* [Check User Names](http://www.checkusernames.com)
 * [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
-* [Name Chk](http://www.namechk.com)
-* [Name Checkr](http://www.namecheckr.com)    
+* [Name Chk](http://www.namechk.com) - Check over 30 domains and more than 90 social media account platforms.
+* [Name Checkr](http://www.namecheckr.com) - checks a domain and username across many platforms.
 * [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
 * [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
 * [NexFil](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
 * [Seekr](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 * [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
-* [User Search](http://www.usersearch.org)
+* [User Search](http://www.usersearch.org) - Find someone by username, email, phone number or picture across Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs, 3000+ sites Supported!
 * [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
-* [WhatsMyName](https://whatsmyname.app/)
+* [WhatsMyName](https://whatsmyname.app/) - check for usernames across many different platforms.
 
 
 ## [↑](#-table-of-contents) People Investigations
@@ -484,8 +483,9 @@ algorithms, knowledgebase and AI technology.
 * [CallerID Test](https://calleridtest.com/) - Get caller ID and telco carrier information back from a phone number. 
 * [EmobileTracker.com](https://www.emobiletracker.com/) - a service specifically designed to Track Mobile Number, Location on Google Map including information such as the owner's Name,Location,Country,Telecom provider.
 * [FreeCarrierLookup](https://freecarrierlookup.com/) - enter a phone number and we'll return the carrier name and whether the number is wireless or landline. We also return the email-to-SMS and email-to-MMS gateway addresses for USA and Canadian* phone numbers.
+* [Infobel](https://www.infobel.com/) - Search 164+ million records across 73 countries for companies and individuals. Find places, local service providers, their contact details, reviews, opening hours and more.
 * [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
-* [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
+* [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers.
 * [Reverse Phone Check](https://www.reversephonecheck.com) - Look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates. Powered by infotracer.com
 * [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
 * [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
