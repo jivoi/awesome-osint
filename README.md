@@ -1142,7 +1142,6 @@ algorithms, knowledgebase and AI technology.
 * [Canva](https://www.canva.com)
 * [Chart.js](http://www.chartjs.org) - a javascript library that allows you to create charts easly
 * [chartblocks](http://www.chartblocks.com)
-* [Chartico](http://chartico.com)
 * [Circos](http://circos.ca)
 * [creately](http://creately.com)
 * [Crossfilter](http://square.github.io/crossfilter)
@@ -1164,31 +1163,29 @@ algorithms, knowledgebase and AI technology.
 * [Inkscape](https://inkscape.org)
 * [Java Infovis Toolkit](http://philogb.github.io/jit)
 * [JpGraph](http://jpgraph.net)
-* [jqPlot](http://www.jqplot.com)
-* [Kartograph](http://kartograph.org)
+* [jqPlot](http://www.jqplot.com) - A Versatile and Expandable jQuery Plotting Plugin.
 * [Knoema](https://knoema.com)
-* [Leaflet](http://leafletjs.com)
+* [Leaflet](http://leafletjs.com) - an open-source JavaScript library for mobile-friendly interactive maps.
 * [Linkuroius](http://linkurio.us)
-* [Listify](http://listify.okfnlabs.org)
+* [Listify](http://listify.okfnlabs.org) - Turn a Google spreadsheet into a beautiful, searchable listing in seconds.
 * [LocalFocus](https://www.localfocus.nl)
-* [Lucidchart](https://www.lucidchart.com)
+* [Lucidchart](https://www.lucidchart.com) - the intelligent diagramming application that brings teams together to make better decisions and build the future.
 * [Mapline](https://mapline.com)
-* [Nodebox](https://www.nodebox.net)
-* [Observable](https://observablehq.com/)
-* [OpenLayers](http://openlayers.org)
-* [Palladio](http://hdlab.stanford.edu/palladio)
+* [Nodebox](https://www.nodebox.net) - a family of tools gives you the leverage to create generative design the way you want.
+* [Observable](https://observablehq.com/) - a modern way to create powerful, performant, polyglot data apps built on open source.
+* [OpenLayers](http://openlayers.org) - A high-performance, feature-packed library for all your mapping needs.
+* [Palladio](http://hdlab.stanford.edu/palladio) - Visualize complex historical data with ease.
 * [Perspective](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
 * [Piktochart](https://piktochart.com)
-* [Pixcone](http://www.pixcone.com)
 * [Pixxa](http://www.pixxa.com)
 * [Plotly](https://plot.ly)
+* [Preceden](https://www.preceden.com/) - Create a Visual Timeline About Any Topic
 * [QlikView](https://www.visualintelligence.co.nz/qlikview)
 * [Quadrigram](http://www.quadrigram.com)
 * [Raphael](http://dmitrybaranovskiy.github.io/raphael)
 * [RAW](http://raw.densitydesign.org)
 * [Shanti Interactive](http://www.viseyes.org)
 * [Snappa](https://snappa.io)
-* [SpicyNodes](http://www.spicynodes.org)
 * [StoryMap](https://storymap.knightlab.com)
 * [Tableau Public](https://public.tableau.com)
 * [Tableau](http://www.tableau.com)
@@ -1197,13 +1194,11 @@ algorithms, knowledgebase and AI technology.
 * [Tik-tok](https://datanews.github.io/tik-tok)
 * [Tiki-toki](http://www.tiki-toki.com)
 * [Timeflow](https://github.com/FlowingMedia/TimeFlow/wiki)
-* [Timeglider](http://timeglider.com/widget)
 * [Timeline](http://timeline.knightlab.com)
 * [Timeline](http://www.simile-widgets.org/timeline)
 * [Timetoast](http://www.timetoast.com)
 * [Venngage](https://venngage.com)
 * [Vis.js](http://visjs.org)
-* [Visage](https://visage.co)
 * [Visme](http://www.visme.co)
 * [Visualize Free](http://visualizefree.com)
 * [Visualize.me](http://vizualize.me)
