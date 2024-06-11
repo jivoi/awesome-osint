@@ -191,13 +191,13 @@ algorithms, knowledgebase and AI technology.
 
 *Search for all kind of files.*
 
-* [FileChef](https://www.filechef.com/)
-* [File Search Engine](https://www.filesearch.link/)
 * [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly avilable in a Google Drive.
-* [FilePursuit](https://filepursuit.com/)
-* [SearchFiles.de](https://searchfiles.de/)
-* [NAPALM FTP Indexer](https://www.searchftps.net/)
+* [File Search Engine](https://www.filesearch.link/)
+* [FileChef](https://www.filechef.com/)
 * [FileListing](https://filelisting.com/)
+* [FilePursuit](https://filepursuit.com/)
+* [NAPALM FTP Indexer](https://www.searchftps.net/)
+* [SearchFiles.de](https://searchfiles.de/)
 
 ## [↑](#-table-of-contents) Pastebins
 
@@ -231,12 +231,12 @@ algorithms, knowledgebase and AI technology.
 *Search by website source code*
 
 * [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
+* [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
 * [NerdyData](https://nerdydata.com) - Search engine for source code.
+* [PublicWWW](https://publicwww.com/)
+* [Reposearch](http://codefinder.org/)
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
 * [SourceGraph](https://sourcegraph.com/search) - Search code from millions of open source repositories.
-* [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
-* [Reposearch](http://codefinder.org/)
-* [PublicWWW](https://publicwww.com/)
 
 ## [↑](#-table-of-contents) Major Social Networks
 
@@ -316,15 +316,15 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) Facebook
 
-* [Fanpage Karma](http://www.fanpagekarma.com)
 * [Facebook Friend List Scraper](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 * [Facebook Search](http://search.fb.com/)
+* [Fanpage Karma](http://www.fanpagekarma.com)
 * [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) - Use Facebook to track your friends’ sleeping habits.
 * [Find my Facebook ID](https://randomtools.io) - To find your Facebook personal numeric ID for facebook graph API operations, fb:admins, social plugins.
+* [haveibeenzuckered](https://haveibeenzuckered.com/) - A large dataset containing 533 million Facebook accounts was made available for download. The data was obtained by exploiting a vulnerability that was, according to Facebook, corrected in August 2019. Check if a telephone number is present within the Facebook data breach.
 * [Lookup-ID.com](https://lookup-id.com) - Looking for your Facebook profile ID / Group ID / Page ID.
 * [SearchIsBack](https://searchisback.com)
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
-* [haveibeenzuckered](https://haveibeenzuckered.com/) - A large dataset containing 533 million Facebook accounts was made available for download. The data was obtained by exploiting a vulnerability that was, according to Facebook, corrected in August 2019. Check if a telephone number is present within the Facebook data breach.
 
 ### [↑](#-table-of-contents) Instagram
 
@@ -379,8 +379,6 @@ algorithms, knowledgebase and AI technology.
 
 * [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms. 
 * [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
-
-
 
 ## [↑](#-table-of-contents) Blog Search
 
@@ -789,13 +787,12 @@ algorithms, knowledgebase and AI technology.
 * [American Society of Civil Engineers](http://ascelibrary.org)
 * [Base](http://www.base-search.net)
 * [Bibsonomy](http://www.bibsonomy.org)
-* [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - The CCSB is a collection of bibliographies of scientific literature in computer science from various sources, covering most aspects of computer science.
 * [Core](https://core.ac.uk/search)
 * [Elsevier](https://www.elsevier.com)
 * [Google Scholar](https://scholar.google.com)
 * [Grey Guide](http://greyguide.isti.cnr.it)
-* [Grey Literature – List of Gateways](http://csulb.libguides.com/graylit)
 * [Grey Literature Strategies](http://greylitstrategies.info)
+* [Grey Literature – List of Gateways](http://csulb.libguides.com/graylit)
 * [GreyNet International](http://www.greynet.org)
 * [HighWire: Free Online Full-text Articles](http://highwire.stanford.edu/lists/freeart.dtl)
 * [Journal Guide](https://www.journalguide.com)
@@ -805,21 +802,22 @@ algorithms, knowledgebase and AI technology.
 * [Leibniz Information Centre For Science and Technology University Library](https://www.tib.eu/en/search-discover/) - indexes all reports of German publicly funded projects and many scientific papers.
 * [Microsoft Academic](http://academic.research.microsoft.com)
 * [NRC Research Press](http://www.nrcresearchpress.com)
-* [Open Access Scientific Journals](http://www.pagepress.org)
 * [OA.mg](http://oa.mg) A database of over 240 million scientific works, with PDFs for all Open Access papers in their catalogue (~ 40 million)
+* [Open Access Scientific Journals](http://www.pagepress.org)
 * [Open Grey](http://www.opengrey.eu)
-* [The Open Syllabus Project](http://opensyllabusproject.org/)
 * [Oxford Journals](http://www.oxfordjournals.org)
 * [PubMed](http://www.ncbi.nlm.nih.gov/pubmed) - Search more than 27 millions citations for biomedical literature from MEDLINE, life science journals, and online books.
 * [Quetzal Search](https://www.quetzal-search.info)
 * [Research Gate](http://www.researchgate.net)
 * [SAGE Journals](http://online.sagepub.com)
+* [Science Publications](http://www.thescipub.com)
 * [ScienceDirect](http://www.sciencedirect.com)
+* [ScienceDomain](http://www.sciencedomain.org)
 * [SCIRP](http://www.scirp.org)
 * [Springer](http://link.springer.com)
-* [ScienceDomain](http://www.sciencedomain.org)
-* [Science Publications](http://www.thescipub.com)
 * [Taylor & Francis Online](http://www.tandfonline.com)
+* [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - The CCSB is a collection of bibliographies of scientific literature in computer science from various sources, covering most aspects of computer science.
+* [The Open Syllabus Project](http://opensyllabusproject.org/)
 * [Wiley](http://eu.wiley.com)
 * [World Digital Library](http://www.wdl.org)
 * [World Science](http://worldwidescience.org)
@@ -1127,9 +1125,9 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) VPN Services
 
+* [OffShore.cat](https://offshore.cat/vpn) - list of vpns for the privacy conscious 
 * [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
 * [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/) - is a summary list of top best VPN services.
-* [OffShore.cat](https://offshore.cat/vpn) - list of vpns for the privacy conscious 
 
 ## [↑](#-table-of-contents) Infographics and Data Visualization
 
@@ -1211,8 +1209,8 @@ algorithms, knowledgebase and AI technology.
 * [Gephi](https://gephi.org) - is an open-source graph and network visualization software.
 * [ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php)
 * [Sentinel Visualizer](http://www.fmsasg.com)
-* [Wynyard Group](https://wynyardgroup.com)
 * [Visual Investigative Scenarios](https://vis.occrp.org)
+* [Wynyard Group](https://wynyardgroup.com)
 
 ## [↑](#-table-of-contents) Privacy and Encryption Tools
 
@@ -1225,7 +1223,6 @@ algorithms, knowledgebase and AI technology.
 * [Do Not Track](http://donottrack.us)
 * [Duck Duck Go Search Engine](https://duckduckgo.com)
 * [EncSF MP](http://encfsmp.sourceforge.net)
-* [Encrypted Cloud](https://www.encryptedcloud.com)
 * [Epic Privacy Browser](https://www.epicbrowser.com)
 * [Eraser](http://eraser.heidi.ie)
 * [FileVault](https://support.apple.com/en-us/HT204837)
@@ -1257,7 +1254,7 @@ algorithms, knowledgebase and AI technology.
 * [Privacy Badger](https://www.eff.org/privacybadger)
 * [Privazer](http://privazer.com)
 * [Proton Mail](https://protonmail.com)
-* [Qubes](https://www.qubes-os.org)
+* [Qubes](https://www.qubes-os.org) - a security-focused desktop operating system that aims to provide security through isolation.
 * [Script Safe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en)
 * [Securesha](https://securesha.re)
 * [Silent circle](https://www.silentcircle.com)
@@ -1275,8 +1272,8 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) DNS
 * [Amass](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
-* [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting.
 * [Columbus Project](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
+* [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting.
 
 ## [↑](#-table-of-contents) Maritime
 
@@ -1284,9 +1281,6 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Other Tools
 
-* [LinkScope Client](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
-* [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
-* [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
 * [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
 * [Belati](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 * [BeVigil-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
@@ -1301,6 +1295,7 @@ algorithms, knowledgebase and AI technology.
 * [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.  
 * [Hunchly](https://www.hunch.ly/) - Hunchly is a web capture tool designed specifically for online investigations.
 * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
+* [LinkScope Client](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
 * [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
 * [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
@@ -1312,33 +1307,34 @@ algorithms, knowledgebase and AI technology.
 * [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 * [Pown Recon](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
+* [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 * [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
 * [SerpScan](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
 * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+* [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
 * [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
 * [SpiderSuite](https://github.com/3nock/SpiderSuite) - An advance, cross-platform, GUI web security crawler.
 * [Sub3 Suite](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
-* [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
-urls and other data effortlessly
+* [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users urls and other data effortlessly
 
 
 ## [↑](#-table-of-contents) Threat Intelligence
 
 * [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
-* [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
-* [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 * [OnionScan](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
+* [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
+* [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 
 ## [↑](#-table-of-contents) OSINT Videos
 
-* [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI)
 * [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
-* [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M)
 * [Bendobrown](https://www.youtube.com/c/Bendobrown)
+* [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI)
 * [SANS OSINT Summit 2021 (Playlist)](https://www.youtube.com/playlist?list=PLs4eo9Tja8bj3jJvv42LxOkhc2_ylpS9y)
+* [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M)
 
 ## [↑](#-table-of-contents) OSINT Blogs
 
