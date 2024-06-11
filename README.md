@@ -458,26 +458,26 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) E-mail Search / E-mail Check
 
 * [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
-* [Email Address Validator](http://www.email-validator.net)
+* [Email Address Validator](http://www.email-validator.net)  - Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.
 * [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
-* [Email Permutator](https://www.polished.app/email-permutator/)
+* [Email Permutator](https://www.polished.app/email-permutator/) - a powerful tool designed to aid professionals in generating a range of potential email addresses for a specific contact. 
 * [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
 * [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 * [Gitrecon](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 * [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
-* [Holehe](https://github.com/megadose/holehe)
+* [Holehe](https://github.com/megadose/holehe) - allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 * [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
 * [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name. 
-* [MailTester](http://mailtester.com)
+* [MailTester](http://mailtester.com) - hunt for emails and improve your email deliverability
 * [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
-* [Peepmail](http://www.samy.pl/peepmail)
-* [Pipl](https://pipl.com)
+* [Peepmail](http://www.samy.pl/peepmail) - is a tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
+* [Pipl](https://pipl.com) - a provider of identity solutions.
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
 * [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
-* [ThatsThem](https://thatsthem.com/reverse-email-lookup)
-* [Toofr](https://www.toofr.com)
-* [Verify Email](http://verify-email.org)
+* [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse Email Lookup.
+* [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
+* [Verify Email](http://verify-email.org) - The fastest and most accurate email verification tool.
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
 
 ## [↑](#-table-of-contents) Phone Number Research
