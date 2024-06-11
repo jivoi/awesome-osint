@@ -482,16 +482,16 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Phone Number Research
 * [CallerID Test](https://calleridtest.com/) - Get caller ID and telco carrier information back from a phone number. 
-* [EmobileTracker.com](https://www.emobiletracker.com/)
-* [FreeCarrierLookup](https://freecarrierlookup.com/)
+* [EmobileTracker.com](https://www.emobiletracker.com/) - a service specifically designed to Track Mobile Number, Location on Google Map including information such as the owner's Name,Location,Country,Telecom provider.
+* [FreeCarrierLookup](https://freecarrierlookup.com/) - enter a phone number and we'll return the carrier name and whether the number is wireless or landline. We also return the email-to-SMS and email-to-MMS gateway addresses for USA and Canadian* phone numbers.
 * [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
 * [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
 * [Reverse Phone Check](https://www.reversephonecheck.com) - Look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates. Powered by infotracer.com
 * [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
 * [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
-* [Sync.ME](https://sync.me/)
+* [Sync.ME](https://sync.me/) - a caller ID and spam blocker app.
 * [Truecaller](https://truecaller.com) - Global reverse phone number search.
-* [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
+* [Twilio](https://www.twilio.com/docs/lookup/v2-api) - Look up a phone numbers carrier type, location, etc. Twilio offers free accounts that come with credits you can use with their API. Each lookup is only ~$0.01-$0.02 typically on US and CAN numbers.
 
 ## [↑](#-table-of-contents) Expert Search
 
