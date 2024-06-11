@@ -596,12 +596,12 @@ algorithms, knowledgebase and AI technology.
 * [Linkedin](https://www.linkedin.com)
 * [Monster](http://www.monster.com)
 * [Naukri (India)](http://www.naukri.com)
+* [RecruitEm](https://recruitin.net/)
 * [Reed (UK)](http://www.reed.co.uk)
 * [Seek (Australia)](http://www.seek.com.au)
 * [SimplyHired](http://www.simplyhired.com)
 * [Xing](http://www.xing.com)
 * [ZipRecruiter](https://www.ziprecruiter.com)
-* [RecruitEm](https://recruitin.net/)
 
 ## [↑](#-table-of-contents) Q&A Sites
 
@@ -622,8 +622,8 @@ algorithms, knowledgebase and AI technology.
 * [BuiltWith](http://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 * [Central Ops](http://centralops.net)
 * [Dedicated or Not](http://dedicatedornot.com)
-* [DNSDumpster](https://dnsdumpster.com) - is a website that will help you discover hosts related to a specific domain.
 * [DNS History](https://completedns.com/dns-history/)
+* [DNSDumpster](https://dnsdumpster.com) - is a website that will help you discover hosts related to a specific domain.
 * [DNSStuff](http://www.dnsstuff.com)
 * [DNSViz](http://dnsviz.net)
 * [Domain Crawler](http://www.domaincrawler.com)
@@ -635,21 +635,21 @@ algorithms, knowledgebase and AI technology.
 * [GraphyStories](http://app.graphystories.com)
 * [HypeStat](https://www.hypestat.com)
 * [Infosniper](http://www.infosniper.net)
+* [IntelliTamper](http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml)
 * [intoDNS](http://www.intodns.com)
-* [IP Checking](http://www.ipchecking.com)
-* [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
 * [IP 2 Geolocation](http://ip2geolocation.com)
 * [IP 2 Location](http://www.ip2location.com/demo.aspx)
+* [IP Checking](http://www.ipchecking.com)
+* [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
 * [IPFingerprints](http://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
 * [IPVoid](http://www.ipvoid.com) - IP address toolset.
-* [IntelliTamper](http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml)
 * [Kloth](http://www.kloth.net/services)
-* [NetworkTools](http://network-tools.com)
 * [Majestic](https://majestic.com) - Find out who links to your website.
 * [MaxMind](https://www.maxmind.com)
 * [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
-* [OpenLinkProfiler](http://www.openlinkprofiler.org/)
+* [NetworkTools](http://network-tools.com)
 * [Open Site Explorer](https://moz.com/researchtools/ose)
+* [OpenLinkProfiler](http://www.openlinkprofiler.org/)
 * [PageGlimpse](http://www.pageglimpse.com)
 * [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
 * [PhishStats](https://phishstats.info/)
@@ -666,12 +666,18 @@ algorithms, knowledgebase and AI technology.
 * [SEOTools for Excel](http://seotoolsforexcel.com)
 * [Similar Web](https://www.similarweb.com) - Compare any website traffic statistics & analytics.
 * [SmallSEOTools](http://smallseotools.com)
-* [StatsCrop](http://www.statscrop.com)
 * [Squatm3gator](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
+* [StatsCrop](http://www.statscrop.com)
 * [Threat Jammer](https://threatjammer.com) - Risk scoring service from curated threat intelligence data.
+* [TinyScan](https://www.tiny-scan.com) - Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
 * [urlQuery](http://urlquery.net)
+* [urlscan](https://urlscan.io/) -  is a free service to scan and analyse websites.
 * [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
+* [Validin](https://app.validin.com/) - Website and API to search current and historical DNS records for free
+* [Verisign](http://dnssec-debugger.verisignlabs.com)
+* [ViewDNS.info](http://viewdns.info)
 * [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
+* [w3snoop](http://webboar.com.w3snoop.com) - is a website that gives you a free and comprehensive report about a specific website.
 * [Web-Check](https://web-check.as93.net/) - All-in-one tool for viewing website and server meta data.
 * [WebMeUp](http://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
 * [Website Informer](http://website.informer.com)
@@ -683,14 +689,8 @@ algorithms, knowledgebase and AI technology.
 * [WhoisMind](http://www.whoismind.com)
 * [Whoisology](https://whoisology.com)
 * [WhoIsRequest](http://whoisrequest.com)
-* [w3snoop](http://webboar.com.w3snoop.com) - is a website that gives you a free and comprehensive report about a specific website.
-* [Verisign](http://dnssec-debugger.verisignlabs.com)
-* [ViewDNS.info](http://viewdns.info)
-* [You Get Signal](http://www.yougetsignal.com)
 * [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
-* [urlscan](https://urlscan.io/) -  is a free service to scan and analyse websites.
-* [Validin](https://app.validin.com/) - Website and API to search current and historical DNS records for free
-* [TinyScan](https://www.tiny-scan.com) - Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
+* [You Get Signal](http://www.yougetsignal.com)
 
 ## [↑](#-table-of-contents) Keywords Discovery and Research
 
@@ -700,9 +700,9 @@ algorithms, knowledgebase and AI technology.
 * [Keyword Spy](http://www.keywordspy.com)
 * [KeywordTool](http://keywordtool.io)
 * [One Look Reverse Dictionary](http://www.onelook.com/reverse-dictionary.shtml)
-* [Word Tracker](https://www.wordtracker.com)
 * [Soovle](http://www.soovle.com)
 * [Ubersuggest](http://ubersuggest.org)
+* [Word Tracker](https://www.wordtracker.com)
 * [Yandex Wordstat](https://wordstat.yandex.com)
 
 ## [↑](#-table-of-contents) Web History and Website Capture
@@ -723,10 +723,12 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Image Search
 
 * [Baidu Images](https://image.baidu.com)
+* [Betaface](https://www.betaface.com/demo.html)
 * [Bing Images](https://www.bing.com/images)
 * [Clarify](https://clarify.io)
 * [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
 * [Flickr](https://flickr.com/search/)
+* [GeoSpyer](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
 * [Google Image](https://images.google.com)
 * [Image Identification Project](https://www.imageidentify.com)
 * [Image Raider](https://www.imageraider.com)
@@ -735,59 +737,52 @@ algorithms, knowledgebase and AI technology.
 * [PhotoBucket](https://photobucket.com)
 * [PicTriev](http://www.pictriev.com) - a face search engine.
 * [PimEyes](https://pimeyes.com) - an online face search engine that goes through the Internet to find pictures containing given faces. 
+* [Search4faces](https://search4faces.com/)
 * [TinEye](https://tineye.com) - Reverse image search engine.
 * [Yahoo Image Search](https://images.search.yahoo.com)
 * [Yandex Images](https://www.yandex.com/images)
-* [Betaface](https://www.betaface.com/demo.html)
-* [Search4faces](https://search4faces.com/)
-* [GeoSpyer](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
 
 ## [↑](#-table-of-contents) Image Analysis
 
+* [DiffChecker](https://www.diffchecker.com/image-diff/)
 * [ExifLooter](https://github.com/aydinnyunus/exiflooter)
 * [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
-* [Exif Search](http://www.exif-search.com)
+* [Forensically](https://29a.ch/photo-forensics/)
 * [FotoForensics](http://www.fotoforensics.com)
-* [Ghiro](http://www.getghiro.org)
+* [GeoSpy](https://geospy.web.app/) - AI based image osint tool
+* [ImgOps](https://imgops.com/)
 * [ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html)
 * [Jeffreys Image Metadata Viewer](http://exif.regex.info/)
+* [JIMPL](https://jimpl.com/) - Online EXIF data viewer
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
-* [Forensically](https://29a.ch/photo-forensics/)
-* [DiffChecker](https://www.diffchecker.com/image-diff/)
-* [ImgOps](https://imgops.com/)
-* [GeoSpy](https://geospy.web.app/) - AI based image osint tool
 
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
 
-* [Aol Videos](http://on.aol.com)
 * [Bing Videos](http://www.bing.com/?scope=video)
-* [Blinkx](http://www.blinkx.com)
 * [Clarify](http://clarify.io)
 * [Clip Blast](http://www.clipblast.com)
 * [DailyMotion](http://www.dailymotion.com)
-* [Deturl](http://deturl.com)
-* [DownloadHealper](http://www.downloadhelper.net)
-* [Earthcam](http://www.earthcam.com)
-* [Insecam](http://insecam.org/)
-* [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh/) - Browser plugin that allows you to watch YouTube videos frame by frame.
+* [Deturl](http://deturl.com) - Download a YouTube video from any web page.
+* [DownloadHealper](http://www.downloadhelper.net) - Download any video from any websites, it just works!
+* [Earthcam](http://www.earthcam.com) - EarthCam is the leading network of live streaming webcams for tourism and entertainment.
+* [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 * [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
+* [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh/) - Browser plugin that allows you to watch YouTube videos frame by frame.
 * [Geosearch](http://www.geosearchtool.com)
+* [Insecam](http://insecam.org/) - Live cameras directory
 * [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
-* [LiveLeak](http://www.liveleak.com)
 * [Metacafe](http://www.metacafe.com)
 * [Metatube](http://www.metatube.com)
 * [Tubuep](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
 * [Veoh](http://www.veoh.com)
+* [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
 * [Vimeo](https://vimeo.com)
 * [Yahoo Video Search](http://video.search.yahoo.com)
-* [YouTube](https://www.youtube.com)
 * [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence)
-* [ccSUBS](http://ccsubs.com/) - Download Closed Captions & Subtitles from YouTube
-* [YouTube Metadata](https://mattw.io/youtube-metadata/)
 * [YouTube Geofind](https://mattw.io/youtube-geofind/)
+* [YouTube Metadata](https://mattw.io/youtube-metadata/)
+* [YouTube](https://www.youtube.com)
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
-* [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
-* [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 
 ## [↑](#-table-of-contents) Academic Resources and Grey Literature
 
@@ -836,21 +831,25 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Geospatial Research and Mapping Tools
 
+* [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
 * [Atlasify](http://www.atlasify.com)
+* [Baidu Maps](https://map.baidu.com/)
 * [Batchgeo](http://batchgeo.com)
 * [Bing Maps](http://www.bing.com/maps)
 * [CartoDB](https://cartodb.com)
 * [Colorbrewer](http://colorbrewer2.org)
 * [CrowdMap](https://crowdmap.com)
 * [CTLRQ Address Lookup](https://ctrlq.org/maps/address)
+* [Descartes Labs](https://maps.descarteslabs.com/)
+* [digiKam](https://www.digikam.org/)
 * [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html)
 * [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
-* [GeoGig](http://geogig.org)
-* [GeoNames](http://www.geonames.org)
 * [Esri](http://www.esri.com)
 * [Flash Earth](http://www.flashearth.com)
-* [Google Earth](http://www.google.com/earth)
+* [GeoGig](http://geogig.org)
+* [GeoNames](http://www.geonames.org)
 * [Google Earth Pro](https://www.google.com/intl/en/earth/versions/#earth-pro)
+* [Google Earth](http://www.google.com/earth)
 * [Google Maps](https://www.google.com/maps)
 * [Google My Maps](https://www.google.com/maps/about/mymaps)
 * [GPSVisualizer](http://www.gpsvisualizer.com)
@@ -858,56 +857,52 @@ algorithms, knowledgebase and AI technology.
 * [Here](http://here.com)
 * [Hyperlapse](https://github.com/TeehanLax/Hyperlapse.js)
 * [Inspire Geoportal](http://inspire-geoportal.ec.europa.eu)
-* [InstantAtlas](http://www.instantatlas.com)
 * [Instant Google Street View](http://www.instantstreetview.com)
+* [InstantAtlas](http://www.instantatlas.com)
+* [KartaView](https://kartaview.org/map/)
 * [Kartograph](http://kartograph.org)
 * [Leaflet](http://leafletjs.com)
+* [Liveuamap](https://liveuamap.com/)
+* [Map Maker](https://maps.co)
 * [MapAList](http://mapalist.com)
 * [MapBox](https://www.mapbox.com)
 * [Mapchart.net](https://mapchart.net)
+* [MapChecking](https://www.mapchecking.com/)
 * [Maperitive](http://maperitive.net)
 * [MapHub](https://maphub.net)
+* [Mapillary](https://www.mapillary.com/app/)
 * [MapJam](http://mapjam.com)
 * [Mapline](https://mapline.com)
-* [Map Maker](https://maps.co)
 * [Mapquest](https://www.mapquest.com)
+* [Maxar](https://discover.digitalglobe.com/)
 * [Modest Maps](http://modestmaps.com)
 * [NGA GEOINT](https://github.com/ngageoint)
-* [OpenLayers](http://openlayers.org)
-* [Polymaps](http://polymaps.org)
-* [Perry Castaneda Library](https://www.lib.utexas.edu/maps)
 * [Open Street Map](http://www.openstreetmap.org)
+* [OpenLayers](http://openlayers.org)
+* [Perry Castaneda Library](https://www.lib.utexas.edu/maps)
+* [Pic2Map](https://www.pic2map.com/)
+* [Polymaps](http://polymaps.org)
 * [QGIS](http://qgis.org)
 * [QuickMaps](https://chrome.google.com/webstore/detail/quick-maps/bgbojmobaekecckmomemopckmeipecij)
 * [SAS Planet](http://www.sasgis.org/sasplaneta/)  - Software used to view, download and stitch satellite images.
-* [StoryMaps](http://storymaps.arcgis.com/en)
+* [Satellites Pro](https://satellites.pro/)
+* [SatIntel](https://github.com/ANG13T/SatIntel)
 * [Scribble Maps](http://scribblemaps.com)
+* [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/)
+* [SOAR](https://soar.earth/)
+* [StoryMaps](http://storymaps.arcgis.com/en)
+* [SunCalc](https://www.suncalc.org/)
 * [Tableau](http://www.tableausoftware.com)
+* [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
+* [ViaMichelin](http://www.viamichelin.com)
 * [View in Google Earth](http://www.mgmaps.com/kml/#view)
 * [Wikimapia](http://wikimapia.org)
+* [Windy](https://www.windy.com/)
 * [WorldMap Harvard](http://worldmap.harvard.edu)
 * [Worldwide OSINT Tools Map](https://cipher387.github.io/osintmap/) - A global map of databases and OSINT sources by applicable location.
-* [ViaMichelin](http://www.viamichelin.com)
 * [Yahoo Maps](https://maps.yahoo.com)
 * [Zeemaps](https://www.zeemaps.com)
-* [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/)
-* [Maxar](https://discover.digitalglobe.com/)
-* [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
 * [Zoom Earth](https://zoom.earth/)
-* [SunCalc](https://www.suncalc.org/)
-* [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
-* [Pic2Map](https://www.pic2map.com/)
-* [Mapillary](https://www.mapillary.com/app/)
-* [KartaView](https://kartaview.org/map/)
-* [Satellites Pro](https://satellites.pro/)
-* [Liveuamap](https://liveuamap.com/)
-* [Descartes Labs](https://maps.descarteslabs.com/)
-* [Baidu Maps](https://map.baidu.com/)
-* [MapChecking](https://www.mapchecking.com/)
-* [Windy](https://www.windy.com/)
-* [SOAR](https://soar.earth/)
-* [digiKam](https://www.digikam.org/)
-* [SatIntel](https://github.com/ANG13T/SatIntel)
 
 ## [↑](#-table-of-contents) News
 
@@ -984,11 +979,11 @@ algorithms, knowledgebase and AI technology.
 * [AidData](http://aiddata.org)
 * [AWS Public Datasets](http://aws.amazon.com/datasets)
 * [Bank for International Settlements Statistics](http://www.bis.org/statistics/index.htm)
-* [BP Statistical Review of World Energy](http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 * [Berkely Library: Data Lab](http://www.lib.berkeley.edu/libraries/data-lab)
-* [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook)
+* [BP Statistical Review of World Energy](http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 * [Center for International Earth Science Information Network](http://www.ciesin.org)
 * [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp)
+* [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook)
 * [Data.gov.uk](https://data.gov.uk)
 * [DBPedia](http://wiki.dbpedia.org)
 * [European Union Open Data Portal](http://open-data.europa.eu/en/data)
@@ -1001,13 +996,13 @@ algorithms, knowledgebase and AI technology.
 * [Government of Canada Open Data](http://open.canada.ca/en)
 * [HIS Piers](https://www.ihs.com/products/piers.html)
 * [Human Development Reports](http://hdr.undp.org/en/global-reports)
-* [International Labour Comparisons](http://www.bls.gov/fls/chartbook.htm)
-* [International Trade Center](http://www.intracen.org/ByCountry.aspx)
-* [ILOSTAT](http://www.ilo.org/ilostat/faces/oracle/webcenter/portalapp/pagehierarchy/Page137.jspx?_afrLoop=443508925711569&clean=true#%40%3F_afrLoop%3D443508925711569%26clean%3Dtrue%26_adf.ctrl-state%3Dl4dwldaf3_9)
 * [ILO World Employment and Social Outlook Trends](http://www.ilo.org/global/research/global-reports/weso/2015/lang--en/index.htm)
+* [ILOSTAT](http://www.ilo.org/ilostat/faces/oracle/webcenter/portalapp/pagehierarchy/Page137.jspx?_afrLoop=443508925711569&clean=true#%40%3F_afrLoop%3D443508925711569%26clean%3Dtrue%26_adf.ctrl-state%3Dl4dwldaf3_9)
 * [IMF World Economic Outlook Database](http://www.imf.org/external/ns/cs.aspx?id=28)
 * [Index Mundi](http://www.indexmundi.com)
 * [International Energy Agency Statistics](http://www.iea.org/statistics)
+* [International Labour Comparisons](http://www.bls.gov/fls/chartbook.htm)
+* [International Trade Center](http://www.intracen.org/ByCountry.aspx)
 * [Junar](http://junar.com)
 * [Knoema](https://knoema.com)
 * [LandMatrix](http://landmatrix.org)
@@ -1031,10 +1026,10 @@ algorithms, knowledgebase and AI technology.
 * [Trading Economics](http://www.tradingeconomics.com)
 * [Transparency.org Corruption Perception Index](http://www.transparency.org/cpi2015)
 * [UN COMTRADE Database](http://comtrade.un.org)
+* [UN Data](http://data.un.org)
 * [UNCTAD Country Fact Sheets](http://unctad.org/en/Pages/DIAE/World%20Investment%20Report/Country-Fact-Sheets.aspx)
 * [UNCTAD Investment Country Profiles](http://unctad.org/en/Pages/Publications/Investment-country-profiles.aspx)
 * [UNCTAD STAT](http://unctadstat.unctad.org)
-* [UN Data](http://data.un.org)
 * [UNDPs Human Development Index](http://hdr.undp.org/en/data)
 * [UNECE](http://w3.unece.org/PXWeb/en)
 * [UNESCO Institute for Statistics](http://uis.unesco.org)
@@ -1042,15 +1037,15 @@ algorithms, knowledgebase and AI technology.
 * [UNStats Social Indicators](http://unstats.un.org/unsd/demographic/products/socind)
 * [Upsala Conflict Data Program](http://www.pcr.uu.se/research/UCDP)
 * [US Data and Statistics](https://www.usa.gov/statistics)
+* [Vizala](https://vizala.com)
 * [WHO Data](http://www.who.int/gho/en)
-* [World Bank Data](http://datatopics.worldbank.org/consumption/home)
 * [World Bank Data](http://data.worldbank.org)
+* [World Bank Data](http://datatopics.worldbank.org/consumption/home)
 * [World Bank Doing Business](http://www.doingbusiness.org)
 * [World Bank Enterprise Surveys](http://www.enterprisesurveys.org)
 * [World Bank Investing Across Borders](http://iab.worldbank.org)
 * [World Integrated Trade Solution](http://wits.worldbank.org)
 * [WTO Statistics](https://www.wto.org/english/res_e/statis_e/statis_e.htm)
-* [Vizala](https://vizala.com)
 * [Zanran](http://zanran.com)
 
 ## [↑](#-table-of-contents) Web Monitoring
@@ -1148,15 +1143,15 @@ algorithms, knowledgebase and AI technology.
 * [Bizint](http://www.bizint.com)
 * [Cacoo](https://cacoo.com)
 * [Canva](https://www.canva.com)
+* [Chart.js](http://www.chartjs.org) - a javascript library that allows you to create charts easly
 * [chartblocks](http://www.chartblocks.com)
 * [Chartico](http://chartico.com)
-* [Chart.js](http://www.chartjs.org) - a javascript library that allows you to create charts easly
 * [Circos](http://circos.ca)
 * [creately](http://creately.com)
 * [Crossfilter](http://square.github.io/crossfilter)
 * [csvkit](https://github.com/wireservice/csvkit)
-* [Data Visualization Catalogue](http://datavizcatalogue.com)
 * [D3js](https://d3js.org) - is a powerful data visualization javascript library.
+* [Data Visualization Catalogue](http://datavizcatalogue.com)
 * [Datawrapper](https://datawrapper.de)
 * [Dropmark](http://www.dropmark.com)
 * [dygraphs](http://dygraphs.com)
@@ -1168,20 +1163,21 @@ algorithms, knowledgebase and AI technology.
 * [GraphX](http://spark.apache.org/graphx)
 * [Highcharts](http://www.highcharts.com)
 * [Hohli](http://charts.hohli.com)
-* [Inkscape](https://inkscape.org)
 * [Infogr.am](https://infogr.am)
+* [Inkscape](https://inkscape.org)
 * [Java Infovis Toolkit](http://philogb.github.io/jit)
 * [JpGraph](http://jpgraph.net)
 * [jqPlot](http://www.jqplot.com)
 * [Kartograph](http://kartograph.org)
 * [Knoema](https://knoema.com)
 * [Leaflet](http://leafletjs.com)
-* [Listify](http://listify.okfnlabs.org)
 * [Linkuroius](http://linkurio.us)
+* [Listify](http://listify.okfnlabs.org)
 * [LocalFocus](https://www.localfocus.nl)
 * [Lucidchart](https://www.lucidchart.com)
 * [Mapline](https://mapline.com)
 * [Nodebox](https://www.nodebox.net)
+* [Observable](https://observablehq.com/)
 * [OpenLayers](http://openlayers.org)
 * [Palladio](http://hdlab.stanford.edu/palladio)
 * [Perspective](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
@@ -1189,35 +1185,34 @@ algorithms, knowledgebase and AI technology.
 * [Pixcone](http://www.pixcone.com)
 * [Pixxa](http://www.pixxa.com)
 * [Plotly](https://plot.ly)
-* [SpicyNodes](http://www.spicynodes.org)
-* [StoryMap](https://storymap.knightlab.com)
 * [QlikView](https://www.visualintelligence.co.nz/qlikview)
 * [Quadrigram](http://www.quadrigram.com)
 * [Raphael](http://dmitrybaranovskiy.github.io/raphael)
 * [RAW](http://raw.densitydesign.org)
 * [Shanti Interactive](http://www.viseyes.org)
 * [Snappa](https://snappa.io)
-* [Tableau](http://www.tableau.com)
+* [SpicyNodes](http://www.spicynodes.org)
+* [StoryMap](https://storymap.knightlab.com)
 * [Tableau Public](https://public.tableau.com)
+* [Tableau](http://www.tableau.com)
 * [Tagul](https://tagul.com)
 * [Textures.js](https://riccardoscalco.github.io/textures)
-* [Tiki-toki](http://www.tiki-toki.com)
 * [Tik-tok](https://datanews.github.io/tik-tok)
+* [Tiki-toki](http://www.tiki-toki.com)
 * [Timeflow](https://github.com/FlowingMedia/TimeFlow/wiki)
 * [Timeglider](http://timeglider.com/widget)
 * [Timeline](http://timeline.knightlab.com)
 * [Timeline](http://www.simile-widgets.org/timeline)
 * [Timetoast](http://www.timetoast.com)
 * [Venngage](https://venngage.com)
-* [Visage](https://visage.co)
 * [Vis.js](http://visjs.org)
+* [Visage](https://visage.co)
 * [Visme](http://www.visme.co)
 * [Visualize Free](http://visualizefree.com)
 * [Visualize.me](http://vizualize.me)
 * [visually](http://create.visual.ly)
 * [Vortex](http://www.dotmatics.com/products/vortex)
 * [ZingChart](http://www.zingchart.com)
-* [Observable](https://observablehq.com/)
 
 ## [↑](#-table-of-contents) Social Network Analysis
 
@@ -1297,45 +1292,45 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Other Tools
 
+* [LinkScope Client](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
+* [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
+* [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
 * [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
 * [Belati](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 * [BeVigil-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
 * [CantHide](https://canthide.me) - CantHide finds previous locations by looking at a given social media account.
 * [CrowdSec](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+* [Discoshell](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others 
 * [DuckDuckGo URL scraper](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper. 
+* [eScraper](https://escraper.emagicone.com/) - Grab product descriptions, prices, image
+* [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 * [Glit](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
 * [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.  
-  * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
-* [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+* [Hunchly](https://www.hunch.ly/) - Hunchly is a web capture tool designed specifically for online investigations.
 * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 * [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
-  * [LinkScope Client](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
 * [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
-* [Hunchly](https://www.hunch.ly/) - Hunchly is a web capture tool designed specifically for online investigations.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
-* [OSINT-Tool](https://www.osint-tool.com/) - A browser extension that gives you access to a suite of OSINT utilities (Dehashed, Epieos, Domaintools, Exif data, Reverse image search, etc) directly on any webpage you visit.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
+* [OSINT-Tool](https://www.osint-tool.com/) - A browser extension that gives you access to a suite of OSINT utilities (Dehashed, Epieos, Domaintools, Exif data, Reverse image search, etc) directly on any webpage you visit.
+* [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
 * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 * [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
-* [eScraper](https://escraper.emagicone.com/) - Grab product descriptions, prices, image
-urls and other data effortlessly
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 * [Pown Recon](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
-* [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
-* [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
-  * [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
-* [SpiderSuite](https://github.com/3nock/SpiderSuite) - An advance, cross-platform, GUI web security crawler.
 * [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
 * [SerpScan](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
-* [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
-* [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
-* [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+* [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+* [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
+* [SpiderSuite](https://github.com/3nock/SpiderSuite) - An advance, cross-platform, GUI web security crawler.
 * [Sub3 Suite](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
-* [Discoshell](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others 
+* [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+* [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+urls and other data effortlessly
 
 
 ## [↑](#-table-of-contents) Threat Intelligence
