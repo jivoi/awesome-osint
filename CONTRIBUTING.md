@@ -13,5 +13,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.
 - In your pull request, include a link in the textual description.
+- If your submission is self-promotional or you are related to/work for the website, disclose that up front.
 
 Thank you for your suggestions!
