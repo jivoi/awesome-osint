@@ -40,6 +40,7 @@ Happy hacking and hunting 🧙‍♂️
  - [People Investigations](#-people-investigations)
  - [Email Search / Email Check](#-email-search--email-check)
  - [Phone Number Research](#-phone-number-research)
+-  [Vehicle / Automobile Research](#-vehicle--automobile-research)
  - [Expert Search](#-expert-search)
  - [Company Research](#-company-research)
  - [Job Search Resources](#-job-search-resources)
@@ -490,6 +491,11 @@ algorithms, knowledgebase and AI technology.
 * [Sync.ME](https://sync.me/) - a caller ID and spam blocker app.
 * [Truecaller](https://truecaller.com) - Global reverse phone number search.
 * [Twilio](https://www.twilio.com/docs/lookup/v2-api) - Look up a phone numbers carrier type, location, etc. Twilio offers free accounts that come with credits you can use with their API. Each lookup is only ~$0.01-$0.02 typically on US and CAN numbers.
+
+## [↑](#-table-of-contents) Vehicle / Automobile Research
+
+* [FaxVIN](https://www.faxvin.com/) - Vehicle History Reports. A license plate lookup tool that returns info like VIN, make & model of vehicle, age, and numerous other details. 
+* [EpicVIN](https://epicvin.com/) - Vehicle reports are compiled from various data sources, including historical accident records from state agencies and other entities like NMVTIS. License plate lookup that returns VIN and car millage.
 
 ## [↑](#-table-of-contents) Expert Search
 
