@@ -717,18 +717,20 @@ algorithms, knowledgebase and AI technology.
 * [Betaface](https://www.betaface.com/demo.html)
 * [Bing Images](https://www.bing.com/images)
 * [Clarify](https://clarify.io)
+* [Dupli Checker](https://www.duplichecker.com/reverse-image-search.php) - You can search for an image by uploading + with URL or typing the keyword or any word you want to explore related to images.
 * [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
 * [Flickr](https://flickr.com/search/)
 * [GeoSpyer](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
 * [Google Image](https://images.google.com)
+* [Google Lens](https://lens.google.com/)
 * [Image Identification Project](https://www.imageidentify.com)
-* [Image Raider](https://www.imageraider.com)
-* [KarmaDecay](http://karmadecay.com)
+* [Image Raider](https://www.imageraider.com) - is our reverse image search tool for completing individual searches. When you upload an image to this page, we'll scour the internet to find its source and all of the other pages where it has been posted.
 * [Lycos Image Search](https://search.lycos.com)
 * [PhotoBucket](https://photobucket.com)
 * [PicTriev](http://www.pictriev.com) - a face search engine.
-* [PimEyes](https://pimeyes.com) - an online face search engine that goes through the Internet to find pictures containing given faces. 
-* [Search4faces](https://search4faces.com/)
+* [PimEyes](https://pimeyes.com) - an online face search engine that goes through the Internet to find pictures containing given faces.
+* [Pixsy](https://www.pixsy.com/) - Take back control of your images. See where & how your images are being used online!
+* [Search4faces](https://search4faces.com/) - a service for searching people on the Internet by photo. 
 * [TinEye](https://tineye.com) - Reverse image search engine.
 * [Yahoo Image Search](https://images.search.yahoo.com)
 * [Yandex Images](https://www.yandex.com/images)
