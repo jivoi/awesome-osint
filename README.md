@@ -34,7 +34,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Forums and Discussion Boards Search](#-forums-and-discussion-boards-search)
  - [Username Check](#-username-check)
  - [People Investigations](#-people-investigations)
- - [E-mail Search / E-mail Check](#-e-mail-search--e-mail-check)
+ - [Email Search / Email Check](#-email-search--email-check)
  - [Phone Number Research](#-phone-number-research)
  - [Expert Search](#-expert-search)
  - [Company Research](#-company-research)
@@ -328,7 +328,7 @@ algorithms, knowledgebase and AI technology.
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname. 
 * [Picodash](https://www.picodash.com) - Find Instagram Target Audience and Influencers
 * [Sterra](https://github.com/novitae/sterraxcyl) - Instagram OSINT tool to export and analyse followers | following with their details
-* [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
+* [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
 
 ### [↑](#-table-of-contents) Pinterest
 
@@ -448,7 +448,7 @@ algorithms, knowledgebase and AI technology.
 * [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
 * [ZabaSearch](https://www.zabasearch.com/)
 
-## [↑](#-table-of-contents) E-mail Search / E-mail Check
+## [↑](#-table-of-contents) Email Search / Email Check
 
 * [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
 * [Email Address Validator](http://www.email-validator.net)  - Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.
