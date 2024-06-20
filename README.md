@@ -303,6 +303,7 @@ algorithms, knowledgebase and AI technology.
 * [OneMillionTweetMap](http://onemilliontweetmap.com)
 * [RiteTag](https://ritetag.com)
 * [Sentiment140](http://www.twittersentiment.appspot.com)
+* [SocialData API](https://socialdata.tools/) - unofficial Twitter API alternative that allows scraping tweets, user profiles, lists and Twitter spaces without using Twitter's API.
 * [Tagdef](https://tagdef.com)
 * [Trends Predictions](https://trendspredictions.com/) - A tool for discovering new trending topics.
 * [Trends24](http://trends24.in)
