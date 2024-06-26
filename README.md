@@ -672,6 +672,7 @@ algorithms, knowledgebase and AI technology.
 * [StatsCrop](http://www.statscrop.com)
 * [Threat Jammer](https://threatjammer.com) - Risk scoring service from curated threat intelligence data.
 * [TinyScan](https://www.tiny-scan.com) - Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
+* [urlDNA](https://urldna.io/) -  Unleash website insights! urldna.io analyzes url, monitors brands and track phishing sites.
 * [urlQuery](http://urlquery.net)
 * [urlscan](https://urlscan.io/) -  is a free service to scan and analyse websites.
 * [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
