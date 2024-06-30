@@ -835,6 +835,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Geospatial Research and Mapping Tools
 
+* [Apify's Google Maps Scraper](https://apify.com/compass/crawler-google-places)
 * [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
 * [Atlasify](http://www.atlasify.com)
 * [Baidu Maps](https://map.baidu.com/)
