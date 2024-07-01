@@ -635,6 +635,7 @@ algorithms, knowledgebase and AI technology.
 * [Exonera Tor](https://exonerator.torproject.org) - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
 * [Follow.net](http://follow.net)
 * [GraphyStories](http://app.graphystories.com)
+* [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - is a free cybercrime intelligence toolkit to check exposure in Infostealer malware infection.
 * [HypeStat](https://www.hypestat.com)
 * [Infosniper](http://www.infosniper.net)
 * [IntelliTamper](http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml)
