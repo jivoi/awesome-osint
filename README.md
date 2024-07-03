@@ -295,7 +295,7 @@ algorithms, knowledgebase and AI technology.
 
 ## Social Media Tools
 
-### [↑](#-table-of-contents) Twitter
+### [↑](#-table-of-contents) Twitter / X
 
 * [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
 * [Foller.me](http://foller.me)
