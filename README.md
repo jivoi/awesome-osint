@@ -231,6 +231,7 @@ algorithms, knowledgebase and AI technology.
 
 *Search by website source code*
 
+* [Code Finder](https://codefinder.dev) - Search from the repository you need on GitHub with an AI-based search algorithm.
 * [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
 * [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
 * [NerdyData](https://nerdydata.com) - Search engine for source code.
