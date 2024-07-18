@@ -406,6 +406,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
 * [CheckUser](https://checkuser.vercel.app/) - search username across social networks
+* [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
 * [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 * [Name Chk](http://www.namechk.com) - Check over 30 domains and more than 90 social media account platforms.
@@ -1300,7 +1301,6 @@ algorithms, knowledgebase and AI technology.
 * [CrowdSec](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 * [Discoshell](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others 
-* [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
 * [DuckDuckGo URL scraper](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper. 
 * [eScraper](https://escraper.emagicone.com/) - Grab product descriptions, prices, image
 * [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
