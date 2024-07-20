@@ -230,8 +230,8 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Code Search
 
 *Search by website source code*
-* [Code Finder](https://codefinder.dev/) - The ultimate search engine for finding GitHub repositories
 * [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
+* [Code Finder](https://codefinder.dev/) - The ultimate search engine for finding GitHub repositories
 * [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
 * [NerdyData](https://nerdydata.com) - Search engine for source code.
 * [PublicWWW](https://publicwww.com/)
