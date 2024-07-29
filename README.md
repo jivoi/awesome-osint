@@ -406,6 +406,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
 * [CheckUser](https://checkuser.vercel.app/) - search username across social networks
+* [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
 * [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 * [Name Chk](http://www.namechk.com) - Check over 30 domains and more than 90 social media account platforms.
