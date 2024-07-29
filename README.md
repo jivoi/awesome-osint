@@ -415,6 +415,7 @@ algorithms, knowledgebase and AI technology.
 * [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
 * [NexFil](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
 * [Seekr](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
+* [ScamDB](https://www.scamdb.net) A platform dedicated to reporting and sharing experiences of online fraud. Can be used to search for social media and online marketplace account usernames associated with scams.
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 * [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 * [User Search](http://www.usersearch.org) - Find someone by username, email, phone number or picture across Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs, 3000+ sites Supported!
