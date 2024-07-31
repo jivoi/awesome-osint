@@ -266,7 +266,7 @@ algorithms, knowledgebase and AI technology.
 * [Buffer](https://buffer.com)
 * [Buzz sumo](http://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
 * [Castrick](https://castrickclues.com) - Find social media accounts with email, username and phone number
-* [Datalead AI](https://datalead.ai) - The power of people intelligence at your fingertip.
+* [TheWebCo](https://thewebco.ai) - The power of people intelligence at your fingertip.
 * [Epieos](https://epieos.com) - Search for social accounts with e-mail and phone
 * [Geocreepy](http://www.geocreepy.com)
 * [Geofeedia](https://geofeedia.com)
