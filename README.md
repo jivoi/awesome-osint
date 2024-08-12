@@ -139,7 +139,7 @@ algorithms, knowledgebase and AI technology.
 * [Goofram](http://www.goofram.com)
 * [iZito](http://www.izito.com)
 * [Myallsearch](http://www.myallsearch.com)
-* [Qwant](http://www.qwant.com)
+* [Qwant](http://www.qwant.com) - French search engine that relies on Microsoft Bing.
 * [Swisscows](https://swisscows.com/)
 
 ## [↑](#-table-of-contents) Specialty Search Engines
