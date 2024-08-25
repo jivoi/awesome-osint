@@ -140,6 +140,7 @@ algorithms, knowledgebase and AI technology.
 * [iZito](http://www.izito.com)
 * [Myallsearch](http://www.myallsearch.com)
 * [Qwant](http://www.qwant.com)
+* [SearXNG](https://github.com/searxng/searxng)
 * [Swisscows](https://swisscows.com/)
 
 ## [↑](#-table-of-contents) Specialty Search Engines
