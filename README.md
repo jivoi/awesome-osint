@@ -682,6 +682,7 @@ algorithms, knowledgebase and AI technology.
 * [Verisign](http://dnssec-debugger.verisignlabs.com)
 * [ViewDNS.info](http://viewdns.info)
 * [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
+* [Check-The-Sum](https://check-the-sum.fr/) - Database of IP addresses, domains, and malicious files collected via honeypots.
 * [w3snoop](http://webboar.com.w3snoop.com) - is a website that gives you a free and comprehensive report about a specific website.
 * [Web-Check](https://web-check.as93.net/) - All-in-one tool for viewing website and server meta data.
 * [WebMeUp](http://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
