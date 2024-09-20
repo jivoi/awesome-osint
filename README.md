@@ -552,7 +552,6 @@ algorithms, knowledgebase and AI technology.
 * [CorporationWiki](https://www.corporationwiki.com/)
 * [CrunchBase](https://www.crunchbase.com) - Detailed information on startup businesses, with a specific focus on funding sources and funding procedures used by specific businesses. 
 * [Data.com Connect](https://connect.data.com)
-* [Datalead AI](https://datalead.ai) - A 360-degree view to billions of people and companies with deep, actionable insights.
 * [EDGAR U.S. Securities and Exchange Commission Filings](http://www.edgar-online.com) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
 * [Europages](http://www.europages.co.uk)
 * [European Business Register](http://www.ebr.org)
@@ -582,6 +581,7 @@ algorithms, knowledgebase and AI technology.
 * [SEMrush](https://www.semrush.com)
 * [Serpstat](https://serpstat.com)
 * [SpyFu](http://www.spyfu.com)
+* [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [Vault](http://www.vault.com) - Well-known ranking of largest United States Corporations.
 * [Xing](http://www.xing.com)
