@@ -34,6 +34,7 @@ Happy hacking and hunting 🧙‍♂️
    - [Tumblr](#-tumblr)
    - [LinkedIn](#-linkedin)
    - [Telegram](#-telegram)
+   - [Steam](#-steam)
  - [Blog Search](#-blog-search)
  - [Forums and Discussion Boards Search](#-forums-and-discussion-boards-search)
  - [Username Check](#-username-check)
@@ -380,6 +381,10 @@ algorithms, knowledgebase and AI technology.
 
 * [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms. 
 * [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
+
+### [↑](#-table-of-contents) Steam
+
+* [OSINT-Steam](https://osint-steam.vercel.app/en) - An [open-source](https://github.com/Berchez/OSINT-steam) tool that returns public information, such as friends list and possible locations, from Steam profiles.
 
 ## [↑](#-table-of-contents) Blog Search
 
