@@ -1364,6 +1364,8 @@ algorithms, knowledgebase and AI technology.
 * [Sector035](https://sector035.nl/)
 * [Skopenow](https://www.skopenow.com/news)
 * [Sleuth For The Truth](http://sleuthforthetruth.com/)
+* [OSINT Ambition Publication](https://publication.osintambition.org/)
+* [OSINT Team](https://www.osintteam.com/)
 
 ## [↑](#-table-of-contents) Other Resources
 
@@ -1372,7 +1374,8 @@ algorithms, knowledgebase and AI technology.
 * [OSINT Dojo](https://www.osintdojo.com/resources/)
 * [OSINT Belarus](https://t.me/s/osintby)
 * [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
-* [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022. 
+* [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022.
+* [OSINT Updates - a free weekly newsletter for OSINTers](https://osintupdates.com/)
 
 ## [↑](#-table-of-contents) Related Awesome Lists
 
