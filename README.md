@@ -1347,6 +1347,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Threat Intelligence
 
+* [https://secai.ai](https://secai.ai) - SecAI is an AI-powered platform that streamlines the analysis of potential threats. Its RESEARCH Module provides in-depth, real-time investigations of IPs, domains, and URLs, leveraging its proprietary threat intelligence and integrating data from reputable external sources. Additionally, the CHAT Module offers an interactive interface, enabling intuitive threat analysis through natural language queries.
 * [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
 * [OnionScan](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 * [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
