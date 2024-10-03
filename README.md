@@ -487,6 +487,7 @@ algorithms, knowledgebase and AI technology.
 * [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
 * [Verify Email](http://verify-email.org) - The fastest and most accurate email verification tool.
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
+* [Heybounce](https://www.heybounce.io) - Email verification API to check if an email address exists without sending an email.
 
 ## [↑](#-table-of-contents) Phone Number Research
 * [CallerID Test](https://calleridtest.com/) - Get caller ID and telco carrier information back from a phone number. 
