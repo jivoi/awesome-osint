@@ -288,6 +288,7 @@ algorithms, knowledgebase and AI technology.
 * [SocialBakers](http://www.socialbakers.com)
 * [SocialBlade](http://socialblade.com)
 * [SocialGrep](https://socialgrep.com) - a Reddit search engine/analysis tool, "signals out of the social web of noise."
+* [Social Links Crimewall](https://sociallinks.io/products/sl-crimewall) - an OSINT investigation platform focused on social media
 * [Tagboard](https://tagboard.com)
 * [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
 * [Trackur](http://www.trackur.com)
