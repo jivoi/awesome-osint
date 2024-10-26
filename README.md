@@ -670,6 +670,7 @@ algorithms, knowledgebase and AI technology.
 * [Quantcast](https://www.quantcast.com)
 * [Quick Sprout](https://www.quicksprout.com)
 * [RedirectDetective](http://redirectdetective.com)
+* [Redirect Explorer](https://www.redirectexplorer.com) - Redirect Explorer will show you where a URL goes, and if it's safe to use. No more guessing!
 * [Remote DNS Lookup](https://remote.12dt.com)
 * [Robtex](https://www.robtex.com) - is an IP address and domain name based researching websites that offers multiple services such as Reverse DNS Lookup, Whois, and AS Macros.
 * [SameID](http://sameid.net)
