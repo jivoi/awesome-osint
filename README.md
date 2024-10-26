@@ -674,6 +674,7 @@ algorithms, knowledgebase and AI technology.
 * [Robtex](https://www.robtex.com) - is an IP address and domain name based researching websites that offers multiple services such as Reverse DNS Lookup, Whois, and AS Macros.
 * [SameID](http://sameid.net)
 * [SecurityTrails](https://securitytrails.com/dns-trails) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
+* [SubDomainRadar.io](https://subdomainradar.io) - Fast subdomain finder with multiple search modes and the most extensive data sources, offering real-time notifications.
 * [SEMrush](https://www.semrush.com)
 * [SEO Chat Tools](http://tools.seochat.com)
 * [SEOTools for Excel](http://seotoolsforexcel.com)
