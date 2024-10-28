@@ -471,7 +471,6 @@ algorithms, knowledgebase and AI technology.
 * [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
 * [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 * [Gitrecon](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
-* [OSINTEye](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
 * [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
 * [Holehe](https://github.com/megadose/holehe) - allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
@@ -486,6 +485,7 @@ algorithms, knowledgebase and AI technology.
 * [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse Email Lookup.
 * [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
+* [OSINTEye](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
 * [Verify Email](http://verify-email.org) - The fastest and most accurate email verification tool.
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
 
