@@ -197,7 +197,7 @@ algorithms, knowledgebase and AI technology.
 
 *Search for all kind of files.*
 
-* [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly avilable in a Google Drive.
+* [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly available in a Google Drive.
 * [File Search Engine](https://www.filesearch.link/)
 * [FileChef](https://www.filechef.com/)
 * [FileListing](https://filelisting.com/)
@@ -440,7 +440,7 @@ algorithms, knowledgebase and AI technology.
 * [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
 * [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
 * [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
-* [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
+* [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration required. Funded by The Church Of Jesus Christ of Latter-day Saints.
 * [FamilyTreeNow](https://familytreenow.com) - Research family and geneology, no registration required, can search addresses, phone numbers, and email addresses as well as associations.
 * [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present. 
 * [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
@@ -479,6 +479,7 @@ algorithms, knowledgebase and AI technology.
 * [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name. 
 * [MailTester](http://mailtester.com) - hunt for emails and improve your email deliverability
 * [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
+* [OSINTEye](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
 * [Peepmail](http://www.samy.pl/peepmail) - is a tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
 * [Pipl](https://pipl.com) - a provider of identity solutions.
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
@@ -486,6 +487,7 @@ algorithms, knowledgebase and AI technology.
 * [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse Email Lookup.
 * [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
+
 * [Verify Email](http://verify-email.org) - The fastest and most accurate email verification tool.
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
 
@@ -553,7 +555,6 @@ algorithms, knowledgebase and AI technology.
 * [CorporationWiki](https://www.corporationwiki.com/)
 * [CrunchBase](https://www.crunchbase.com) - Detailed information on startup businesses, with a specific focus on funding sources and funding procedures used by specific businesses. 
 * [Data.com Connect](https://connect.data.com)
-* [Datalead AI](https://datalead.ai) - A 360-degree view to billions of people and companies with deep, actionable insights.
 * [EDGAR U.S. Securities and Exchange Commission Filings](http://www.edgar-online.com) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
 * [Europages](http://www.europages.co.uk)
 * [European Business Register](http://www.ebr.org)
@@ -583,6 +584,7 @@ algorithms, knowledgebase and AI technology.
 * [SEMrush](https://www.semrush.com)
 * [Serpstat](https://serpstat.com)
 * [SpyFu](http://www.spyfu.com)
+* [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [Vault](http://www.vault.com) - Well-known ranking of largest United States Corporations.
 * [Xing](http://www.xing.com)
@@ -633,6 +635,7 @@ algorithms, knowledgebase and AI technology.
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 * [BuiltWith](http://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 * [Central Ops](http://centralops.net)
+* [Check-The-Sum](https://check-the-sum.fr/) - Database of IP addresses, domains, and malicious files collected via honeypots.
 * [Dedicated or Not](http://dedicatedornot.com)
 * [DNS History](https://completedns.com/dns-history/)
 * [DNSDumpster](https://dnsdumpster.com) - is a website that will help you discover hosts related to a specific domain.
@@ -670,10 +673,12 @@ algorithms, knowledgebase and AI technology.
 * [Quantcast](https://www.quantcast.com)
 * [Quick Sprout](https://www.quicksprout.com)
 * [RedirectDetective](http://redirectdetective.com)
+* [Redirect Explorer](https://www.redirectexplorer.com) - Redirect Explorer will show you where a URL goes, and if it's safe to use. No more guessing!
 * [Remote DNS Lookup](https://remote.12dt.com)
 * [Robtex](https://www.robtex.com) - is an IP address and domain name based researching websites that offers multiple services such as Reverse DNS Lookup, Whois, and AS Macros.
 * [SameID](http://sameid.net)
 * [SecurityTrails](https://securitytrails.com/dns-trails) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
+* [SubDomainRadar.io](https://subdomainradar.io) - Fast subdomain finder with multiple search modes and the most extensive data sources, offering real-time notifications.
 * [SEMrush](https://www.semrush.com)
 * [SEO Chat Tools](http://tools.seochat.com)
 * [SEOTools for Excel](http://seotoolsforexcel.com)
@@ -780,7 +785,7 @@ algorithms, knowledgebase and AI technology.
 * [Clip Blast](http://www.clipblast.com)
 * [DailyMotion](http://www.dailymotion.com)
 * [Deturl](http://deturl.com) - Download a YouTube video from any web page.
-* [DownloadHealper](http://www.downloadhelper.net) - Download any video from any websites, it just works!
+* [DownloadHelper](http://www.downloadhelper.net) - Download any video from any websites, it just works!
 * [Earthcam](http://www.earthcam.com) - EarthCam is the leading network of live streaming webcams for tourism and entertainment.
 * [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 * [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
@@ -1351,6 +1356,7 @@ algorithms, knowledgebase and AI technology.
 
 * [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
 * [OnionScan](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
+* [onion-lookup](https://onion.ail-project.org/) - Free online service and API for checking the existence of Tor hidden services (.onion address) and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.
 * [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 
