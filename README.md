@@ -238,6 +238,7 @@ algorithms, knowledgebase and AI technology.
 * [PublicWWW](https://publicwww.com/)
 * [Reposearch](http://codefinder.org/)
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
+* [Sourcebot](https://www.sourcebot.dev/) - Index thousands of repos on your machine and search through them in a fast, powerful, and modern web interface.
 * [SourceGraph](https://sourcegraph.com/search) - Search code from millions of open source repositories.
 
 ## [↑](#-table-of-contents) Major Social Networks
