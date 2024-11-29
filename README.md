@@ -221,6 +221,7 @@ algorithms, knowledgebase and AI technology.
 * [ivpaste](https://Ivpaste.com)
 * [jsbin](https://Jsbin.com)
 * [justpaste](https://Justpaste.it)
+* [Katbin](https://katb.in)
 * [paste.centos](https://paste.centos.org)
 * [paste.debian](https://Paste.debian.net)
 * [paste.ee](https://Paste.ee)
