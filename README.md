@@ -287,7 +287,6 @@ algorithms, knowledgebase and AI technology.
 * [Social Searcher](http://www.social-searcher.com)
 * [SocialBakers](http://www.socialbakers.com)
 * [SocialBlade](http://socialblade.com)
-* [SocialGrep](https://socialgrep.com) - a Reddit search engine/analysis tool, "signals out of the social web of noise."
 * [Tagboard](https://tagboard.com)
 * [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
 * [Trackur](http://www.trackur.com)
