@@ -226,6 +226,7 @@ algorithms, knowledgebase and AI technology.
 * [paste.debian](https://Paste.debian.net)
 * [paste.ee](https://Paste.ee)
 * [paste.kde](https://Paste.kde.org)
+* [paste.ubuntu](https://paste.ubuntu.com)
 * [Rentry](https://rentry.co/)
 
 
