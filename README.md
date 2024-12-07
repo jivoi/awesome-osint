@@ -221,10 +221,12 @@ algorithms, knowledgebase and AI technology.
 * [ivpaste](https://Ivpaste.com)
 * [jsbin](https://Jsbin.com)
 * [justpaste](https://Justpaste.it)
+* [Katbin](https://katb.in)
 * [paste.centos](https://paste.centos.org)
 * [paste.debian](https://Paste.debian.net)
 * [paste.ee](https://Paste.ee)
 * [paste.kde](https://Paste.kde.org)
+* [paste.ubuntu](https://paste.ubuntu.com)
 * [Rentry](https://rentry.co/)
 
 
