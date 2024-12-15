@@ -337,6 +337,9 @@ algorithms, knowledgebase and AI technology.
 * [Picodash](https://www.picodash.com) - Find Instagram Target Audience and Influencers
 * [Sterra](https://github.com/novitae/sterraxcyl) - Instagram OSINT tool to export and analyse followers | following with their details
 * [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
+* [Instagram Crawler](https://github.com/hehpollon/Instagram-Crawler) - Tool for scraping Instagram data.
+* [InstaLooter](https://github.com/althonos/InstaLooter) - 	Tool for downloading photos and videos from Instagram profiles.
+* [instaloctrack](https://github.com/bernsteining/instaloctrack)	Tool for tracking Instagram locations.
 
 ### [↑](#-table-of-contents) Pinterest
 
