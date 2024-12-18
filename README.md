@@ -188,10 +188,8 @@ algorithms, knowledgebase and AI technology.
 * [Find-pdf-doc](http://www.findpdfdoc.com)
 * [Free Full PDF](http://www.freefullpdf.com)
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
-* [PasteLert](http://andrewmohawk.com/pasteLert/index.php)
 * [Scribd](http://www.scribd.com)
 * [SlideShare](http://www.slideshare.net)
-* [Slideworld](http://www.slideworld.com)
 
 ## [↑](#-table-of-contents) File Search
 
