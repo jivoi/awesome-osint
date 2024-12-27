@@ -103,7 +103,6 @@ Thanks to our main contributors
 * [Lycos](https://www.lycos.com) - A search engine for pictures, videos, news and products.
 * [Mojeek](https://www.mojeek.com/) - A growing independent search engine which does not track you.
 * [Search.com](https://www.search.com) - Search the Web by searching the best engines from one place.
-* [SurfCanyon](https://www.surfcanyon.com) - a real-time contextual search technology that observes user behavior in order to disambiguate intent "on the fly," and then automatically bring forward to page one relevant results that might otherwise have remain buried.
 * [Wolfram Alpha](https://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
 algorithms, knowledgebase and AI technology.
 * [Yahoo! Search](https://www.yahoo.com) -  The search engine that helps you find exactly what you're looking for.
@@ -197,7 +196,7 @@ algorithms, knowledgebase and AI technology.
 
 * [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly available in a Google Drive.
 * [File Search Engine](https://www.filesearch.link/)
-* [FileChef](https://www.filechef.com/)
+
 * [FileListing](https://filelisting.com/)
 * [FilePursuit](https://filepursuit.com/)
 * [NAPALM FTP Indexer](https://www.searchftps.net/)
@@ -270,8 +269,6 @@ algorithms, knowledgebase and AI technology.
 * [Castrick](https://castrickclues.com) - Find social media accounts with email, username and phone number
 * [Epieos](https://epieos.com) - Search for social accounts with e-mail and phone
 * [Geocreepy](http://www.geocreepy.com)
-* [Geofeedia](https://geofeedia.com)
-* [Hashtatit](http://www.hashatit.com)
 * [Hootsuite](http://hootsuite.com)
 * [IDCrawl](https://www.idcrawl.com/) - Search for a name in popular social networks.
 * [Klear](http://klear.com)
@@ -290,7 +287,6 @@ algorithms, knowledgebase and AI technology.
 * [SocialBlade](http://socialblade.com)
 * [Tagboard](https://tagboard.com)
 * [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
-* [Trackur](http://www.trackur.com)
 * [UVRX](http://www.uvrx.com/social.html)
 * [WATools](https://watools.io/)
 
@@ -396,7 +392,6 @@ algorithms, knowledgebase and AI technology.
 
 * [BlogSearchEngine](http://www.blogsearchengine.org)
 * [Notey](http://www.notey.com) - Blog post search engine.
-* [Sphere](https://www.sphere.com)
 * [Twingly](http://www.twingly.com)
 
 ## [↑](#-table-of-contents) Forums and Discussion Boards Search
@@ -409,7 +404,6 @@ algorithms, knowledgebase and AI technology.
 * [LinkBase](https://link-base.org/)
 * [Linkedin Groups](http://www.linkedin.com)
 * [Ning](http://www.ning.com)
-* [Omgili](http://omgili.com)
 * [Xing Groups](https://www.xing.com/communities)
 * [Yahoo Groups](https://groups.yahoo.com)
 
@@ -452,7 +446,6 @@ algorithms, knowledgebase and AI technology.
 * [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
 * [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.
 * [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent.
-* [JailBase](https://www.jailbase.com/) - is an information site that allows you to search for arrested persons you might know, and even get notified if someone you know gets arrested.
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Kompass](http://www.kompass.com) - Business directory and search.
 * [Mugshots](https://mugshots.com/)
