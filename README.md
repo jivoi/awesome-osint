@@ -419,6 +419,7 @@ algorithms, knowledgebase and AI technology.
 * [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
 * [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
 * [NexFil](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
+* [Osintly](https://osint.ly/) - Osintly is an OSINT platform that specializes in username searches across multiple websites and social media platforms.
 * [Seekr](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 * [SherlockEye](https://sherlockeye.io/) - Search for publicly available information connected to a username, uncovering associated profiles and activities across the web.
@@ -426,6 +427,7 @@ algorithms, knowledgebase and AI technology.
 * [User Search](http://www.usersearch.org) - Find someone by username, email, phone number or picture across Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs, 3000+ sites Supported!
 * [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
 * [WhatsMyName](https://whatsmyname.app/) - check for usernames across many different platforms.
+* [Osintly](https://osint.ly/) - Osintly is a all-in-one OSINT platform focused on usernames search.
 
 
 ## [↑](#-table-of-contents) People Investigations
