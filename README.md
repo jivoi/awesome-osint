@@ -427,8 +427,6 @@ algorithms, knowledgebase and AI technology.
 * [User Search](http://www.usersearch.org) - Find someone by username, email, phone number or picture across Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs, 3000+ sites Supported!
 * [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
 * [WhatsMyName](https://whatsmyname.app/) - check for usernames across many different platforms.
-* [Osintly](https://osint.ly/) - Osintly is a all-in-one OSINT platform focused on usernames search.
-
 
 ## [↑](#-table-of-contents) People Investigations
 
