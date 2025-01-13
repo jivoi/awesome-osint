@@ -186,6 +186,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Find-pdf-doc](http://www.findpdfdoc.com)
 * [Free Full PDF](http://www.freefullpdf.com)
+* [Doclibra](https://doclibra.com) - Extensive PDF database with content search
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
 * [Scribd](http://www.scribd.com)
 * [SlideShare](http://www.slideshare.net)
