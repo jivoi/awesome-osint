@@ -486,6 +486,8 @@ algorithms, knowledgebase and AI technology.
 * [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse Email Lookup.
 * [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
+* [Onchain Industries](https://www.onchain.industries/) - Add web3 to your OSINT
+investigations, now supports search by email
 
 * [Verify Email](http://verify-email.org) - The fastest and most accurate email verification tool.
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
@@ -1395,6 +1397,7 @@ algorithms, knowledgebase and AI technology.
 * [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
 * [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022.
 * [OSINT Updates - a free weekly newsletter for OSINTers](https://osintupdates.com/)
+* [OSINTResources - Your one-stop destination for best OSINT resources ](https://www.osintresources.com/)
 
 ## [↑](#-table-of-contents) Related Awesome Lists
 
