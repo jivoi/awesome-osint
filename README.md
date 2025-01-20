@@ -780,6 +780,7 @@ algorithms, knowledgebase and AI technology.
 * [Jeffreys Image Metadata Viewer](http://exif.regex.info/)
 * [JIMPL](https://jimpl.com/) - Online EXIF data viewer
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
+* [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
 
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
 
