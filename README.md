@@ -301,7 +301,6 @@ algorithms, knowledgebase and AI technology.
 * [RiteTag](https://ritetag.com)
 * [Sentiment140](http://www.twittersentiment.appspot.com)
 * [Tagdef](https://tagdef.com)
-* [Trends Predictions](https://trendspredictions.com/) - A tool for discovering new trending topics.
 * [Trends24](http://trends24.in)
 * [TwChat](http://twchat.com)
 * [TweetDeck](https://www.tweetdeck.com)
