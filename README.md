@@ -155,6 +155,9 @@ algorithms, knowledgebase and AI technology.
 * [GrayhatWarfare](https://grayhatwarfare.com/)
 * [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
 * [Intelligence X](https://intelx.io/tools)
+* [Metadefender](https://metadefender.com/) - Threat analysis service for suspicious URLs, files, certificates, domains, and hashes.
+* [Fofa](https://en.fofa.info/) - Asset search and analysis tool.
+* [Censys](https://search.censys.io/) - Searcher that monitors and analyzes devices.
 * [Internet Archive](https://archive.org/)
 * [Mamont](https://www.mmnt.ru/)
 * [Million Short](https://millionshort.com)
@@ -463,6 +466,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search for accounts associated with a given email across various platforms.
 * [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
+* [Scattered Secrets](https://scatteredsecrets.com/) - Password breach notification service.
 * [Email Address Validator](http://www.email-validator.net)  - Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.
 * [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
 * [Email Permutator](https://www.polished.app/email-permutator/) - a powerful tool designed to aid professionals in generating a range of potential email addresses for a specific contact. 
@@ -471,6 +475,8 @@ algorithms, knowledgebase and AI technology.
 * [Gitrecon](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 * [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
+* [Have I Been Sold](https://haveibeensold.app/) - Data sale verification for email accounts.
+* [Secureito](https://www.secureito.com/) - Email account data breach verification.
 * [Holehe](https://github.com/megadose/holehe) - allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 * [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
 * [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
@@ -697,6 +703,7 @@ algorithms, knowledgebase and AI technology.
 * [Verisign](http://dnssec-debugger.verisignlabs.com)
 * [ViewDNS.info](http://viewdns.info)
 * [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
+* [AbuseIPDB](https://www.abuseipdb.com/) - Repository of reported abuses by system administrators for IPs, domains, and subnets.
 * [w3snoop](http://webboar.com.w3snoop.com) - is a website that gives you a free and comprehensive report about a specific website.
 * [Web-Check](https://web-check.as93.net/) - All-in-one tool for viewing website and server meta data.
 * [WebMeUp](http://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
