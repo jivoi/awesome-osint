@@ -477,6 +477,7 @@ algorithms, knowledgebase and AI technology.
 * [LeakRadar](https://leakradar.io/) - Scans for compromised emails and domains in stealer logs, offering proactive breach prevention and real-time alerts.
 * [MailTester](http://mailtester.com) - hunt for emails and improve your email deliverability
 * [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
+* [spamhaus](https://check.spamhaus.org/) - The Spamhaus Check website allows you to verify if an IP or domain is listed in its spam databases.
 * [OSINTEye](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
 * [Peepmail](http://www.samy.pl/peepmail) - is a tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
 * [Pipl](https://pipl.com) - a provider of identity solutions.
