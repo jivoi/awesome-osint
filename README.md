@@ -458,6 +458,12 @@ algorithms, knowledgebase and AI technology.
 * [Voter Records](https://voterrecords.com/) - Free political research tool to study more than 100 Million US voter records.
 * [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
 * [ZabaSearch](https://www.zabasearch.com/)
+* [InfoTracer](https://infotracer.com/) - Search for people. (Searches are paid)
+* [UK Phone Book](https://www.ukphonebook.com/) - Search people in a similar way as 192.com
+* [Clustermaps](https://clustrmaps.com/) - Find people and address information associated with them
+* [PeekYou](https://www.peekyou.com/) - PeekYou offers the ability to search for people with checks done against more sites. Can check for arrest records as well.
+* [Socialcatfish](https://socialcatfish.com/) - Superextensive people search which works worldwide. Searches are done from 200 Billion records.
+* 
 
 ## [↑](#-table-of-contents) Email Search / Email Check
 
