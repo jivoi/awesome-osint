@@ -1193,7 +1193,9 @@ algorithms, knowledgebase and AI technology.
 * [Java Infovis Toolkit](http://philogb.github.io/jit)
 * [JpGraph](http://jpgraph.net)
 * [jqPlot](http://www.jqplot.com) - A Versatile and Expandable jQuery Plotting Plugin.
+* [KeyLines](https://cambridge-intelligence.com/keylines/) - the fast track to graph visualization success for JavaScript developers
 * [Knoema](https://knoema.com)
+* [KronoGraph](https://cambridge-intelligence.com/kronograph/) - advanced, interactive timeline visualizations that scale
 * [Leaflet](http://leafletjs.com) - an open-source JavaScript library for mobile-friendly interactive maps.
 * [Linkuroius](http://linkurio.us)
 * [Listify](http://listify.okfnlabs.org) - Turn a Google spreadsheet into a beautiful, searchable listing in seconds.
@@ -1213,6 +1215,7 @@ algorithms, knowledgebase and AI technology.
 * [Quadrigram](http://www.quadrigram.com)
 * [Raphael](http://dmitrybaranovskiy.github.io/raphael)
 * [RAW](http://raw.densitydesign.org)
+* [ReGraph](https://cambridge-intelligence.com/regraph/) - hassle-free graph visualization for React developers
 * [Shanti Interactive](http://www.viseyes.org)
 * [Snappa](https://snappa.io)
 * [StoryMap](https://storymap.knightlab.com)
