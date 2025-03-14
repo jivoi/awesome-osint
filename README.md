@@ -16,6 +16,7 @@ Happy hacking and hunting 🧙‍♂️
  - [Main National Search Engines](#-main-national-search-engines)
  - [Meta Search](#-meta-search)
  - [Specialty Search Engines](#-specialty-search-engines)
+ - [Dark Web Search Engines](#-dark-web-search-engines)
  - [Visual Search and Clustering Search Engines](#-visual-search-and-clustering-search-engines)
  - [Similar Sites Search](#-similar-sites-search)
  - [Document and Slides Search](#-document-and-slides-search)
@@ -164,6 +165,10 @@ algorithms, knowledgebase and AI technology.
 * [WIPO](https://www3.wipo.int/branddb/en/)
 * [WorldWideScience.org](http://worldwidescience.org)
 * [Zanran](http://zanran.com)
+
+## [↑](#-table-of-contents) Dark Web Search Engines Search Engines
+* [Ahmia](https://ahmia.fi)
+* [Aleph Open Search](https://open-search.aleph-networks.eu)
 
 ## [↑](#-table-of-contents) Visual Search and Clustering Search Engines
 
