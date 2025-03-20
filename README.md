@@ -494,6 +494,7 @@ algorithms, knowledgebase and AI technology.
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
 * [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
 * [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
+* [Spamhaus](https://check.spamhaus.org/) - Lookup Reputation Checker.
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse Email Lookup.
 * [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
 
