@@ -162,6 +162,7 @@ algorithms, knowledgebase and AI technology.
 * [Mamont](https://www.mmnt.ru/)
 * [Million Short](https://millionshort.com)
 * [Netlas.io](https://app.netlas.io/)
+* [ODIN](https://search.odin.io/) - Powerful Internet Search Engine used to search for Hosts, CVEs & Exposed Buckets/Files.
 * [OCCRP Aleph](https://aleph.occrp.org/)
 * [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 * [WIPO](https://www3.wipo.int/branddb/en/)
