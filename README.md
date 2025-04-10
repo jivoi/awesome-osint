@@ -143,7 +143,7 @@ algorithms, knowledgebase and AI technology.
 * [Qwant](http://www.qwant.com) - French search engine that relies on Microsoft Bing.
 * [Swisscows](https://swisscows.com/)
 
-## [↑](#-table-of-contents) Specialty Search Engines
+## [↑](#-table-of-contents) Speciality Search Engines
 
 *Search engines for specific information or topics.*
 
@@ -155,13 +155,14 @@ algorithms, knowledgebase and AI technology.
 * [CiteSeerX](http://citeseer.ist.psu.edu)
 * [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform 
 * [Google Custom Search](http://www.google.com/cse)
-* [GrayhatWarfare](https://grayhatwarfare.com/)
-* [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
-* [Intelligence X](https://intelx.io/tools)
+* [GrayhatWarfare](https://grayhatwarfare.com/) - Searches and indexes open Amazon S3 buckets, allowing users to find and explore potentially exposed data.
+* [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified) 
+* [Intelligence X](https://intelx.io/tools) - Paid OSINT Tool Allowing users to search for information across various sources including the dark web and public data leaks.
 * [Internet Archive](https://archive.org/)
 * [Mamont](https://www.mmnt.ru/)
 * [Million Short](https://millionshort.com)
 * [Netlas.io](https://app.netlas.io/)
+* [ODIN](https://search.odin.io/) - Used to search for Hosts, CVEs & Exposed Buckets/Files and shows a website is vulnerable or not. 10 Free Searches Per Day. 
 * [OCCRP Aleph](https://aleph.occrp.org/)
 * [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 * [WIPO](https://www3.wipo.int/branddb/en/)
