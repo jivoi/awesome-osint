@@ -151,6 +151,7 @@ algorithms, knowledgebase and AI technology.
 * [Abuseipdb](https://www.abuseipdb.com/) - Repository of abuses reported by system administrators for IPs, Domains, and subnets
 * [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
 * [Biznar](http://biznar.com)
+* [Browserleaks](https://browserleaks.com/) - BrowserLeaks tests your browser for privacy and fingerprinting leaks
 * [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center) - IP and Domain Reputation Center for real-time threat detection
 * [CiteSeerX](http://citeseer.ist.psu.edu)
 * [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform 
