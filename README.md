@@ -671,6 +671,7 @@ algorithms, knowledgebase and AI technology.
 * [intoDNS](http://www.intodns.com)
 * [IP 2 Geolocation](http://ip2geolocation.com)
 * [IP 2 Location](http://www.ip2location.com/demo.aspx)
+* [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
 * [IP Checking](http://www.ipchecking.com)
 * [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
 * [IPFingerprints](http://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
