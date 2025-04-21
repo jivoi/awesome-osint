@@ -1234,6 +1234,7 @@ algorithms, knowledgebase and AI technology.
 * [RAW](http://raw.densitydesign.org)
 * [Shanti Interactive](http://www.viseyes.org)
 * [Snappa](https://snappa.io)
+* [SnappyCharts](https://www.snappycharts.com) - no-code tool for building charts and embeds.
 * [StoryMap](https://storymap.knightlab.com)
 * [Tableau Public](https://public.tableau.com)
 * [Tableau](http://www.tableau.com)
