@@ -497,6 +497,7 @@ algorithms, knowledgebase and AI technology.
 * [Peepmail](http://www.samy.pl/peepmail) - is a tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
 * [Pipl](https://pipl.com) - a provider of identity solutions.
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
+* [Secureito](https://www.secureito.com) - Secureito detects data breaches involving your email and suggests protection measures.
 * [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
 * [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 * [Spamhaus](https://check.spamhaus.org/) - Lookup Reputation Checker.
