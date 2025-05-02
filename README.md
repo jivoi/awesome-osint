@@ -370,10 +370,8 @@ algorithms, knowledgebase and AI technology.
 
 * [Дезертир](http://vk.com/app3046467)
 * [Barkov.net](http://vk.barkov.net)
-* [Report Tree](http://dcpu.ru/vk_repost_tree.php)
 * [VK5](http://vk5.city4me.com)
 * [VK Community Search](http://vk.com/communities)
-* [VK Parser](http://vkparser.ru) - A tool to search for a target audience and potential customers.
 * [VK People Search](http://vk.com/people)
 * [VK.watch](https://vk.watch/)
 
@@ -383,7 +381,7 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) LinkedIn
 
-* [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB) - Browser plugin that finds emails of people's profiles in LinkedIn.
+* 
 
 
 ### [↑](#-table-of-contents) Telegram
@@ -659,7 +657,6 @@ algorithms, knowledgebase and AI technology.
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 * [BuiltWith](http://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 * [Central Ops](http://centralops.net)
-* [Check-The-Sum](https://check-the-sum.fr/) - Database of IP addresses, domains, and malicious files collected via honeypots.
 * [Dedicated or Not](http://dedicatedornot.com)
 * [DNS History](https://completedns.com/dns-history/)
 * [DNSDumpster](https://dnsdumpster.com) - is a website that will help you discover hosts related to a specific domain.
@@ -675,7 +672,6 @@ algorithms, knowledgebase and AI technology.
 * [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - is a free cybercrime intelligence toolkit to check exposure in Infostealer malware infection.
 * [HypeStat](https://www.hypestat.com)
 * [Infosniper](http://www.infosniper.net)
-* [IntelliTamper](http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml)
 * [intoDNS](http://www.intodns.com)
 * [IP 2 Geolocation](http://ip2geolocation.com)
 * [IP 2 Location](http://www.ip2location.com/demo.aspx)
@@ -689,7 +685,6 @@ algorithms, knowledgebase and AI technology.
 * [MaxMind](https://www.maxmind.com)
 * [MetaDefender](https://metadefender.com) - Threat analysis service for URLs, files, certificates, domains, and suspicious hashes.
 * [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
-* [NetworkTools](http://network-tools.com)
 * [Open Site Explorer](https://moz.com/researchtools/ose)
 * [OpenLinkProfiler](http://www.openlinkprofiler.org/)
 * [PageGlimpse](http://www.pageglimpse.com)
@@ -699,7 +694,6 @@ algorithms, knowledgebase and AI technology.
 * [Quantcast](https://www.quantcast.com)
 * [Quick Sprout](https://www.quicksprout.com)
 * [RedirectDetective](http://redirectdetective.com)
-* [Redirect Explorer](https://www.redirectexplorer.com) - Redirect Explorer will show you where a URL goes, and if it's safe to use. No more guessing!
 * [Remote DNS Lookup](https://remote.12dt.com)
 * [Robtex](https://www.robtex.com) - is an IP address and domain name based researching websites that offers multiple services such as Reverse DNS Lookup, Whois, and AS Macros.
 * [SameID](http://sameid.net)
@@ -712,7 +706,6 @@ algorithms, knowledgebase and AI technology.
 * [SmallSEOTools](http://smallseotools.com)
 * [Squatm3gator](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 * [StatsCrop](http://www.statscrop.com)
-* [Threat Jammer](https://threatjammer.com) - Risk scoring service from curated threat intelligence data.
 * [TinyScan](https://www.tiny-scan.com) - Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
 * [urlDNA](https://urldna.io/) -  Unleash website insights! urldna.io analyzes url, monitors brands and track phishing sites.
 * [urlQuery](http://urlquery.net)
@@ -724,7 +717,6 @@ algorithms, knowledgebase and AI technology.
 * [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
 * [w3snoop](http://webboar.com.w3snoop.com) - is a website that gives you a free and comprehensive report about a specific website.
 * [Web-Check](https://web-check.as93.net/) - All-in-one tool for viewing website and server meta data.
-* 
 * [WebMeUp](http://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
 * [Webscout](https://webscout.io/)  - A Swiss Army knife for scaled intelligence and metadata on IP addresses and domains.
 * [Website Informer](http://website.informer.com)
