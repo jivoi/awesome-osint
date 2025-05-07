@@ -219,7 +219,7 @@ algorithms, knowledgebase and AI technology.
 * [BeanPaste](https://beanpaste.fun/) - A tiny way to share text.
 * [cl1p](https://Cl1p.net)
 * [controlc](https://Controlc.com)
-* [Cryptiobin](https://cryptobin.co/) - The Ultimate Secure Pastebin
+* [Cryptobin](https://cryptobin.co/) - The Ultimate Secure Pastebin
 * [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers
 * [dpaste2](https://Dpaste.org)
 * [dpaste](https://Dpaste.com)
