@@ -218,8 +218,10 @@ algorithms, knowledgebase and AI technology.
 *Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
 * [0bin](https://0bin.net)
+* [BeanPaste](https://beanpaste.fun/) - A tiny way to share text.
 * [cl1p](https://Cl1p.net)
 * [controlc](https://Controlc.com)
+* [Cryptobin](https://cryptobin.co/) - The Ultimate Secure Pastebin
 * [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers
 * [dpaste2](https://Dpaste.org)
 * [dpaste](https://Dpaste.com)
@@ -230,12 +232,22 @@ algorithms, knowledgebase and AI technology.
 * [jsbin](https://Jsbin.com)
 * [justpaste](https://Justpaste.it)
 * [Katbin](https://katb.in)
+* [lesma.eu](https://lesma.eu/) - Simple paste app friendly with browser and command line.
+* [PastBin.net](https://pastbin.net/) - Similar to Pastebin website where you can store code/text online for a set period of time and share to anyone anywhere. Search Option Available.
+* [Pastebin](https://pastebin.pl/) - Store code/text online for a set period of time and share to anybody on earth.
 * [paste.centos](https://paste.centos.org)
 * [paste.debian](https://Paste.debian.net)
 * [paste.ee](https://Paste.ee)
 * [paste.kde](https://Paste.kde.org)
+* [Paste.Monster](https://paste.monster/) - Share your thoughts online. API Available.
 * [paste.ubuntu](https://paste.ubuntu.com)
+* [PasteShr](https://www.pasteshr.com/) - Store any text online for easy sharing. Search option available!
 * [Rentry](https://rentry.co/)
+* [snippet.host](https://snippet.host/) - Minimal text and code snippet hosting.
+* [TextBin](https://textbin.net/) - Secure pastebin where you can paste and store any type of text or code snippets online and share it with your friends.
+* [Textbin-Code](https://textbin.online/) - SECURE YOUR CODE!
+* [Verybin](https://www.verybin.com/) - Anonymous and encrypted pastebin. Data is encrypted/decrypted in the browser using 256 bits AES and no IP address logged.
+* [ZBin](https://zbin.dev/) - Private & Secure Pastebin.
 
 
 ## [↑](#-table-of-contents) Code Search
