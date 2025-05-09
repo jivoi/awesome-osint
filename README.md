@@ -674,6 +674,7 @@ algorithms, knowledgebase and AI technology.
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 * [BuiltWith](http://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 * [Central Ops](http://centralops.net)
+* [Crypto Scam & Crypto Phishing URL Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed) - A fresh feed of crypto phishing and crypto scam websites. Automatically updated daily.
 * [Dedicated or Not](http://dedicatedornot.com)
 * [DNS History](https://completedns.com/dns-history/)
 * [DNSDumpster](https://dnsdumpster.com) - is a website that will help you discover hosts related to a specific domain.
