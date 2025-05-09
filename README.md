@@ -414,6 +414,7 @@ algorithms, knowledgebase and AI technology.
 * [Ning](http://www.ning.com)
 * [Xing Groups](https://www.xing.com/communities)
 * [Yahoo Groups](https://groups.yahoo.com)
+* [Dark Forums](https://darkforums.st/)
 
 ## [↑](#-table-of-contents) Username Check
 
