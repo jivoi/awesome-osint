@@ -152,10 +152,12 @@ algorithms, knowledgebase and AI technology.
 * [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
 * [Biznar](http://biznar.com)
 * [Browserleaks](https://browserleaks.com/) - BrowserLeaks tests your browser for privacy and fingerprinting leaks
+* [Censys](https://search.censys.io/) - Searcher that monitors and analyzes devices.
 * [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center) - IP and Domain Reputation Center for real-time threat detection
 * [CiteSeerX](http://citeseer.ist.psu.edu)
 * [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform 
 * [CRT Certificate Search](https://crt.sh) - Allows you to search for public SSL/TLS certificates recorded in Certificate Transparency logs
+* [Fofa](https://en.fofa.info/) - Asset search and analysis tool.
 * [Google Custom Search](http://www.google.com/cse)
 * [GrayhatWarfare](https://grayhatwarfare.com/) - Searches and indexes open Amazon S3 buckets, allowing users to find and explore potentially exposed data.
 * [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified) 
@@ -217,8 +219,10 @@ algorithms, knowledgebase and AI technology.
 *Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
 * [0bin](https://0bin.net)
+* [BeanPaste](https://beanpaste.fun/) - A tiny way to share text.
 * [cl1p](https://Cl1p.net)
 * [controlc](https://Controlc.com)
+* [Cryptobin](https://cryptobin.co/) - The Ultimate Secure Pastebin
 * [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers
 * [dpaste2](https://Dpaste.org)
 * [dpaste](https://Dpaste.com)
@@ -229,12 +233,22 @@ algorithms, knowledgebase and AI technology.
 * [jsbin](https://Jsbin.com)
 * [justpaste](https://Justpaste.it)
 * [Katbin](https://katb.in)
+* [lesma.eu](https://lesma.eu/) - Simple paste app friendly with browser and command line.
+* [PastBin.net](https://pastbin.net/) - Similar to Pastebin website where you can store code/text online for a set period of time and share to anyone anywhere. Search Option Available.
+* [Pastebin](https://pastebin.pl/) - Store code/text online for a set period of time and share to anybody on earth.
 * [paste.centos](https://paste.centos.org)
 * [paste.debian](https://Paste.debian.net)
 * [paste.ee](https://Paste.ee)
 * [paste.kde](https://Paste.kde.org)
+* [Paste.Monster](https://paste.monster/) - Share your thoughts online. API Available.
 * [paste.ubuntu](https://paste.ubuntu.com)
+* [PasteShr](https://www.pasteshr.com/) - Store any text online for easy sharing. Search option available!
 * [Rentry](https://rentry.co/)
+* [snippet.host](https://snippet.host/) - Minimal text and code snippet hosting.
+* [TextBin](https://textbin.net/) - Secure pastebin where you can paste and store any type of text or code snippets online and share it with your friends.
+* [Textbin-Code](https://textbin.online/) - SECURE YOUR CODE!
+* [Verybin](https://www.verybin.com/) - Anonymous and encrypted pastebin. Data is encrypted/decrypted in the browser using 256 bits AES and no IP address logged.
+* [ZBin](https://zbin.dev/) - Private & Secure Pastebin.
 
 
 ## [↑](#-table-of-contents) Code Search
@@ -389,9 +403,11 @@ algorithms, knowledgebase and AI technology.
 
 * [Maltego Telegram](https://github.com/vognik/maltego-telegram) - Rich Set of Entities & Transforms for OSINT on Telegram with Maltego.
 * [TgramSearch](https://tgramsearch.com/) - Convenient search for Telegram channels, as well as a structured catalog with over 700000 Telegram channels. Available in 8+ Languages.
+* [Telegram Channel Joiner](https://github.com/spmedia/Telegram-Channel-Joiner) - grow your Free and Premium Telegram accounts easily with this channel joiner script.
 * [Teleteg](https://teleteg.com/) - The ultimate Telegram search engine. 10 results for free plan.  
 * [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms. 
 * [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
+* [Telegram channels scraper TeleGraphite ](https://github.com/hamodywe/telegram-scraper-TeleGraphite) - Telegram Scraper & JSON Exporter & telegram channels scraper.
 
 ### [↑](#-table-of-contents) Steam
 
@@ -495,6 +511,7 @@ algorithms, knowledgebase and AI technology.
 * [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
 * [LeakRadar](https://leakradar.io/) - Scans for compromised emails and domains in stealer logs, offering proactive breach prevention and real-time alerts.
 * [MailTester](http://mailtester.com) - hunt for emails and improve your email deliverability
+* [Minerva OSINT](https://minervaosint.com) - Email search tool that finds and aggregates data on a target email from over a hundred websites.
 * [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
 * [OSINTEye](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
 * [Peepmail](http://www.samy.pl/peepmail) - is a tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
@@ -658,6 +675,7 @@ algorithms, knowledgebase and AI technology.
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 * [BuiltWith](http://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 * [Central Ops](http://centralops.net)
+* [Crypto Scam & Crypto Phishing URL Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed) - A fresh feed of crypto phishing and crypto scam websites. Automatically updated daily.
 * [Dedicated or Not](http://dedicatedornot.com)
 * [DNS History](https://completedns.com/dns-history/)
 * [DNSDumpster](https://dnsdumpster.com) - is a website that will help you discover hosts related to a specific domain.
