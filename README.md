@@ -691,6 +691,7 @@ algorithms, knowledgebase and AI technology.
 * [GraphyStories](http://app.graphystories.com)
 * [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - is a free cybercrime intelligence toolkit to check exposure in Infostealer malware infection.
 * [HypeStat](https://www.hypestat.com)
+* [Icann Lookup)(https://lookup.icann.org/en/lookup) - The site allows you to look up domain registration information (WHOIS) on the internet
 * [Infosniper](http://www.infosniper.net)
 * [intoDNS](http://www.intodns.com)
 * [IP 2 Geolocation](http://ip2geolocation.com)
