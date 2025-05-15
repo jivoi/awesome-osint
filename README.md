@@ -480,17 +480,20 @@ algorithms, knowledgebase and AI technology.
 * [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
 * [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.
 * [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent.
+* [IDCrawl](https://www.idcrawl.com/) - IDCrawl quickly locates people from United States across all major social networking sites, such as Facebook, Instagram, Twitter/X.com, LinkedIn, YouTube, and others. IDCrawl identifies people across email, phone, and even criminal background checks, providing its users with a complete picture of a person's public online presence.
 * [InfoTracer](https://infotracer.com/) - Search for people. (Searches are paid)
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Kompass](http://www.kompass.com) - Business directory and search.
 * [Mugshots](https://mugshots.com/)
 * [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
 * [PeekYou](https://www.peekyou.com/) - PeekYou offers the ability to search for people with checks done against more sites. Can check for arrest records as well.
+* [radaris](https://radaris.com/) - Our database includes people from more than 26,000 cities across the United States. Start your search for free by selecting your desired state and discover the wealth of information available through Radaris.
 * [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
 * [Socialcatfish](https://socialcatfish.com/) - Superextensive people search which works worldwide. Searches are done from 200 Billion records.
 * [SearchBug](http://www.searchbug.com) - People search. Limited free info, premium data upsell.
 * [Spokeo](http://www.spokeo.com) - People search. Limited free info, premium data upsell.
 * [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
+* [uFind.name](https://ufind.name/) - We are a people search engine to access millions of public online records. You can look up a person, marketing data, vehicle history, patents, business registration data, court documents, domain name information, and white house records. 
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [UK Phone Book](https://www.ukphonebook.com/) - Search people in a similar way as 192.com
 * [VineLink](https://www.vinelink.com/#state-selection) - Inmate search and notification service for victims of crime, linked to multiple correctional facilities' booking systems in the U.S.
