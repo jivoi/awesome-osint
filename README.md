@@ -222,31 +222,46 @@ algorithms, knowledgebase and AI technology.
 
 * [0bin](https://0bin.net)
 * [BeanPaste](https://beanpaste.fun/) - A tiny way to share text.
-* [cl1p](https://Cl1p.net)
-* [controlc](https://Controlc.com)
+* [cl1p](https://Cl1p.net) - The Internet Clipboard.
+* [Context](https://ctxt.io/) - Share whatever you see with others in seconds.
+* [controlc](https://Controlc.com) - The easiest way to host your text.
 * [Cryptobin](https://cryptobin.co/) - The Ultimate Secure Pastebin
 * [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers
 * [dpaste2](https://Dpaste.org)
 * [dpaste](https://Dpaste.com)
 * [GitHub gist](https://gist.github.com)
+* [HashBin](https://hashb.in/#Q===) - HashBin is a paste bin that never sees the contents of its pastes.
 * [hastebin](https://www.toptal.com/developers/hastebin/)
 * [ideone](https://Ideone.com)
 * [ivpaste](https://Ivpaste.com)
 * [jsbin](https://Jsbin.com)
 * [justpaste](https://Justpaste.it)
 * [Katbin](https://katb.in)
+* [Logpasta](https://logpasta.com/) - Simple, secure log paste service. Command line mode based.
 * [lesma.eu](https://lesma.eu/) - Simple paste app friendly with browser and command line.
+* [Nachricht](https://nachricht.co/) - With Nachricht.co you can send self-destructive and encrypted one-way messages over the Internet. You don't even need to miss out the messenger or social network of your choice. We are an independent, secure and fully free service!
+* [NoPaste](https://nopaste.boris.sh/) - NoPaste is an open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing.
+* [New Paste](https://paste1.com/) - I wanna paste because typing is so boring!
+* [n0paste](https://n0paste.eu/) - Paste and share your code online.
+* [OTS- One Time Secrets](https://ots.hackliberty.org/) - An encrypted pastebin site. No login needed!
 * [PastBin.net](https://pastbin.net/) - Similar to Pastebin website where you can store code/text online for a set period of time and share to anyone anywhere. Search Option Available.
 * [Pastebin](https://pastebin.pl/) - Store code/text online for a set period of time and share to anybody on earth.
+* [Paste.Cash](https://www.paste.cash/) - Paste.CASH Is a privacy respected and encrypted pastebin hosted by Cash Hosting. Every paste are encrypted using 256 bits AES.
 * [paste.centos](https://paste.centos.org)
 * [paste.debian](https://Paste.debian.net)
 * [paste.ee](https://Paste.ee)
+* [PasteFree.com](https://pastefree.com/) - Popular Paste and Share Site.
 * [paste.kde](https://Paste.kde.org)
 * [Paste.Monster](https://paste.monster/) - Share your thoughts online. API Available.
 * [paste.ubuntu](https://paste.ubuntu.com)
+* [Pastery](https://www.pastery.net/) - The sweetest pastebin in the world!
 * [PasteShr](https://www.pasteshr.com/) - Store any text online for easy sharing. Search option available!
+* [Pastebin - Tor Link](https://tor.link/paste/new) - Paste text to store or share with others.
 * [Rentry](https://rentry.co/)
+* [SafeNote](https://safenote.co/) - SafeNote is a free web-based service that allows you to share a note or a file with confidentiality. There is no way to spying on you even to a hacker.
+* [scrt.link](https://scrt.link/) - Share a Secret with a link that only works one time and then self-destructs.
 * [snippet.host](https://snippet.host/) - Minimal text and code snippet hosting.
+* [Spacebin](https://spaceb.in/) 
 * [TextBin](https://textbin.net/) - Secure pastebin where you can paste and store any type of text or code snippets online and share it with your friends.
 * [Textbin-Code](https://textbin.online/) - SECURE YOUR CODE!
 * [Verybin](https://www.verybin.com/) - Anonymous and encrypted pastebin. Data is encrypted/decrypted in the browser using 256 bits AES and no IP address logged.
