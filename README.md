@@ -703,6 +703,7 @@ algorithms, knowledgebase and AI technology.
 * [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
 * [IP Checking](http://www.ipchecking.com)
 * [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
+* [IP Location.io](https://iplocation.io) - IPLocation.io allows you to check the location of an IP for free
 * [IPFingerprints](http://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
 * [IPVoid](http://www.ipvoid.com) - IP address toolset.
 * [Kloth](http://www.kloth.net/services)
