@@ -1365,6 +1365,7 @@ algorithms, knowledgebase and AI technology.
 * [CrowdSec](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 * [Discoshell](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
+* [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
 * [DNSservices](https://github.com/0x4f53/dnsservices) - Discover embedded services in a domain's DNS records within seconds
 * [DuckDuckGo URL scraper](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper. 
 * [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
