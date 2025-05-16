@@ -1386,6 +1386,7 @@ algorithms, knowledgebase and AI technology.
 * [Pown Recon](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
+* [Router Passwords](https://www.routerpasswords.com) - Online database of default router passwords.
 * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 * [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports 10 API wrappers.
 * [SerpScan](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
