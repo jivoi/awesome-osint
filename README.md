@@ -173,6 +173,7 @@ algorithms, knowledgebase and AI technology.
 * [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 * [WIPO](https://www3.wipo.int/branddb/en/)
 * [WorldWideScience.org](http://worldwidescience.org)
+* [Wpscan](https://wpscan.com) - Scan your WordPress site and get an instant report on its security.
 * [Zanran](http://zanran.com)
 
 ## [↑](#-table-of-contents) Dark Web Search Engines Search Engines
