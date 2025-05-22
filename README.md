@@ -1194,7 +1194,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Atom](https://browser.ru/)
 * [Brave](https://brave.com) - is an open-source web browser that allows you to completely block ads and website trackers.
-* [Bromite](https://www.bromite.org/) - Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your browser.
+* [Bromite](https://www.bromite.org/) - Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your browser. Works only on Android.
 * [CentBrowser](http://www.centbrowser.com)
 * [Chrome](https://www.google.com/chrome)
 * [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)
