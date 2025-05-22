@@ -1194,12 +1194,15 @@ algorithms, knowledgebase and AI technology.
 
 * [Atom](https://browser.ru/)
 * [Brave](https://brave.com) - is an open-source web browser that allows you to completely block ads and website trackers.
+* [Bromite](https://www.bromite.org/) - Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your browser.
 * [CentBrowser](http://www.centbrowser.com)
 * [Chrome](https://www.google.com/chrome)
 * [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)
 * [Coowon](http://coowon.com)
+* [Gnu Icecat](https://icecatbrowser.org/) - 
 * [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge)
 * [Firefox](https://www.mozilla.org)
+* [LibreWolf](https://librewolf.net/) - A custom version of Firefox, focused on privacy, security and freedom.
 * [Maxthon](http://www.maxthon.com)
 * [Opera](http://www.opera.com)
 * [Safari](http://www.apple.com/safari)
@@ -1209,7 +1212,8 @@ algorithms, knowledgebase and AI technology.
 * [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - Tor is a free software that prevents people from learning your location or browsing habits by letting you communicate anonymously on the Internet.
 * [Torch](http://www.torchbrowser.com)
 * [UCBrowser](http://www.ucweb.com)
-* [Vivaldi](https://vivaldi.com)
+* [Vivaldi](https://vivaldi.com) - Powerful, Private and Personal Web Browser.
+* [Waterfox](https://www.waterfox.net/) - Fast and Private Web Browser. Get privacy out of the box with Waterfox.
 * [Yandex Browser](https://browser.yandex.com/desktop/main)
 
 ## [↑](#-table-of-contents) Offline Browsing
