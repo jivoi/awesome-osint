@@ -862,6 +862,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Image Analysis
 
+* [EXIFEditor.io](https://exifeditor.io) - In-browser EXIF metadata editor, viewer, and guide.
 * [DiffChecker](https://www.diffchecker.com/image-diff/)
 * [ExifLooter](https://github.com/aydinnyunus/exiflooter)
 * [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
