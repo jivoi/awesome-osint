@@ -219,13 +219,21 @@ algorithms, knowledgebase and AI technology.
 
 *Search for Threat actors and their associated information.*
 
+* [APT Groups and Operations](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml?pli=1#) - Know about Threat Actors, sponsored countries, their tools, methods, etc.
+* [APTWiki](https://apt.threatradar.net/) - Historical wiki with 214 actor entries.
+* [Bi.Zone](https://gti.bi.zone/) - 148 threat groups with detailed TTPs.
 * [BreachHQ](https://breach-hq.com/threat-actors) - Provides a list of all known cyber threat actors also referred to as malicious actors, APT groups or hackers.
 * [Cybergeist](https://cybergeist.io/threat-actor) - Cybergeist.io generates intelligence profiles about key threats and threat context that is actively being discussed and reported upon across the internet.
 * [Dark Web Informer](https://darkwebinformer.com/threat-actor-database/) - Tracking 854 Threat Actors as of 29th of May 2025.
-* [KNOWLEDGENOW] (https://know.netenrich.com/content/track/threat-actor) - Trending Threats.
+* [ETDA](https://apt.etda.or.th/cgi-bin/listgroups.cgi) - Search for Threat Actor groups and their tools.
+* [FortiGuard Labs](https://www.fortiguard.com/threat-actor) - Powered by FortiGuard Labs, our Threat Actor Encyclopedia provides actionable insights, helping security teams prepare and streamline advanced threat hunting and response.
+* [KNOWLEDGENOW](https://know.netenrich.com/content/track/threat-actor) - Trending Threats.
 * [lazarusholic](https://lazarus.day/actors/) - Total 203 threat actors.
+* [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/actors) - Get List of threat actor groups.
+* [MISP Galaxy](https://www.misp-galaxy.org/360net/) - Known or estimated adversary groups as identified by 360.net.
 * [OPENHUNTING.IO](https://openhunting.io/threat-library) - Threat Library Collecting Information.
 * [SOCRadar LABS](https://socradar.io/labs/threat-actor/) - Know threat actor tactics, techniques, and past activities. Access detailed profiles and track their activities.Keep up with the latest threats and Tactics, Techniques, and Procedures (TTPs).
+* [Thales](https://cds.thalesgroup.com/en/cyberthreat/attacks-page) - Find Threat actor groups in a graphical attack explorer.
 
 
 ## [↑](#-table-of-contents) File Search
