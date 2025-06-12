@@ -743,6 +743,7 @@ algorithms, knowledgebase and AI technology.
 * [Fullhunt](https://fullhunt.io/) - FullHunt is an OSINT tool focused on identifying and protecting internet-exposed assets.
 * [GraphyStories](http://app.graphystories.com)
 * [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - is a free cybercrime intelligence toolkit to check exposure in Infostealer malware infection.
+* [Hybrid Analysis](https://www.hybrid-analysis.com) - Online service for detailed and free analysis of suspicious files and URLs.
 * [HypeStat](https://www.hypestat.com)
 * [Icann Lookup)(https://lookup.icann.org/en/lookup) - The site allows you to look up domain registration information (WHOIS) on the internet
 * [Infosniper](http://www.infosniper.net)
