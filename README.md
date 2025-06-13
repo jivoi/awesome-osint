@@ -21,6 +21,7 @@ Happy hacking and hunting 🧙‍♂️
  - [Similar Sites Search](#-similar-sites-search)
  - [Document and Slides Search](#-document-and-slides-search)
  - [Digital FootPrint Tools](#-digital-footprint-tools)
+ - [Threat Actor Search](#-threat-actor-search)
  - [File Search](#-file-search)
  - [Pastebins](#-pastebins)
  - [Code Search](#-code-search)
@@ -172,6 +173,7 @@ algorithms, knowledgebase and AI technology.
 * [ODIN](https://search.odin.io/) - Used to search for Hosts, CVEs & Exposed Buckets/Files and shows a website is vulnerable or not. 10 Free Searches Per Day. 
 * [OCCRP Aleph](https://aleph.occrp.org/)
 * [Search Abuseipdb](https://github.com/oseasfr/search-abuseipdb) - Tool to query IPs, ranges and ASN blocks in AbuseIPDB via API with CIDR notation.
+* [Shadowserver](https://dashboard.shadowserver.org/) - Dashboard with global statistics on cyber threats collected by the Shadowserver Foundation.
 * [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 * [WIPO](https://www3.wipo.int/branddb/en/)
 * [WorldWideScience.org](http://worldwidescience.org)
@@ -213,6 +215,27 @@ algorithms, knowledgebase and AI technology.
 
 * [Mine](https://www.saymine.com/mineapp) - Mine allows you to discover where your personal data is, and reduce your online exposure to minimize digital risks.
 * [Yorba](https://yorba.co/) - Yorba helps you regain control of your digital life. We find and delete old accounts, cancel unwanted subscriptions, and unsubscribe you from emails you never open—making your inbox cleaner, your footprint leaner, your privacy stronger.
+
+## [↑](#-threat-actor-search) Threat Actor Search
+
+*Search for Threat actors and their associated information.*
+
+* [APT Groups and Operations](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml?pli=1#) - Know about Threat Actors, sponsored countries, their tools, methods, etc.
+* [APTWiki](https://apt.threatradar.net/) - Historical wiki with 214 actor entries.
+* [Bi.Zone](https://gti.bi.zone/) - 148 threat groups with detailed TTPs.
+* [BreachHQ](https://breach-hq.com/threat-actors) - Provides a list of all known cyber threat actors also referred to as malicious actors, APT groups or hackers.
+* [Cybergeist](https://cybergeist.io/threat-actor) - Cybergeist.io generates intelligence profiles about key threats and threat context that is actively being discussed and reported upon across the internet.
+* [Dark Web Informer](https://darkwebinformer.com/threat-actor-database/) - Tracking 854 Threat Actors as of 29th of May 2025.
+* [ETDA](https://apt.etda.or.th/cgi-bin/listgroups.cgi) - Search for Threat Actor groups and their tools.
+* [FortiGuard Labs](https://www.fortiguard.com/threat-actor) - Powered by FortiGuard Labs, our Threat Actor Encyclopedia provides actionable insights, helping security teams prepare and streamline advanced threat hunting and response.
+* [KNOWLEDGENOW](https://know.netenrich.com/content/track/threat-actor) - Trending Threats.
+* [lazarusholic](https://lazarus.day/actors/) - Total 203 threat actors.
+* [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/actors) - Get List of threat actor groups.
+* [MISP Galaxy](https://www.misp-galaxy.org/360net/) - Known or estimated adversary groups as identified by 360.net.
+* [OPENHUNTING.IO](https://openhunting.io/threat-library) - Threat Library Collecting Information.
+* [SOCRadar LABS](https://socradar.io/labs/threat-actor/) - Know threat actor tactics, techniques, and past activities. Access detailed profiles and track their activities.Keep up with the latest threats and Tactics, Techniques, and Procedures (TTPs).
+* [Thales](https://cds.thalesgroup.com/en/cyberthreat/attacks-page) - Find Threat actor groups in a graphical attack explorer.
+
 
 ## [↑](#-table-of-contents) File Search
 
@@ -744,6 +767,7 @@ algorithms, knowledgebase and AI technology.
 * [Fullhunt](https://fullhunt.io/) - FullHunt is an OSINT tool focused on identifying and protecting internet-exposed assets.
 * [GraphyStories](http://app.graphystories.com)
 * [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - is a free cybercrime intelligence toolkit to check exposure in Infostealer malware infection.
+* [Hybrid Analysis](https://www.hybrid-analysis.com) - Online service for detailed and free analysis of suspicious files and URLs.
 * [HypeStat](https://www.hypestat.com)
 * [Icann Lookup)(https://lookup.icann.org/en/lookup) - The site allows you to look up domain registration information (WHOIS) on the internet
 * [Infosniper](http://www.infosniper.net)
@@ -864,6 +888,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Image Analysis
 
 * [DiffChecker](https://www.diffchecker.com/image-diff/)
+* [EXIFEditor.io](https://exifeditor.io) - In-browser EXIF image metadata editor, viewer, and analysis tool.
 * [ExifLooter](https://github.com/aydinnyunus/exiflooter)
 * [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
 * [Forensically](https://29a.ch/photo-forensics/)
