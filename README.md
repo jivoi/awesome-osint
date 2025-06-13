@@ -404,7 +404,7 @@ algorithms, knowledgebase and AI technology.
 * [Picodash](https://www.picodash.com) - Find Instagram Target Audience and Influencers
 * [Sterra](https://github.com/novitae/sterraxcyl) - Instagram OSINT tool to export and analyse followers | following with their details
 * [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
-* [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) - Tool that maps your target’s Instagram data and relationships in Neo4j for social network analysis.
+
 
 ### [↑](#-table-of-contents) Pinterest
 
