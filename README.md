@@ -599,6 +599,7 @@ algorithms, knowledgebase and AI technology.
 * [Spamhaus](https://check.spamhaus.org/) - Lookup Reputation Checker.
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse Email Lookup.
 * [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
+* [TraceFind](https://tracefind.info) - Powerful OSINT tool for gathering detailed information linked to email addresses.
 
 * [Verify Email](http://verify-email.org) - The fastest and most accurate email verification tool.
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
