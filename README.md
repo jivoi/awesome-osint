@@ -1481,6 +1481,7 @@ algorithms, knowledgebase and AI technology.
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 * [Unfurl](https://dfir.blog/unfurl/) - Unfurl analyzes and breaks down URLs into useful forensic components for digital investigation.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users urls and other data effortlessly
+* [Cipherstick](https://cipherstick.tech) - Free OSINT Puzzles - No Account Needed!
 
 
 ## [↑](#-table-of-contents) Threat Intelligence
