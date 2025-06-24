@@ -74,6 +74,7 @@ Happy hacking and hunting 🧙‍♂️
  - [Maritime](#-maritime)
  - [Other Tools](#-other-tools)
  - [Threat Intelligence](#-threat-intelligence)
+ - [Music Streaming Services](#-music-streaming-services)
  - [OSINT Videos](#-osint-videos)
  - [OSINT Blogs](#-osint-blogs)
  - [Other Resources](#-other-resources)
@@ -1506,6 +1507,10 @@ algorithms, knowledgebase and AI technology.
 * [onion-lookup](https://onion.ail-project.org/) - Free online service and API for checking the existence of Tor hidden services (.onion address) and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.
 * [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
+
+## [↑](#-table-of-contents) Music Streaming Services
+
+* [spotify_profile_monitor](https://github.com/misiektoja/spotify_profile_monitor) - Tool for real-time tracking of Spotify users' activities and profile changes, including playlists, with support for email alerts, CSV logging, showing media in the terminal, detection of profile picture changes and more
 
 ## [↑](#-table-of-contents) OSINT Videos
 
