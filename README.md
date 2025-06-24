@@ -439,6 +439,7 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#-table-of-contents) Instagram
 
 * [Iconosquare](http://iconosquare.com)
+* [instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Tool for real-time tracking of Instagram users' activities and profile changes with support for email alerts, CSV logging, showing media in the terminal, anonymous story downloads and more
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 * [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) - Tool that maps your target’s Instagram data and relationships in Neo4j for social network analysis. 
 * [Picodash](https://www.picodash.com) - Find Instagram Target Audience and Influencers
