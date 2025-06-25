@@ -39,6 +39,7 @@ Happy hacking and hunting 🧙‍♂️
    - [LinkedIn](#-linkedin)
    - [Telegram](#-telegram)
    - [Steam](#-steam)
+   - [Discord](#-discord)
  - [Blog Search](#-blog-search)
  - [Forums and Discussion Boards Search](#-forums-and-discussion-boards-search)
  - [Username Check](#-username-check)
@@ -504,6 +505,10 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#-table-of-contents) Steam
 
 * [OSINT-Steam](https://osint-steam.vercel.app/en) - An [open-source](https://github.com/Berchez/OSINT-steam) tool that returns public information, such as friends list and possible locations, from Steam profiles.
+
+### [↑](#-table-of-contents) Discord
+
+* [doxcord](https://github.com/boringthegod/doxcord) - Tool designed to scan Discord servers for social media links containing tracking parameters.
 
 ## [↑](#-table-of-contents) Blog Search
 
