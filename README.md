@@ -74,6 +74,7 @@ Happy hacking and hunting 🧙‍♂️
  - [Maritime](#-maritime)
  - [Other Tools](#-other-tools)
  - [Threat Intelligence](#-threat-intelligence)
+ - [Gaming Platforms](#-gaming-platforms)
  - [OSINT Videos](#-osint-videos)
  - [OSINT Blogs](#-osint-blogs)
  - [Other Resources](#-other-resources)
@@ -504,7 +505,6 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#-table-of-contents) Steam
 
 * [OSINT-Steam](https://osint-steam.vercel.app/en) - An [open-source](https://github.com/Berchez/OSINT-steam) tool that returns public information, such as friends list and possible locations, from Steam profiles.
-* [steam_monitor](https://github.com/misiektoja/steam_monitor) - Tool for real-time tracking of Steam players' gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
 
 ## [↑](#-table-of-contents) Blog Search
 
@@ -1507,6 +1507,13 @@ algorithms, knowledgebase and AI technology.
 * [onion-lookup](https://onion.ail-project.org/) - Free online service and API for checking the existence of Tor hidden services (.onion address) and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.
 * [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
+
+## [↑](#-table-of-contents) Gaming Platforms
+
+* [steam_monitor](https://github.com/misiektoja/steam_monitor) - Tool for real-time tracking of Steam players' gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
+* [psn_monitor](https://github.com/misiektoja/psn_monitor) - Tool for real-time tracking of Sony Playstation (PSN) players gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
+* [xbox_monitor](https://github.com/misiektoja/xbox_monitor) - Tool for real-time tracking of Xbox Live players gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
+* [lol_monitor](https://github.com/misiektoja/lol_monitor) - Tool for real-time tracking of LoL (League of Legends) players gaming activities including detection when a user starts or finishes a match with support for email alerts, CSV logging, playtime stats and more
 
 ## [↑](#-table-of-contents) OSINT Videos
 
