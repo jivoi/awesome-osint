@@ -486,8 +486,8 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) LinkedIn
 
-* 
-
+* [the-endorser](https://github.com/eth0izzle/the-endorser) - Tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
+* [LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Script to dump/scrape/extract company employees info from LinkedIn API.
 
 ### [↑](#-table-of-contents) Telegram
 * [GroupDa](https://groupda.com/telegram/group/search) - Can be used for Searching Telegram Channels. Search by Category, Countries and Language.
