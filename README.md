@@ -168,6 +168,7 @@ algorithms, knowledgebase and AI technology.
 * [Intelligence X](https://intelx.io/tools) - Paid OSINT Tool Allowing users to search for information across various sources including the dark web and public data leaks.
 * [Internet Archive](https://archive.org/)
 * [Islegitsite](https://www.islegitsite.com/) - Checks if a website is trustworthy by analyzing its reputation, domain, and security based on public sources.
+* [MalwareBazaar](https://bazaar.abuse.ch/browse/) - Search and download confirmed malware samples by hash, family, tag, and other criteria.
 * [Mamont](https://www.mmnt.ru/)
 * [Million Short](https://millionshort.com)
 * [Netlas.io](https://app.netlas.io/)
