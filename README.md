@@ -39,6 +39,7 @@ Happy hacking and hunting 🧙‍♂️
    - [LinkedIn](#-linkedin)
    - [Telegram](#-telegram)
    - [Steam](#-steam)
+   - [GitHub](#-github)
  - [Blog Search](#-blog-search)
  - [Forums and Discussion Boards Search](#-forums-and-discussion-boards-search)
  - [Username Check](#-username-check)
@@ -505,6 +506,10 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#-table-of-contents) Steam
 
 * [OSINT-Steam](https://osint-steam.vercel.app/en) - An [open-source](https://github.com/Berchez/OSINT-steam) tool that returns public information, such as friends list and possible locations, from Steam profiles.
+
+### [↑](#-table-of-contents) GitHub
+
+* [github_monitor](https://github.com/misiektoja/github_monitor) - Tool for real-time tracking of GitHub users' activities including profile and repository changes with support for email alerts, CSV logging, detection when a user blocks or unblocks you and more
 
 ## [↑](#-table-of-contents) Blog Search
 
