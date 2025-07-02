@@ -39,6 +39,7 @@ Happy hacking and hunting 🧙‍♂️
    - [LinkedIn](#-linkedin)
    - [Telegram](#-telegram)
    - [Steam](#-steam)
+   - [GitHub](#-github)
  - [Blog Search](#-blog-search)
  - [Forums and Discussion Boards Search](#-forums-and-discussion-boards-search)
  - [Username Check](#-username-check)
@@ -75,6 +76,7 @@ Happy hacking and hunting 🧙‍♂️
  - [Other Tools](#-other-tools)
  - [Threat Intelligence](#-threat-intelligence)
  - [Gaming Platforms](#-gaming-platforms)
+ - [Music Streaming Services](#-music-streaming-services)
  - [OSINT Videos](#-osint-videos)
  - [OSINT Blogs](#-osint-blogs)
  - [Other Resources](#-other-resources)
@@ -440,6 +442,7 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#-table-of-contents) Instagram
 
 * [Iconosquare](http://iconosquare.com)
+* [instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Tool for real-time tracking of Instagram users' activities and profile changes with support for email alerts, CSV logging, showing media in the terminal, anonymous story downloads and more
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 * [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) - Tool that maps your target’s Instagram data and relationships in Neo4j for social network analysis. 
 * [Picodash](https://www.picodash.com) - Find Instagram Target Audience and Influencers
@@ -487,8 +490,8 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) LinkedIn
 
-* 
-
+* [the-endorser](https://github.com/eth0izzle/the-endorser) - Tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
+* [LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Script to dump/scrape/extract company employees info from LinkedIn API.
 
 ### [↑](#-table-of-contents) Telegram
 * [GroupDa](https://groupda.com/telegram/group/search) - Can be used for Searching Telegram Channels. Search by Category, Countries and Language.
@@ -505,6 +508,10 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#-table-of-contents) Steam
 
 * [OSINT-Steam](https://osint-steam.vercel.app/en) - An [open-source](https://github.com/Berchez/OSINT-steam) tool that returns public information, such as friends list and possible locations, from Steam profiles.
+
+### [↑](#-table-of-contents) GitHub
+
+* [github_monitor](https://github.com/misiektoja/github_monitor) - Tool for real-time tracking of GitHub users' activities including profile and repository changes with support for email alerts, CSV logging, detection when a user blocks or unblocks you and more
 
 ## [↑](#-table-of-contents) Blog Search
 
@@ -1515,6 +1522,12 @@ algorithms, knowledgebase and AI technology.
 * [xbox_monitor](https://github.com/misiektoja/xbox_monitor) - Tool for real-time tracking of Xbox Live players gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
 * [lol_monitor](https://github.com/misiektoja/lol_monitor) - Tool for real-time tracking of LoL (League of Legends) players gaming activities including detection when a user starts or finishes a match with support for email alerts, CSV logging, playtime stats and more
 
+## [↑](#-table-of-contents) Music Streaming Services
+
+* [spotify_profile_monitor](https://github.com/misiektoja/spotify_profile_monitor) - Tool for real-time tracking of Spotify users' activities and profile changes, including playlists, with support for email alerts, CSV logging, showing media in the terminal, detection of profile picture changes and more
+* [spotify_monitor](https://github.com/misiektoja/spotify_monitor) - Tool for real-time tracking of Spotify friends' listening activity including detection when user gets online & offline, played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more
+* [lastfm_monitor](https://github.com/misiektoja/lastfm_monitor) - Tool for real-time tracking of Last.fm users' listening activity including detection when user gets online & offline, pauses or resumes playback, all played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more
+
 ## [↑](#-table-of-contents) OSINT Videos
 
 * [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
@@ -1541,7 +1554,8 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Other Resources
 
 * [Bellingcat's Online Investigation Toolkit](http://bit.ly/bcattools)
-* [Bellingcat Online Researcher Survey: Tool Wishes](https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit#gid=1378107220) — Wishlist of OSINT tools from a February Bellingcat survey. 
+* [Bellingcat Online Researcher Survey: Tool Wishes](https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit#gid=1378107220) — Wishlist of OSINT tools from a February Bellingcat survey.
+* [Cipherstick](https://cipherstick.tech) - Free OSINT Puzzles - No Account Needed!
 * [OSINT Dojo](https://www.osintdojo.com/resources/)
 * [OSINT Belarus](https://t.me/s/osintby)
 * [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
