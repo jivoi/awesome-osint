@@ -803,6 +803,7 @@ algorithms, knowledgebase and AI technology.
 * [IP Location.io](https://iplocation.io) - IPLocation.io allows you to check the location of an IP for free
 * [IPFingerprints](http://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
 * [IPVoid](http://www.ipvoid.com) - IP address toolset.
+* [ISP.Tools](https://www.isp.tools) - Is a free platform offering network diagnostic tools (ping, traceroute, MTR, DNS, WHOIS, HTTP, etc.) tailored for ISPs and infrastructure professionals.
 * [Kloth](http://www.kloth.net/services)
 * [Majestic](https://majestic.com) - Find out who links to your website.
 * [MaxMind](https://www.maxmind.com)
