@@ -451,6 +451,7 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#-table-of-contents) Pinterest
 
 * [Pingroupie](http://pingroupie.com)
+* [Pinterest Pin Stats](https://chromewebstore.google.com/detail/pinterest-pin-stats-sort/mcmkeopcpbfgjlakblglpcccpodbjkel) - Display hidden Pinterest stats for each pin.
 
 ### [↑](#-table-of-contents) Reddit
 
