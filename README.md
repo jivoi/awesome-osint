@@ -920,6 +920,7 @@ algorithms, knowledgebase and AI technology.
 * [EXIFEditor.io](https://exifeditor.io) - In-browser EXIF image metadata editor, viewer, and analysis tool.
 * [ExifLooter](https://github.com/aydinnyunus/exiflooter)
 * [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
+* [FilesMD](https://www.filesmd.com)
 * [Forensically](https://29a.ch/photo-forensics/)
 * [FotoForensics](http://www.fotoforensics.com)
 * [GeoSpy](https://geospy.web.app/) - AI based image osint tool
