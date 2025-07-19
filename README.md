@@ -121,6 +121,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Alleba (Philippines)](http://www.alleba.com) - Philippines search engine
 * [Baidu (China)](http://www.baidu.com) - The major search engine used in China
+* [Daum (South Korea)](https://www.daum.net/)
 * [Eniro (Sweden)](http://www.eniro.se)
 * [Goo (Japan)](http://www.goo.ne.jp)
 * [Najdsi (Slovenia)](http://www.najdi.si)
@@ -128,9 +129,11 @@ algorithms, knowledgebase and AI technology.
 * [Onet.pl (Poland)](http://www.onet.pl)
 * [Orange (France)](http://www.orange.fr)
 * [Parseek (Iran)](http://www.parseek.com)
+* [Parsijoo (Iran)](https://www.parsijoo.ir/)
 * [SAPO (Portugal)](http://www.sapo.pt)
 * [Search.ch (Switzerland)](http://www.search.ch)
 * [Seznam(Czech Republic)](https://seznam.cz)
+* [SoGou (China)](http://www.sogou.com/)
 * [Walla (Israel)](http://www.walla.co.il)
 * [Yandex (Russia)](http://www.yandex.com)
 * [Najdi.si (Slovenia)](http://www.najdi.si/)
