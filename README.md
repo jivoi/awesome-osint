@@ -264,9 +264,8 @@ algorithms, knowledgebase and AI technology.
 
 *Search for all kind of files.*
 
-*[eyedex](https://www.eyedex.org/) - Open directory search engine.
+* [eyedex](https://www.eyedex.org/) - Open directory search engine.
 * [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly available in a Google Drive.
-* [File Search Engine](https://www.filesearch.link/)
 * [FileListing](https://filelisting.com/)
 * [FilePursuit](https://filepursuit.com/)
 * [Meawfy](https://meawfy.com/) - Advanced Mega.nz File Search Engine. Search and discover files from Mega.nz with our intelligent crawler technology. Access over 9 million indexed files instantly.
@@ -321,10 +320,8 @@ algorithms, knowledgebase and AI technology.
 * [paste.centos](https://paste.centos.org)
 * [paste.debian](https://Paste.debian.net)
 * [paste.ee](https://Paste.ee)
-* [PasteFree.com](https://pastefree.com/) - Popular Paste and Share Site.
 * [paste.in.ua](https://paste.in.ua/) - Simple pastebin.
 * [paste.kde](https://Paste.kde.org)
-* [Pastelyst](https://paste.cutelyst.org/) - This site is intended for use as a short-term exchange of pasted information between parties. All publicly submitted data is considered public information. Submitted private and public data is not guaranteed to be permanent, and may be removed at any time.
 * [Paste.Monster](https://paste.monster/) - Share your thoughts online. API Available.
 * [paste.ubuntu](https://paste.ubuntu.com)
 * [Paste.Quest](https://pastequest.com/) - Copy and Paste text online to share with anyone anywhere. Use the password option to add a password to the pasted information.
@@ -352,6 +349,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Code Search
 
 *Search by website source code*
+
 * [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
 * [Code Finder](https://codefinder.dev/) - The ultimate search engine for finding GitHub repositories
 * [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
@@ -401,14 +399,12 @@ algorithms, knowledgebase and AI technology.
 * [Oblivion](https://github.com/loseys/Oblivion)
 * [OpinionCrawl](http://www.opinioncrawl.com)
 * [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
-* [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
 * [Rival IQ](https://www.rivaliq.com)
 * [Social DownORNot](http://social.downornot.com)
 * [Social Searcher](http://www.social-searcher.com)
 * [SocialBakers](http://www.socialbakers.com)
 * [SocialBlade](http://socialblade.com)
 * [Tagboard](https://tagboard.com)
-* [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
 * [UVRX](http://www.uvrx.com/social.html)
 * [WATools](https://watools.io/)
 
@@ -425,7 +421,6 @@ algorithms, knowledgebase and AI technology.
 * [Tagdef](https://tagdef.com)
 * [Trends24](http://trends24.in)
 * [TwChat](http://twchat.com)
-* [TweetDeck](https://www.tweetdeck.com)
 * [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 * [TweetMap](http://worldmap.harvard.edu/tweetmap)
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
@@ -451,7 +446,6 @@ algorithms, knowledgebase and AI technology.
 * [instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Tool for real-time tracking of Instagram users' activities and profile changes with support for email alerts, CSV logging, showing media in the terminal, anonymous story downloads and more
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 * [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) - Tool that maps your target’s Instagram data and relationships in Neo4j for social network analysis. 
-* [Picodash](https://www.picodash.com) - Find Instagram Target Audience and Influencers
 * [Sterra](https://github.com/novitae/sterraxcyl) - Instagram OSINT tool to export and analyse followers | following with their details
 * [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
 
@@ -547,10 +541,8 @@ algorithms, knowledgebase and AI technology.
 * [Built With Flarum](https://builtwithflarum.com/)
 * [Facebook Groups](https://www.facebook.com)
 * [Google Groups](https://groups.google.com)
-* [LinkBase](https://link-base.org/)
 * [Linkedin Groups](http://www.linkedin.com)
 * [Ning](http://www.ning.com)
-* [Xing Groups](https://www.xing.com/communities)
 * [Yahoo Groups](https://groups.yahoo.com)
 
 ## [↑](#-table-of-contents) Username Check
@@ -729,14 +721,12 @@ algorithms, knowledgebase and AI technology.
 * [GuideStar](http://www.guidestar.org)
 * [Hoovers](http://www.hoovers.com)
 * [Inc. 5000](http://www.inc.com/inc5000)
-* [iSpionage](https://www.ispionage.com)
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Knowledge guide to international company registration](http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
 * [Linkedin](https://www.linkedin.com) - Commonly used social-media platform with a focus on professional profiles and recruitment. Spans a wide variety of industries. Very useful for gathering information on what specific individuals are active within an entity.
 * [Mergent Intellect](http://www.mergentintellect.com)
 * [Mergent Online](http://www.mergentonline.com/login.php)
 * [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
-* [Notablist](https://www.notablist.com)
 * [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
 * [OpenOwnership Register](https://register.openownership.org/)
 * [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
@@ -835,7 +825,6 @@ algorithms, knowledgebase and AI technology.
 * [MaxMind](https://www.maxmind.com)
 * [MetaDefender](https://metadefender.com) - Threat analysis service for URLs, files, certificates, domains, and suspicious hashes.
 * [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
-* [Open Site Explorer](https://moz.com/researchtools/ose)
 * [OpenLinkProfiler](http://www.openlinkprofiler.org/)
 * [PageGlimpse](http://www.pageglimpse.com)
 * [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
@@ -974,7 +963,6 @@ algorithms, knowledgebase and AI technology.
 * [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
 * [Vimeo](https://vimeo.com)
 * [Yahoo Video Search](http://video.search.yahoo.com)
-* [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence)
 * [YouTube Geofind](https://mattw.io/youtube-geofind/)
 * [YouTube Metadata](https://mattw.io/youtube-metadata/)
 * [YouTube](https://www.youtube.com)
@@ -1017,7 +1005,6 @@ algorithms, knowledgebase and AI technology.
 * [SCIRP](http://www.scirp.org)
 * [Springer](http://link.springer.com)
 * [Taylor & Francis Online](http://www.tandfonline.com)
-* [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - The CCSB is a collection of bibliographies of scientific literature in computer science from various sources, covering most aspects of computer science.
 * [The Open Syllabus Project](http://opensyllabusproject.org/)
 * [Wiley](http://eu.wiley.com)
 * [World Digital Library](http://www.wdl.org)
@@ -1038,7 +1025,6 @@ algorithms, knowledgebase and AI technology.
 * [Colorbrewer](http://colorbrewer2.org)
 * [CrowdMap](https://crowdmap.com)
 * [CTLRQ Address Lookup](https://ctrlq.org/maps/address)
-* [Descartes Labs](https://maps.descarteslabs.com/)
 * [digiKam](https://www.digikam.org/)
 * [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html)
 * [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
@@ -1072,7 +1058,6 @@ algorithms, knowledgebase and AI technology.
 * [MapJam](http://mapjam.com)
 * [Mapline](https://mapline.com)
 * [Mapquest](https://www.mapquest.com)
-* [Maxar](https://discover.digitalglobe.com/)
 * [Modest Maps](http://modestmaps.com)
 * [NGA GEOINT](https://github.com/ngageoint)
 * [Open Street Map](http://www.openstreetmap.org)
@@ -1149,8 +1134,6 @@ algorithms, knowledgebase and AI technology.
 * [Flipboard](https://flipboard.com)
 * [Hubii](http://hubii.com)
 * [Inshorts](https://www.inshorts.com)
-* [News360](https://news360.com)
-* [NewsBot](https://getnewsbot.com)
 * [Newsinshorts](http://newsinshorts.com)
 * [Nod](http://get-nod.com)
 * [Reeder](http://reederapp.com)
@@ -1180,7 +1163,7 @@ algorithms, knowledgebase and AI technology.
 * [BP Statistical Review of World Energy](http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 * [Center for International Earth Science Information Network](http://www.ciesin.org)
 * [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp)
-* [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook)
+* [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
 * [Data.gov.uk](https://data.gov.uk)
 * [DBPedia](http://wiki.dbpedia.org)
 * [European Union Open Data Portal](http://open-data.europa.eu/en/data)
@@ -1302,7 +1285,6 @@ algorithms, knowledgebase and AI technology.
 * [Gnu Icecat](https://icecatbrowser.org/) - 
 * [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge)
 * [Firefox](https://www.mozilla.org)
-* [LibreWolf](https://librewolf.net/) - A custom version of Firefox, focused on privacy, security and freedom.
 * [Maxthon](http://www.maxthon.com)
 * [Opera](http://www.opera.com)
 * [Safari](http://www.apple.com/safari)
@@ -1469,7 +1451,7 @@ algorithms, knowledgebase and AI technology.
 * [Steganography Online Codec](https://www.pelock.com/products/steganography-online-codec)
 * [Surveilliance Self Defense](https://ssd.eff.org)
 * [Tails](https://tails.boum.org)
-* [Thunderbird](https://www.mozilla.org/en-US/thunderbird)
+* [Thunderbird](https://www.thunderbird.net/en-US/)
 * [Tor Project](https://www.torproject.org)
 * [uBlock Origin](https://github.com/gorhill/uBlock)
 * [Wickr](https://wickr.com)
@@ -1479,7 +1461,6 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) DNS
 * [Amass](https://github.com/owasp-amass/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
 * [Columbus Project](https://github.com/elmasy-com/columbus) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
-* [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting.
 * [Merklemap](https://www.merklemap.com/) - Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Works by ingesting certificate transparency logs.
 
 ## [↑](#-table-of-contents) Maritime
@@ -1498,14 +1479,12 @@ algorithms, knowledgebase and AI technology.
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 * [Discoshell](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 * [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
-* [DNSservices](https://github.com/0x4f53/dnsservices) - Discover embedded services in a domain's DNS records within seconds
 * [DuckDuckGo URL scraper](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
 * [Find osint tool](https://find.osint-tool.com) - Searches multiple OSINT tools to find information across various sources.
 * [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 * [Glit](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
 * [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.  
 * [Hunchly](https://www.hunch.ly/) - Hunchly is a web capture tool designed specifically for online investigations.
-* [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 * [LinkScope Client](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
 * [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
 * [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
@@ -1521,7 +1500,6 @@ algorithms, knowledgebase and AI technology.
 * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 * [Router Passwords](https://www.routerpasswords.com) - Online database of default router passwords.
-* [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 * [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports 10 API wrappers.
 * [SerpScan](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
 * [Sintelix](https://sintelix.com/) - Sintelix is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
@@ -1586,7 +1564,6 @@ algorithms, knowledgebase and AI technology.
 * [Cipherstick](https://cipherstick.tech) - Free OSINT Puzzles - No Account Needed!
 * [OSINT Dojo](https://www.osintdojo.com/resources/)
 * [OSINT Belarus](https://t.me/s/osintby)
-* [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
 * [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022.
 * [OSINT Updates - a free weekly newsletter for OSINTers](https://osintupdates.com/)
 
