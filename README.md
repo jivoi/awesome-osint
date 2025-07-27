@@ -264,12 +264,14 @@ algorithms, knowledgebase and AI technology.
 
 *Search for all kind of files.*
 
+*[eyedex](https://www.eyedex.org/) - Open directory search engine.
 * [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly available in a Google Drive.
 * [File Search Engine](https://www.filesearch.link/)
-
 * [FileListing](https://filelisting.com/)
 * [FilePursuit](https://filepursuit.com/)
+* [Meawfy](https://meawfy.com/) - Advanced Mega.nz File Search Engine. Search and discover files from Mega.nz with our intelligent crawler technology. Access over 9 million indexed files instantly.
 * [NAPALM FTP Indexer](https://www.searchftps.net/)
+* [ODCrawler](https://odcrawler.xyz/) - A search engine for open directories. Find millions of publicly available files!
 * [SearchFiles.de](https://searchfiles.de/)
 
 ## [↑](#-table-of-contents) Pastebins
