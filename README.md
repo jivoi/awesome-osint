@@ -491,6 +491,12 @@ algorithms, knowledgebase and AI technology.
 * [VK People Search](http://vk.com/people)
 * [VK.watch](https://vk.watch/)
 
+### [↑](#-table-of-contents) WhatsApp
+
+*[2Chat](https://2chat.co/tools/whatsapp-checker) - Check if a number is on WhatsApp.
+*[Groupio](https://en.groupio.app/) - Find and search WhatsApp groups.
+*[Whatsapp CheckLeaked](https://whatsapp.checkleaked.cc/) - WhatsApp Number Search & Profile Photo Checker. API Option Available.
+
 ### [↑](#-table-of-contents) Tumblr
 
 * [Tumblr Search](http://www.tumblr.com/search)
