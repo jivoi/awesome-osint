@@ -15,6 +15,7 @@ Happy hacking and hunting 🧙‍♂️
  - [General Search](#-general-search)
  - [Main National Search Engines](#-main-national-search-engines)
  - [Meta Search](#-meta-search)
+ - [Privacy Focused Search Engines](#-privacy-focused-search-engines)
  - [Specialty Search Engines](#-specialty-search-engines)
  - [Dark Web Search Engines](#-dark-web-search-engines)
  - [Visual Search and Clustering Search Engines](#-visual-search-and-clustering-search-engines)
@@ -102,7 +103,6 @@ Thanks to our main contributors
 * [Ask](https://www.ask.com) - Ask something and get a answer.
 * [Bing](https://www.bing.com) - Microsoft´s search engine.
 * [Brave](https://search.brave.com) - a private, independent, and transparent search engine.
-* [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
 * [Goodsearch](https://www.goodsearch.com) - a search engine for shopping deals online.
 * [Google Search](https://www.google.com) - Most popular search engine.
 * [Instya](https://www.instya.com) -  You can searching shopping sites, dictionaries, answer sites, news, images, videos and much more.
@@ -151,6 +151,22 @@ algorithms, knowledgebase and AI technology.
 * [Myallsearch](http://www.myallsearch.com)
 * [Qwant](http://www.qwant.com) - French search engine that relies on Microsoft Bing.
 * [Swisscows](https://swisscows.com/)
+
+## [↑](#-table-of-contents) Privacy Focused Search Engines
+
+*Search engines that focuses on anonymization,privacy.*
+  
+* [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
+* [Disconnect Search](https://search.disconnect.me/) - Stop search engines from tracking your searches.
+* [Gibiru](https://gibiru.com/) - Gibiru provides “uncensored search results” without collecting personal data like logging users’ IP addresses or search queries.
+* [Kagi Search](https://kagi.com/) - Liberate your search. Free of ads. Free of surveillance. Your time respected. You are the customer, never the product.
+* [Mojeek](https://www.mojeek.com/) - Mojeek is a growing independent search engine which does not track you.
+* [Presearch](https://presearch.com/) - Presearch is a decentralized, community-driven search engine that protects your privacy and rewards you when you search.
+* [Qwant](https://www.qwant.com/) - The search engine that respects your privacy.
+* [Search Encrypt](https://www.searchencrypt.com/home) - A search engine that uses local encryption to protect users’ search data.
+* [Startpage](https://www.startpage.com/) - The world’s most private search engine.
+* [swisscows](https://swisscows.com/en) - Anonymous search engine, a family-friendly, privacy-focused search engine based in Switzerland.
+
 
 ## [↑](#-table-of-contents) Speciality Search Engines
 
