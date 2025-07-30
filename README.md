@@ -1586,6 +1586,7 @@ algorithms, knowledgebase and AI technology.
 * [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
 * [SecLists](https://github.com/danielmiessler/SecLists) by @danielmiessler
 * [security-list](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
+* [awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) by @ai-for-developers
 
 ## License
 
