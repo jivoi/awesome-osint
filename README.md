@@ -444,7 +444,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Iconosquare](http://iconosquare.com)
 * [instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Tool for real-time tracking of Instagram users' activities and profile changes with support for email alerts, CSV logging, showing media in the terminal, anonymous story downloads and more
-* [InstagramPrivSniffer](https://github.com/obitouka/InstagramPrivSniffer) - Views Instagram PRIVATE ACCOUNT'S media without login.
+* [InstagramPrivSniffer](https://github.com/obitouka/InstagramPrivSniffer) - Views Instagram PRIVATE ACCOUNT'S media without login 😱.
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 * [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) - Tool that maps your target’s Instagram data and relationships in Neo4j for social network analysis. 
 * [Sterra](https://github.com/novitae/sterraxcyl) - Instagram OSINT tool to export and analyse followers | following with their details
