@@ -186,6 +186,7 @@ algorithms, knowledgebase and AI technology.
 * [WIPO](https://www3.wipo.int/branddb/en/)
 * [WorldWideScience.org](http://worldwidescience.org)
 * [Wpscan](https://wpscan.com) - Scan your WordPress site and get an instant report on its security.
+* [YARAif](https://yaraify.abuse.ch/scan/) - Collaborative YARA engine providing open threat intelligence through file pattern matching.
 * [Zanran](http://zanran.com)
 
 ## [↑](#-table-of-contents) Dark Web Search Engines Search Engines
