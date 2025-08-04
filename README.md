@@ -268,6 +268,7 @@ algorithms, knowledgebase and AI technology.
 * [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly available in a Google Drive.
 * [FileListing](https://filelisting.com/)
 * [FilePursuit](https://filepursuit.com/)
+* [Filesec.io](https://filesec.io/) - Central resource cataloging malicious file extensions, their risks, OS and mitigations.
 * [Meawfy](https://meawfy.com/) - Advanced Mega.nz File Search Engine. Search and discover files from Mega.nz with our intelligent crawler technology. Access over 9 million indexed files instantly.
 * [NAPALM FTP Indexer](https://www.searchftps.net/)
 * [ODCrawler](https://odcrawler.xyz/) - A search engine for open directories. Find millions of publicly available files!
