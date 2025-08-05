@@ -1536,6 +1536,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Threat Intelligence
 
+* [CTI Stuffs](https://github.com/spmedia/CTI-Stuffs) - A collection of fresh intel scraped from various cybercrime sources & forums.
 * [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
 * [OnionScan](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 * [onion-lookup](https://onion.ail-project.org/) - Free online service and API for checking the existence of Tor hidden services (.onion address) and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.
