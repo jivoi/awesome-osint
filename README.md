@@ -971,6 +971,7 @@ algorithms, knowledgebase and AI technology.
 * [Deturl](http://deturl.com) - Download a YouTube video from any web page.
 * [DownloadHelper](http://www.downloadhelper.net) - Download any video from any websites, it just works!
 * [Earthcam](http://www.earthcam.com) - EarthCam is the leading network of live streaming webcams for tourism and entertainment.
+* [ReelTime AI](https://reeltime-ai.com/) - Instantly search YouTube video transcripts by keyword. Get direct clicable timestamps to exact spoken moments in videos.
 * [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 * [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
 * [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh/) - Browser plugin that allows you to watch YouTube videos frame by frame.
