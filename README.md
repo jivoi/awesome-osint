@@ -1504,7 +1504,8 @@ algorithms, knowledgebase and AI technology.
 * [Find osint tool](https://find.osint-tool.com) - Searches multiple OSINT tools to find information across various sources.
 * [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 * [Glit](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
-* [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.  
+* [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
+* [IntelHub](https://github.com/tomsec8/IntelHub) – Browser-based open-source OSINT extension. All analysis runs locally (no servers). Features include text profiler, metadata analyzer, site & archive analysis, reverse image search, crypto/telegram analyzers.
 * [Hunchly](https://www.hunch.ly/) - Hunchly is a web capture tool designed specifically for online investigations.
 * [LinkScope Client](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
 * [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
