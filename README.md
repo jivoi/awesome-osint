@@ -13,6 +13,7 @@ Happy hacking and hunting 🧙‍♂️
 ## 📖 Table of Contents
 
  - [General Search](#-general-search)
+ - [Google Dorks](#-google-dorks-tools)
  - [Main National Search Engines](#-main-national-search-engines)
  - [Meta Search](#-meta-search)
  - [Privacy Focused Search Engines](#-privacy-focused-search-engines)
@@ -114,6 +115,13 @@ Thanks to our main contributors
 algorithms, knowledgebase and AI technology.
 * [Yahoo! Search](https://www.yahoo.com) -  The search engine that helps you find exactly what you're looking for.
 * [YOU](https://you.com) - AI search engine.
+
+## [↑](#-google-dorks-tools) Google Dorks Tools
+
+*Google Dorks Tools*
+
+*[DorkGenius](https://dorkgenius.com/) - DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. - Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web.
+*[DorkGPT](https://www.dorkgpt.com/) - Generate Google Dorks with AI.
 
 ## [↑](#-table-of-contents) Main National Search Engines
 
