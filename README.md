@@ -695,6 +695,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Vehicle / Automobile Research
 
+* [Carvia.ai](https://carvia.ai) - AI-assisted VIN decoding and vehicle-history lookups using public data to help investigate a car quickly.
 * [FaxVIN](https://www.faxvin.com/) - Vehicle History Reports. A license plate lookup tool that returns info like VIN, make & model of vehicle, age, and numerous other details. 
 * [EpicVIN](https://epicvin.com/) - Vehicle reports are compiled from various data sources, including historical accident records from state agencies and other entities like NMVTIS. License plate lookup that returns VIN and car millage.
 
