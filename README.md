@@ -869,6 +869,7 @@ algorithms, knowledgebase and AI technology.
 * [RedirectDetective](http://redirectdetective.com)
 * [Remote DNS Lookup](https://remote.12dt.com)
 * [Robtex](https://www.robtex.com) - is an IP address and domain name based researching websites that offers multiple services such as Reverse DNS Lookup, Whois, and AS Macros.
+* [S4E.io](https://s4e.io) - Free online tools for domain, IP, and website security analysis. Includes WHOIS lookup, DNS checks and vulnerability scanning.
 * [SameID](http://sameid.net)
 * [SecurityTrails](https://securitytrails.com/dns-trails) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
 * [SubDomainRadar.io](https://subdomainradar.io) - Fast subdomain finder with multiple search modes and the most extensive data sources, offering real-time notifications.
