@@ -1070,6 +1070,7 @@ algorithms, knowledgebase and AI technology.
 * [Esri](http://www.esri.com)
 * [Flash Earth](http://www.flashearth.com)
 * [GeoGig](http://geogig.org)
+* [GeoInfer](https://geoinfer.com) - Image geolocation tool, no EXIF data required.
 * [GeoNames](http://www.geonames.org)
 * [Google Earth Pro](https://www.google.com/intl/en/earth/versions/#earth-pro)
 * [Google Earth](http://www.google.com/earth)
