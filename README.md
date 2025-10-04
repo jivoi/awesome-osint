@@ -905,6 +905,7 @@ algorithms, knowledgebase and AI technology.
 * [WhoisMind](http://www.whoismind.com)
 * [Whoisology](https://whoisology.com)
 * [WhoIsRequest](http://whoisrequest.com)
+* [WhoIsXML](https://whois.whoisxmlapi.com/lookup) - Performs WHOIS lookups to display domain registration information.
 * [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
 * [You Get Signal](http://www.yougetsignal.com)
 
