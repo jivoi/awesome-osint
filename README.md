@@ -295,7 +295,7 @@ algorithms, knowledgebase and AI technology.
 
 *Search for all kind of files.*
 
-* [Cerast Intelligence](https://cerast-intelligence.com/) - Leaked Files Search like .Env,Databses, Configs and more.
+* [Cerast Intelligence](https://cerast-intelligence.com/) - Leaked Files Search like .Env, Databases, Configs and more.
 * [eyedex](https://www.eyedex.org/) - Open directory search engine.
 * [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly available in a Google Drive.
 * [FileListing](https://filelisting.com/)
