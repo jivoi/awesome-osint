@@ -1173,7 +1173,6 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) News Digest and Discovery Tools
 
 * [Flipboard](https://flipboard.com)
-* [Hubii](http://hubii.com)
 * [Inshorts](https://www.inshorts.com)
 * [Newsinshorts](http://newsinshorts.com)
 * [Nod](http://get-nod.com)
