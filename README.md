@@ -1556,7 +1556,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Threat Intelligence
 
-* [CTI Stuffs](https://github.com/spmedia/CTI-Stuffs) - A collection of fresh intel scraped from various cybercrime sources & forums.
+* [Threat Actor Usernames Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and threat actor usernames scraped from various cybercrime sources & forums.
 * [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
 * [OnionScan](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 * [onion-lookup](https://onion.ail-project.org/) - Free online service and API for checking the existence of Tor hidden services (.onion address) and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.
@@ -1566,16 +1566,16 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Gaming Platforms
 
-* [steam_monitor](https://github.com/misiektoja/steam_monitor) - Tool for real-time tracking of Steam players' gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
-* [psn_monitor](https://github.com/misiektoja/psn_monitor) - Tool for real-time tracking of Sony Playstation (PSN) players gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
-* [xbox_monitor](https://github.com/misiektoja/xbox_monitor) - Tool for real-time tracking of Xbox Live players gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
 * [lol_monitor](https://github.com/misiektoja/lol_monitor) - Tool for real-time tracking of LoL (League of Legends) players gaming activities including detection when a user starts or finishes a match with support for email alerts, CSV logging, playtime stats and more
+* [psn_monitor](https://github.com/misiektoja/psn_monitor) - Tool for real-time tracking of Sony Playstation (PSN) players gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
+* [steam_monitor](https://github.com/misiektoja/steam_monitor) - Tool for real-time tracking of Steam players' gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
+* [xbox_monitor](https://github.com/misiektoja/xbox_monitor) - Tool for real-time tracking of Xbox Live players gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
 
 ## [↑](#-table-of-contents) Music Streaming Services
 
+* [lastfm_monitor](https://github.com/misiektoja/lastfm_monitor) - Tool for real-time tracking of Last.fm users' listening activity including detection when user gets online & offline, pauses or resumes playback, all played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more
 * [spotify_profile_monitor](https://github.com/misiektoja/spotify_profile_monitor) - Tool for real-time tracking of Spotify users' activities and profile changes, including playlists, with support for email alerts, CSV logging, showing media in the terminal, detection of profile picture changes and more
 * [spotify_monitor](https://github.com/misiektoja/spotify_monitor) - Tool for real-time tracking of Spotify friends' listening activity including detection when user gets online & offline, played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more
-* [lastfm_monitor](https://github.com/misiektoja/lastfm_monitor) - Tool for real-time tracking of Last.fm users' listening activity including detection when user gets online & offline, pauses or resumes playback, all played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more
 
 ## [↑](#-table-of-contents) OSINT Videos
 
@@ -1588,17 +1588,17 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) OSINT Blogs
 
 * [Bellingcat](https://www.bellingcat.com/)
-* [NixIntel](https://nixintel.info/)
-* [Social Links](https://blog.sociallinks.io/)
 * [eInvestigator](https://www.einvestigator.com/)
-* [OSINT Techniques](https://www.osinttechniques.com/blog)
 * [IntelTechniques](https://inteltechniques.com/)
+* [NixIntel](https://nixintel.info/)
+* [OSINT Techniques](https://www.osinttechniques.com/blog)
+* [OSINT Ambition Publication](https://publication.osintambition.org/)
+* [OSINT Team](https://www.osintteam.com/)
 * [OSINTCurious](https://osintcurio.us/)
 * [Sector035](https://sector035.nl/)
 * [Skopenow](https://www.skopenow.com/news)
 * [Sleuth For The Truth](http://sleuthforthetruth.com/)
-* [OSINT Ambition Publication](https://publication.osintambition.org/)
-* [OSINT Team](https://www.osintteam.com/)
+* [Social Links](https://blog.sociallinks.io/)
 
 ## [↑](#-table-of-contents) Other Resources
 
