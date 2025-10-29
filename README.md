@@ -1610,6 +1610,7 @@ algorithms, knowledgebase and AI technology.
 * [OSINT Belarus](https://t.me/s/osintby)
 * [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022.
 * [OSINT Updates - a free weekly newsletter for OSINTers](https://osintupdates.com/)
+* [pwn.guide](https://pwn.guide) - Learn OSINT and things like web, hardware, radio (SDR)... hacking, forensics, defense, certification training... from more than 150+ tutorials. Offers free & paid plans (monthly, yearly & lifetime - crypto accepted).
 
 ## [↑](#-table-of-contents) Related Awesome Lists
 
