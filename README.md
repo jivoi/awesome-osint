@@ -193,10 +193,13 @@ algorithms, knowledgebase and AI technology.
 * [CiteSeerX](http://citeseer.ist.psu.edu)
 * [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform 
 * [CRT Certificate Search](https://crt.sh) - Allows you to search for public SSL/TLS certificates recorded in Certificate Transparency logs
-* [Fofa](https://en.fofa.info/) - Asset search and analysis tool.
+* [FOFA](https://en.fofa.info/) - Asset search and analysis tool.
+* [FullHunt](https://fullhunt.io/) -FullHunt identifies and secures your External Attack Surface.
 * [Google Custom Search](http://www.google.com/cse)
 * [GrayhatWarfare](https://grayhatwarfare.com/) - Searches and indexes open Amazon S3 buckets, allowing users to find and explore potentially exposed data.
-* [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified) 
+* [GreyNoise](https://viz.greynoise.io/) - Search Exposed Internet assets, Malicious IP's.
+* [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
+* [Hunter Search Engine](https://hunter.how/) - Search Exposed Internet assets, open web directories and many more.
 * [Intelligence X](https://intelx.io/tools) - Paid OSINT Tool Allowing users to search for information across various sources including the dark web and public data leaks.
 * [Internet Archive](https://archive.org/)
 * [Islegitsite](https://www.islegitsite.com/) - Checks if a website is trustworthy by analyzing its reputation, domain, and security based on public sources.
@@ -214,8 +217,9 @@ algorithms, knowledgebase and AI technology.
 * [Wpscan](https://wpscan.com) - Scan your WordPress site and get an instant report on its security.
 * [YARAif](https://yaraify.abuse.ch/scan/) - Collaborative YARA engine providing open threat intelligence through file pattern matching.
 * [Zanran](http://zanran.com)
+* [ZoomEye](https://www.zoomeye.ai/) - ZoomEye is a cyberspace search engine for IPs, domains, internet asset discovery, and exposure analysis of servers, routers, and webcams.
 
-## [↑](#-table-of-contents) Dark Web Search Engines Search Engines
+## [↑](#-table-of-contents) Dark Web Search Engines
 * [Ahmia](https://ahmia.fi)
 * [Aleph Open Search](https://open-search.aleph-networks.eu)
 
