@@ -17,6 +17,7 @@ Happy hacking and hunting 🧙‍♂️
  - [Main National Search Engines](#-main-national-search-engines)
  - [Meta Search](#-meta-search)
  - [Privacy Focused Search Engines](#-privacy-focused-search-engines)
+ - [Data Breach Search Engines](#-databreach-search-engines)
  - [Specialty Search Engines](#-specialty-search-engines)
  - [Dark Web Search Engines](#-dark-web-search-engines)
  - [Visual Search and Clustering Search Engines](#-visual-search-and-clustering-search-engines)
@@ -176,6 +177,16 @@ algorithms, knowledgebase and AI technology.
 * [Startpage](https://www.startpage.com/) - The world’s most private search engine.
 * [swisscows](https://swisscows.com/en) - Anonymous search engine, a family-friendly, privacy-focused search engine based in Switzerland.
 
+## [↑](#-table-of-contents) Data Breach Search Engines
+
+*Search engines that can be used to check if your data's been breached*
+
+* [CredenShow](https://credenshow.com/) - Identify your compromised credentials before others do.
+* [HIB Ransomed](https://haveibeenransom.com/) - Because people have the right to know if their data has been leaked.
+* [HEROIC.NOW](https://heroic.com/) - Has your data been leaked on the dark web? Scan your identities for FREE.
+* [IKnowYour.Dad](https://iknowyour.dad/) - Data Breach Search Engine.
+* [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
+* [Venacus](https://venacus.com/) - Search for your data breaches and get notified when your data is compromised.
 
 ## [↑](#-table-of-contents) Speciality Search Engines
 
