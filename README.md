@@ -650,6 +650,7 @@ algorithms, knowledgebase and AI technology.
 * [Socialcatfish](https://socialcatfish.com/) - Superextensive people search which works worldwide. Searches are done from 200 Billion records.
 * [SearchBug](http://www.searchbug.com) - People search. Limited free info, premium data upsell.
 * [Spokeo](http://www.spokeo.com) - People search. Limited free info, premium data upsell.
+* [Surfface](https://surfface.com) - Face search and people finder that links faces to social media profiles and other public data.
 * [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [UK Phone Book](https://www.ukphonebook.com/) - Search people in a similar way as 192.com
@@ -975,7 +976,8 @@ algorithms, knowledgebase and AI technology.
 * [PicTriev](http://www.pictriev.com) - a face search engine.
 * [PimEyes](https://pimeyes.com) - an online face search engine that goes through the Internet to find pictures containing given faces.
 * [Pixsy](https://www.pixsy.com/) - Take back control of your images. See where & how your images are being used online!
-* [Search4faces](https://search4faces.com/) - a service for searching people on the Internet by photo. 
+* [Search4faces](https://search4faces.com/) - a service for searching people on the Internet by photo.
+* [Surfface](https://surfface.com) - face search and people finder indexing social profiles and public images from social media and the web.
 * [TinEye](https://tineye.com) - Reverse image search engine.
 * [Yahoo Image Search](https://images.search.yahoo.com)
 * [Yandex Images](https://www.yandex.com/images)
