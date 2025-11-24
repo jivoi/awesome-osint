@@ -692,6 +692,7 @@ algorithms, knowledgebase and AI technology.
 * [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
 * [Verify Email](http://verify-email.org) - The fastest and most accurate email verification tool.
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
+* [LeakNix](https://leaknix.com) - Real-time data breach scanner and 24x7 monitoring for leaked emails and passwords.
 
 ## [↑](#-table-of-contents) Phone Number Research
 
