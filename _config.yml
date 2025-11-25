@@ -1,1 +1,45 @@
-theme: jekyll-theme-hacker
+# Site Configuration
+title: Awesome OSINT
+description: A curated list of amazingly awesome open source intelligence tools and resources
+url: https://jivoi.github.io
+# baseurl: /awesome-osint  # Uncomment for GitHub Pages, leave empty for local dev
+baseurl: ""
+
+# Jekyll Configuration
+# theme: jekyll-theme-hacker  # Not used - we have custom layouts
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
+  - CONTRIBUTING.md
+  - LICENSE.txt
+  - README-SITE.md
+
+# Kramdown options
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Site author
+author:
+  name: Awesome OSINT Community
+  github: jivoi
+
+# Social links
+github_username: jivoi
+github_repo: awesome-osint
+
+# Build settings
+sass:
+  style: compressed
