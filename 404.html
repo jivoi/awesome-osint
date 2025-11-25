@@ -1,0 +1,61 @@
+---
+layout: default
+title: 404 - Page non trouvée
+---
+
+<div class="content-section">
+    <div class="container">
+        <article class="main-article" style="text-align: center; padding: 4rem 2rem;">
+            <div class="error-404">
+                <h1 style="font-size: 6rem; margin-bottom: 1rem; color: var(--primary-color);">404</h1>
+                <h2 style="margin-bottom: 1rem; border: none; padding: 0;">Page non trouvée</h2>
+                <p style="color: var(--text-secondary); margin-bottom: 2rem; font-size: 1.1rem;">
+                    Désolé, la page que vous recherchez n'existe pas ou a été déplacée.
+                </p>
+                <div class="error-actions">
+                    <a href="{{ '/' | relative_url }}" class="cta-button">
+                        <i class="fas fa-home"></i> Retour à l'accueil
+                    </a>
+                    <a href="https://github.com/jivoi/awesome-osint" class="cta-button-secondary" target="_blank" rel="noopener noreferrer">
+                        <i class="fab fa-github"></i> Voir sur GitHub
+                    </a>
+                </div>
+            </div>
+        </article>
+    </div>
+</div>
+
+<style>
+.error-404 {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.error-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.cta-button-secondary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 1rem 2rem;
+    background: var(--bg-secondary);
+    color: var(--text-primary);
+    text-decoration: none;
+    border-radius: var(--radius);
+    font-weight: 600;
+    transition: var(--transition);
+    border: 2px solid var(--border-color);
+}
+
+.cta-button-secondary:hover {
+    background: var(--bg-tertiary);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+</style>
+

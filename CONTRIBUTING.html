@@ -1,0 +1,61 @@
+---
+layout: default
+title: Contributing
+---
+
+<div class="content-section">
+    <div class="container">
+        <article class="main-article">
+            <h1>Guide de Contribution</h1>
+            
+            {% capture contributing_content %}{% include_relative CONTRIBUTING.md %}{% endcapture %}
+            {{ contributing_content | markdownify }}
+            
+            <div class="contribution-cta">
+                <h2>Prêt à contribuer ?</h2>
+                <p>Merci de votre intérêt pour améliorer cette liste !</p>
+                <a href="https://github.com/jivoi/awesome-osint" class="cta-button" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-github"></i> Ouvrir une Pull Request
+                </a>
+            </div>
+        </article>
+    </div>
+</div>
+
+<style>
+.contribution-cta {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: var(--bg-secondary);
+    border-radius: var(--radius-lg);
+    text-align: center;
+    border: 1px solid var(--border-color);
+}
+
+.contribution-cta h2 {
+    margin-bottom: 1rem;
+    border: none;
+    padding: 0;
+}
+
+.cta-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 1rem 2rem;
+    background: var(--primary-color);
+    color: white;
+    text-decoration: none;
+    border-radius: var(--radius);
+    font-weight: 600;
+    transition: var(--transition);
+    margin-top: 1rem;
+}
+
+.cta-button:hover {
+    background: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
+}
+</style>
+
