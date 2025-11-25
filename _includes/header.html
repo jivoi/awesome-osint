@@ -1,0 +1,35 @@
+<header class="site-header">
+    <div class="container">
+        <div class="header-content">
+            <div class="logo-section">
+                <a href="{{ '/' | relative_url }}" class="logo-link">
+                    <img src="{{ '/osint_logo.png' | relative_url }}" alt="OSINT Logo" class="logo-img">
+                    <h1 class="site-title">Awesome OSINT</h1>
+                </a>
+            </div>
+            <div class="header-actions">
+                <div class="search-container">
+                    <i class="fas fa-search search-icon"></i>
+                    <input type="text" id="search-input" class="search-input" placeholder="Rechercher des outils...">
+                    <button id="search-clear" class="search-clear" style="display: none;">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <a href="https://github.com/jivoi/awesome-osint" class="github-link" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                    <i class="fab fa-github"></i>
+                    <span class="github-text">GitHub</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="search-results" id="search-results" style="display: none;">
+    <div class="container">
+        <div class="search-results-content">
+            <h2 id="search-results-title">Résultats de recherche</h2>
+            <div id="search-results-list"></div>
+        </div>
+    </div>
+</div>
+

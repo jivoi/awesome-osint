@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}Awesome OSINT</title>
+    <meta name="description" content="A curated list of amazingly awesome open source intelligence tools and resources.">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="{{ '/osint_logo.png' | relative_url }}">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    
+    <!-- Marked.js for markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    {% include header.html %}
+    
+    <main class="main-content">
+        {{ content }}
+    </main>
+    
+    {% include footer.html %}
+    
+    <!-- Scripts -->
+    <script src="{{ '/assets/js/readme-loader.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>
+
