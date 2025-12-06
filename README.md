@@ -23,7 +23,6 @@ Happy hacking and hunting 🧙‍♂️
  - [Visual Search and Clustering Search Engines](#-visual-search-and-clustering-search-engines)
  - [Similar Sites Search](#-similar-sites-search)
  - [Document and Slides Search](#-document-and-slides-search)
- - [Digital FootPrint Tools](#-digital-footprint-tools)
  - [Threat Actor Search](#-threat-actor-search)
  - [Live Cyber Attack Maps](#-live-cyberthreat-maps)
  - [File Search](#-file-search)
@@ -121,9 +120,9 @@ algorithms, knowledgebase and AI technology.
 
 *Google Dorks Tools*
 
-*[DorkGenius](https://dorkgenius.com/) - DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. - Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web.
-*[DorkGPT](https://www.dorkgpt.com/) - Generate Google Dorks with AI.
-*[SearchDorks](https://kriztalz.sh/search-dorks/) - Generate Search Engine (Google, FOFA, Shodan, Censys, ZoomEye) Dorks using AI.
+* [DorkGenius](https://dorkgenius.com/) - DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. - Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web.
+* [DorkGPT](https://www.dorkgpt.com/) - Generate Google Dorks with AI.
+* [SearchDorks](https://kriztalz.sh/search-dorks/) - Generate Search Engine (Google, FOFA, Shodan, Censys, ZoomEye) Dorks using AI.
 
 ## [↑](#-table-of-contents) Main National Search Engines
 
@@ -173,7 +172,6 @@ algorithms, knowledgebase and AI technology.
 * [Mojeek](https://www.mojeek.com/) - Mojeek is a growing independent search engine which does not track you.
 * [Presearch](https://presearch.com/) - Presearch is a decentralized, community-driven search engine that protects your privacy and rewards you when you search.
 * [Qwant](https://www.qwant.com/) - The search engine that respects your privacy.
-* [Search Encrypt](https://www.searchencrypt.com/home) - A search engine that uses local encryption to protect users’ search data.
 * [Startpage](https://www.startpage.com/) - The world’s most private search engine.
 * [swisscows](https://swisscows.com/en) - Anonymous search engine, a family-friendly, privacy-focused search engine based in Switzerland.
 
@@ -257,13 +255,6 @@ algorithms, knowledgebase and AI technology.
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
 * [Scribd](http://www.scribd.com)
 * [SlideShare](http://www.slideshare.net)
-
-## [↑](#-digital-footprint-tools)  Digital Footprint Tools
-
-*Analyze your Digital Footprints on the internet.*
-
-* [Mine](https://www.saymine.com/mineapp) - Mine allows you to discover where your personal data is, and reduce your online exposure to minimize digital risks.
-* [Yorba](https://yorba.co/) - Yorba helps you regain control of your digital life. We find and delete old accounts, cancel unwanted subscriptions, and unsubscribe you from emails you never open—making your inbox cleaner, your footprint leaner, your privacy stronger.
 
 ## [↑](#-threat-actor-search) Threat Actor Search
 
@@ -368,7 +359,6 @@ algorithms, knowledgebase and AI technology.
 * [Paste.Cash](https://www.paste.cash/) - Paste.CASH Is a privacy respected and encrypted pastebin hosted by Cash Hosting. Every paste are encrypted using 256 bits AES.
 * [paste.centos](https://paste.centos.org)
 * [paste.debian](https://Paste.debian.net)
-* [paste.ee](https://Paste.ee)
 * [paste.in.ua](https://paste.in.ua/) - Simple pastebin.
 * [paste.kde](https://Paste.kde.org)
 * [Paste.Monster](https://paste.monster/) - Share your thoughts online. API Available.
@@ -741,7 +731,6 @@ algorithms, knowledgebase and AI technology.
 * [Peepmail](http://www.samy.pl/peepmail) - is a tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
 * [Pipl](https://pipl.com) - a provider of identity solutions.
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
-* [Secureito](https://www.secureito.com) - Secureito detects data breaches involving your email and suggests protection measures.
 * [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
 * [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 * [Spamhaus](https://check.spamhaus.org/) - Lookup Reputation Checker.
@@ -776,7 +765,6 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Expert Search
 
 * [Academia](http://academia.edu) - is a platform for sharing academic research.
-* [CanLaw](http://www.canlaw.com)
 * [ExpertiseFinder](http://www.expertisefinder.com)
 * [ExpertPages](http://expertpages.com)
 * [Experts.com](http://www.experts.com)
@@ -795,7 +783,6 @@ algorithms, knowledgebase and AI technology.
 * [PRNewswire](https://prnmedia.prnewswire.com)
 * [ReseacherID](http://www.researcherid.com)
 * [SheSource](http://www.shesource.org)
-* [Speakezee](https://www.speakezee.org)
 * [Sources](http://www.sources.com)
 * [TRExpertWitness](https://trexpertwitness.com)
 * [Zintro](https://www.zintro.com)
