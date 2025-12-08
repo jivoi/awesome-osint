@@ -1592,6 +1592,7 @@ algorithms, knowledgebase and AI technology.
 * [LinkScope Client](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
 * [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
 * [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
+* [Mozilla HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Observatory⁩ enhances web security by analyzing compliance with best security practices.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
