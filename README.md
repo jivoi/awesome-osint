@@ -929,6 +929,7 @@ algorithms, knowledgebase and AI technology.
 * [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
 * [PhishStats](https://phishstats.info/)
 * [Pulsedive](https://pulsedive.com)
+* [Qualys SSL Check](https://www.ssllabs.com/ssltest/) - SSL Test configuration compliance.
 * [Quantcast](https://www.quantcast.com)
 * [Quick Sprout](https://www.quicksprout.com)
 * [RedirectDetective](http://redirectdetective.com)
