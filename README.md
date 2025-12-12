@@ -615,7 +615,6 @@ algorithms, knowledgebase and AI technology.
 * [TuriBot](https://t.me/TuriBot) — Resolves username from Telegram ID.
 * [Unamer](https://telegram.me/unamer_bot) — Username ownership history.
 * [username_to_id_bot](https://t.me/username_to_id_bot) — Returns user/chat/channel/bot ID.
-* [user-scanner](https://github.com/kaifcodec/user-scanner.git) — Check a username's presence across dev/social/gaming/creator site
 * [UsInfoBot](https://t.me/usinfobot) — Resolves username from ID (inline).
 * [WhoisDomBot](https://t.me/WhoisDomBot) — Whois lookup for domains/IPs + dig/trace.
 
