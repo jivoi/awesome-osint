@@ -1054,6 +1054,7 @@ algorithms, knowledgebase and AI technology.
 * [Clip Blast](http://www.clipblast.com)
 * [DailyMotion](http://www.dailymotion.com)
 * [Deturl](http://deturl.com) - Download a YouTube video from any web page.
+* [reelscribe](http://reelscribe.ai)- Free AI tool to transcribe audio & video into text and subtitles online.
 * [DownloadHelper](http://www.downloadhelper.net) - Download any video from any websites, it just works!
 * [Earthcam](http://www.earthcam.com) - EarthCam is the leading network of live streaming webcams for tourism and entertainment.
 * [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
