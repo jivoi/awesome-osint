@@ -647,6 +647,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Username Check
 
+* [360username](https://360username.com/) - 360username makes it easy to discover accounts linked to a username across 90+ platforms, a generator for creating fresh handlers when you want something new.
 * [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 600+ websites.
 * [CheckUser](https://checkuser.vercel.app/) - search username across social networks
 * [Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) - Username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
