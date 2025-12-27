@@ -910,6 +910,7 @@ algorithms, knowledgebase and AI technology.
 * [HypeStat](https://www.hypestat.com)
 * [Icann Lookup](https://lookup.icann.org/en/lookup) - The site allows you to look up domain registration information (WHOIS) on the internet
 * [Infosniper](http://www.infosniper.net)
+* [isMalicious](https://ismalicious.com) - Threat intelligence platform aggregating malicious IP and domain data from multiple security feeds with real-time reputation scoring and threat categorization.
 * [intoDNS](http://www.intodns.com)
 * [IP 2 Geolocation](http://ip2geolocation.com)
 * [IP 2 Location](http://www.ip2location.com/demo.aspx)
