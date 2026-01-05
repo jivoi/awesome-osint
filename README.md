@@ -888,6 +888,7 @@ algorithms, knowledgebase and AI technology.
 * [Browserling](https://www.browserling.com) - Browserling is an online sandbox that lets users safely test potentially malicious links across browsers and operating systems in real time.
 * [BuiltWith](http://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 * [Central Ops](http://centralops.net)
+* [certgrep](https://certgrep.sh) - A fast Certificate Transparency Log regex domain lookup tool
 * [Crypto Scam & Crypto Phishing URL Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed) - A fresh feed of crypto phishing and crypto scam websites. Automatically updated daily.
 * [Dedicated or Not](http://dedicatedornot.com)
 * [DNS History](https://completedns.com/dns-history/)
@@ -898,6 +899,7 @@ algorithms, knowledgebase and AI technology.
 * [Domain Dossier](http://centralops.net/co/DomainDossier.aspx)
 * [DomainRecon](https://kriztalz.sh/domain-recon/) - Retrieve DNS records, subdomains, SSL certificates and WHOIS / RDAP data for a given website.
 * [Domain Tools](http://whois.domaintools.com) - Whois lookup and domain/ip historical data.
+* [Have I Been Squatted](https://haveibeensquatted.com) - A fast domain typosquatting detection tool
 * [Easy whois](https://www.easywhois.com)
 * [Exonera Tor](https://exonerator.torproject.org) - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
 * [Focsec](https://focsec.com) - Threat Intelligence API that detects if a IP address is associated with a VPN, Proxy, TOR or Bots.
