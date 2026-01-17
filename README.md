@@ -183,10 +183,10 @@ algorithms, knowledgebase and AI technology.
 * [CredenShow](https://credenshow.com/) - Identify your compromised credentials before others do.
 * [HIB Ransomed](https://haveibeenransom.com/) - Because people have the right to know if their data has been leaked.
 * [HEROIC.NOW](https://heroic.com/) - Has your data been leaked on the dark web? Scan your identities for FREE.
+* [Huntr](https://www.huntrfinds.info/) - Search for your data breaches and verify your account to unlock the data in plaintext.
 * [IKnowYour.Dad](https://iknowyour.dad/) - Data Breach Search Engine.
 * [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
 * [Venacus](https://venacus.com/) - Search for your data breaches and get notified when your data is compromised.
-* [Huntr](https://www.huntrfinds.info/) - Search for your data breaches and verify your account to unlock the data in plaintext.
 
 ## [↑](#-table-of-contents) Speciality Search Engines
 
