@@ -186,6 +186,7 @@ algorithms, knowledgebase and AI technology.
 * [IKnowYour.Dad](https://iknowyour.dad/) - Data Breach Search Engine.
 * [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
 * [Venacus](https://venacus.com/) - Search for your data breaches and get notified when your data is compromised.
+* [Huntr](https://www.huntrfinds.info/) - Search for your data breaches and verify your account to unlock the data in plaintext.
 
 ## [↑](#-table-of-contents) Speciality Search Engines
 
