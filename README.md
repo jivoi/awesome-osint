@@ -1561,6 +1561,7 @@ algorithms, knowledgebase and AI technology.
 * [Surveilliance Self Defense](https://ssd.eff.org)
 * [Tails](https://tails.boum.org)
 * [Thunderbird](https://www.thunderbird.net/en-US/)
+* [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security distribution with 135+ OSINT, recon, and security tools
 * [Tor Project](https://www.torproject.org)
 * [uBlock Origin](https://github.com/gorhill/uBlock)
 * [Wickr](https://wickr.com)
