@@ -913,6 +913,7 @@ algorithms, knowledgebase and AI technology.
 * [Infosniper](http://www.infosniper.net)
 * [isMalicious](https://ismalicious.com) - Threat intelligence platform aggregating malicious IP and domain data from multiple security feeds with real-time reputation scoring and threat categorization.
 * [intoDNS](http://www.intodns.com)
+* [NullSec Recon](https://github.com/bad-antics/nullsec-recon) - Automated reconnaissance framework for subdomain enumeration, port scanning, and service fingerprinting.
 * [IP 2 Geolocation](http://ip2geolocation.com)
 * [IP 2 Location](http://www.ip2location.com/demo.aspx)
 * [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
