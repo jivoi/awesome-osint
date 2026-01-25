@@ -1394,6 +1394,7 @@ algorithms, knowledgebase and AI technology.
 * [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)
 * [Coowon](http://coowon.com)
 * [Gnu Icecat](https://icecatbrowser.org/) - 
+* [Marshall Browser](https://github.com/bad-antics/marshall) - GTK4/WebKit2GTK privacy browser with built-in OSINT tools, Dr. Marshall AI assistant, and comprehensive ad/tracker blocking.
 * [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge)
 * [Firefox](https://www.mozilla.org)
 * [Maxthon](http://www.maxthon.com)
