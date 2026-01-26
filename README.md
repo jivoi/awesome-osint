@@ -1604,6 +1604,7 @@ algorithms, knowledgebase and AI technology.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
+* [NullSec Desktop](https://github.com/bad-antics/nullsec-desktop) - GTK desktop application with 40+ integrated security and OSINT tools, AI assistant, and privacy-focused browser for investigations.
 * [OSINT-Tool](https://www.osint-tool.com/) - A browser extension that gives you access to a suite of OSINT utilities (Dehashed, Epieos, Domaintools, Exif data, Reverse image search, etc) directly on any webpage you visit.
 * [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
 * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
