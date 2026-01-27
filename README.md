@@ -831,6 +831,7 @@ algorithms, knowledgebase and AI technology.
 * [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
 * [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
 * [OpenOwnership Register](https://register.openownership.org/)
+* [**PagesRUs**](https://pagesrus.com) - B2B business discovery and lead generation platform to find suppliers, distributors, wholesalers, and buyers by niche and location.
 * [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 * [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
 * [Plunkett Research](http://www.plunkettresearchonline.com)
