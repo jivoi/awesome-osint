@@ -1638,6 +1638,7 @@ algorithms, knowledgebase and AI technology.
 * [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 * [PhishingSecLists](https://github.com/spmedia/PhishingSecLists) - This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
+* [Whisper](https://whisper.security) - Real-time graph intelligence platform that correlates 45 billion internet infrastructure data points (BGP, DNS, WHOIS, SSL/TLS) to provide threat context, reduce false positives, and answer complex infrastructure questions in seconds.
 
 ## [↑](#-table-of-contents) Gaming Platforms
 
