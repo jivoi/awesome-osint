@@ -115,6 +115,8 @@ Thanks to our main contributors
 algorithms, knowledgebase and AI technology.
 * [Yahoo! Search](https://www.yahoo.com) -  The search engine that helps you find exactly what you're looking for.
 * [YOU](https://you.com) - AI search engine.
+* [Perplexity](https://www.perplexity.ai) - AI-powered search engine with source citations.
+* [Phind](https://www.phind.com) - AI search engine optimized for developers and technical questions.
 
 ## [↑](#-google-dorks-tools) Google Dorks Tools
 
@@ -195,6 +197,7 @@ algorithms, knowledgebase and AI technology.
 * [Abusech](https://hunting.abuse.ch) - Hunt across all abuse.ch platforms with one simple query
 * [Abuseipdb](https://www.abuseipdb.com/) - Repository of abuses reported by system administrators for IPs, Domains, and subnets
 * [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
+* [BGP.tools](https://bgp.tools) - Modern BGP toolkit for network reconnaissance and analysis.
 * [Biznar](http://biznar.com)
 * [BrightCloud](https://brightcloud.com/tools/url-ip-lookup.php) - Checks the reputation, category, and potential threats associated with a URL or IP address.
 * [Browserleaks](https://browserleaks.com/) - BrowserLeaks tests your browser for privacy and fingerprinting leaks
@@ -202,6 +205,7 @@ algorithms, knowledgebase and AI technology.
 * [CertKit Certificate Search](https://www.certkit.io/tools/ct-logs/) - Fast search for public SSL/TLS certificate records.
 * [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center) - IP and Domain Reputation Center for real-time threat detection
 * [CiteSeerX](http://citeseer.ist.psu.edu)
+* [Cloudflare Radar](https://radar.cloudflare.com) - Internet traffic patterns, attacks, and technology trends.
 * [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform 
 * [CRT Certificate Search](https://crt.sh) - Allows you to search for public SSL/TLS certificates recorded in Certificate Transparency logs
 * [FOFA](https://en.fofa.info/) - Asset search and analysis tool.
@@ -253,8 +257,10 @@ algorithms, knowledgebase and AI technology.
 *Search for data located on PDFs, Word documents, presentation slides, and more.*
 
 * [Find-pdf-doc](http://www.findpdfdoc.com)
+* [DocumentCloud](https://www.documentcloud.org) - Platform for analyzing, annotating, and publishing documents.
 * [Free Full PDF](http://www.freefullpdf.com)
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
+* [RECAP Archive](https://www.courtlistener.com/recap/) - Public archive of PACER court documents.
 * [Scribd](http://www.scribd.com)
 * [SlideShare](http://www.slideshare.net)
 
@@ -393,6 +399,7 @@ algorithms, knowledgebase and AI technology.
 * [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
 * [Code Finder](https://codefinder.dev/) - The ultimate search engine for finding GitHub repositories
 * [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
+* [GitHub Code Search](https://github.com/search?type=code) - GitHub's enhanced code search with advanced filtering.
 * [NerdyData](https://nerdydata.com) - Search engine for source code.
 * [PublicWWW](https://publicwww.com/)
 * [Reposearch](http://codefinder.org/)
@@ -416,6 +423,8 @@ algorithms, knowledgebase and AI technology.
 * [Tumblr](https://www.tumblr.com)
 * [Twitter](https://twitter.com)
 * [Weibo (China)](http://weibo.com)
+* [Bluesky](https://bsky.app) - Decentralized social network built on the AT Protocol.
+* [Threads](https://www.threads.net) - Text-based conversation app from Meta.
 * [VKontakte](https://vk.com)
 * [Xing](https://www.xing.com)
 
@@ -717,6 +726,8 @@ algorithms, knowledgebase and AI technology.
 * [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
 * [Email Address Validator](http://www.email-validator.net)  - Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.
 * [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
+* [EmailRep](https://emailrep.io) - Email address reputation and risk scoring service.
+* [Epieos Tools](https://tools.epieos.com) - Collection of OSINT tools for email investigations.
 * [Email Permutator](https://www.polished.app/email-permutator/) - a powerful tool designed to aid professionals in generating a range of potential email addresses for a specific contact. 
 * [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
 * [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
@@ -1407,6 +1418,8 @@ algorithms, knowledgebase and AI technology.
 * [Torch](http://www.torchbrowser.com)
 * [UCBrowser](http://www.ucweb.com)
 * [Vivaldi](https://vivaldi.com) - Powerful, Private and Personal Web Browser.
+* [LibreWolf](https://librewolf.net) - Privacy-focused Firefox fork with enhanced security defaults.
+* [Mullvad Browser](https://mullvad.net/en/browser) - Privacy-focused browser developed in collaboration with Tor Project.
 * [Waterfox](https://www.waterfox.net/) - Fast and Private Web Browser. Get privacy out of the box with Waterfox.
 * [Yandex Browser](https://browser.yandex.com/desktop/main)
 
@@ -1517,6 +1530,7 @@ algorithms, knowledgebase and AI technology.
 * [Abine](https://www.abine.com)
 * [Adium](https://adium.im)
 * [boxcryptor](https://www.boxcryptor.com)
+* [Bitwarden](https://bitwarden.com) - Open-source password manager with cross-platform support.
 * [CCleaner](https://www.piriform.com/ccleaner)
 * [Chatsecure](https://chatsecure.org)
 * [Disconnect](https://disconnect.me)
@@ -1551,12 +1565,14 @@ algorithms, knowledgebase and AI technology.
 * [Peerblock](http://forums.peerblock.com)
 * [Pidgin](https://www.pidgin.im)
 * [Pixel Block](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem)
+* [Privacy.com](https://privacy.com) - Virtual payment cards for online privacy and security.
 * [Privacy Badger](https://www.eff.org/privacybadger)
 * [Privazer](http://privazer.com)
 * [Proton Mail](https://protonmail.com)
 * [Qubes](https://www.qubes-os.org) - a security-focused desktop operating system that aims to provide security through isolation.
 * [Script Safe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en)
 * [Securesha](https://securesha.re)
+* [Signal](https://signal.org) - End-to-end encrypted messaging and calls.
 * [Silent circle](https://www.silentcircle.com)
 * [Snort](https://www.snort.org)
 * [Spideroak](https://spideroak.com)
@@ -1589,6 +1605,9 @@ algorithms, knowledgebase and AI technology.
 * [CyberGordon](https://cybergordon.com) - CyberGordon is a threat intelligence search engine. It leverages 30+ sources.
 * [CrowdSec](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+* [Dehashed CLI](https://github.com/hmaverickadams/DeHashed-API-Tool) - Command-line tool for searching breach databases via DeHashed API.
+* [Obsidian](https://obsidian.md) - Knowledge base and note-taking tool ideal for OSINT case management.
+* [Waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all URLs known by the Wayback Machine for a domain.
 * [Discoshell](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 * [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
 * [DuckDuckGo URL scraper](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
