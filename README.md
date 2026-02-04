@@ -110,6 +110,8 @@ Thanks to our main contributors
 * [Impersonal.me](http://www.impersonal.me)
 * [Lycos](https://www.lycos.com) - A search engine for pictures, videos, news and products.
 * [Mojeek](https://www.mojeek.com/) - A growing independent search engine which does not track you.
+* [Perplexity](https://www.perplexity.ai) - AI-powered search engine with source citations.
+* [Phind](https://www.phind.com) - AI search engine optimized for developers and technical questions.
 * [Search.com](https://www.search.com) - Search the Web by searching the best engines from one place.
 * [Wolfram Alpha](https://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
 algorithms, knowledgebase and AI technology.
@@ -195,6 +197,7 @@ algorithms, knowledgebase and AI technology.
 * [Abusech](https://hunting.abuse.ch) - Hunt across all abuse.ch platforms with one simple query
 * [Abuseipdb](https://www.abuseipdb.com/) - Repository of abuses reported by system administrators for IPs, Domains, and subnets
 * [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
+* [BGP.tools](https://bgp.tools) - Modern BGP toolkit for network reconnaissance and analysis.
 * [Biznar](http://biznar.com)
 * [BrightCloud](https://brightcloud.com/tools/url-ip-lookup.php) - Checks the reputation, category, and potential threats associated with a URL or IP address.
 * [Browserleaks](https://browserleaks.com/) - BrowserLeaks tests your browser for privacy and fingerprinting leaks
@@ -202,6 +205,7 @@ algorithms, knowledgebase and AI technology.
 * [CertKit Certificate Search](https://www.certkit.io/tools/ct-logs/) - Fast search for public SSL/TLS certificate records.
 * [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center) - IP and Domain Reputation Center for real-time threat detection
 * [CiteSeerX](http://citeseer.ist.psu.edu)
+* [Cloudflare Radar](https://radar.cloudflare.com) - Internet traffic patterns, attacks, and technology trends.
 * [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform 
 * [CRT Certificate Search](https://crt.sh) - Allows you to search for public SSL/TLS certificates recorded in Certificate Transparency logs
 * [FOFA](https://en.fofa.info/) - Asset search and analysis tool.
@@ -252,9 +256,11 @@ algorithms, knowledgebase and AI technology.
 
 *Search for data located on PDFs, Word documents, presentation slides, and more.*
 
+* [DocumentCloud](https://www.documentcloud.org) - Platform for analyzing, annotating, and publishing documents.
 * [Find-pdf-doc](http://www.findpdfdoc.com)
 * [Free Full PDF](http://www.freefullpdf.com)
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
+* [RECAP Archive](https://www.courtlistener.com/recap/) - Public archive of PACER court documents.
 * [Scribd](http://www.scribd.com)
 * [SlideShare](http://www.slideshare.net)
 
@@ -392,6 +398,7 @@ algorithms, knowledgebase and AI technology.
 
 * [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
 * [Code Finder](https://codefinder.dev/) - The ultimate search engine for finding GitHub repositories
+* [GitHub Code Search](https://github.com/search?type=code) - GitHub's enhanced code search with advanced filtering.
 * [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
 * [NerdyData](https://nerdydata.com) - Search engine for source code.
 * [PublicWWW](https://publicwww.com/)
@@ -402,6 +409,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Major Social Networks
 
+* [Bluesky](https://bsky.app) - Decentralized social network built on the AT Protocol.
 * [Draugiem (Latvia)](https://www.draugiem.lv)
 * [Facebook](http://www.facebook.com)
 * [Instagram](https://www.instagram.com)
@@ -412,6 +420,7 @@ algorithms, knowledgebase and AI technology.
 * [Qzone (China)](http://qzone.qq.com)
 * [Reddit](https://www.reddit.com)
 * [Taringa (Latin America)](http://www.taringa.net)
+* [Threads](https://www.threads.net) - Text-based conversation app from Meta.
 * [Tinder](https://www.gotinder.com)
 * [Tumblr](https://www.tumblr.com)
 * [Twitter](https://twitter.com)
@@ -719,6 +728,8 @@ algorithms, knowledgebase and AI technology.
 * [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
 * [Email Permutator](https://www.polished.app/email-permutator/) - a powerful tool designed to aid professionals in generating a range of potential email addresses for a specific contact. 
 * [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
+* [EmailRep](https://emailrep.io) - Email address reputation and risk scoring service.
+* [Epieos Tools](https://tools.epieos.com) - Collection of OSINT tools for email investigations.
 * [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 * [Gitrecon](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 * [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
@@ -1397,7 +1408,9 @@ algorithms, knowledgebase and AI technology.
 * [Gnu Icecat](https://icecatbrowser.org/) - 
 * [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge)
 * [Firefox](https://www.mozilla.org)
+* [LibreWolf](https://librewolf.net) - Privacy-focused Firefox fork with enhanced security defaults.
 * [Maxthon](http://www.maxthon.com)
+* [Mullvad Browser](https://mullvad.net/en/browser) - Privacy-focused browser developed in collaboration with Tor Project.
 * [Opera](http://www.opera.com)
 * [Safari](http://www.apple.com/safari)
 * [Sleipnir](http://www.fenrir-inc.com/jp/sleipnir)
@@ -1516,6 +1529,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Abine](https://www.abine.com)
 * [Adium](https://adium.im)
+* [Bitwarden](https://bitwarden.com) - Open-source password manager with cross-platform support.
 * [boxcryptor](https://www.boxcryptor.com)
 * [CCleaner](https://www.piriform.com/ccleaner)
 * [Chatsecure](https://chatsecure.org)
@@ -1551,6 +1565,7 @@ algorithms, knowledgebase and AI technology.
 * [Peerblock](http://forums.peerblock.com)
 * [Pidgin](https://www.pidgin.im)
 * [Pixel Block](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem)
+* [Privacy.com](https://privacy.com) - Virtual payment cards for online privacy and security.
 * [Privacy Badger](https://www.eff.org/privacybadger)
 * [Privazer](http://privazer.com)
 * [Proton Mail](https://protonmail.com)
@@ -1558,6 +1573,7 @@ algorithms, knowledgebase and AI technology.
 * [Script Safe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en)
 * [Securesha](https://securesha.re)
 * [Silent circle](https://www.silentcircle.com)
+* [Signal](https://signal.org) - End-to-end encrypted messaging and calls.
 * [Snort](https://www.snort.org)
 * [Spideroak](https://spideroak.com)
 * [Steganography Online Codec](https://www.pelock.com/products/steganography-online-codec)
@@ -1589,6 +1605,7 @@ algorithms, knowledgebase and AI technology.
 * [CyberGordon](https://cybergordon.com) - CyberGordon is a threat intelligence search engine. It leverages 30+ sources.
 * [CrowdSec](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+* [Dehashed CLI](https://github.com/hmaverickadams/DeHashed-API-Tool) - Command-line tool for searching breach databases via DeHashed API.
 * [Discoshell](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 * [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
 * [DuckDuckGo URL scraper](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
@@ -1604,6 +1621,7 @@ algorithms, knowledgebase and AI technology.
 * [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
 * [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 * [Mozilla HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Observatory⁩ enhances web security by analyzing compliance with best security practices.
+* [Obsidian](https://obsidian.md) - Knowledge base and note-taking tool ideal for OSINT case management.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
@@ -1627,6 +1645,7 @@ algorithms, knowledgebase and AI technology.
 * [Sub3 Suite](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 * [Unfurl](https://dfir.blog/unfurl/) - Unfurl analyzes and breaks down URLs into useful forensic components for digital investigation.
+* [Waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all URLs known by the Wayback Machine for a domain.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users urls and other data effortlessly
 
 
