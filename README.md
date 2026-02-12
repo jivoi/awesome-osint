@@ -1625,7 +1625,7 @@ algorithms, knowledgebase and AI technology.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
-* [Baudrillard Suite](https://github.com/bad-antics/baudrillard-suite) - Cross-platform security research framework with OSINT tools including transparency.py for identity aggregation, ambient.py for environmental intelligence gathering, and spectral.py for network presence analysis.
+* [Baudrillard Suite](https://github.com/bad-antics/baudrillard) - Social engineering and OSINT reconnaissance toolkit with automated persona generation, social media mapping, and intelligence gathering modules.
 * [OSINT-Tool](https://www.osint-tool.com/) - A browser extension that gives you access to a suite of OSINT utilities (Dehashed, Epieos, Domaintools, Exif data, Reverse image search, etc) directly on any webpage you visit.
 * [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
 * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
