@@ -199,6 +199,7 @@ algorithms, knowledgebase and AI technology.
 * [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
 * [BGP.tools](https://bgp.tools) - Modern BGP toolkit for network reconnaissance and analysis.
 * [Biznar](http://biznar.com)
+* [Bluepages.fyi](https://bluepages.fyi) - Social media account ↔ crypto address lookup. Maps Twitter/X and Farcaster accounts to Ethereum addresses by aggregating 12 public data sources. 800K+ accounts, 1.4M+ addresses. Pay-per-query via API or wallet
 * [BrightCloud](https://brightcloud.com/tools/url-ip-lookup.php) - Checks the reputation, category, and potential threats associated with a URL or IP address.
 * [Browserleaks](https://browserleaks.com/) - BrowserLeaks tests your browser for privacy and fingerprinting leaks
 * [Censys](https://search.censys.io/) - Searcher that monitors and analyzes devices.
