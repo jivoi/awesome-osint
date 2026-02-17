@@ -912,6 +912,7 @@ algorithms, knowledgebase and AI technology.
 * [DNSViz](http://dnsviz.net)
 * [Domain Crawler](http://www.domaincrawler.com)
 * [Domain Dossier](http://centralops.net/co/DomainDossier.aspx)
+* [Domain and IP bulk lookup](https://www.infobyip.com/ipbulklookup.php) - Domain and IP bulk lookup tool allows to lookup domain, location, ISP and ASN for multiple hosts (IPs or domains) at once. 
 * [DomainRecon](https://kriztalz.sh/domain-recon/) - Retrieve DNS records, subdomains, SSL certificates and WHOIS / RDAP data for a given website.
 * [Domain Tools](http://whois.domaintools.com) - Whois lookup and domain/ip historical data.
 * [Easy whois](https://www.easywhois.com)
