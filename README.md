@@ -1035,6 +1035,7 @@ algorithms, knowledgebase and AI technology.
 * [Image Identification Project](https://www.imageidentify.com)
 * [Image Raider](https://www.imageraider.com) - is our reverse image search tool for completing individual searches. When you upload an image to this page, we'll scour the internet to find its source and all of the other pages where it has been posted.
 * [KartaVision](https://kartavision.com/) - search engine for KartaView imagery. It supports natural-language search and search by image
+* [Lenso.ai](https://lenso.ai) - Reverse image search tool with facial recognition, created for finding people, similar images, copies of photos, identical places and more.
 * [Lycos Image Search](https://search.lycos.com)
 * [PhotoBucket](https://photobucket.com)
 * [PicTriev](http://www.pictriev.com) - a face search engine.
