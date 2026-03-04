@@ -664,6 +664,7 @@ algorithms, knowledgebase and AI technology.
 * [CheckUser](https://checkuser.vercel.app/) - search username across social networks
 * [Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) - Username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
 * [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
+* [FootprintIQ](https://footprintiq.app) - OSINT tool for analyzing username reuse and digital footprint exposure across online platforms.
 * [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 * [Name Chk](http://www.namechk.com) - Check over 30 domains and more than 90 social media account platforms.
