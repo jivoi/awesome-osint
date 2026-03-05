@@ -922,6 +922,7 @@ algorithms, knowledgebase and AI technology.
 * [Exonera Tor](https://exonerator.torproject.org) - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
 * [Focsec](https://focsec.com) - Threat Intelligence API that detects if a IP address is associated with a VPN, Proxy, TOR or Bots.
 * [Follow.net](http://follow.net)
+* [Frostbyte IP Geolocation API](https://agent-gateway-kappa.vercel.app) - IP geolocation API returning city, region, country, timezone, ISP, and ASN data for any IP address.
 * [Fullhunt](https://fullhunt.io/) - FullHunt is an OSINT tool focused on identifying and protecting internet-exposed assets.
 * [GraphyStories](http://app.graphystories.com)
 * [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - is a free cybercrime intelligence toolkit to check exposure in Infostealer malware infection.
@@ -1594,6 +1595,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) DNS
 * [Amass](https://github.com/owasp-amass/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
 * [Columbus Project](https://github.com/elmasy-com/columbus) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
+* [Frostbyte DNS Lookup API](https://agent-gateway-kappa.vercel.app) - DNS record lookup and resolution API supporting A, AAAA, MX, TXT, CNAME, NS, and other record types.
 * [Merklemap](https://www.merklemap.com/) - Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Works by ingesting certificate transparency logs.
 
 ## [↑](#-table-of-contents) Maritime
