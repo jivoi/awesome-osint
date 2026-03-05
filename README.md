@@ -1147,6 +1147,7 @@ algorithms, knowledgebase and AI technology.
 * [Atlasify](http://www.atlasify.com)
 * [Baidu Maps](https://map.baidu.com/)
 * [Batchgeo](http://batchgeo.com)
+* [Beholder](https://beholder.me) - Real-time global OSINT threat map aggregating 30+ data sources (aircraft, vessels, satellites, earthquakes, conflict, cyber threats) onto a 3D globe.
 * [Bing Maps](http://www.bing.com/maps)
 * [CartoDB](https://cartodb.com)
 * [Colorbrewer](http://colorbrewer2.org)
