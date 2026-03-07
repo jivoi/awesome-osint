@@ -229,6 +229,7 @@ algorithms, knowledgebase and AI technology.
 * [Search Abuseipdb](https://github.com/oseasfr/search-abuseipdb) - Tool to query IPs, ranges and ASN blocks in AbuseIPDB via API with CIDR notation.
 * [Shadowserver](https://dashboard.shadowserver.org/) - Dashboard with global statistics on cyber threats collected by the Shadowserver Foundation.
 * [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
+* [SikkerAPI](https://www.sikkerapi.com/) - SikkerAPI is a free IP and threat intelligence provider, that publishes IP reputation scores, behavioral data and full attack sessions across 16+ different protocols.
 * [WIPO](https://www3.wipo.int/branddb/en/)
 * [WorldWideScience.org](http://worldwidescience.org)
 * [Wpscan](https://wpscan.com) - Scan your WordPress site and get an instant report on its security.
