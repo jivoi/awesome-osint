@@ -1269,6 +1269,7 @@ algorithms, knowledgebase and AI technology.
 * [Storyful](http://storyful.com)
 * [Superdesk](https://www.superdesk.org)
 * [Trooclick](http://trooclick.com)
+* [WeWantPeace](https://www.wewantpeace.live) - Real-time global conflict monitoring platform aggregating 200+ open sources (RSS feeds, Telegram OSINT channels) across 195 countries with AI-powered severity scoring and interactive crisis map. [Open methodology](https://github.com/nameofkk/wewantpeace-methodology).
 
 ## [↑](#-table-of-contents) Fact Checking
 
