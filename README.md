@@ -1398,6 +1398,7 @@ algorithms, knowledgebase and AI technology.
 * [versionista](http://versionista.com)
 * [visualping](https://visualping.io)
 * [WebReader](http://www.getwebreader.com)
+* [Website-Diff](https://github.com/GeiserX/Website-Diff) - Intelligent web page comparison tool with Wayback Machine artifact cleaning, significance scoring, and multi-browser visual regression testing.
 * [WebSite Watcher](http://www.aignes.com/index.htm)
 * [Winds](http://winds.getstream.io)
 
