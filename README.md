@@ -177,8 +177,8 @@ algorithms, knowledgebase and AI technology.
 * [Presearch](https://presearch.com/) - Presearch is a decentralized, community-driven search engine that protects your privacy and rewards you when you search.
 * [Qwant](https://www.qwant.com/) - The search engine that respects your privacy.
 * [Startpage](https://www.startpage.com/) - The world’s most private search engine.
-* [swisscows](https://swisscows.com/en) - Anonymous search engine, a family-friendly, privacy-focused search engine based in Switzerland.
 * [SearXNG](https://searxng.org/) - A privacy-respecting, open-source metasearch engine.
+* [swisscows](https://swisscows.com/en) - Anonymous search engine, a family-friendly, privacy-focused search engine based in Switzerland.
 
 ## [↑](#-table-of-contents) Data Breach Search Engines
 
