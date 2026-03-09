@@ -695,6 +695,7 @@ algorithms, knowledgebase and AI technology.
 * [Apollo.io](https://www.apollo.io/) - Free B2B Phone Number & Email Finder. 1200 credits per user/year for free plan.
 * [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
 * [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
+* [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) - OSINT tool for extracting contact information from Spanish white pages (Paginas Blancas).
 * [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 * [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
 * [ContactOut](https://contactout.com/) - Unlock the world's most accurate contact data. Find emails & phone for 300M professionals.
