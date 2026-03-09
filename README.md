@@ -1404,6 +1404,7 @@ algorithms, knowledgebase and AI technology.
 * [visualping](https://visualping.io)
 * [WebReader](http://www.getwebreader.com)
 * [WebSite Watcher](http://www.aignes.com/index.htm)
+* [Website-Diff](https://github.com/GeiserX/Website-Diff)
 * [Winds](http://winds.getstream.io)
 
 ## [↑](#-table-of-contents) Browsers
