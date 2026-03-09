@@ -162,8 +162,8 @@ algorithms, knowledgebase and AI technology.
 * [iZito](http://www.izito.com)
 * [Myallsearch](http://www.myallsearch.com)
 * [Qwant](http://www.qwant.com) - French search engine that relies on Microsoft Bing.
-* [Swisscows](https://swisscows.com/)
 * [SearXNG](https://searxng.org/) - A privacy-respecting, open-source metasearch engine.
+* [Swisscows](https://swisscows.com/)
 
 ## [↑](#-table-of-contents) Privacy Focused Search Engines
 
