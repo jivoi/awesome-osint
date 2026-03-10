@@ -162,6 +162,7 @@ algorithms, knowledgebase and AI technology.
 * [iZito](http://www.izito.com)
 * [Myallsearch](http://www.myallsearch.com)
 * [Qwant](http://www.qwant.com) - French search engine that relies on Microsoft Bing.
+* [SearXNG](https://searxng.org/) - A privacy-respecting, open-source metasearch engine.
 * [Swisscows](https://swisscows.com/)
 
 ## [↑](#-table-of-contents) Privacy Focused Search Engines
@@ -176,6 +177,7 @@ algorithms, knowledgebase and AI technology.
 * [Presearch](https://presearch.com/) - Presearch is a decentralized, community-driven search engine that protects your privacy and rewards you when you search.
 * [Qwant](https://www.qwant.com/) - The search engine that respects your privacy.
 * [Startpage](https://www.startpage.com/) - The world’s most private search engine.
+* [SearXNG](https://searxng.org/) - A privacy-respecting, open-source metasearch engine.
 * [swisscows](https://swisscows.com/en) - Anonymous search engine, a family-friendly, privacy-focused search engine based in Switzerland.
 
 ## [↑](#-table-of-contents) Data Breach Search Engines
