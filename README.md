@@ -24,7 +24,7 @@ Happy hacking and hunting 🧙‍♂️
  - [Similar Sites Search](#-similar-sites-search)
  - [Document and Slides Search](#-document-and-slides-search)
  - [Threat Actor Search](#-threat-actor-search)
- - [Live Cyber Attack Maps](#-live-cyberthreat-maps)
+ - [Live Cyber Threat Maps](#-live-cyber-threat-maps)
  - [File Search](#-file-search)
  - [Pastebins](#-pastebins)
  - [Code Search](#-code-search)
