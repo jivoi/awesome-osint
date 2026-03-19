@@ -332,7 +332,6 @@ algorithms, knowledgebase and AI technology.
 
 *Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
-* [0bin](https://0bin.net)
 * [BeanPaste](https://beanpaste.fun/) - A tiny way to share text.
 * [bpaste](https://bpa.st/) - Welcome to bpaste, this site is a pastebin. It allows you to share code with others.
 * [CentOS Pastebin Service](https://paste.centos.org/) - Stikked is an Open-Source PHP Pastebin, with the aim of keeping a simple and easy to use user interface.
