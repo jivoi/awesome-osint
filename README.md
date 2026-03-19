@@ -310,6 +310,7 @@ algorithms, knowledgebase and AI technology.
 * [Secure Gateway Live Cyber Threat Map](https://securegateway.com/map/v5/) -
 * [Thale's Cyberthreat Map](https://cds.thalesgroup.com/en/cyberthreat/hitmap) - Discover cybersecurity trends with Thales' Cyberthreat map. Explore targeted areas, frequent attacks, affected sectors, and prevalent malware.
 * [ThreatsEye | Live Cyber Threat Map](https://threatseye.io/threats-map) - Real-time visualization of global cyber attacks and threats. Monitor live cyber security incidents, attack origins, targets, and threat categories worldwide.
+* [World Monitor Tech](https://tech.worldmonitor.app) - Live cyber threat intelligence dashboard combining CISA advisories, active malware campaigns, CVE feeds, and global cyber event heatmaps alongside geopolitical and military context.
 * [Zscaler Global Threat Map Dashboard](https://threatlabz.zscaler.com/cloud-insights/threat-map-dashboard) - Illustrates those we've seen in the past 24 hours, consisting of threats detected by our antivirus engines, malware and advanced persistent threats.
 
 
@@ -1217,6 +1218,7 @@ algorithms, knowledgebase and AI technology.
 * [View in Google Earth](http://www.mgmaps.com/kml/#view)
 * [Wikimapia](http://wikimapia.org)
 * [Windy](https://www.windy.com/)
+* [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform with live conflict tracking, military flight and vessel monitoring, GPS jamming data, satellite imagery, and geopolitical risk scores across 5 specialized dashboards.
 * [WorldMap Harvard](http://worldmap.harvard.edu)
 * [Worldwide OSINT Tools Map](https://cipher387.github.io/osintmap/) - A global map of databases and OSINT sources by applicable location.
 * [Yahoo Maps](https://maps.yahoo.com)
