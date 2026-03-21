@@ -818,6 +818,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Company Research
 
+* [ApifyForge](https://apifyforge.com) - 93 MCP intelligence servers for automated OSINT. Covers AML screening, sanctions checks, beneficial ownership, corporate due diligence, cyber attack surface analysis, and more. Each server queries 7-18 public data sources in parallel (OFAC, Interpol, SEC EDGAR, OpenCorporates, OpenSanctions, etc.) and returns scored risk assessments.
 * [AllStocksLinks](http://www.allstocks.com/links)
 * [Better Business Bureau](http://www.bbb.org)
 * [Bizeurope](http://www.bizeurope.com)
