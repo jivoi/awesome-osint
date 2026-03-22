@@ -122,11 +122,11 @@ algorithms, knowledgebase and AI technology.
 
 *Google Dorks Tools*
 
+* [DorkEye](https://github.com/xPloits3c/DorkEye) - Python-based OSINT tool for automated Google Dorking with SQLi analysis, secrets detection, and HTML reporting.)
 * [DorkGenius](https://dorkgenius.com/) - DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. - Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web.
 * [DorkGPT](https://www.dorkgpt.com/) - Generate Google Dorks with AI.
 * [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
 AI.
-*  [DorkEye](https://github.com/xPloits3c/DorkEye) - Python-based OSINT tool for automated Google Dorking with SQLi analysis, secrets detection, and HTML reporting.)
 * [SearchDorks](https://kriztalz.sh/search-dorks/) - Generate Search Engine (Google, FOFA, Shodan, Censys, ZoomEye) Dorks using AI.
 
 ## [↑](#-table-of-contents) Main National Search Engines
