@@ -983,6 +983,7 @@ algorithms, knowledgebase and AI technology.
 * [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
 * [Validin](https://app.validin.com/) - Website and API to search current and historical DNS records for free
 * [Verisign](http://dnssec-debugger.verisignlabs.com)
+* [VersionDB](https://versiondb.io) - VersionDB is a website that'll allow you to search for a specific technology (e.g. WordPress) and get a list of websites using it
 * [ViewDNS.info](http://viewdns.info)
 * [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
 * [w3snoop](http://webboar.com.w3snoop.com) - is a website that gives you a free and comprehensive report about a specific website.
