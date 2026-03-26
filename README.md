@@ -454,6 +454,7 @@ algorithms, knowledgebase and AI technology.
 * [Netvibes](http://www.netvibes.com)
 * [Oblivion](https://github.com/loseys/Oblivion)
 * [OpinionCrawl](http://www.opinioncrawl.com)
+* [Osintly](https://osint.ly) - Free access to 900+ OSINT modules & investigation capabilities.
 * [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
 * [Rival IQ](https://www.rivaliq.com)
 * [Social DownORNot](http://social.downornot.com)
@@ -756,6 +757,7 @@ algorithms, knowledgebase and AI technology.
 * [Multirbl](https://multirbl.valli.org/dnsbl-lookup) - MultiRBL Valli checks if an IP or domain is listed on multiple public RBLs (blacklists) simultaneously.
 * [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
 * [OSINTEye](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
+* [Osintly](https://osint.ly) - AI-powered email investigation with advanced enrichment, correlation and behavioral analysis.
 * [Peepmail](http://www.samy.pl/peepmail) - is a tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
 * [Pipl](https://pipl.com) - a provider of identity solutions.
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
