@@ -1612,6 +1612,7 @@ algorithms, knowledgebase and AI technology.
 * [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
 
 ## [↑](#-table-of-contents) Other Tools
+* [IPLoop](https://iploop.io) - Residential proxy platform with 2M+ real device IPs across 195+ countries. Route OSINT queries through residential IPs to avoid blocks. Python SDK: `pip install iploop-sdk`
 
 * [aadinternals](https://aadinternals.com/osint) - Provides tools and insights for advanced analysis and security testing of Azure Active Directory (AAD) and Microsoft 365.
 * [ArkhamMirror](https://github.com/mantisfury/ArkhamMirror) - Local-first AI document intelligence with offline RAG, contradiction detection, knowledge graphs, and vision AI table extraction.
