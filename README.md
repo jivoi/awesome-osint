@@ -729,7 +729,7 @@ algorithms, knowledgebase and AI technology.
 * [Voter Records](https://voterrecords.com/) - Free political research tool to study more than 100 Million US voter records.
 * [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
 * [ZabaSearch](https://www.zabasearch.com/)
-* [Expose Team](https://expose.team) - AI-Powered OSINT at Lightspeed.
+* [Expose Team](https://expose.team?utm_source=github.com&utm_campaign=jivoi_awesome_osint) – AI-Powered OSINT at Lightspeed.
 
 ## [↑](#-table-of-contents) Email Search / Email Check
 
