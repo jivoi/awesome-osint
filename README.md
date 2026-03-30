@@ -49,6 +49,7 @@ Happy hacking and hunting 🧙‍♂️
  - [Email Search / Email Check](#-email-search--email-check)
  - [Phone Number Research](#-phone-number-research)
 -  [Vehicle / Automobile Research](#-vehicle--automobile-research)
+-  - [License Plate Owner API](https://license-plate-owner.com/) - DPPA-compliant vehicle lookup API built by a licensed private investigator
  - [Expert Search](#-expert-search)
  - [Company Research](#-company-research)
  - [Job Search Resources](#-job-search-resources)
