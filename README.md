@@ -703,6 +703,7 @@ algorithms, knowledgebase and AI technology.
 * [ContactOut](https://contactout.com/) - Unlock the world's most accurate contact data. Find emails & phone for 300M professionals.
 * [Clustermaps](https://clustrmaps.com/) - Find people and address information associated with them
 * [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
+* [Expose Team](https://expose.team?utm_source=github.com&utm_campaign=jivoi_awesome_osint) – AI-Powered OSINT at Lightspeed.
 * [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
 * [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration required. Funded by The Church Of Jesus Christ of Latter-day Saints.
 * [FamilyTreeNow](https://familytreenow.com) - Research family and geneology, no registration required, can search addresses, phone numbers, and email addresses as well as associations.
@@ -729,7 +730,6 @@ algorithms, knowledgebase and AI technology.
 * [Voter Records](https://voterrecords.com/) - Free political research tool to study more than 100 Million US voter records.
 * [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
 * [ZabaSearch](https://www.zabasearch.com/)
-* [Expose Team](https://expose.team?utm_source=github.com&utm_campaign=jivoi_awesome_osint) – AI-Powered OSINT at Lightspeed.
 
 ## [↑](#-table-of-contents) Email Search / Email Check
 
