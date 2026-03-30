@@ -717,6 +717,7 @@ algorithms, knowledgebase and AI technology.
 * [Mugshots](https://mugshots.com/)
 * [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
 * [PeekYou](https://www.peekyou.com/) - PeekYou offers the ability to search for people with checks done against more sites. Can check for arrest records as well.
+* [Pixalytica](https://pixalytica.com) - Pixalytica is a tool that creates identity check reports based on just a photo of a person. It generates a full report containing information on criminal past, PEP associations and more.
 * [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
 * [Socialcatfish](https://socialcatfish.com/) - Superextensive people search which works worldwide. Searches are done from 200 Billion records.
 * [SearchBug](http://www.searchbug.com) - People search. Limited free info, premium data upsell.
