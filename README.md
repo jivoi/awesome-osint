@@ -1717,6 +1717,16 @@ algorithms, knowledgebase and AI technology.
 * [Sleuth For The Truth](http://sleuthforthetruth.com/)
 * [Social Links](https://blog.sociallinks.io/)
 
+## [↑](#-table-of-contents) OSINT RSS Feeds
+
+* [EUvsDisinfo](https://euvsdisinfo.eu/category/blog/feed/) - Research, analysis, and case studies focused on disinformation narratives and influence operations.
+* [Fake News – Inforrm's Blog](https://inforrm.org/tag/fake-news/feed/) - Media law and misinformation analysis relevant to disinformation investigations.
+* [Krebs on Security](https://krebsonsecurity.com/feed/) - Investigative reporting on cybercrime, breaches, and threat actors.
+* [OSINT Combine Blog](https://www.osintcombine.com/blog-feed.xml) - Current OSINT tradecraft, investigations, and monitoring workflows.
+* [SANS Internet Storm Center Diary (Full Text)](https://isc.sans.edu/rssfeed_full.xml) - High-signal incident reports, malware observations, and operational security analysis.
+* [The Citizen Lab](https://citizenlab.ca/feed/) - Research on surveillance, spyware, censorship, and digital threats relevant to advanced OSINT work.
+* [Trace Labs Blog](https://www.tracelabs.org/blog/rss.xml) - Missing-person OSINT methodology, case support, and investigative workflows.
+
 ## [↑](#-table-of-contents) Other Resources
 
 * [Aware-online.com](https://www.aware-online.com/en/osint-tools) - Curated collection of OSINT tools and methodologies for investigations.
