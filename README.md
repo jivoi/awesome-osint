@@ -10,6 +10,7 @@ This list is to help all of those who are into Cyber Threat Intellience (CTI), t
 
 Happy hacking and hunting 🧙‍♂️
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including OSINT investigation, deep research, and multi-source intelligence gathering agents. MIT licensed.
 ## 📖 Table of Contents
 
  - [General Search](#-general-search)
