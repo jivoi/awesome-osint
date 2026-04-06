@@ -1639,6 +1639,7 @@ algorithms, knowledgebase and AI technology.
 * [IntellyWeave](https://github.com/vericle/intellyweave)  - AI-powered OSINT platform with GLiNER entity extraction, Mapbox 3D geospatial visualization, and multi-agent archive research across 30+ international archives.
 * [LinkScope Client](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
 * [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
+* [CORTEX](https://fatcrapinmybutt.github.io/cortex-site/) - Offline desktop intelligence platform with 55 domain packs, entity extraction, and interactive D3.js graph visualization. $29 one-time, no API keys, no cloud. [Free OSINT pack](https://github.com/fatcrapinmybutt/cortex-osint).
 * [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 * [Mozilla HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Observatory⁩ enhances web security by analyzing compliance with best security practices.
 * [Obsidian](https://obsidian.md) - Knowledge base and note-taking tool ideal for OSINT case management.
