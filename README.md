@@ -455,6 +455,7 @@ algorithms, knowledgebase and AI technology.
 * [Netvibes](http://www.netvibes.com)
 * [Oblivion](https://github.com/loseys/Oblivion)
 * [OpinionCrawl](http://www.opinioncrawl.com)
+* [OSINTNova](https://app.osintnova.com/) - AI-powered OSINT platform for advanced digital investigations and intelligence analysis
 * [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
 * [Rival IQ](https://www.rivaliq.com)
 * [Social DownORNot](http://social.downornot.com)
