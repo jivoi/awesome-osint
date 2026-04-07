@@ -869,6 +869,7 @@ algorithms, knowledgebase and AI technology.
 * [Vault](http://www.vault.com) - Well-known ranking of largest United States Corporations.
 * [Xing](http://www.xing.com)
 * [YouControl](https://youcontrol.com.ua/en/)
+* [Tracxn](https://tracxn.com) - Search information about a company such as aquisitions, investors, people, research, etc
 
 ## [↑](#-table-of-contents) Job Search Resources
 
