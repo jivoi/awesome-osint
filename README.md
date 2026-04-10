@@ -1683,6 +1683,7 @@ algorithms, knowledgebase and AI technology.
 * [PhishingSecLists](https://github.com/spmedia/PhishingSecLists) - This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 * [STIX Viewer](https://stix-viewer.threatlandscape.io/) - An online free STIX 2.1 viewer / visualizer.
+* [DFIR Platform](https://platform.dfir-lab.ch) - API-first threat intelligence toolkit aggregating 14+ sources for IOC enrichment, phishing email analysis, and exposure scanning. Free tier available. *(Disclosure: maintained by the submitter)*
 
 ## [↑](#-table-of-contents) Gaming Platforms
 
