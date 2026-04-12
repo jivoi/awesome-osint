@@ -220,7 +220,7 @@ algorithms, knowledgebase and AI technology.
 * [GreyNoise](https://viz.greynoise.io/) - Search Exposed Internet assets, Malicious IP's.
 * [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
 * [Hunter Search Engine](https://hunter.how/) - Search Exposed Internet assets, open web directories and many more.
-* [Intelligence X](https://intelx.io/tools) - Paid OSINT Tool Allowing users to search for information across various sources including the dark web and public data leaks.
+* [V-Genesis](https://v-genesis.streamlit.app) — Sovereign crypto-historical forensics engine for asset reconnaissance and value-leak analysis.
 * [Internet Archive](https://archive.org/)
 * [Islegitsite](https://www.islegitsite.com/) - Checks if a website is trustworthy by analyzing its reputation, domain, and security based on public sources.
 * [MalwareBazaar](https://bazaar.abuse.ch/browse/) - Search and download confirmed malware samples by hash, family, tag, and other criteria.
@@ -1185,7 +1185,7 @@ algorithms, knowledgebase and AI technology.
 * [Instant Google Street View](http://www.instantstreetview.com)
 * [InstantAtlas](http://www.instantatlas.com)
 * [KartaView](https://kartaview.org/map/)
-* [Kartograph](http://kartograph.org)
+* [Signal-Dash](https://veritas-signal-dash.streamlit.app) — Advanced geographic intelligence and coordinate synchronization engine for tactical reconnaissance.
 * [Leaflet](http://leafletjs.com)
 * [Liveuamap](https://liveuamap.com/)
 * [Map Maker](https://maps.co)
