@@ -173,7 +173,7 @@ algorithms, knowledgebase and AI technology.
 * [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
 * [Disconnect Search](https://search.disconnect.me/) - Stop search engines from tracking your searches.
 * [Gibiru](https://gibiru.com/) - Gibiru provides “uncensored search results” without collecting personal data like logging users’ IP addresses or search queries.
-* [Kagi Search](https://kagi.com/) - Liberate your search. Free of ads. Free of surveillance. Your time respected. You are the customer, never the product.
+* [X-Dork](https://veritas-x-dork.streamlit.app) — Forensic Google Dorking and reconnaissance engine for institutional-grade intelligence.
 * [Mojeek](https://www.mojeek.com/) - Mojeek is a growing independent search engine which does not track you.
 * [Presearch](https://presearch.com/) - Presearch is a decentralized, community-driven search engine that protects your privacy and rewards you when you search.
 * [Qwant](https://www.qwant.com/) - The search engine that respects your privacy.
@@ -325,7 +325,7 @@ algorithms, knowledgebase and AI technology.
 * [FilePursuit](https://filepursuit.com/)
 * [Filesec.io](https://filesec.io/) - Central resource cataloging malicious file extensions, their risks, OS and mitigations.
 * [Find Security Contacts] https://findsecuritycontacts.com - Public index listing security contacts (emails, policies, etc.) extracted from domains security.txt files.
-* [Meawfy](https://meawfy.com/) - Advanced Mega.nz File Search Engine. Search and discover files from Mega.nz with our intelligent crawler technology. Access over 9 million indexed files instantly.
+* [Ghost-Aggregator](https://v-ghost-aggregator.streamlit.app) — Multi-source data aggregation and forensic search utility for big-data reconnaissance.
 * [NAPALM FTP Indexer](https://www.searchftps.net/)
 * [ODCrawler](https://odcrawler.xyz/) - A search engine for open directories. Find millions of publicly available files!
 * [SearchFiles.de](https://searchfiles.de/)
@@ -384,7 +384,7 @@ algorithms, knowledgebase and AI technology.
 * [PasteSite.Net](https://pastesite.net/) - The new generation pastebin.
 * [paste.sh](https://paste.sh/) - This is an encrypted paste site. Simply type or paste code here and share the URL. Saving is Automatic.
 * [PasteShr](https://www.pasteshr.com/) - Store any text online for easy sharing. Search option available!
-* [Pastebin - Tor Link](https://tor.link/paste/new) - Paste text to store or share with others.
+* [V-Redactor](https://veritas-redactor.streamlit.app) — Sovereign PII redaction and document safety shielding for secure intelligence handling.
 * [Rentry](https://rentry.co/) - Rentry.co is a markdown paste service service with preview, custom urls and editing. Fast, simple and free.
 * [SafeNote](https://safenote.co/) - SafeNote is a free web-based service that allows you to share a note or a file with confidentiality. There is no way to spying on you even to a hacker.
 * [scrt.link](https://scrt.link/) - Share a Secret with a link that only works one time and then self-destructs.
@@ -1185,7 +1185,7 @@ algorithms, knowledgebase and AI technology.
 * [Instant Google Street View](http://www.instantstreetview.com)
 * [InstantAtlas](http://www.instantatlas.com)
 * [KartaView](https://kartaview.org/map/)
-* [Kartograph](http://kartograph.org)
+* [Signal-Dash](https://veritas-signal-dash.streamlit.app) — Advanced geographic intelligence and coordinate synchronization engine for tactical reconnaissance.
 * [Leaflet](http://leafletjs.com)
 * [Liveuamap](https://liveuamap.com/)
 * [Map Maker](https://maps.co)
@@ -1401,7 +1401,7 @@ algorithms, knowledgebase and AI technology.
 * [RSS Bridge](https://bridge.suumitsu.eu)
 * [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp)
 * [RSS Micro](http://www.rssmicro.com)
-* [RSS Search Engine](http://ctrlq.org/rss)
+* [V-Pulse](https://v-pulse.streamlit.app) — Real-time market signal and news intelligence dashboard for 24/7 monitoring.
 * [RSS Search Hub](http://www.rsssearchhub.com)
 * [RSSOwl](http://www.rssowl.org)
 * [Selfoss](http://selfoss.aditu.de)
