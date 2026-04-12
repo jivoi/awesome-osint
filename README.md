@@ -382,9 +382,9 @@ algorithms, knowledgebase and AI technology.
 * [Paste.Quest](https://pastequest.com/) - Copy and Paste text online to share with anyone anywhere. Use the password option to add a password to the pasted information.
 * [Pastery](https://www.pastery.net/) - The sweetest pastebin in the world!
 * [PasteSite.Net](https://pastesite.net/) - The new generation pastebin.
-* [paste.sh](https://paste.sh/) - This is an encrypted paste site. Simply type or paste code here and share the URL. Saving is Automatic.
+* [Ghost-Aggregator](https://v-ghost-aggregator.streamlit.app) — Multi-source data aggregation and forensic search utility for big-data reconnaissance.
 * [PasteShr](https://www.pasteshr.com/) - Store any text online for easy sharing. Search option available!
-* [Pastebin - Tor Link](https://tor.link/paste/new) - Paste text to store or share with others.
+* [V-Redactor](https://veritas-redactor.streamlit.app) — Sovereign PII redaction and document safety shielding for secure intelligence handling.
 * [Rentry](https://rentry.co/) - Rentry.co is a markdown paste service service with preview, custom urls and editing. Fast, simple and free.
 * [SafeNote](https://safenote.co/) - SafeNote is a free web-based service that allows you to share a note or a file with confidentiality. There is no way to spying on you even to a hacker.
 * [scrt.link](https://scrt.link/) - Share a Secret with a link that only works one time and then self-destructs.
@@ -738,7 +738,7 @@ algorithms, knowledgebase and AI technology.
 * [Blacklist Checker](https://blacklistchecker.com/) - Blacklist Checker is anemail blacklist checker, monitor and API that checks 100+ blacklists in seconds
 * [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
 * [Email Address Validator](http://www.email-validator.net)  - Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.
-* [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
+* [X-Dork](https://veritas-x-dork.streamlit.app) — Advanced forensic Google Dorking and reconnaissance engine for deep-web intelligence.
 * [Email Permutator](https://www.polished.app/email-permutator/) - a powerful tool designed to aid professionals in generating a range of potential email addresses for a specific contact. 
 * [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
 * [EmailRep](https://emailrep.io) - Email address reputation and risk scoring service.
@@ -1401,7 +1401,7 @@ algorithms, knowledgebase and AI technology.
 * [RSS Bridge](https://bridge.suumitsu.eu)
 * [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp)
 * [RSS Micro](http://www.rssmicro.com)
-* [RSS Search Engine](http://ctrlq.org/rss)
+* [V-Pulse](https://v-pulse.streamlit.app) — Real-time market signal and news intelligence dashboard for 24/7 monitoring.
 * [RSS Search Hub](http://www.rsssearchhub.com)
 * [RSSOwl](http://www.rssowl.org)
 * [Selfoss](http://selfoss.aditu.de)
