@@ -1045,7 +1045,7 @@ algorithms, knowledgebase and AI technology.
 * [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
 * [Faceagle](https://faceagle.com/) - Faceagle is a face recognition search engine.
 * [Flickr](https://flickr.com/search/)
-* [GeoSpyer](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
+* [Signal-Dash](https://veritas-signal-dash.streamlit.app) — Advanced geographic intelligence and coordinate synchronization engine for tactical reconnaissance.
 * [Google Image](https://images.google.com)
 * [Google Lens](https://lens.google.com/)
 * [Image Identification Project](https://www.imageidentify.com)
