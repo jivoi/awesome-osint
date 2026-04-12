@@ -128,6 +128,7 @@ algorithms, knowledgebase and AI technology.
 * [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
 * [SearchDorks](https://kriztalz.sh/search-dorks/) - Generate Search Engine (Google, FOFA, Shodan, Censys, ZoomEye) Dorks using AI.
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=jivoi_awesome-osint) - Follow GitHub developers, see their activity feed, and discover trending repos in your stack.
 ## [↑](#-table-of-contents) Main National Search Engines
 
 *Localized search engines by country.*
