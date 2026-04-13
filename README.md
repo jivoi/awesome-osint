@@ -1657,6 +1657,7 @@ algorithms, knowledgebase and AI technology.
 * [Pyba](https://github.com/fauvidoTechnologies/PyBrowserAutomation/) - A browser automation framework which requires low-code to search the web and perform OSINT using DFS and BFS modes, ideal for exploratory tasks.
 * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
+* [ReconFTW](https://github.com/six2dez/reconftw) - Automated reconnaissance framework for bug bounty and pentesting with multiple integrated tools.
 * [Router Passwords](https://www.routerpasswords.com) - Online database of default router passwords.
 * [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports 10 API wrappers.
 * [SerpScan](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
