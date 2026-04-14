@@ -463,6 +463,7 @@ algorithms, knowledgebase and AI technology.
 * [Social Searcher](http://www.social-searcher.com)
 * [SocialBakers](http://www.socialbakers.com)
 * [SocialBlade](http://socialblade.com)
+* [SpotThem OSINT](https://spotthem.com) - Search for social accounts with e-mail, phone number or a face.
 * [Tagboard](https://tagboard.com)
 * [UVRX](http://www.uvrx.com/social.html)
 * [WATools](https://watools.io/)
