@@ -45,6 +45,7 @@ Happy hacking and hunting 🧙‍♂️
  - [Blog Search](#-blog-search)
  - [Forums and Discussion Boards Search](#-forums-and-discussion-boards-search)
  - [Username Check](#-username-check)
+ - [Recosint Username Search](https://recosint.com/tools/username-search/) - Search usernames across 45+ platforms simultaneously with Google Dork queries and Wayback Archive links for each result.
  - [People Investigations](#-people-investigations)
  - [Email Search / Email Check](#-email-search--email-check)
  - [Phone Number Research](#-phone-number-research)
@@ -204,6 +205,7 @@ algorithms, knowledgebase and AI technology.
 * [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
 * [BGP.tools](https://bgp.tools) - Modern BGP toolkit for network reconnaissance and analysis.
 * [BGP.he.net](https://bgp.he.net) - Free BGP and network intelligence toolkit
+* [Recosint DNS Lookup](https://recosint.com/tools/dns-lookup/) - Full DNS record lookup with SPF, DMARC, DKIM, DNSSEC analysis and multi-resolver propagation checking.
 * [Biznar](http://biznar.com)
 * [BrightCloud](https://brightcloud.com/tools/url-ip-lookup.php) - Checks the reputation, category, and potential threats associated with a URL or IP address.
 * [Browserleaks](https://browserleaks.com/) - BrowserLeaks tests your browser for privacy and fingerprinting leaks
@@ -946,6 +948,7 @@ algorithms, knowledgebase and AI technology.
 * [IP 2 Geolocation](http://ip2geolocation.com)
 * [IP 2 Location](http://www.ip2location.com/demo.aspx)
 * [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
+* [Recosint IP Lookup](https://recosint.com/tools/ip-address-lookup/) - Free IP geolocation tool returning ASN details, reverse DNS, AbuseIPDB abuse score, and Shodan open port data in one passive lookup.
 * [IP Checking](http://www.ipchecking.com)
 * [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
 * [IP Location.io](https://iplocation.io) - IPLocation.io allows you to check the location of an IP for free
@@ -1067,6 +1070,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Image Analysis
 
 * [DiffChecker](https://www.diffchecker.com/image-diff/)
+* [Recosint EXIF Analyzer](https://recosint.com/tools/exif-data-viewer/) - Extract GPS coordinates, device fingerprint, timestamps, and edit history from image files with interactive map rendering.
 * [EXIFEditor.io](https://exifeditor.io) - In-browser EXIF image metadata editor, viewer, and analysis tool.
 * [ExifLooter](https://github.com/aydinnyunus/exiflooter)
 * [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
@@ -1634,6 +1638,7 @@ algorithms, knowledgebase and AI technology.
 * [FaviconHash](https://kriztalz.sh/favicon-hash/) - Generate favicon hashes of a website for use on Shodan, VirusTotal, Censys, ZoomEye or FOFA.
 * [Find osint tool](https://find.osint-tool.com) - Searches multiple OSINT tools to find information across various sources.
 * [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+* [Recosint Document Metadata Extractor](https://recosint.com/tools/document-metadata-extractor/) - Extract author data, revision history, software fingerprints, and hidden content from PDF, DOCX, XLSX, and PPTX files.
 * [Glit](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
 * [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
 * [IntelHub](https://github.com/tomsec8/IntelHub) – Browser-based open-source OSINT extension. All analysis runs locally (no servers). Features include text profiler, metadata analyzer, site & archive analysis, reverse image search, crypto/telegram analyzers.
