@@ -10,7 +10,7 @@ This list is to help all of those who are into Cyber Threat Intellience (CTI), t
 
 Happy hacking and hunting 🧙‍♂️
 
-## 📖 Table of Contents
+## 📖 Table of Content
 
  - [General Search](#-general-search)
  - [Google Dorks](#-google-dorks-tools)
