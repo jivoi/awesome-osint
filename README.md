@@ -629,6 +629,7 @@ algorithms, knowledgebase and AI technology.
 * [Sherlock](https://t.me/Getcontact123qwerty_bot?start=_ref_jGW8Sa_iEmG9V) — Name/phone/email search + vehicle data.
 * [ShtrafKZBot](https://t.me/ShtrafKZBot) — Fines, taxes, penalties; traffic violations.
 * [SMS Activate](https://t.me/PrivatePhoneBot) — Virtual numbers from 50+ countries.
+* [VirtualSMS](https://t.me/virtualsms_io_bot) — SMS verification with real physical SIM cards from 100+ countries. Activations and number rentals via bot.
 * [SpyGGbot](https://telegram.me/SpyGGbot) — TON balances, NFT owners, Fragment usernames.
 * [Surftg_bot](https://t.me/surftg_bot) — Searches Telegram messages.
 * [TuriBot](https://t.me/TuriBot) — Resolves username from Telegram ID.
