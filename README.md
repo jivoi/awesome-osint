@@ -1408,6 +1408,7 @@ algorithms, knowledgebase and AI technology.
 * [RSSOwl](http://www.rssowl.org)
 * [Selfoss](http://selfoss.aditu.de)
 * [Silobreaker](http://www.silobreaker.com)
+* [Snaplert](https://snaplert.com) - Visual pixel diffs, AI summaries, and element-level zone picker for monitoring webpage changes. Great for tracking competitor updates.
 * [Talkwalker](http://www.talkwalker.com)
 * [The Old Reader](http://theoldreader.com)
 * [versionista](http://versionista.com)
