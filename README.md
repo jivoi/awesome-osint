@@ -1289,6 +1289,7 @@ algorithms, knowledgebase and AI technology.
 
 
 * [Captin Fact](https://captainfact.io/)
+* [Helium MCP](https://github.com/connerlambden/helium-mcp) - Free remote MCP server giving AI assistants (Claude, Cursor) structured 31-dimension bias scores per article (sensationalism, scapegoating, opinion-vs-fact, AI-authorship probability) across 3.2M+ articles from 5,000+ sources. Useful for verification workflows.
 * [Check](https://meedan.com/check)
 * [Emergent](http://www.emergent.info)
 * [Fact Check](http://www.factcheck.org)
