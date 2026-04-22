@@ -868,8 +868,6 @@ algorithms, knowledgebase and AI technology.
 * [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
 * [Tracxn](https://tracxn.com) - Search information about a company such as aquisitions, investors, people, research, etc
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
-* [uk-company-number](https://github.com/borschai/uk-company-number) - Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. Available on npm and PyPI.
-* [uk-sic-codes](https://github.com/borschai/uk-sic-codes) - UK SIC 2007 industry classification code lookup, search, and validation. Available on npm and PyPI.
 * [Vault](http://www.vault.com) - Well-known ranking of largest United States Corporations.
 * [Xing](http://www.xing.com)
 * [YouControl](https://youcontrol.com.ua/en/)
