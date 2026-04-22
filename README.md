@@ -278,10 +278,8 @@ algorithms, knowledgebase and AI technology.
 *Search for Threat actors and their associated information.*
 
 * [APT Groups and Operations](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml?pli=1#) - Know about Threat Actors, sponsored countries, their tools, methods, etc.
-* [APTWiki](https://apt.threatradar.net/) - Historical wiki with 214 actor entries.
 * [Bi.Zone](https://gti.bi.zone/) - 148 threat groups with detailed TTPs.
 * [BreachHQ](https://breach-hq.com/threat-actors) - Provides a list of all known cyber threat actors also referred to as malicious actors, APT groups or hackers.
-* [Cybergeist](https://cybergeist.io/threat-actor) - Cybergeist.io generates intelligence profiles about key threats and threat context that is actively being discussed and reported upon across the internet.
 * [Dark Web Informer](https://darkwebinformer.com/threat-actor-database/) - Tracking 854 Threat Actors as of 29th of May 2025.
 * [ETDA](https://apt.etda.or.th/cgi-bin/listgroups.cgi) - Search for Threat Actor groups and their tools.
 * [FortiGuard Labs](https://www.fortiguard.com/threat-actor) - Powered by FortiGuard Labs, our Threat Actor Encyclopedia provides actionable insights, helping security teams prepare and streamline advanced threat hunting and response.
@@ -292,6 +290,7 @@ algorithms, knowledgebase and AI technology.
 * [OPENHUNTING.IO](https://openhunting.io/threat-library) - Threat Library Collecting Information.
 * [SOCRadar LABS](https://socradar.io/labs/threat-actor/) - Know threat actor tactics, techniques, and past activities. Access detailed profiles and track their activities.Keep up with the latest threats and Tactics, Techniques, and Procedures (TTPs).
 * [Thales](https://cds.thalesgroup.com/en/cyberthreat/attacks-page) - Find Threat actor groups in a graphical attack explorer.
+* [Threat Actor Usernames Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 650k+ threat actor usernames scraped from various cybercrime sources & forums.
 
 ## [↑](#-live-cyberthreat-maps) Live Cyber Threat Maps
 
@@ -322,8 +321,6 @@ algorithms, knowledgebase and AI technology.
 
 * [eyedex](https://www.eyedex.org/) - Open directory search engine.
 * [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly available in a Google Drive.
-* [FileListing](https://filelisting.com/)
-* [FilePursuit](https://filepursuit.com/)
 * [Filesec.io](https://filesec.io/) - Central resource cataloging malicious file extensions, their risks, OS and mitigations.
 * [Find Security Contacts] https://findsecuritycontacts.com - Public index listing security contacts (emails, policies, etc.) extracted from domains security.txt files.
 * [Meawfy](https://meawfy.com/) - Advanced Mega.nz File Search Engine. Search and discover files from Mega.nz with our intelligent crawler technology. Access over 9 million indexed files instantly.
@@ -342,11 +339,9 @@ algorithms, knowledgebase and AI technology.
 * [commie](https://commie.io/) - commie is a pastebin script with line commenting support.
 * [Context](https://ctxt.io/) - Share whatever you see with others in seconds.
 * [ControlC Pastebin](https://Controlc.com) - The easiest way to host your text.
-* [Cryptobin](https://cryptobin.co/) - The Ultimate Secure Pastebin
 * [Cutapaste](https://cutapaste.net/) - Short Code and Share.
 * [Defuse](https://defuse.ca/pastebin.htm) - Encrypted Pastebin - Keep your data private and secure!
 * [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers.
-* [dpaste2](https://Dpaste.org)
 * [dpaste](https://Dpaste.com)
 * [Etusivu](https://pastebin.fi/) - It's an open source clone of pastebin.com. Default Language is Finnish.
 * [Friendpaste](https://friendpaste.com/) - Paste stuff to your friends.
@@ -368,10 +363,7 @@ algorithms, knowledgebase and AI technology.
 * [nekobin](https://nekobin.com/) - Paste code, save and share the link!
 * [New Paste](https://paste1.com/) - I wanna paste because typing is so boring!
 * [n0paste](https://n0paste.eu/) - Paste and share your code online.
-* [OTS- One Time Secrets](https://ots.hackliberty.org/) - An encrypted pastebin site. No login needed!
 * [paaster](https://paaster.io/) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.
-* [PastBin.net](https://pastbin.net/) - Similar to Pastebin website where you can store code/text online for a set period of time and share to anyone anywhere. Search Option Available.
-* [Pastebin](https://pastebin.pl/) - Store code/text online for a set period of time and share to anybody on earth.
 * [Pastebin.cz](https://www.pastebin.cz/en/) - A simple Pastebin.
 * [Paste.Cash](https://www.paste.cash/) - Paste.CASH Is a privacy respected and encrypted pastebin hosted by Cash Hosting. Every paste are encrypted using 256 bits AES.
 * [paste.centos](https://paste.centos.org)
@@ -385,7 +377,6 @@ algorithms, knowledgebase and AI technology.
 * [PasteSite.Net](https://pastesite.net/) - The new generation pastebin.
 * [paste.sh](https://paste.sh/) - This is an encrypted paste site. Simply type or paste code here and share the URL. Saving is Automatic.
 * [PasteShr](https://www.pasteshr.com/) - Store any text online for easy sharing. Search option available!
-* [Pastebin - Tor Link](https://tor.link/paste/new) - Paste text to store or share with others.
 * [Rentry](https://rentry.co/) - Rentry.co is a markdown paste service service with preview, custom urls and editing. Fast, simple and free.
 * [SafeNote](https://safenote.co/) - SafeNote is a free web-based service that allows you to share a note or a file with confidentiality. There is no way to spying on you even to a hacker.
 * [scrt.link](https://scrt.link/) - Share a Secret with a link that only works one time and then self-destructs.
@@ -1686,7 +1677,7 @@ algorithms, knowledgebase and AI technology.
 * [PhishingSecLists](https://github.com/spmedia/PhishingSecLists) - This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 * [STIX Viewer](https://stix-viewer.threatlandscape.io/) - An online free STIX 2.1 viewer / visualizer.
-* [Threat Actor Usernames Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 350k+ threat actor usernames scraped from various cybercrime sources & forums.
+* [Threat Actor Usernames Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 450k+ threat actor usernames scraped from various cybercrime sources & forums.
 
 ## [↑](#-table-of-contents) Gaming Platforms
 
