@@ -1298,6 +1298,7 @@ algorithms, knowledgebase and AI technology.
 * [Center for International Earth Science Information Network](http://www.ciesin.org)
 * [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp)
 * [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
+* [Crime Brasil](https://crimebrasil.com.br) - Open-data platform consolidating Brazilian crime statistics (RS neighborhood-level, MG/RJ municipality, national PRF/DATASUS). Free API, CC BY 4.0.
 * [Data.gov.uk](https://data.gov.uk)
 * [DBPedia](http://wiki.dbpedia.org)
 * [European Union Open Data Portal](http://open-data.europa.eu/en/data)
