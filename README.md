@@ -938,6 +938,7 @@ algorithms, knowledgebase and AI technology.
 * [IP 2 Location](http://www.ip2location.com/demo.aspx)
 * [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
 * [ip2geo.dev](https://ip2geo.dev) - IP geolocation API providing city, country, timezone, ASN, and currency data from IP addresses.
+* [IPASIS](https://ipasis.com) - Real-time bot detection and IP reputation API that combines VPN/proxy/Tor detection with email validation, returning a trust score (0-100) per interaction. Free tier: 1,000 requests/day.
 * [IP Checking](http://www.ipchecking.com)
 * [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
 * [IP Location.io](https://iplocation.io) - IPLocation.io allows you to check the location of an IP for free
