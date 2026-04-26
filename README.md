@@ -849,6 +849,7 @@ algorithms, knowledgebase and AI technology.
 * [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
 * [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
 * [OpenOwnership Register](https://register.openownership.org/)
+* [OpenRegistry](https://openregistry.sophymarine.com) - Free remote MCP server proxying 27 national company registries (UK Companies House, France RNE, Germany Handelsregister, Italy InfoCamere via EU BRIS, Spain BORME, Korea OpenDART, plus 21 more) for AI-agent-native cross-border ownership-chain walks. Anonymous tier, no API key. CC-BY-4.0 docs at github.com/sophymarine/openregistry.
 * [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 * [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
 * [Plunkett Research](http://www.plunkettresearchonline.com)
