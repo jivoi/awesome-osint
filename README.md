@@ -982,6 +982,7 @@ algorithms, knowledgebase and AI technology.
 * [Verisign](http://dnssec-debugger.verisignlabs.com)
 * [ViewDNS.info](http://viewdns.info)
 * [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
+* [Voidly CLI](https://www.npmjs.com/package/@voidly/cli) - Command-line tool to check if a domain is censored or blocked in a given country. Backed by 19.6M live measurements across 119 countries. `npx @voidly/cli check <domain> <country>`
 * [w3snoop](http://webboar.com.w3snoop.com) - is a website that gives you a free and comprehensive report about a specific website.
 * [Web-Check](https://web-check.as93.net/) - All-in-one tool for viewing website and server meta data.
 * [WebMeUp](http://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
