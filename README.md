@@ -922,6 +922,7 @@ algorithms, knowledgebase and AI technology.
 * [DomainRecon](https://kriztalz.sh/domain-recon/) - Retrieve DNS records, subdomains, SSL certificates and WHOIS / RDAP data for a given website.
 * [Domain Tools](http://whois.domaintools.com) - Whois lookup and domain/ip historical data.
 * [Easy whois](https://www.easywhois.com)
+* [EdgeIQ Labs](https://edgeiqlabs.com)  - Subdomain discovery via Certificate Transparency, takeover detection, SSL monitoring, security headers analysis, and WHOIS lookup.
 * [Exonera Tor](https://exonerator.torproject.org) - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
 * [Focsec](https://focsec.com) - Threat Intelligence API that detects if a IP address is associated with a VPN, Proxy, TOR or Bots.
 * [Follow.net](http://follow.net)
@@ -1374,6 +1375,7 @@ algorithms, knowledgebase and AI technology.
 * [ChangeDetection](http://www.changedetection.com)
 * [Deltafeed](http://bitreading.com/deltafeed)
 * [DiggReader](http://digg.com/login?next=%2Freader)
+* [EdgeIQ Labs](https://edgeiqlabs.com)  - Ongoing SSL certificate expiry monitoring, security header tracking, subdomain change alerts, and dark web credential exposure monitoring.
 * [FeedBooster](http://www.qsensei.com)
 * [Feederator](http://www.feederator.org)
 * [Feed Exileed](http://feed.exileed.com)
@@ -1749,7 +1751,7 @@ algorithms, knowledgebase and AI technology.
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) by @enaqx
 * [awesome-privacy](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
-* [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec
+* [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec      
 * [awesome-security](https://github.com/sbilly/awesome-security) by @sbilly
 * [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
 * [infosec reference](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
