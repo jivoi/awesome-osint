@@ -1171,6 +1171,7 @@ algorithms, knowledgebase and AI technology.
 * [Google Maps](https://www.google.com/maps)
 * [Google My Maps](https://www.google.com/maps/about/mymaps)
 * [GPSVisualizer](http://www.gpsvisualizer.com)
+* [StaticFuzz](https://staticfuzz.online) - Forensic analysis platform that converts raw GPS/lat/lng CSV data into court-admissible PDF reports using Haversine velocity analysis. ISO/IEC 27037:2012 compliant, SHA-256 sealed, fully offline.
 * [GrassGIS](http://grass.osgeo.org)
 * [Here](http://here.com)
 * [Hyperlapse](https://github.com/TeehanLax/Hyperlapse.js)
