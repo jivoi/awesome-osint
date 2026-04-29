@@ -1059,6 +1059,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Image Analysis
 
+* [BulkPicTools](https://bulkpictools.com) - Free browser-based bulk image processor for handling evidence at scale. Compress, convert, crop, and resize 1,000+ images locally — files never leave your device.
 * [DiffChecker](https://www.diffchecker.com/image-diff/)
 * [EXIFEditor.io](https://exifeditor.io) - In-browser EXIF image metadata editor, viewer, and analysis tool.
 * [ExifLooter](https://github.com/aydinnyunus/exiflooter)
