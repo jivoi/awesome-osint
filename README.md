@@ -278,6 +278,7 @@ algorithms, knowledgebase and AI technology.
 *Search for Threat actors and their associated information.*
 
 * [APT Groups and Operations](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml?pli=1#) - Know about Threat Actors, sponsored countries, their tools, methods, etc.
+* [Asia Fraud Info](https://asiafraudinfo.com/) - Searchable Asia-Pacific anti-scam database tracking 44+ impersonation platforms across 10 countries, with 31K+ verified victim cases. [Open dataset](https://asiafraudinfo.com/data).
 * [Bi.Zone](https://gti.bi.zone/) - 148 threat groups with detailed TTPs.
 * [BreachHQ](https://breach-hq.com/threat-actors) - Provides a list of all known cyber threat actors also referred to as malicious actors, APT groups or hackers.
 * [Dark Web Informer](https://darkwebinformer.com/threat-actor-database/) - Tracking 854 Threat Actors as of 29th of May 2025.
