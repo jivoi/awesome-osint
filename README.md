@@ -672,6 +672,7 @@ algorithms, knowledgebase and AI technology.
 * [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
 * [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
 * [NexFil](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
+* [OSINT Profiler](https://github.com/jerald-6/OSINT-Profiler) - An investigation tool for gathering intelligence from emails, phone numbers, and usernames via GUI/CLI, with Sherlock/Holehe integration, confidence scoring, and multi-format reporting.
 * [Seekr](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 * [SherlockEye](https://sherlockeye.io/) - Search for publicly available information connected to a username, uncovering associated profiles and activities across the web.
