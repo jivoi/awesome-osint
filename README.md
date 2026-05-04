@@ -191,6 +191,7 @@ algorithms, knowledgebase and AI technology.
 * [IKnowYour.Dad](https://iknowyour.dad/) - Data Breach Search Engine.
 * [Leaker](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
 * [NOX](https://github.com/nox-project/nox-framework) - Recursive async framework for deep breach analysis and identity pivoting.
+* [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in known data breaches. Fast lookup across multiple breach databases, with a simple API available.
 * [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
 * [Venacus](https://venacus.com/) - Search for your data breaches and get notified when your data is compromised.
 
