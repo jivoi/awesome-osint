@@ -231,6 +231,7 @@ algorithms, knowledgebase and AI technology.
 * [ODIN](https://search.odin.io/) - Used to search for Hosts, CVEs & Exposed Buckets/Files and shows a website is vulnerable or not. 10 Free Searches Per Day. 
 * [OCCRP Aleph](https://aleph.occrp.org/)
 * [ONYPHE](https://search.onyphe.io/) - OSINT engine indexing exposed assets and services across the internet.
+* [ScanSearch](https://scansearch.net/) - On-demand internet scanner. Trigger live SYN+service scans of any IP, CIDR or country via REST API; free tier and Python SDK.
 * [Search Abuseipdb](https://github.com/oseasfr/search-abuseipdb) - Tool to query IPs, ranges and ASN blocks in AbuseIPDB via API with CIDR notation.
 * [Shadowserver](https://dashboard.shadowserver.org/) - Dashboard with global statistics on cyber threats collected by the Shadowserver Foundation.
 * [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
