@@ -1752,6 +1752,7 @@ algorithms, knowledgebase and AI technology.
 * [awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking) by @fabacab
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) by @enaqx
+* [Pentest Mindmap](https://pentestmindmap.com) - Interactive mindmap with 11,600+ pentesting commands — useful for OSINT-to-exploitation workflows
 * [awesome-privacy](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec
 * [awesome-security](https://github.com/sbilly/awesome-security) by @sbilly
