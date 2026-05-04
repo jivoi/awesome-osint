@@ -191,7 +191,8 @@ algorithms, knowledgebase and AI technology.
 * [IKnowYour.Dad](https://iknowyour.dad/) - Data Breach Search Engine.
 * [Leaker](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
 * [NOX](https://github.com/nox-project/nox-framework) - Recursive async framework for deep breach analysis and identity pivoting.
-* [OsintCat](https://osintcat.com) - Verify if an email address appeared in data breaches. Fast lookup across billions of indexed records with a clean API. * [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
+* [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in known data breaches. Fast lookup with API access available.
+* * [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
 * [Venacus](https://venacus.com/) - Search for your data breaches and get notified when your data is compromised.
 
 ## [↑](#-table-of-contents) Speciality Search Engines
@@ -749,7 +750,7 @@ algorithms, knowledgebase and AI technology.
 * [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
 * [LeakRadar](https://leakradar.io/) - Scans for compromised emails and domains in stealer logs, offering proactive breach prevention and real-time alerts.
 * [MailTester](http://mailtester.com) - hunt for emails and improve your email deliverability
-* [Minerva OSINT](https://minervaosint.com) - Email search tool that finds and aggregates data on a target email from over a hundred websites. * [OsintCat](https://osintcat.com) - Check if an email has been exposed in data breaches. Instant results across multiple breach databases with API access. - Email search tool that finds and aggregates data on a target email from over a hundred websites.
+* [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in data breaches. Instant lookup across breach databases with API access available.
 * [Multirbl](https://multirbl.valli.org/dnsbl-lookup) - MultiRBL Valli checks if an IP or domain is listed on multiple public RBLs (blacklists) simultaneously.
 * [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
 * [OSINTEye](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
