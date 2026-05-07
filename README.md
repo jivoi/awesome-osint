@@ -855,6 +855,7 @@ algorithms, knowledgebase and AI technology.
 * [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
 * [Plunkett Research](http://www.plunkettresearchonline.com)
 * [Scoot](http://www.scoot.co.uk)
+* [Section 16 Deadline Calculator](https://section-16-deadline-calculator.vercel.app/)  - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
 * [SEMrush](https://www.semrush.com)
 * [Serpstat](https://serpstat.com)
 * [SpyFu](http://www.spyfu.com)
