@@ -971,6 +971,7 @@ algorithms, knowledgebase and AI technology.
 * [SEOTools for Excel](http://seotoolsforexcel.com)
 * [Similar Web](https://www.similarweb.com) - Compare any website traffic statistics & analytics.
 * [SmallSEOTools](http://smallseotools.com)
+* [SpoofChecker](https://spoofchecker.com) - Lookalike domain monitoring and domain impersonation detection
 * [Squatm3gator](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 * [StatsCrop](http://www.statscrop.com)
 * [TinyScan](https://www.tiny-scan.com) - Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
