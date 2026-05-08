@@ -737,6 +737,7 @@ algorithms, knowledgebase and AI technology.
 * [Email Extractor](https://99tools.net/email-extractor/)  - A browser-based utility to quickly extract email addresses from bulk text or raw data for further investigation.
 * [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
 * [Email Permutator](https://www.polished.app/email-permutator/) - a powerful tool designed to aid professionals in generating a range of potential email addresses for a specific contact. 
+* [Emailcheckerr](https://emailcheckerr.com) - Bulk SMTP email verification (syntax, MX, RCPT-level deliverability checks); useful for confirming whether an investigated address actually exists.
 * [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exists or not.
 * [EmailRep](https://emailrep.io) - Email address reputation and risk scoring service.
 * [Epieos Tools](https://tools.epieos.com) - Collection of OSINT tools for email investigations.
