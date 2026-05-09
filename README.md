@@ -472,6 +472,7 @@ algorithms, knowledgebase and AI technology.
 * [Tagdef](https://tagdef.com)
 * [Trends24](http://trends24.in)
 * [TwChat](http://twchat.com)
+* [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - OpenClaw plugin and npm package for tweet search, user lookup, follower export, reply and quote extraction, account monitoring, and structured X/Twitter data collection via Xquik.
 * [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 * [TweetMap](http://worldmap.harvard.edu/tweetmap)
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
