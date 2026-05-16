@@ -1427,6 +1427,7 @@ algorithms, knowledgebase and AI technology.
 * [Gnu Icecat](https://icecatbrowser.org/) - 
 * [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge)
 * [Firefox](https://www.mozilla.org)
+* [firefox-stealth](https://github.com/feder-cr/firefox-stealth) - C++ source patches that harden Firefox against browser fingerprinting at the engine level (Canvas, WebGL, Audio, Fonts, WebRTC, Timezone). MPL-2.0; build from source or grab the pre-built binary.
 * [LibreWolf](https://librewolf.net) - Privacy-focused Firefox fork with enhanced security defaults.
 * [Maxthon](http://www.maxthon.com)
 * [Mullvad Browser](https://mullvad.net/en/browser) - Privacy-focused browser developed in collaboration with Tor Project.
