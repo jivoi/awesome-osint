@@ -1359,6 +1359,7 @@ algorithms, knowledgebase and AI technology.
 * [Upsala Conflict Data Program](http://www.pcr.uu.se/research/UCDP)
 * [US Data and Statistics](https://www.usa.gov/statistics)
 * [Vizala](https://vizala.com)
+* [Warnely](https://warnely.com/developers) - Composite travel-safety statistics for 180 countries combining UK FCDO + US State Department advisories, Global Peace Index, World Bank Worldwide Governance Indicators, and a live news incident wire. Free REST API + OpenAPI 3.1 spec, CC BY 4.0.
 * [WHO Data](http://www.who.int/gho/en)
 * [World Bank Data](http://data.worldbank.org)
 * [World Bank Data](http://datatopics.worldbank.org/consumption/home)
