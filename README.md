@@ -697,6 +697,7 @@ algorithms, knowledgebase and AI technology.
 * [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
 * [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
 * [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) - OSINT tool for extracting contact information from Spanish white pages (Paginas Blancas).
+* [California Justice Watch](https://cajusticewatch.com) - Free. Public-records accountability data for California: 58 district attorneys, 196 public defenders, 1,620 sitting judges, 1,500 law-enforcement officers with documented misconduct, 247 Commission on Judicial Performance discipline records (plus full-text search over 250 CJP decision PDFs), and 671 POST decertifications. Open API + MCP server.
 * [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 * [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
 * [ContactOut](https://contactout.com/) - Unlock the world's most accurate contact data. Find emails & phone for 300M professionals.
