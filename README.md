@@ -1648,6 +1648,7 @@ algorithms, knowledgebase and AI technology.
 * [OpenGraph Intel (OGI)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+* [OSINT Arena](http://osintarena.com/) - Home of Open Source Investigation Challenges to test your skills.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
 * [OSINT-Tool](https://www.osint-tool.com/) - A browser extension that gives you access to a suite of OSINT utilities (Dehashed, Epieos, Domaintools, Exif data, Reverse image search, etc) directly on any webpage you visit.
 * [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
