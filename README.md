@@ -475,6 +475,7 @@ algorithms, knowledgebase and AI technology.
 * [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 * [TweetMap](http://worldmap.harvard.edu/tweetmap)
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
+* [TwitterAPI.io](https://twitterapi.io) - Real-time X (Twitter) data API for OSINT investigations — historical tweet search, profile lookup, follower/following extraction, account monitoring. From $0.15 per 1K tweets.
 * [Twitter Audit](https://www.twitteraudit.com)
 * [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule)
 * [Twitter Search](http://search.twitter.com)
