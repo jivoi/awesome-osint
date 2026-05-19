@@ -942,7 +942,7 @@ algorithms, knowledgebase and AI technology.
 * [isMalicious](https://ismalicious.com) - Threat intelligence platform aggregating malicious IP and domain data from multiple security feeds with real-time reputation scoring and threat categorization.
 * [IntoDNS.ai](https://intodns.ai) - AI-powered DNS and email security scanner with SPF, DKIM, DMARC, DNSSEC checks and fix suggestions.
 * [IP 2 Geolocation](http://ip2geolocation.com)
-* [IP 2 Location](http://www.ip2location.com/demo.aspx)
+* [IP2Location](https://www.ip2location.com/demo) - A comprehensive IP intelligence database and API for accurate geolocation, ASN mapping, and VPN/Tor/Proxy detection.
 * [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
 * [ip2geo.dev](https://ip2geo.dev) - IP geolocation API providing city, country, timezone, ASN, and currency data from IP addresses.
 * [IP Checking](http://www.ipchecking.com)
