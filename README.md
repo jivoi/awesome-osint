@@ -960,6 +960,7 @@ algorithms, knowledgebase and AI technology.
 * [OpenLinkProfiler](http://www.openlinkprofiler.org/)
 * [PageGlimpse](http://www.pageglimpse.com)
 * [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
+* [phinn.app](https://phinn.app/) - Free public phishing-link scanner that detonates URLs in an isolated sandbox and returns an AI-driven verdict; opt-in public trends and a free /v1/scan API.
 * [PhishStats](https://phishstats.info/)
 * [Pulsedive](https://pulsedive.com)
 * [Qualys SSL Check](https://www.ssllabs.com/ssltest/) - SSL Test configuration compliance.
