@@ -1149,7 +1149,7 @@ algorithms, knowledgebase and AI technology.
 * [Springer](http://link.springer.com)
 * [Taylor & Francis Online](http://www.tandfonline.com)
 * [The Open Syllabus Project](http://opensyllabusproject.org/)
-* [Wiley](http://eu.wiley.com)
+* [Wiley](https://www.wiley.com)
 * [World Digital Library](http://www.wdl.org)
 * [World Science](http://worldwidescience.org)
 * [Zetoc](http://zetoc.jisc.ac.uk)
