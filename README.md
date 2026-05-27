@@ -959,6 +959,7 @@ algorithms, knowledgebase and AI technology.
 * [Mark Monitor WHOIS](https://whois-webform.markmonitor.com/whois/) - Displays domain registration information.
 * [MaxMind](https://www.maxmind.com)
 * [MetaDefender](https://metadefender.com) - Threat analysis service for URLs, files, certificates, domains, and suspicious hashes.
+* [MyIPNow](https://myipnow.net) - IP lookup, DNS, WHOIS, blacklist check, subnet calculator and more.
 * [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
 * [OpenLinkProfiler](http://www.openlinkprofiler.org/)
 * [PageGlimpse](http://www.pageglimpse.com)
