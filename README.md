@@ -745,6 +745,7 @@ algorithms, knowledgebase and AI technology.
 * [Epieos Tools](https://tools.epieos.com) - Collection of OSINT tools for email investigations.
 * [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 * [Gitrecon](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
+* [GoCreative AI](https://api.gocreativeai.com) - Pay-per-call email verification, MX/DNS lookup, social-account discovery, and breach checks API for AI agents. Free 5 calls/day per IP demo tier (no signup).
 * [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
 * [Holehe](https://github.com/megadose/holehe) - allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
