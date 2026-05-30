@@ -856,6 +856,7 @@ algorithms, knowledgebase and AI technology.
 * [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
 * [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
 * [OpenOwnership Register](https://register.openownership.org/)
+* [OpenRegistry](https://openregistry.sophymarine.com) - Real-time access to 27 national company registries (UK, France, Germany, Norway, Poland, Czechia, and more) via a unified JSON API. Free tier, no signup.
 * [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 * [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
 * [Plunkett Research](http://www.plunkettresearchonline.com)
