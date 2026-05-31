@@ -32,6 +32,7 @@ Happy hacking and hunting 🧙‍♂️
  - [Real-Time Search, Social Media Search, and General Social Media Tools](#-real-time-search-social-media-search-and-general-social-media-tools)
  - [Social Media Tools](#social-media-tools)
    - [Twitter](#-twitter)
+- [GetXAPI](https://www.getxapi.com/) - Twitter / X data API for OSINT. 47 endpoints across search, profiles, follower graph, timelines, DMs, lists, communities. Bearer-token auth. Public OpenAPI 3.1 spec.
    - [Facebook](#-facebook)
    - [Instagram](#-instagram)
    - [Pinterest](#-pinterest)
