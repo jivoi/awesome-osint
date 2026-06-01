@@ -40,6 +40,7 @@ Happy hacking and hunting 🧙‍♂️
    - [Tumblr](#-tumblr)
    - [LinkedIn](#-linkedin)
    - [Telegram](#-telegram)
+   - [TikTok](#-tiktok)
    - [Steam](#-steam)
    - [GitHub](#-github)
  - [Blog Search](#-blog-search)
@@ -630,6 +631,11 @@ algorithms, knowledgebase and AI technology.
 * [username_to_id_bot](https://t.me/username_to_id_bot) — Returns user/chat/channel/bot ID.
 * [UsInfoBot](https://t.me/usinfobot) — Resolves username from ID (inline).
 * [WhoisDomBot](https://t.me/WhoisDomBot) — Whois lookup for domains/IPs + dig/trace.
+
+### [↑](#-table-of-contents) Telegram
+
+* [TikTok Stalker](https://tiktok.einzzcookie.org) — Monitor liking activity, see user details, see video details and download videos & sound without watermark. This includes further features such as obtaining timestamps of videos, timestamps of user creations, last nickname changes, language settings of users, reposts of users, comments of users on their reposts, trace back private sharing links and much more.
+
 
 ### [↑](#-table-of-contents) Steam
 
