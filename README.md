@@ -1660,6 +1660,7 @@ algorithms, knowledgebase and AI technology.
 * [PassiveRecon](https://github.com/rudra496/PassiveRecon-Aggregator) - Passive asset discovery tool for mapping external IT perimeters. Aggregates Shodan, Crt.sh and public APIs.
 * [PGPKeyAnalyser](https://kriztalz.sh/pgp-key-analyser/) - Analyse and view the details of a PGP key online without having to download the asc file.
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
+* [PRISM](https://github.com/NovaCode37/Prism-platform) - Self-hosted all-in-one OSINT platform that scans a domain, IP, email, phone, or username across 22+ modules and returns threat intel, breach data, subdomains, an OPSEC score, entity graph, GeoIP map, and HTML/PDF reports. [Live demo](https://getprism.su).
 * [Pyba](https://github.com/fauvidoTechnologies/PyBrowserAutomation/) - A browser automation framework which requires low-code to search the web and perform OSINT using DFS and BFS modes, ideal for exploratory tasks.
 * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
