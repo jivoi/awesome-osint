@@ -107,7 +107,6 @@ Thanks to our main contributors
 * [Goodsearch](https://www.goodsearch.com) - a search engine for shopping deals online.
 * [Google Search](https://www.google.com) - Most popular search engine.
 * [Instya](https://www.instya.com) -  You can searching shopping sites, dictionaries, answer sites, news, images, videos and much more.
-* [Impersonal.me](http://www.impersonal.me)
 * [Lycos](https://www.lycos.com) - A search engine for pictures, videos, news and products.
 * [Mojeek](https://www.mojeek.com/) - A growing independent search engine which does not track you.
 * [Perplexity](https://www.perplexity.ai) - AI-powered search engine with source citations.
