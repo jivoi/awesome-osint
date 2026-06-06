@@ -452,6 +452,7 @@ algorithms, knowledgebase and AI technology.
 * [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
 * [Rival IQ](https://www.rivaliq.com)
 * [Social DownORNot](http://social.downornot.com)
+* [Social Fetch](https://socialfetch.dev) - API for extracting public social media data across 16 platforms including Instagram, TikTok, YouTube, X/Twitter, Reddit, and LinkedIn.
 * [Social Searcher](http://www.social-searcher.com)
 * [SocialBakers](http://www.socialbakers.com)
 * [SocialBlade](http://socialblade.com)
