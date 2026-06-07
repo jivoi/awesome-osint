@@ -1027,6 +1027,7 @@ algorithms, knowledgebase and AI technology.
 * [BlackWidow](http://softbytelabs.com/wp/blackwidow/)
 * [CashedPages](http://www.cachedpages.com)
 * [CachedView](http://cachedview.com)
+* [PastPage](https://github.com/nabertronic/pastpage) - Browser extension for recovering broken or changed pages by querying the Wayback Machine and other web archives in parallel.
 * [stored.website](https://stored.website)
 * [Wayback Machine](http://archive.org/web/web.php) - Explore the history of a website.
 * [Wayback Machine Archiver](https://github.com/jsvine/waybackpack)
