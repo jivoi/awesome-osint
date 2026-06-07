@@ -1174,6 +1174,7 @@ algorithms, knowledgebase and AI technology.
 * [Flash Earth](http://www.flashearth.com)
 * [GeoGig](http://geogig.org)
 * [GeoInfer](https://geoinfer.com) - Image geolocation tool, no EXIF data required.
+* Adding [Geonode](https://geonode.com) to the Other Tools section. The list already includes Apify; Geonode is a rotating residential and datacenter proxy service with REST API access, useful for OSINT researchers dealing with IP-based rate limiting when scraping public sources.
 * [ReverseImageLocation](https://reverseimagelocation.com) - AI-powered geolocation tool for identifying locations from images.
 * [GeoNames](http://www.geonames.org)
 * [Google Earth Pro](https://www.google.com/intl/en/earth/versions/#earth-pro)
