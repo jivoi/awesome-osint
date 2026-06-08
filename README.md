@@ -706,6 +706,7 @@ algorithms, knowledgebase and AI technology.
 * [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
 * [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration required. Funded by The Church Of Jesus Christ of Latter-day Saints.
 * [FamilyTreeNow](https://familytreenow.com) - Research family and geneology, no registration required, can search addresses, phone numbers, and email addresses as well as associations.
+* [FinalNotes Obituary Research Guide](https://www.finalnotes.page/obituary-research-guide/) - Guide for finding obituary records, preserving source trails, and turning obituary clues into sourced family-history stories.
 * [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present. 
 * [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
 * [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
