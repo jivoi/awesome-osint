@@ -1588,6 +1588,7 @@ algorithms, knowledgebase and AI technology.
 * [Panopticlick](https://panopticlick.eff.org)
 * [Peerblock](http://forums.peerblock.com)
 * [Pidgin](https://www.pidgin.im)
+* [PII Blackout](https://piiblackout.com) - 100% offline, AI-powered desktop application to safely detect and permanently redact PII/PHI from PDF files and images with zero cloud uploads.
 * [Pixel Block](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem)
 * [Privacy.com](https://privacy.com) - Virtual payment cards for online privacy and security.
 * [Privacy Badger](https://www.eff.org/privacybadger)
