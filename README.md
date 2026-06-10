@@ -911,6 +911,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Domain and IP Research
 
 * [aa419 Fake Sites Database](https://db.aa419.org/fakebankslist.php) - The site lists fraudulent websites, such as fake banks and online scams, identified by the Artists Against 419 community.
+* [OSINT Projects](https://osintprojects.com/) - This site provide multiple Domain & IP OSINT free Useful tools.
 * [Accuranker](https://www.accuranker.com)
 * [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
 * [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
