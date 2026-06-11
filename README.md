@@ -670,6 +670,7 @@ algorithms, knowledgebase and AI technology.
 * [Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) - Username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
 * [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
 * [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
+* [Lullar](https://com.lullar.com) - Free username search across 170+ social media platforms — returns direct profile links instantly, supports email and name input too.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 * [Name Chk](http://www.namechk.com) - Check over 30 domains and more than 90 social media account platforms.
 * [Name Checkr](http://www.namecheckr.com) - checks a domain and username across many platforms.
@@ -753,6 +754,7 @@ algorithms, knowledgebase and AI technology.
 * [IntelBase](https://intelbase.is/) - Forensics platform focused on reverse email lookup and email data enrichment.
 * [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
 * [LeakRadar](https://leakradar.io/) - Scans for compromised emails and domains in stealer logs, offering proactive breach prevention and real-time alerts.
+* [Lullar](https://com.lullar.com) - Free people search by email, name or username across 170+ social media platforms, with results returned as direct profile links. No sign-up required.
 * [MailAccess](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, checks 800+ platforms, breach exposure via HIBP, infostealer logs via Hudson Rock, and builds a cross-platform identity graph with confidence scoring. `pip install mailaccess`
 * [MailTester](http://mailtester.com) - hunt for emails and improve your email deliverability
 * [Minerva OSINT](https://minervaosint.com) - Email search tool that finds and aggregates data on a target email from over a hundred websites.
