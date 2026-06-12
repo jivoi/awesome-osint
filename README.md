@@ -711,6 +711,7 @@ algorithms, knowledgebase and AI technology.
 * [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
 * [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
 * [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.
+* [Healthcare Provider Lookup (NPI)](https://apify.com/renzomacar/healthcare-provider-leads) - Search verified US healthcare providers (doctors, dentists, clinics) by name, specialty and location from the official NPPES NPI registry, with NPI, license and address per record. Built on the free [NPPES API](https://npiregistry.cms.hhs.gov/api-page).
 * [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent..
 * [InfoTracer](https://infotracer.com/) - Search for people. (Searches are paid)
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
@@ -740,6 +741,7 @@ algorithms, knowledgebase and AI technology.
 * [Email Extractor](https://99tools.net/email-extractor/)  - A browser-based utility to quickly extract email addresses from bulk text or raw data for further investigation.
 * [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
 * [Email Permutator](https://www.polished.app/email-permutator/) - a powerful tool designed to aid professionals in generating a range of potential email addresses for a specific contact. 
+* [Email Scraper & Contact Finder](https://apify.com/renzomacar/website-contact-finder) - crawls a website (contact, about and team pages first) to extract emails, phone numbers and social profiles, with no API key required.
 * [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exists or not.
 * [EmailRep](https://emailrep.io) - Email address reputation and risk scoring service.
 * [Epieos Tools](https://tools.epieos.com) - Collection of OSINT tools for email investigations.
@@ -845,6 +847,7 @@ algorithms, knowledgebase and AI technology.
 * [Glassdoor](https://www.glassdoor.com)
 * [globalEdge](http://globaledge.msu.edu)
 * [GoodFirms](https://www.goodfirms.co/)
+* [Google Maps Email Extractor](https://apify.com/renzomacar/google-maps-businesses) - turns a search term plus location into a list of local businesses with name, address, phone, website and the email scraped from each site, without a Google API key.
 * [GuideStar](http://www.guidestar.org)
 * [Hoovers](http://www.hoovers.com)
 * [Inc. 5000](http://www.inc.com/inc5000)
