@@ -1237,6 +1237,7 @@ algorithms, knowledgebase and AI technology.
 * [1st Headlines](http://www.1stheadlines.com)
 * [ABYZNewsLinks](http://www.abyznewslinks.com)
 * [Agence France-Presse (AFP)](http://www.afp.com)
+* [Albis](https://www.albis.news/?utm_source=github&utm_medium=public_catalog&utm_campaign=awesome_osint_jivoi)  - News discovery feed for comparing global stories, coverage gaps, and framing differences across sources.
 * [AllYouCanRead](http://www.allyoucanread.com)
 * [AP](http://hosted.ap.org)
 * [BBC News](http://www.bbc.co.uk/news)
