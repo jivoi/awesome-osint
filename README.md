@@ -792,6 +792,7 @@ algorithms, knowledgebase and AI technology.
 
 * [FaxVIN](https://www.faxvin.com/) - Vehicle History Reports. A license plate lookup tool that returns info like VIN, make & model of vehicle, age, and numerous other details. 
 * [EpicVIN](https://epicvin.com/) - Vehicle reports are compiled from various data sources, including historical accident records from state agencies and other entities like NMVTIS. License plate lookup that returns VIN and car millage.
+* [CheapCarfax](https://cheapcarfax.net/) - Vehicle History Reports. A license plate lookup tool that returns info like VIN, accident history, title records, odometer readings, ownership details, and numerous other details.
 
 ## [↑](#-table-of-contents) Expert Search
 
