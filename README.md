@@ -715,6 +715,7 @@ algorithms, knowledgebase and AI technology.
 * [InfoTracer](https://infotracer.com/) - Search for people. (Searches are paid)
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Kompass](http://www.kompass.com) - Business directory and search.
+* [LERS Portal Directory (Ministry of Cyber Affairs)](https://ministryofcyberaffairs.com/lers) - Directory of platform law-enforcement data-request (LERS) portals (WhatsApp, Google, Apple, Telegram, TikTok, Binance) with eligibility and submission steps for authorised investigators.
 * [Mugshots](https://mugshots.com/)
 * [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
 * [PeekYou](https://www.peekyou.com/) - PeekYou offers the ability to search for people with checks done against more sites. Can check for arrest records as well.
