@@ -289,6 +289,7 @@ algorithms, knowledgebase and AI technology.
 * [MISP Galaxy](https://www.misp-galaxy.org/360net/) - Known or estimated adversary groups as identified by 360.net.
 * [OPENHUNTING.IO](https://openhunting.io/threat-library) - Threat Library Collecting Information.
 * [SOCRadar LABS](https://socradar.io/labs/threat-actor/) - Know threat actor tactics, techniques, and past activities. Access detailed profiles and track their activities.Keep up with the latest threats and Tactics, Techniques, and Procedures (TTPs).
+* [Superhighway](https://superhighway.walls.sh/guides/cybersecurity-research-agent) - Guide to building a Python agent that researches threat actors, CVEs, and attacker TTPs from live web sources (advisories, NVD/MITRE, breach reports) and outputs structured JSON with severity, IOCs, mitigation steps, and risk scoring. Pay-per-call, no signup. (Disclosure: I work on Superhighway.)
 * [Thales](https://cds.thalesgroup.com/en/cyberthreat/attacks-page) - Find Threat actor groups in a graphical attack explorer.
 * [Threat Actor Usernames Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 650k+ threat actor usernames scraped from various cybercrime sources & forums.
 
