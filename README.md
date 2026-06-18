@@ -998,6 +998,7 @@ algorithms, knowledgebase and AI technology.
 * [WebMeUp](http://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
 * [Webscore](https://garvit835.github.io/WebScore/) - Enter a website URL to check its legitimacy.
 * [Webscout](https://webscout.io/)  - A Swiss Army knife for scaled intelligence and metadata on IP addresses and domains.
+* [OpenEASD](https://github.com/cybersecify/OpenEASD) - External attack surface discovery tool covering DNS, email security (MTA-STS, BIMI, DNSSEC, SPF, DKIM), TLS, SSH, ports, CVEs, subdomain takeover. Self-hostable Docker. MIT.
 * [Website Informer](http://website.informer.com)
 * [WebsiteTechMiner.py](https://github.com/cybersader/WebsiteTechMiner-py) - automates gathering website profiling data into a CSV from the "BuiltWith" or "Wappalyzer" API for tech stack information, technographic data, website reports, website tech lookups, website architecture lookups, etc.
 * [WhatIsMyIPAddress](http://whatismyipaddress.com)
