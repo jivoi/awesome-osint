@@ -101,7 +101,6 @@ Thanks to our main contributors
 *The main search engines used by users.*
 
 * [Aol](https://search.aol.com) - The web for America.
-* [Ask](https://www.ask.com) - Ask something and get a answer.
 * [Bing](https://www.bing.com) - Microsoft´s search engine.
 * [Brave](https://search.brave.com) - a private, independent, and transparent search engine.
 * [Goodsearch](https://www.goodsearch.com) - a search engine for shopping deals online.
