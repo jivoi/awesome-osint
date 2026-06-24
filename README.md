@@ -247,7 +247,7 @@ algorithms, knowledgebase and AI technology.
 
 *Search engines that scrape multiple sites (Google, Yahoo, Bing, Goo, etc) at the same time and return results.*
 
-* [Carrot2](https://search.carrot2.org) - Organizes your search results into topics.
+* [Carrot2](https://search.carrot2.org) - Organizes your search results into topics. 
 * [Zapmeta](http://www.zapmeta.com)
 
 ## [↑](#-table-of-contents) Similar Sites Search
