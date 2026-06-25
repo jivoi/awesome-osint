@@ -1008,6 +1008,7 @@ algorithms, knowledgebase and AI technology.
 * [WhoIsRequest](http://whoisrequest.com)
 * [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
 * [You Get Signal](http://www.yougetsignal.com)
+* [DomainIntel API](https://domainintel.onrender.com) — Free domain intelligence API: RDAP, DNS, certificate transparency, and bulk lookups. [GitHub](https://github.com/SeigeC/domainintel-api)
 
 ## [↑](#-table-of-contents) Keywords Discovery and Research
 
