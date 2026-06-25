@@ -1217,6 +1217,7 @@ algorithms, knowledgebase and AI technology.
 * [SatIntel](https://github.com/ANG13T/SatIntel)
 * [Scribble Maps](http://scribblemaps.com)
 * [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/)
+* [ShadowFinder-Web](https://kluter.github.io/ShadowFinder-Web) - Geolocate photos by shadow analysis. Browser port of Bellingcat's ShadowFinder. No Jupyter, no accounts, client-side.
 * [SOAR](https://soar.earth/)
 * [StoryMaps](http://storymaps.arcgis.com/en)
 * [SunCalc](https://www.suncalc.org/)
