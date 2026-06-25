@@ -1082,6 +1082,7 @@ algorithms, knowledgebase and AI technology.
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 * [Metadata Viewer](https://kriztalz.sh/metadata-viewer/) - Online EXIF data viewer.
 * [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
+* [SiliconAperture](https://kluter.github.io/SiliconAperture) - Measure real-world object dimensions from a photograph using the pinhole camera model. Client-side, no uploads.
 * [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
 
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
@@ -1217,7 +1218,6 @@ algorithms, knowledgebase and AI technology.
 * [SatIntel](https://github.com/ANG13T/SatIntel)
 * [Scribble Maps](http://scribblemaps.com)
 * [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/)
-* [ShadowFinder-Web](https://kluter.github.io/ShadowFinder-Web) - Geolocate photos by shadow analysis. Browser port of Bellingcat's ShadowFinder. No Jupyter, no accounts, client-side.
 * [SOAR](https://soar.earth/)
 * [StoryMaps](http://storymaps.arcgis.com/en)
 * [SunCalc](https://www.suncalc.org/)
