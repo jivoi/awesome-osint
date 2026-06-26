@@ -929,6 +929,7 @@ algorithms, knowledgebase and AI technology.
 * [Domain Intelligence](https://oti-labs.com/domain-intelligence-api) - Aggregate DNS, WHOIS/RDAP, SSL, subdomains (CT logs + DNS bruteforce), and SPF/DMARC posture in one call. Free tier; MIT.
 * [DomainRecon](https://kriztalz.sh/domain-recon/) - Retrieve DNS records, subdomains, SSL certificates and WHOIS / RDAP data for a given website.
 * [Domain Tools](http://whois.domaintools.com) - Whois lookup and domain/ip historical data.
+* [DomScan](https://domscan.net) - Domain intelligence API and MCP server for DNS, WHOIS/RDAP, SSL/TLS, subdomain enumeration, certificate search, typosquatting and brand monitoring, plus domain valuation and availability.
 * [Easy whois](https://www.easywhois.com)
 * [Exonera Tor](https://exonerator.torproject.org) - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
 * [Focsec](https://focsec.com) - Threat Intelligence API that detects if a IP address is associated with a VPN, Proxy, TOR or Bots.
