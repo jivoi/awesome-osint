@@ -840,6 +840,7 @@ algorithms, knowledgebase and AI technology.
 * [European Business Register](http://www.ebr.org)
 * [Ezilon](http://www.ezilon.com)
 * [Factiva](https://global.factiva.com)
+* [FilingFirehose](https://filingfirehose.com) - Free SEC filing risk scoring on any US-listed company (LOW/MODERATE/ELEVATED/HIGH). Surfaces 8-K cyber incidents, dilution, restatement risk, and officer departures with body-text parsing that catches buried items beyond filer-reported items.
 * [Forbes Global 2000](http://www.forbes.com/global2000/)
 * [Glassdoor](https://www.glassdoor.com)
 * [globalEdge](http://globaledge.msu.edu)
