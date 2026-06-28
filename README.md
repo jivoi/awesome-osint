@@ -121,6 +121,7 @@ algorithms, knowledgebase and AI technology.
 *Google Dorks Tools*
 
 * [AtDork](https://github.com/amnottdevv/atdork) - Professional OSINT dorking tool featuring adaptive delay, circuit breaker, and automatic backend fallback to avoid IP bans and rate limits.
+* [DorkEye](https://github.com/xPloits3c/DorkEye) - Python-based OSINT framework for automated Google Dorking with wizard mode, dork generator, multi-agent analysis pipeline, SQLi/XSS detection, and interactive HTML report export.
 * [DorkGenius](https://dorkgenius.com/) - DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. - Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web.
 * [DorkGPT](https://www.dorkgpt.com/) - Generate Google Dorks with AI.
 * [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
