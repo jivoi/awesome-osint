@@ -231,6 +231,7 @@ algorithms, knowledgebase and AI technology.
 * [ODIN](https://search.odin.io/) - Used to search for Hosts, CVEs & Exposed Buckets/Files and shows a website is vulnerable or not. 10 Free Searches Per Day. 
 * [OCCRP Aleph](https://aleph.occrp.org/)
 * [ONYPHE](https://search.onyphe.io/) - OSINT engine indexing exposed assets and services across the internet.
+* [packet.guru](https://packet.guru/) - Browser-fingerprint and connection-trust audit: WebRTC/DNS leak tests, JA4/JA3 TLS and passive TCP/IP fingerprints, ECH state, and IP reputation (VPN, proxy, datacenter, Tor), returning two independent 0–100 Privacy & Trust scores. No signup, runs client-side.
 * [Shadowserver](https://dashboard.shadowserver.org/) - Dashboard with global statistics on cyber threats collected by the Shadowserver Foundation.
 * [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 * [SikkerAPI](https://www.sikkerapi.com/) - SikkerAPI is a free IP and threat intelligence provider, that publishes IP reputation scores, behavioral data and full attack sessions across 16+ different protocols.
