@@ -34,6 +34,7 @@ Happy hacking and hunting 🧙‍♂️
    - [Twitter](#-twitter)
    - [Facebook](#-facebook)
    - [Instagram](#-instagram)
+   - [TikTok](#-tiktok)
    - [Pinterest](#-pinterest)
    - [Reddit](#-reddit)
    - [VKontakte](#-vkontakte)
@@ -499,6 +500,9 @@ algorithms, knowledgebase and AI technology.
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 * [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) - Tool that maps your target’s Instagram data and relationships in Neo4j for social network analysis. 
 * [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
+
+### [↑](#-table-of-contents) TikTok
+* [TikTokStalker](https://tiktok.einzzcookie.org) - Lookup much info about TikTok stuff
 
 ### [↑](#-table-of-contents) Pinterest
 
