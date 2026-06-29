@@ -1092,6 +1092,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
 
+* [AudienceCue](https://audiencecue.com/en/tools/youtube-comment-downloader) - Downloads the latest public YouTube video or Shorts comments as CSV for research workflows.
 * [Bing Videos](http://www.bing.com/?scope=video)
 * [Clarify](http://clarify.io)
 * [Clip Blast](http://www.clipblast.com)
