@@ -846,6 +846,7 @@ algorithms, knowledgebase and AI technology.
 * [Ezilon](http://www.ezilon.com)
 * [Factiva](https://global.factiva.com)
 * [Forbes Global 2000](http://www.forbes.com/global2000/)
+* [Fylings](https://www.fylings.com) - Free company-intelligence platform for Africa: search and verify companies across 18+ official national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM and more), with the official source and a last-verified date on every record.
 * [Glassdoor](https://www.glassdoor.com)
 * [globalEdge](http://globaledge.msu.edu)
 * [GoodFirms](https://www.goodfirms.co/)
