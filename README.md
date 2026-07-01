@@ -1251,6 +1251,7 @@ algorithms, knowledgebase and AI technology.
 * [Agence France-Presse (AFP)](http://www.afp.com)
 * [AllYouCanRead](http://www.allyoucanread.com)
 * [AP](http://hosted.ap.org)
+* [Baltic Monitor](https://baltic-monitor.com) - Daily open-source monitoring of the Baltic Sea region with a transparent 0-10 escalation-risk index, situation maps, and sourced summaries in English, Russian and Estonian; open method and machine-readable risk history.
 * [BBC News](http://www.bbc.co.uk/news)
 * [Bing News](http://www.bing.com/news)
 * [CNN](http://edition.cnn.com)
