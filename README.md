@@ -1783,6 +1783,7 @@ algorithms, knowledgebase and AI technology.
 * [awesome-security](https://github.com/sbilly/awesome-security) by @sbilly
 * [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
 * [infosec reference](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
+* [OSINT-BIBLE](https://github.com/frangelbarrera/OSINT-BIBLE) by @frangelbarrera
 * [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
 * [SecLists](https://github.com/danielmiessler/SecLists) by @danielmiessler
 * [security-list](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
