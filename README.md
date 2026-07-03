@@ -78,6 +78,8 @@ Happy hacking and hunting 🧙‍♂️
  - [Maritime](#-maritime)
  - [Other Tools](#-other-tools)
  - [Threat Intelligence](#-threat-intelligence)
+
+* [Malware Families Catalog](https://jordanricky1604-ship-it.github.io/malware-families-catalog/) - Open-source catalog of 2,899 malware families from EMBER 2018 with MITRE ATT&CK mapping, IOCs, and detection guidance. Also on [Kaggle](https://www.kaggle.com/datasets/rickyjordan/malware-families-catalog) and [Hugging Face](https://huggingface.co/datasets/Jordan123234/malware-families-catalog).
  - [Gaming Platforms](#-gaming-platforms)
  - [Music Streaming Services](#-music-streaming-services)
  - [OSINT Videos](#-osint-videos)
