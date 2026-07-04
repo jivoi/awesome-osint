@@ -1074,6 +1074,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Image Analysis
 
+* [ChronoVerify](https://chronoverify.com/) - Free image capture time and provenance checker: C2PA Content Credentials validation, EXIF/XMP consistency checks, and pixel forensics returning one verdict with a confidence score.
 * [DiffChecker](https://www.diffchecker.com/image-diff/)
 * [EXIFEditor.io](https://exifeditor.io) - In-browser EXIF image metadata editor, viewer, and analysis tool.
 * [ExifLooter](https://github.com/aydinnyunus/exiflooter)
