@@ -1255,7 +1255,6 @@ algorithms, knowledgebase and AI technology.
 * [BBC News](http://www.bbc.co.uk/news)
 * [Bing News](http://www.bing.com/news)
 * [CNN](http://edition.cnn.com)
-* [Cyber Alert](http://www.cyberalert.com)
 * [DailyEarth](http://dailyearth.com)
 * [DPA International](http://www.dpa-international.com)
 * [Euronews](http://www.euronews.com)
