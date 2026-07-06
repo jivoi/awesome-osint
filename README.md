@@ -473,7 +473,7 @@ algorithms, knowledgebase and AI technology.
 * [Trends24](http://trends24.in)
 * [TwChat](http://twchat.com)
 * [TweetMap](http://mapd.csail.mit.edu/tweetmap)
-* [TweetMap](http://worldmap.harvard.edu/tweetmap)
+* [TweetMap](https://github.com/cga-harvard/Data_Science_Big_Data_Projects/tree/master/scripts/Geotweets)
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
 * [Twitter Audit](https://www.twitteraudit.com)
 * [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule)
