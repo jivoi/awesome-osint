@@ -1037,7 +1037,7 @@ algorithms, knowledgebase and AI technology.
 * [CashedPages](http://www.cachedpages.com)
 * [CachedView](http://cachedview.com)
 * [stored.website](https://stored.website)
-* [Wayback Machine](http://archive.org/web/web.php) - Explore the history of a website.
+* [Wayback Machine](https://web.archive.org/) - Explore the history of a website.
 * [Wayback Machine Archiver](https://github.com/jsvine/waybackpack)
 * [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
 * [waybackpy](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
