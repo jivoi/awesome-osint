@@ -1555,7 +1555,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Social Network Analysis
 
 * [Gephi](https://gephi.org) - is an open-source graph and network visualization software.
-* [ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php)
+* [ORA-LITE](https://www.cmu.edu/casos-center/research/tools/)
 * [Sentinel Visualizer](http://www.fmsasg.com)
 * [Visual Investigative Scenarios](https://vis.occrp.org)
 * [Wynyard Group](https://wynyardgroup.com)
