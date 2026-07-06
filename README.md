@@ -1473,7 +1473,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) VPN Services
 
-* [OffShore.cat](https://offshore.cat/vpn) - list of vpns for the privacy conscious 
+* [OffShore.cat](https://offshore.cat/?page=vpn) - list of vpns for the privacy conscious 
 * [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
 * [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/) - is a summary list of top best VPN services.
 
