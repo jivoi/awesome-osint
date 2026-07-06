@@ -1177,7 +1177,6 @@ algorithms, knowledgebase and AI technology.
 * [CartoDB](https://cartodb.com)
 * [Colorbrewer](http://colorbrewer2.org)
 * [CrowdMap](https://crowdmap.com)
-* [CTLRQ Address Lookup](https://ctrlq.org/maps/address)
 * [digiKam](https://www.digikam.org/)
 * [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html)
 * [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
