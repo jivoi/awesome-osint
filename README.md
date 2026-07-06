@@ -504,6 +504,7 @@ algorithms, knowledgebase and AI technology.
 * [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
 
 ### [↑](#-table-of-contents) TikTok
+* [TikTok Tools](https://omar-thing.site) - TikTok user finder, you can find any tiktok user region & info, watch stories, reposts, highlights, and other tools for tiktok
 * [TikTokStalker](https://tiktok.einzzcookie.org) - Lookup much info about TikTok stuff
 
 ### [↑](#-table-of-contents) Pinterest
