@@ -110,7 +110,7 @@ Thanks to our main contributors
 * [Lycos](https://www.lycos.com) - A search engine for pictures, videos, news and products.
 * [Mojeek](https://www.mojeek.com/) - A growing independent search engine which does not track you.
 * [Perplexity](https://www.perplexity.ai) - AI-powered search engine with source citations.
-* [Phind](https://www.phind.com) - AI search engine optimized for developers and technical questions.
+* [Phind](https://phindai.org/) - AI search engine optimized for developers and technical questions.
 * [Search.com](https://www.search.com) - Search the Web by searching the best engines from one place.
 * [Wolfram Alpha](https://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
 algorithms, knowledgebase and AI technology.
