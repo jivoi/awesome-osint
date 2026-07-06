@@ -890,7 +890,6 @@ algorithms, knowledgebase and AI technology.
 * [Eurojobs](https://www.eurojobs.com)
 * [Fish4Jobs](http://www.fish4.co.uk)
 * [Glassdoor](https://www.glassdoor.com)
-* [Headhunter](http://www.headhunter.com)
 * [Indeed](http://www.indeed.com) - is an online job searching website that gives job seekers free access to search for a job, post their resumes, and research companies.
 * [Jobs (Poland)](http://www.jobs.pl)
 * [Jobsite (UK)](http://www.jobsite.co.uk)
@@ -1180,7 +1179,6 @@ algorithms, knowledgebase and AI technology.
 * [CartoDB](https://cartodb.com)
 * [Colorbrewer](http://colorbrewer2.org)
 * [CrowdMap](https://crowdmap.com)
-* [CTLRQ Address Lookup](https://ctrlq.org/maps/address)
 * [digiKam](https://www.digikam.org/)
 * [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html)
 * [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
