@@ -931,6 +931,7 @@ algorithms, knowledgebase and AI technology.
 * [Dedicated or Not](http://dedicatedornot.com)
 * [digga](https://digga.dev) - Free and open-source domain and infrastructure research toolkit combining DNS, RDAP, WHOIS, passive subdomain discovery, IP and ASN data, email authentication checks, and TLS certificate inspection. No account required.
 * [DNS History](https://completedns.com/dns-history/)
+* [DNSai](https://dnsai.com/dns-tools/) - Free DNS, WHOIS, DKIM discovery, SPF/DMARC analysis and blacklist checks with plain-English results, no signup.
 * [DNSDumpster](https://dnsdumpster.com) - is a website that will help you discover hosts related to a specific domain.
 * [DNSStuff](http://www.dnsstuff.com)
 * [DNSViz](http://dnsviz.net)
