@@ -291,7 +291,7 @@ algorithms, knowledgebase and AI technology.
 * [OPENHUNTING.IO](https://openhunting.io/threat-library) - Threat Library Collecting Information.
 * [SOCRadar LABS](https://socradar.io/labs/threat-actor/) - Know threat actor tactics, techniques, and past activities. Access detailed profiles and track their activities.Keep up with the latest threats and Tactics, Techniques, and Procedures (TTPs).
 * [Thales](https://cds.thalesgroup.com/en/cyberthreat/attacks-page) - Find Threat actor groups in a graphical attack explorer.
-* [Threat Actor Usernames Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 650k+ threat actor usernames scraped from various cybercrime sources & forums.
+* [Threat Actor Usernames Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 900k+ threat actor usernames scraped from various cybercrime sources & forums.
 
 ## [↑](#-live-cyberthreat-maps) Live Cyber Threat Maps
 
