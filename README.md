@@ -1099,6 +1099,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
 
+* [Archivarix Tube Search](https://tube.archivarix.net/) - Search engine for finding deleted, removed, and unavailable YouTube videos. 
 * [AudienceCue](https://audiencecue.com/en/tools/youtube-comment-downloader) - Downloads the latest public YouTube video or Shorts comments as CSV for research workflows.
 * [Bing Videos](http://www.bing.com/?scope=video)
 * [Clarify](http://clarify.io)
