@@ -672,6 +672,7 @@ algorithms, knowledgebase and AI technology.
 * [Antisocial](https://github.com/lukeslp/antisocial) - Find forgotten accounts across 30+ platforms using three-tier verification: official APIs first, then browser automation, then HTTP content analysis. Reduces false positives to around 5%. Deep search mode adds 500+ platforms via the WhatsMyName database.
 * [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 600+ websites.
 * [CheckUser](https://checkuser.vercel.app/) - search username across social networks
+* [Clearfront OSINT](https://github.com/scottmartinanderson/clearfront) - Scan your own digital footprint (username, email, breach, and data broker exposure) in one sweep; ~30 modular tools wrapping Sherlock, Maigret, holehe and HIBP, with a local-first AI analyst that writes up findings.
 * [Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) - Username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
 * [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
 * [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
