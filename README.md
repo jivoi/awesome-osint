@@ -1295,6 +1295,7 @@ algorithms, knowledgebase and AI technology.
 * [Full Fact](https://fullfact.org)
 * [Snopes](http://www.snopes.com) - The definitive Internet reference source for urban legends, folklore, myths, rumors, and misinformation.
 * [Verification Handbook](http://verificationhandbook.com)
+* [Helium News Bias Corpus](https://huggingface.co/datasets/HeliumTrades/helium-news-bias-corpus) - Free API + downloadable scores for 212 news outlets across 37 framing dimensions (fear, credibility, lean…). [Explorer](https://connerlambden.github.io/helium-news-explorer/). Model-derived; source-level.
 
 ## [↑](#-table-of-contents) Data and Statistics
 
