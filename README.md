@@ -1220,6 +1220,7 @@ algorithms, knowledgebase and AI technology.
 * [Mapquest](https://www.mapquest.com)
 * [Modest Maps](http://modestmaps.com)
 * [NGA GEOINT](https://github.com/ngageoint)
+* [Off-Nadir Delta](https://offnadir-delta.com) - Live, geolocated world-event intelligence (API + MCP server): query event signals with coordinates, severity, and source links, find hotspots, search satellite imagery (Sentinel-1/2 etc), and run an AI OSINT/GEOINT analyst. Free tier.
 * [Open Street Map](http://www.openstreetmap.org)
 * [OpenLayers](http://openlayers.org)
 * [Perry Castaneda Library](https://www.lib.utexas.edu/maps)
