@@ -920,6 +920,7 @@ algorithms, knowledgebase and AI technology.
 * [aa419 Fake Sites Database](https://db.aa419.org/fakebankslist.php) - The site lists fraudulent websites, such as fake banks and online scams, identified by the Artists Against 419 community.
 * [Accuranker](https://www.accuranker.com)
 * [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
+* [Argos OSINT](https://argos-osint.com) - Free Spanish-language OSINT suite with 26 client-side tools: WHOIS/RDAP, DoH DNS resolver, subdomain enumeration via crt.sh, unified domain dashboard, IP geolocation, IP reputation via Shodan InternetDB, email header analyzer (SPF/DKIM/DMARC), pwned password check via HIBP k-anonymity, EXIF metadata analyzer, reverse image search aggregator, Wayback lookup, username finder across 50+ platforms, WhatsApp chat analyzer, JWT decoder and more. No signup, PWA installable, all processing in-browser.
 * [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
 * [Bgpview.io](https://bgpview.io) - The website bgpview.io allows you to look up detailed information about ASNs, IPs, and BGP routes on the internet.
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
