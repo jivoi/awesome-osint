@@ -1240,9 +1240,9 @@ algorithms, knowledgebase and AI technology.
 * [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
 * [ViaMichelin](http://www.viamichelin.com)
 * [View in Google Earth](http://www.mgmaps.com/kml/#view)
+* [War Monitor](https://warmonit.com/) - Free, open-source real-time conflict dashboard aggregating ACLED/UCDP events, GDELT news, military flight and vessel tracking, with daily AI intelligence briefings in 20 languages.
 * [Wikimapia](http://wikimapia.org)
 * [Windy](https://www.windy.com/)
-* [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform with live conflict tracking, military flight and vessel monitoring, GPS jamming data, satellite imagery, and geopolitical risk scores across 5 specialized dashboards.
 * [WorldMap Harvard](http://worldmap.harvard.edu)
 * [Worldwide OSINT Tools Map](https://cipher387.github.io/osintmap/) - A global map of databases and OSINT sources by applicable location.
 * [Yahoo Maps](https://maps.yahoo.com)
