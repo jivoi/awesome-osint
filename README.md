@@ -1082,6 +1082,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Image Analysis
 
 * [ChronoVerify](https://chronoverify.com) - API and free web tool that reads EXIF and XMP, validates C2PA Content Credentials against official trust lists, and runs classical pixel forensics, returning one typed verdict for any image.
+* [DeepFakeCheck](https://deepfakecheck.io/?utm_source=awesome_osint&utm_medium=referral&utm_campaign=directory_launch_2026q3) - Free web tool that combines C2PA provenance, metadata clues, and AI analysis to review images and other media for signs of manipulation, returning evidence with explicit uncertainty rather than proof.
 * [DiffChecker](https://www.diffchecker.com/image-diff/)
 * [EXIFEditor.io](https://exifeditor.io) - In-browser EXIF image metadata editor, viewer, and analysis tool.
 * [ExifLooter](https://github.com/aydinnyunus/exiflooter)
