@@ -117,7 +117,7 @@ algorithms, knowledgebase and AI technology.
 * [Yahoo! Search](https://www.yahoo.com) -  The search engine that helps you find exactly what you're looking for.
 * [YOU](https://you.com) - AI search engine.
 
-## [↑](#-google-dorks-tools) Google Dorks Tools
+## [↑](#-google-dorks-tools) Google Dorking & Tools
 
 *Google Dorks Tools*
 
