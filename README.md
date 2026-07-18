@@ -1087,6 +1087,7 @@ algorithms, knowledgebase and AI technology.
 * [ExifLooter](https://github.com/aydinnyunus/exiflooter)
 * [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
 * [Forensically](https://29a.ch/photo-forensics/)
+* [forensics.media](https://forensics.media/tools/)  - Free in-browser image forensics suite: EXIF/metadata viewer, Error Level Analysis, clone/copy-move and double-JPEG detection. Runs client-side, nothing uploaded.
 * [FotoForensics](http://www.fotoforensics.com)
 * [GeoSpy](https://geospy.web.app/) - AI based image osint tool
 * [ImgOps](https://imgops.com/)
@@ -1097,7 +1098,7 @@ algorithms, knowledgebase and AI technology.
 * [Metadata Viewer](https://kriztalz.sh/metadata-viewer/) - Online EXIF data viewer.
 * [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
 * [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
-* [forensics.media](https://forensics.media/tools/)  - Free in-browser image forensics suite: EXIF/metadata viewer, Error Level Analysis, clone/copy-move and double-JPEG detection. Runs client-side, nothing uploaded.
+
 
 
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
