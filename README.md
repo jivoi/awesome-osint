@@ -17,7 +17,7 @@ Happy hacking and hunting 🧙‍♂️
  - [Main National Search Engines](#-main-national-search-engines)
  - [Meta Search](#-meta-search)
  - [Privacy Focused Search Engines](#-privacy-focused-search-engines)
- - [Data Breach Search Engines](#-databreach-search-engines)
+ - [Data Breach Search Engines](#-data-breach-search-engines)
  - [Specialty Search Engines](#-specialty-search-engines)
  - [Dark Web Search Engines](#-dark-web-search-engines)
  - [Visual Search and Clustering Search Engines](#-visual-search-and-clustering-search-engines)
@@ -91,7 +91,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#-table-of-contents) Credits
 
-This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/).
+This list was taken partially from [i-intelligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/).
 
 Thanks to our main contributors
 [jivoi EK_](https://github.com/jivoi) & 
@@ -119,7 +119,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-google-dorks-tools) Google Dorking & Tools
 
-*Google Dorks Tools*
+*Google Dorking & Tools*
 
 * [AtDork](https://github.com/amnottdevv/atdork) - Professional OSINT dorking tool featuring adaptive delay, circuit breaker, and automatic backend fallback to avoid IP bans and rate limits.
 * [DorkGenius](https://dorkgenius.com/) - DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. - Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web.
@@ -195,7 +195,7 @@ algorithms, knowledgebase and AI technology.
 * [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
 * [Venacus](https://venacus.com/) - Search for your data breaches and get notified when your data is compromised.
 
-## [↑](#-table-of-contents) Speciality Search Engines
+## [↑](#-table-of-contents) Specialty Search Engines
 
 *Search engines for specific information or topics.*
 
