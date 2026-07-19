@@ -1087,6 +1087,7 @@ algorithms, knowledgebase and AI technology.
 * [ExifLooter](https://github.com/aydinnyunus/exiflooter)
 * [ExifTool](https://www.sno.phy.queensu.ca/~phil/exiftool)
 * [Forensically](https://29a.ch/photo-forensics/)
+* [forensics.media](https://forensics.media/tools/)  - Free in-browser image forensics suite: EXIF/metadata viewer, Error Level Analysis, clone/copy-move and double-JPEG detection. Runs client-side, nothing uploaded.
 * [FotoForensics](https://www.fotoforensics.com)
 * [GeoSpy](https://geospy.web.app/) - AI based image osint tool
 * [ImgOps](https://imgops.com/)
