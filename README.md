@@ -973,6 +973,7 @@ algorithms, knowledgebase and AI technology.
 * [MaxMind](https://www.maxmind.com)
 * [MetaDefender](https://metadefender.com) - Threat analysis service for URLs, files, certificates, domains, and suspicious hashes.
 * [Netcraft Site Report](https://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
+* [Netruneer Email DNS Snapshot](https://alexispomares.github.io/netruneer-site/check/)  - Free, no-signup SPF, DMARC, and MX snapshot using bounded public DNS queries.
 * [OpenLinkProfiler](https://www.openlinkprofiler.org/)
 * [PageGlimpse](https://www.pageglimpse.com)
 * [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
