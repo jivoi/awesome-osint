@@ -578,6 +578,7 @@ algorithms, knowledgebase and AI technology.
 * [TOsint](https://github.com/drego85/tosint) - Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities.
 
 **Telegram Bots**
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) — Open source (GPL-3.0) autonomous AI penetration testing platform and MCP host covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 * [AgentFNS_Bot](https://t.me/AgentFNS_bot) — Free instant counterparty check using official data (INN/OGRN).
 * [AVinfoBot](https://t.me/AVskp_Bot) — Used-car history via plate/VIN/phone.
 * [AvtoNomer](https://t.me/avtonomerbot) — Finds vehicle photos by plate via platesmania.com.
