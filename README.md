@@ -855,6 +855,7 @@ algorithms, knowledgebase and AI technology.
 * [GuideStar](https://www.guidestar.org)
 * [Hoovers](https://www.hoovers.com)
 * [Inc. 5000](https://www.inc.com/inc5000)
+* [IntelCue Competitive Intelligence Prompt Builder](https://www.intelcue.ai/tools/competitive-intelligence-prompt-builder) - Free tool that builds a structured competitive intelligence prompt for ChatGPT, Claude, or Gemini through a 5-step wizard.
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Knowledge guide to international company registration](https://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
 * [Linkedin](https://www.linkedin.com) - Commonly used social-media platform with a focus on professional profiles and recruitment. Spans a wide variety of industries. Very useful for gathering information on what specific individuals are active within an entity.
