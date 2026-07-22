@@ -1081,6 +1081,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Image Analysis
 
+* [AnyImageDetector](https://imagedetector.online/)  - Free web tool and API that estimates whether an image is AI-generated, returning a probability score, verdict, and confidence level for verification triage.
 * [ChronoVerify](https://chronoverify.com) - API and free web tool that reads EXIF and XMP, validates C2PA Content Credentials against official trust lists, and runs classical pixel forensics, returning one typed verdict for any image.
 * [DiffChecker](https://www.diffchecker.com/image-diff/)
 * [EXIFEditor.io](https://exifeditor.io) - In-browser EXIF image metadata editor, viewer, and analysis tool.
