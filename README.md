@@ -1095,6 +1095,7 @@ algorithms, knowledgebase and AI technology.
 * [ImpulseAdventure](https://www.impulseadventure.com/photo/jpeg-snoop.html)
 * [Jeffreys Image Metadata Viewer](https://exif.regex.info/)
 * [JIMPL](https://jimpl.com/) - Online EXIF data viewer
+* [JPEG Audit](https://jpegaudit.com) - Free online JPEG forensics: EXIF/IPTC/XMP and GPS, automated tamper checks with a severity-rated verdict, JPEG structure and quantization tables, perceptual hash, and a Street View comparison using the EXIF camera bearing.
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 * [Metadata Viewer](https://kriztalz.sh/metadata-viewer/) - Online EXIF data viewer.
 * [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
