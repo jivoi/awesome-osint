@@ -1239,6 +1239,7 @@ algorithms, knowledgebase and AI technology.
 * [StoryMaps](https://storymaps.arcgis.com/en)
 * [SunCalc](https://www.suncalc.org/)
 * [Tableau](https://www.tableausoftware.com)
+* [UAV Radar](https://uavradar.live/) - Live map of air-raid alerts and drone-attack reports across Ukraine and Russia at district granularity, with 30-day per-region statistics and an open JSON API.
 * [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
 * [ViaMichelin](https://www.viamichelin.com)
 * [View in Google Earth](https://www.mgmaps.com/kml/#view)
