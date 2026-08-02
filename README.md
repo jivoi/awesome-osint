@@ -1371,6 +1371,7 @@ algorithms, knowledgebase and AI technology.
 * [The Data and Story Library](https://lib.stat.cmu.edu/DASL)
 * [Trading Economics](https://www.tradingeconomics.com)
 * [Transparency.org Corruption Perception Index](https://www.transparency.org/cpi2015)
+* [UAV Radar](https://uavradar.live/) - Air-raid alert and drone-attack statistics for Ukraine and Russia at district level: per region, how many alert episodes occurred, how many ended, and how long they typically last, over a rolling 30 days. Free JSON API, no registration, CC BY 4.0.
 * [UN COMTRADE Database](https://comtrade.un.org)
 * [UN Data](https://data.un.org)
 * [UNCTAD Country Fact Sheets](https://unctad.org/en/Pages/DIAE/World%20Investment%20Report/Country-Fact-Sheets.aspx)
