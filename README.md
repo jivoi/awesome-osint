@@ -328,6 +328,7 @@ algorithms, knowledgebase and AI technology.
 * [Meawfy](https://meawfy.com/) - Advanced Mega.nz File Search Engine. Search and discover files from Mega.nz with our intelligent crawler technology. Access over 9 million indexed files instantly.
 * [NAPALM FTP Indexer](https://www.searchftps.net/)
 * [ODCrawler](https://odcrawler.xyz/) - A search engine for open directories. Find millions of publicly available files!
+* [Plunder](https://github.com/plunder-pentesttool/plunder) - A tool for searching the filesystem and directories for leaked clear text passwords.
 * [SearchFiles.de](https://searchfiles.de/)
 
 ## [↑](#-table-of-contents) Pastebins
