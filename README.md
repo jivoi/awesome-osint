@@ -1099,6 +1099,7 @@ algorithms, knowledgebase and AI technology.
 * [JIMPL](https://jimpl.com/) - Online EXIF data viewer
 * [JPEG Audit](https://jpegaudit.com) - Free online JPEG forensics: EXIF/IPTC/XMP and GPS, automated tamper checks with a severity-rated verdict, JPEG structure and quantization tables, perceptual hash, and a Street View comparison using the EXIF camera bearing.
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
+* [Metadata Remover](https://metadataremover.ai/metadata-viewer) - Browser-local image metadata viewer for EXIF, GPS, XMP, IPTC, and supported AI metadata; no file upload or account required.
 * [Metadata Viewer](https://kriztalz.sh/metadata-viewer/) - Online EXIF data viewer.
 * [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
 * [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
