@@ -865,6 +865,7 @@ algorithms, knowledgebase and AI technology.
 * [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
 * [OpenOwnership Register](https://register.openownership.org/)
 * [Orbis directory](https://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
+* [Orbit Sentinel](https://www.viventine.com/orbit-sentinel/) - Searchable database of 950K+ space regulatory filings (FCC, ITU, UNOOSA, FAA-AST) with entity dossiers linking corporate filings, SEC records, and sanctions screening.
 * [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
 * [Plunkett Research](https://www.plunkettresearchonline.com)
 * [Scoot](https://www.scoot.co.uk)
