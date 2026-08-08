@@ -479,6 +479,7 @@ algorithms, knowledgebase and AI technology.
 * [Twitter Audit](https://www.twitteraudit.com)
 * [Twitter Chat Schedule](https://tweetreports.com/twitter-chat-schedule)
 * [Twitter Search](https://search.twitter.com)
+* [TwitterAPIs](https://www.twitterapis.com) - Twitter / X data API: search, profiles, timelines, followers, DMs, plus write actions (post, like, retweet, follow).
 * [Xquik](https://xquik.com) - Real-time X (Twitter) data platform for tweet search, user lookup, follower/following extraction, engagement metrics, account monitoring, reply/retweet/quote extraction, community & Space data, and mutual follow checks.
 
 ### [↑](#-table-of-contents) Facebook
