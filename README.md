@@ -967,6 +967,7 @@ algorithms, knowledgebase and AI technology.
 * [IPFingerprints](https://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
 * [IPOK](https://ipok.io) - Free, no-login IP reputation lookup that aggregates up to 8 risk sources, flags residential vs datacenter, and profiles /24 C-block neighbors. Also offers a CLI and a Chrome extension.
 * [IPVoid](https://www.ipvoid.com) - IP address toolset.
+* [IPWhois.net](https://ipwhois.net) - IP address lookup with WHOIS, geolocation, ASN and connection type data, plus a community blacklist of 180,000+ reported malicious IPs with a free check/report API.
 * [ISP.Tools](https://www.isp.tools) - Is a free platform offering network diagnostic tools (ping, traceroute, MTR, DNS, WHOIS, HTTP, etc.) tailored for ISPs and infrastructure professionals.
 * [Kloth](https://www.kloth.net/services)
 * [Majestic](https://majestic.com) - Find out who links to your website.
