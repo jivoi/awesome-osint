@@ -406,6 +406,7 @@ algorithms, knowledgebase and AI technology.
 * [PublicWWW](https://publicwww.com/)
 * [Reposearch](https://codefinder.org/)
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
+* [SearchWebCode](https://www.searchwebcode.com/) - Search engine for website source code; exact-string and regex search across 127M website homepages.
 * [Sourcebot](https://www.sourcebot.dev/) - Index thousands of repos on your machine and search through them in a fast, powerful, and modern web interface.
 * [SourceGraph](https://sourcegraph.com/search) - Search code from millions of open source repositories.
 
