@@ -954,6 +954,8 @@ algorithms, knowledgebase and AI technology.
 * [HypeStat](https://www.hypestat.com)
 * [IP.THC.ORG](https://ip.thc.org/) - Unlimited Reverse DNS, Subdomain and Reverse CNAME lookups, also provides JSON APIs. 
 * [Icann Lookup](https://lookup.icann.org/en/lookup) - The site allows you to look up domain registration information (WHOIS) on the internet
+* [ImmuniWeb - SSL Security Test](https://www.immuniweb.com/ssl/) - SSL/TLS security scanner that analyzes certificate configuration, encryption protocols, vulnerabilities, and overall HTTPS security.
+* [ImmuniWeb - Website Security Test](https://www.immuniweb.com/websec/) - website security scanner that checks for vulnerabilities, misconfigurations, outdated software, and other security risks.
 * [Infosniper](https://www.infosniper.net)
 * [isMalicious](https://ismalicious.com) - Threat intelligence platform aggregating malicious IP and domain data from multiple security feeds with real-time reputation scoring and threat categorization.
 * [IntoDNS.ai](https://intodns.ai) - AI-powered DNS and email security scanner with SPF, DKIM, DMARC, DNSSEC checks and fix suggestions.
@@ -978,7 +980,9 @@ algorithms, knowledgebase and AI technology.
 * [openSquat](https://github.com/atenreiro/opensquat) - Open source tool that searches newly registered domain feeds to find typosquatting, IDN homograph, doppelganger and bitsquatting domains impersonating a given brand or keyword.
 * [osint-recon](https://github.com/JMarchiori13/osint-recon) - Passive OSINT reconnaissance framework in Rust: subdomains, DNS, ASN, certificate transparency history, GitHub dorking, tech fingerprinting, emails and document metadata for authorized red team engagements.
 * [PageGlimpse](https://www.pageglimpse.com)
-* [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
+* [Pentest-Tools - Google Hacking](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
+* [Pentest Tools - Network Vulnerability Scanner](https://pentest-tools.com/network-vulnerability-scanning/network-security-scanner-online) - scanner for identifying vulnerabilities and security issues in network infrastructure. 
+* [Pentest Tools - Website Vulnerability Scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner) - Web-based scanner for detecting common security vulnerabilities and configuration issues in websites.
 * [PhishStats](https://phishstats.info/)
 * [Pulsedive](https://pulsedive.com)
 * [Qualys SSL Check](https://www.ssllabs.com/ssltest/) - SSL Test configuration compliance.
