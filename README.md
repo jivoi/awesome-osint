@@ -1297,6 +1297,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) News Digest and Discovery Tools
 
+* [CLSTR](https://clstr.news/)
 * [Flipboard](https://flipboard.com)
 * [Inshorts](https://www.inshorts.com)
 * [Newsinshorts](https://newsinshorts.com)
