@@ -505,6 +505,7 @@ algorithms, knowledgebase and AI technology.
 * [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
 
 ### [↑](#-table-of-contents) TikTok
+* [AI TikTok Analyzer Pro](https://chromewebstore.google.com/detail/cgnemfnpkodogmbpdchgejohnnpgamho) - Browser extension that sorts a public profile's videos by views, likes or date, transcribes speech to text, and translates and exports public comments to CSV.
 * [TikTokStalker](https://tiktok.einzzcookie.org) - Lookup much info about TikTok stuff
 
 ### [↑](#-table-of-contents) Pinterest
