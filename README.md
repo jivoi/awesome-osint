@@ -835,7 +835,8 @@ algorithms, knowledgebase and AI technology.
 * [Bureau Van Dijk](https://www.bvdinfo.com)
 * [Business Source](https://www.ebscohost.com/academic/business-source-complete)
 * [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
-* [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.  
+* [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.
+* [Company Records](https://records.knowyourcustomer.com) - Official company registry filings plus a structured KYB report (officers, shareholders, ownership chain) for 140+ jurisdictions, retrieved live from the source register; per-jurisdiction coverage pages show which fields each register publishes. Free company search; records paid per jurisdiction.
 * [Company Registration Round the World](https://www.commercial-register.sg.ch/home/worldwide.html)
 * [Company Research Resources by Country Comparably](https://www.comparably.com)
 * [CompeteShark](https://competeshark.com)
