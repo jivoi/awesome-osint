@@ -222,6 +222,7 @@ algorithms, knowledgebase and AI technology.
 * [GrayhatWarfare](https://grayhatwarfare.com/) - Searches and indexes open Amazon S3 buckets, allowing users to find and explore potentially exposed data.
 * [GreyNoise](https://viz.greynoise.io/) - Search Exposed Internet assets, Malicious IP's.
 * [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
+* [Horizons](https://horizons.c4ads.org/about) - [C4ADS's](https://c4ads.org) investigative data platform for searching billions of public-interest records and uncovering connections across people, companies, and networks.
 * [Hunter Search Engine](https://hunter.how/) - Search Exposed Internet assets, open web directories and many more.
 * [Intelligence X](https://intelx.io/tools) - Paid OSINT Tool Allowing users to search for information across various sources including the dark web and public data leaks.
 * [Internet Archive](https://archive.org/)
