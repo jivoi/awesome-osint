@@ -976,6 +976,7 @@ algorithms, knowledgebase and AI technology.
 * [Mark Monitor WHOIS](https://whois-webform.markmonitor.com/whois/) - Displays domain registration information.
 * [MaxMind](https://www.maxmind.com)
 * [MetaDefender](https://metadefender.com) - Threat analysis service for URLs, files, certificates, domains, and suspicious hashes.
+* * [MyIPScan](https://myipscan.net/tools/) - Free browser-based diagnostics for IP, ASN, WHOIS/RDAP, reverse DNS and DNS records, plus IP ranges by provider, SPF/DMARC/MX checks, and DNS/WebRTC/IPv6 leak and browser fingerprint tests. No account, nothing to install.
 * [Netcraft Site Report](https://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
 * [OpenLinkProfiler](https://www.openlinkprofiler.org/)
 * [openSquat](https://github.com/atenreiro/opensquat) - Open source tool that searches newly registered domain feeds to find typosquatting, IDN homograph, doppelganger and bitsquatting domains impersonating a given brand or keyword.
