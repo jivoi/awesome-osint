@@ -867,6 +867,7 @@ algorithms, knowledgebase and AI technology.
 * [Orbis directory](https://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 * [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
 * [Plunkett Research](https://www.plunkettresearchonline.com)
+* [Registry Lookup](https://registry-lookup.com) - Free search across 479 million+ legal entities aggregated from official company registries in 309 jurisdictions across 244 countries, returning legal name, registry number, status, incorporation date, legal form, registered address and tax/VAT identifiers where published. No account needed to search; 5,000 free API calls a month.
 * [Scoot](https://www.scoot.co.uk)
 * [Section 16 Deadline Calculator](https://github.com/Turner-Levey/section-16-deadline-calculator)  - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
 * [SEMrush](https://www.semrush.com)
