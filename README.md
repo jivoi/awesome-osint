@@ -1000,6 +1000,7 @@ algorithms, knowledgebase and AI technology.
 * [Similar Web](https://www.similarweb.com) - Compare any website traffic statistics & analytics.
 * [SmallSEOTools](https://smallseotools.com)
 * [Squatm3gator](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
+* [StackScan](https://www.stackscan.com) - Technology index over 360M+ sites. Look up a domain's stack, or start from a technology to get the sites using it, by country and industry. Free on email signup: 100 lifetime API credits, one list, and custom footprint scans.
 * [StatsCrop](https://www.statscrop.com)
 * [TinyScan](https://www.tiny-scan.com) - Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
 * [TracerouteVisualizer](https://kriztalz.sh/traceroute-visualizer/) - An online tool that displays your mtr / traceroute / flyingroutes output on a map for visual analysis.
