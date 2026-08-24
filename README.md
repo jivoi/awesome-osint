@@ -1812,3 +1812,6 @@ algorithms, knowledgebase and AI technology.
 ![cc license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
+
+- [DECEPTRIX](https://github.com/narain-karti/DECEPTRIX) - Multi-modal AI forensic investigation platform for video deepfake detection, audio-visual synchrony verification, and automated audit dossier export.
