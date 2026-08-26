@@ -728,6 +728,7 @@ algorithms, knowledgebase and AI technology.
 * [Reunion](https://reunion.com) - People search. Limited free info, premium data upsell.
 * [Socialcatfish](https://socialcatfish.com/) - Superextensive people search which works worldwide. Searches are done from 200 Billion records.
 * [SearchBug](https://www.searchbug.com) - People search. Limited free info, premium data upsell.
+* * [Sirveil](https://ai.sirveil.ai/docs/api) - Paid API. Checks whether an identity is indexed on a named people-search or broker domain and returns a three-state verdict (indexed / not indexed / indeterminate) with source URL, snippet and version stamps. US only.
 * [Spokeo](https://www.spokeo.com) - People search. Limited free info, premium data upsell.
 * [Surfface](https://surfface.com) - Face search and people finder that links faces to social media profiles and other public data.
 * [The National Archives (UK)](https://www.nationalarchives.gov.uk) - Search UK national archives.
