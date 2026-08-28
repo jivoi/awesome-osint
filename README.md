@@ -1066,6 +1066,7 @@ algorithms, knowledgebase and AI technology.
 * [Bing Images](https://www.bing.com/images)
 * [Clarify](https://clarify.io)
 * [Dupli Checker](https://www.duplichecker.com/reverse-image-search.php) - You can search for an image by uploading + with URL or typing the keyword or any word you want to explore related to images.
+* [Face2social](https://face2social.com) - Face search across public social media profile pictures (Instagram, Facebook, TikTok, X). Does not index the open web. US only.
 * [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
 * [Faceagle](https://faceagle.com/) - Faceagle is a face recognition search engine.
 * [Flickr](https://flickr.com/search/)
