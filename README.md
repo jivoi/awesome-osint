@@ -868,6 +868,7 @@ algorithms, knowledgebase and AI technology.
 * [Orbis directory](https://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 * [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
 * [Plunkett Research](https://www.plunkettresearchonline.com)
+* [Reestri](https://apify.com/reestri) - Georgia (country) and Armenia company registers, Armenian beneficial owners, person-to-companies search. Paid per lookup, MCP for AI agents.
 * [Scoot](https://www.scoot.co.uk)
 * [Section 16 Deadline Calculator](https://github.com/Turner-Levey/section-16-deadline-calculator)  - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
 * [SEMrush](https://www.semrush.com)
