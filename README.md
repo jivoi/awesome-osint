@@ -837,6 +837,7 @@ algorithms, knowledgebase and AI technology.
 * [Business Source](https://www.ebscohost.com/academic/business-source-complete)
 * [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
 * [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.  
+* [Company Records](https://records.knowyourcustomer.com/) - Free anonymous company search across 149 jurisdictions; on purchase, the company report and official filings are retrieved live from the official register (paid, from US$19).
 * [Company Registration Round the World](https://www.commercial-register.sg.ch/home/worldwide.html)
 * [Company Research Resources by Country Comparably](https://www.comparably.com)
 * [CompeteShark](https://competeshark.com)
