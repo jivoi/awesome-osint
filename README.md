@@ -190,6 +190,7 @@ algorithms, knowledgebase and AI technology.
 * [HIB Ransomed](https://haveibeenransom.com/) - Because people have the right to know if their data has been leaked.
 * [HEROIC.NOW](https://heroic.com/) - Has your data been leaked on the dark web? Scan your identities for FREE.
 * [IKnowYour.Dad](https://iknowyour.dad/) - Data Breach Search Engine.
+* [LeakData](https://leakdata.io/) - Checks owned or authorized email addresses and domains against supported breach sources and provides a k-anonymity password exposure check.
 * [Leaker](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
 * [NOX](https://github.com/nox-project/nox-framework) - Recursive async framework for deep breach analysis and identity pivoting.
 * [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in known data breaches. Fast lookup across multiple breach databases, with a simple API available.
