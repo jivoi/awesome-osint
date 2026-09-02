@@ -708,6 +708,7 @@ algorithms, knowledgebase and AI technology.
 * [ContactOut](https://contactout.com/) - Unlock the world's most accurate contact data. Find emails & phone for 300M professionals.
 * [Clustermaps](https://clustrmaps.com/) - Find people and address information associated with them
 * [CrunchBase](https://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
+* [Crustdata](https://crustdata.com) - People and company intelligence API covering 1B+ profiles and 200M+ companies: employment history, headcount, funding, technologies, and contact data. Paid API, docs are public.
 * [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
 * [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration required. Funded by The Church Of Jesus Christ of Latter-day Saints.
 * [FamilyTreeNow](https://familytreenow.com) - Research family and geneology, no registration required, can search addresses, phone numbers, and email addresses as well as associations.
