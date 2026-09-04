@@ -752,6 +752,7 @@ algorithms, knowledgebase and AI technology.
 * [EmailRep](https://emailrep.io) - Email address reputation and risk scoring service.
 * [Epieos Tools](https://tools.epieos.com) - Collection of OSINT tools for email investigations.
 * [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
+* [Ghunt-panel](https://github.com/Drotfix/ghunt-panel) - Local web UI for GHunt: run lookups and manage login from a browser tab instead of the CLI.
 * [Gitrecon](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 * [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
