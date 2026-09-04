@@ -554,6 +554,7 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) LinkedIn
 
+* [CrustAPI](https://crustapi.com) - API for public, logged-out LinkedIn profile, company, job and people data as JSON. Free tier, no login required.
 * [the-endorser](https://github.com/eth0izzle/the-endorser) - Tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
 * [LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Script to dump/scrape/extract company employees info from LinkedIn API.
 
