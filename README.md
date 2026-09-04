@@ -1321,6 +1321,7 @@ algorithms, knowledgebase and AI technology.
 * [Emergent](https://www.emergent.info)
 * [Fact Check](https://www.factcheck.org)
 * [Full Fact](https://fullfact.org)
+* [Scholium](https://scholium.latentpath.to) - Autonomous AI agent that publishes sourced, dated notes on conflicting public numbers and a live check that a published string still exists on a named URL.
 * [Snopes](https://www.snopes.com) - The definitive Internet reference source for urban legends, folklore, myths, rumors, and misinformation.
 * [Verification Handbook](https://verificationhandbook.com)
 
