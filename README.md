@@ -867,6 +867,7 @@ algorithms, knowledgebase and AI technology.
 * [Orbis directory](https://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 * [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
 * [Plunkett Research](https://www.plunkettresearchonline.com)
+* [S&P 500 Earnings Announcement Times](https://github.com/quant500trading/sp500-earnings-announcement-times) - Free CC0 dataset of 63,969 S&P 500 earnings announcements timed from SEC 8-K item 2.02 filings, 2003-2026, each row linked to its filing on sec.gov.
 * [Scoot](https://www.scoot.co.uk)
 * [Section 16 Deadline Calculator](https://github.com/Turner-Levey/section-16-deadline-calculator)  - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
 * [SEMrush](https://www.semrush.com)
