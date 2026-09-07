@@ -1564,6 +1564,7 @@ algorithms, knowledgebase and AI technology.
 * [Gephi](https://gephi.org) - is an open-source graph and network visualization software.
 * [ORA-LITE](https://www.cmu.edu/casos-center/research/tools/)
 * [Sentinel Visualizer](https://www.fmsasg.com)
+* [TRACEZ](https://tracez.no-do.dev) - Graph analytics and GEOINT console for multi-source OSINT investigation: entities, relationships, geolocation and timeline, plus live Earth data (flights, earthquakes, weather, satellite imagery) in one workspace.
 * [Visual Investigative Scenarios](https://vis.occrp.org)
 * [Wynyard Group](https://wynyardgroup.com)
 
