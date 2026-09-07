@@ -1360,6 +1360,7 @@ algorithms, knowledgebase and AI technology.
 * [OECD Data](https://data.oecd.org)
 * [OECD Factbook](https://www.oecd-ilibrary.org/economics/oecd-factbook_18147364)
 * [Open Data Network](https://www.opendatanetwork.com)
+* [OpenFilings](https://github.com/molchalih/openfilings-samples) - Free CSV samples built from US federal filings: prime contracts and orders whose period of performance ends within 12 months, cut by NAICS code, and 990-PF private foundations by state with their grants. No registration.
 * [Paul Hensel’s General Informational Data Page](https://www.paulhensel.org/dataintl.html)
 * [Penn World Table](https://www.rug.nl/research/ggdc/data/pwt/pwt-8.1)
 * [Pew Research Center](https://www.pewinternet.org/datasets)
