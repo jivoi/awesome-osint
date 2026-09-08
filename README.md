@@ -244,6 +244,8 @@ algorithms, knowledgebase and AI technology.
 * [Zanran](https://zanran.com)
 * [ZoomEye](https://www.zoomeye.ai/) - ZoomEye is a cyberspace search engine for IPs, domains, internet asset discovery, and exposure analysis of servers, routers, and webcams.
 
+* [vamp-shodan-hunt](https://github.com/Vampsecure-Labs/vamp-shodan-hunt) - Shodan OSINT exposure hunter: CVE-exposed hosts, product enumeration, org attack surface mapping, and raw queries via the Shodan REST API — no Shodan Python SDK required; CLI-first with JSON output.
+* [vamp-easm](https://github.com/Vampsecure-Labs/vamp-easm) - Continuous external attack surface management with daily diff tracking: subdomain discovery, certificate transparency, open ports, and technology fingerprinting — agentless, CLI-first.
 ## [↑](#-table-of-contents) Dark Web Search Engines
 * [Ahmia](https://ahmia.fi)
 * [Aleph Open Search](https://open-search.aleph-networks.eu)
@@ -1028,6 +1030,7 @@ algorithms, knowledgebase and AI technology.
 * [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
 * [You Get Signal](https://www.yougetsignal.com)
 
+* [vamp-passive-recon](https://github.com/Vampsecure-Labs/vamp-passive-recon) - Passive recon engine aggregating eight OSINT sources with subdomain enumeration, HTTP header fingerprinting, and GitHub dork scanning; no active probing required.
 ## [↑](#-table-of-contents) Keywords Discovery and Research
 
 * [Google Adwords](https://adwords.google.com) - Get monthly keyword volume data and stats.
