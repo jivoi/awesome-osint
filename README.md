@@ -116,6 +116,7 @@ Thanks to our main contributors
 algorithms, knowledgebase and AI technology.
 * [Yahoo! Search](https://www.yahoo.com) -  The search engine that helps you find exactly what you're looking for.
 * [YOU](https://you.com) - AI search engine.
+* [The OSINT Vault](https://theosintvault.io) - Free, browser-native tools, query generators, and structured discovery engines.
 
 ## [↑](#-google-dorks-tools) Google Dorks Tools
 
