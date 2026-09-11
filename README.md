@@ -842,6 +842,7 @@ algorithms, knowledgebase and AI technology.
 * [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.  
 * [Company Registration Round the World](https://www.commercial-register.sg.ch/home/worldwide.html)
 * [Company Research Resources by Country Comparably](https://www.comparably.com)
+* [SellToState](https://selltostate.com) - Government tender and award records by country.
 * [CompeteShark](https://competeshark.com)
 * [Corporate Information](https://www.corporateinformation.com) - Aggregated information from publicly available sources on publicly traded companies worldwide.
 * [CorporationWiki](https://www.corporationwiki.com/)
