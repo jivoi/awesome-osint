@@ -1083,6 +1083,7 @@ algorithms, knowledgebase and AI technology.
 * [PicTriev](https://www.pictriev.com) - a face search engine.
 * [PimEyes](https://pimeyes.com) - an online face search engine that goes through the Internet to find pictures containing given faces.
 * [Pixsy](https://www.pixsy.com/) - Take back control of your images. See where & how your images are being used online!
+* [Reverse Image Search Anywhere](https://reverseimage.app) - Browser extension that searches one image across Google Lens, Yandex, Bing and TinEye at once, including images that normally cannot be reverse-searched: Instagram, Pinterest, canvas and blob URLs.
 * [Search4faces](https://search4faces.com/) - a service for searching people on the Internet by photo.
 * [Surfface](https://surfface.com) - face search and people finder indexing social profiles and public images from social media and the web.
 * [TinEye](https://tineye.com) - Reverse image search engine.
