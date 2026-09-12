@@ -1597,6 +1597,7 @@ algorithms, knowledgebase and AI technology.
 * [I2P](https://geti2p.net)
 * [justdeleteme](https://justdelete.me)
 * [KeePass Password Safe](https://keepass.info) - is a free and open-source password manager that uses the most secure encryption algorithms to safegard your passwords.
+* [Mailfo](https://mailfo.pages.dev) - Privacy-preserving disposable temporary email and instant OTP inbox for Android and Web to prevent identity exposure and spam.
 * [Lastpass](https://lastpass.com)
 * [Lockbin](https://lockbin.com)
 * [Mailbox](https://mailbox.org)
