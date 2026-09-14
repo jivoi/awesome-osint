@@ -857,6 +857,7 @@ algorithms, knowledgebase and AI technology.
 * [Glassdoor](https://www.glassdoor.com)
 * [globalEdge](https://globaledge.msu.edu)
 * [GoodFirms](https://www.goodfirms.co/)
+* [Google Ads Transparency Center Scraper](https://apify.com/brenton8907/google-ads-transparency-center) - Search public Google Ads Transparency Center records by domain, brand, or advertiser ID; export observed creatives and metadata as JSON or CSV. Free Apify tier; account required.
 * [GuideStar](https://www.guidestar.org)
 * [Hoovers](https://www.hoovers.com)
 * [Inc. 5000](https://www.inc.com/inc5000)
