@@ -1249,6 +1249,7 @@ algorithms, knowledgebase and AI technology.
 * [SunCalc](https://www.suncalc.org/)
 * [Tableau](https://www.tableausoftware.com)
 * [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
+* [Vantage](https://vantage.talhaid.tech) - Tracks and distills global events into daily briefings with a live wire map.
 * [ViaMichelin](https://www.viamichelin.com)
 * [View in Google Earth](https://www.mgmaps.com/kml/#view)
 * [Wikimapia](https://wikimapia.org)
