@@ -1643,6 +1643,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Maritime
 
+* [ArcNautical](https://arcnautical.com/check) - Free vessel sanctions screening by IMO number against the OFAC, EU, UK and UN lists, with an ownership-opacity score and a vetting grade for the hull; no account required.
 * [Logibook](https://logibook.dataint.net) - Trade and logistics reference covering 250 countries: 58,730 sourced entities across ports, airports, terminals, trade zones and carriers, built from the NGA World Port Index, UN/LOCODE, SMDG terminal and liner code lists, ISO 6346 container codes, UNCTAD liner shipping connectivity and World Bank port throughput. Each port page also shows the nearest airport, city and trade zone with distances. Every figure carries its source and year. Web reference only, no API or bulk download.
 * [Phantom Tide](https://github.com/tg12/phantomtide) - Cross-domain OSINT dashboard combining vessel tracking, airspace activity, official notices, environmental context, and satellite detections for maritime and airspace analysis.
 * [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
