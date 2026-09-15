@@ -1088,6 +1088,7 @@ algorithms, knowledgebase and AI technology.
 * [TinEye](https://tineye.com) - Reverse image search engine.
 * [Yahoo Image Search](https://images.search.yahoo.com)
 * [Yandex Images](https://www.yandex.com/images)
+* [PrivacyLeak](https://www.privacy.ai)
 
 ## [↑](#-table-of-contents) Image Analysis
 
