@@ -852,6 +852,7 @@ algorithms, knowledgebase and AI technology.
 * [European Business Register](https://www.ebr.org)
 * [Ezilon](https://www.ezilon.com)
 * [Factiva](https://global.factiva.com)
+* [FactoryRegistry](https://www.factoryregistry.com) - Free registry of 330,000+ U.S. manufacturing plants compiled from federal records (EPA, OSHA, SAM.gov): address, operating company and NAICS codes for each plant, with the source records cited.
 * [Forbes Global 2000](https://www.forbes.com/global2000/)
 * [Fylings](https://www.fylings.com) - Free company-intelligence platform for Africa: search and verify companies across 18+ official national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM and more), with the official source and a last-verified date on every record.
 * [Glassdoor](https://www.glassdoor.com)
