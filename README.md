@@ -1108,6 +1108,7 @@ algorithms, knowledgebase and AI technology.
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 * [Metadata Viewer](https://kriztalz.sh/metadata-viewer/) - Online EXIF data viewer.
 * [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
+* [Sealed Rose](https://sealedrose.com/verify-video) - Free web tool and API for AI deepfake video and synthetic image detection using temporal frame forensics and generative artifact analysis.
 * [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
 
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
