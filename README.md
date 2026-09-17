@@ -797,6 +797,7 @@ algorithms, knowledgebase and AI technology.
 * [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Phone — Instantly. Scans multiple sites for phone presence, breaches, validity and more.
 * [Truecaller](https://truecaller.com) - Global reverse phone number search.
 * [Twilio](https://www.twilio.com/docs/lookup/v2-api) - Look up a phone numbers carrier type, location, etc. Twilio offers free accounts that come with credits you can use with their API. Each lookup is only ~$0.01-$0.02 typically on US and CAN numbers.
+* [USACallerLookup](https://www.usacallerlookup.com/) - Free US reverse phone lookup built on FTC Do Not Call complaint records: per-number complaint counts, subjects and states, carrier prefix data, a free JSON API and an open CC0 dataset.
 * [USPhoneBook](https://www.usphonebook.com/) - Reverse phone and address lookups and leading data.
 
 ## [↑](#-table-of-contents) Vehicle / Automobile Research
