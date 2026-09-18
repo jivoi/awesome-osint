@@ -985,6 +985,7 @@ algorithms, knowledgebase and AI technology.
 * [osint-recon](https://github.com/JMarchiori13/osint-recon) - Passive OSINT reconnaissance framework in Rust: subdomains, DNS, ASN, certificate transparency history, GitHub dorking, tech fingerprinting, emails and document metadata for authorized red team engagements.
 * [PageGlimpse](https://www.pageglimpse.com)
 * [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
+* [Presend IP Reputation Check](https://presend.pages.dev/api) - Free, no-signup API that checks an IPv4 address against Spamhaus DROP (netblocks known to be entirely spam/hijacker-controlled).
 * [PhishStats](https://phishstats.info/)
 * [Pulsedive](https://pulsedive.com)
 * [Qualys SSL Check](https://www.ssllabs.com/ssltest/) - SSL Test configuration compliance.
