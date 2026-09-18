@@ -748,6 +748,7 @@ algorithms, knowledgebase and AI technology.
 * [Email Address Validator](https://www.email-validator.net)  - Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.
 * [Email Extractor](https://99tools.net/email-extractor/)  - A browser-based utility to quickly extract email addresses from bulk text or raw data for further investigation.
 * [Email Format](https://email-format.com) - is a website that allows you to find email address formats used by different companies.
+* [Email Header Analyzer](https://tools.examineip.com/email-header-analyzer/) - Paste raw email headers to see SPF, DKIM and DMARC results, the servers the message passed through and its origin IP, with warnings for forged-sender patterns. Runs entirely in the browser; nothing is uploaded.
 * [Email Permutator](https://www.polished.app/email-permutator/) - a powerful tool designed to aid professionals in generating a range of potential email addresses for a specific contact. 
 * [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exists or not.
 * [EmailRep](https://emailrep.io) - Email address reputation and risk scoring service.
