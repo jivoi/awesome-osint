@@ -223,6 +223,7 @@ algorithms, knowledgebase and AI technology.
 * [GreyNoise](https://viz.greynoise.io/) - Search Exposed Internet assets, Malicious IP's.
 * [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
 * [Hunter Search Engine](https://hunter.how/) - Search Exposed Internet assets, open web directories and many more.
+* [IntelCue Subdomain Finder](https://www.intelcue.ai/tools/subdomain-finder) - Free subdomain discovery from Certificate Transparency logs, grouped by category (product, marketing, infrastructure, integrations, internal) with a NEW tag for subdomains first seen in the last 90 days, exportable as CSV. No sign-up required.
 * [Intelligence X](https://intelx.io/tools) - Paid OSINT Tool Allowing users to search for information across various sources including the dark web and public data leaks.
 * [Internet Archive](https://archive.org/)
 * [Islegitsite](https://www.islegitsite.com/) - Checks if a website is trustworthy by analyzing its reputation, domain, and security based on public sources.
