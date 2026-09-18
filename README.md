@@ -949,6 +949,7 @@ algorithms, knowledgebase and AI technology.
 * [DomainRecon](https://kriztalz.sh/domain-recon/) - Retrieve DNS records, subdomains, SSL certificates and WHOIS / RDAP data for a given website.
 * [Domain Tools](https://whois.domaintools.com) - Whois lookup and domain/ip historical data.
 * [Easy whois](https://www.easywhois.com)
+* [ExamineIP Tools](https://tools.examineip.com/) - Free, no-signup IP and domain tools: IP reputation against DNS blacklists and the Tor exit list, RDAP WHOIS for domains and IPs, DNS answers compared across Google and Cloudflare, and bulk IP lookup. Core logic is open source on GitHub.
 * [Exonera Tor](https://exonerator.torproject.org) - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
 * [Focsec](https://focsec.com) - Threat Intelligence API that detects if a IP address is associated with a VPN, Proxy, TOR or Bots.
 * [Follow.net](https://follow.net)
