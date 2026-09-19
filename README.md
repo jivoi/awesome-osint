@@ -965,6 +965,7 @@ algorithms, knowledgebase and AI technology.
 * [IntoDNS.ai](https://intodns.ai) - AI-powered DNS and email security scanner with SPF, DKIM, DMARC, DNSSEC checks and fix suggestions.
 * [IP 2 Geolocation](https://ip2geolocation.com)
 * [IP2Location](https://www.ip2location.com/demo) - A comprehensive IP intelligence database and API for accurate geolocation, ASN mapping, and VPN/Tor/Proxy detection.
+* [IP99](https://ip99.com/en/) - IP geolocation with proxy, VPN and datacenter risk and the age of the evidence behind each verdict; free, no API key (`curl https://ip99.com/v1/ip/<ip>`).
 * [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
 * [ip2geo.dev](https://ip2geo.dev) - IP geolocation API providing city, country, timezone, ASN, and currency data from IP addresses.
 * [IP Checking](https://www.ipchecking.com)
