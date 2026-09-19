@@ -832,6 +832,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Company Research
 
 * [AllStocksLinks](https://www.allstocks.com/links)
+* [Auregistre](https://auregistre.fr) - Timeline of what happened to a French company, from the official gazette (BODACC), the Sirene register and INPI filings: incorporation, officers, registered office moves, insolvency proceedings, deregistration, each entry linking to the official notice. Free, no account.
 * [Better Business Bureau](https://www.bbb.org)
 * [Bizeurope](https://www.bizeurope.com)
 * [Bloomberg](https://www.bloomberg.com/research/company/overview/overview.asp)
