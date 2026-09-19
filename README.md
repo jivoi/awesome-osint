@@ -441,6 +441,7 @@ algorithms, knowledgebase and AI technology.
 * [Geocreepy](https://www.geocreepy.com)
 * [Hootsuite](https://hootsuite.com)
 * [IDCrawl](https://www.idcrawl.com/) - Search for a name in popular social networks.
+* [Jev Social](https://github.com/socai-io/jev-social) - Local browser research agent that searches Instagram, TikTok, and LinkedIn, streams captured evidence, and produces cited reports.
 * [Klear](https://klear.com)
 * [Kribrum](https://kribrum.io/)
 * [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
