@@ -634,6 +634,7 @@ algorithms, knowledgebase and AI technology.
 * [username_to_id_bot](https://t.me/username_to_id_bot) — Returns user/chat/channel/bot ID.
 * [UsInfoBot](https://t.me/usinfobot) — Resolves username from ID (inline).
 * [WhoisDomBot](https://t.me/WhoisDomBot) — Whois lookup for domains/IPs + dig/trace.
+* [PrivacyLeak](https://t.me/privacyleakAI_bot) — Face and reverse image search for publicly posted photos on adult websites.
 
 ### [↑](#-table-of-contents) Steam
 
@@ -1088,6 +1089,7 @@ algorithms, knowledgebase and AI technology.
 * [TinEye](https://tineye.com) - Reverse image search engine.
 * [Yahoo Image Search](https://images.search.yahoo.com)
 * [Yandex Images](https://www.yandex.com/images)
+* [PrivacyLeak](https://www.privacyleak.ai)- Face and reverse image search for publicly posted photos on adult websites.
 
 ## [↑](#-table-of-contents) Image Analysis
 
