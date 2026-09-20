@@ -1052,6 +1052,7 @@ algorithms, knowledgebase and AI technology.
 * [BlackWidow](https://softbytelabs.com/wp/blackwidow/)
 * [CashedPages](https://www.cachedpages.com)
 * [CachedView](https://cachedview.com)
+* [ProofSnap](https://getproofsnap.com/) - Records the page open in your browser, including content behind a login, as a package with per-file SHA-256 hashes, a signed manifest, a timestamp and a chain of custody log that the recipient can check offline. Paid.
 * [stored.website](https://stored.website)
 * [Wayback Machine](https://web.archive.org/) - Explore the history of a website.
 * [Wayback Machine Archiver](https://github.com/jsvine/waybackpack)
