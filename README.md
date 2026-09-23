@@ -883,6 +883,8 @@ algorithms, knowledgebase and AI technology.
 * [WhiteIntel](https://whiteintel.dev) - Free corporate and offshore ownership graph: trace a company to its beneficial owners across 31 public registries (Companies House, GLEIF, ICIJ Offshore Leaks, OpenSanctions, SEC EDGAR), with sanctions screening and fully cited dossiers. Queryable by AI agents over MCP.
 * [Xing](https://www.xing.com)
 * [YouControl](https://youcontrol.com.ua/en/)
+* [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote MCP: https://statsnet.co/mcp
+
 
 ## [↑](#-table-of-contents) Job Search Resources
 
