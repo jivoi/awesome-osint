@@ -762,6 +762,7 @@ algorithms, knowledgebase and AI technology.
 * [IntelBase](https://intelbase.is/) - Forensics platform focused on reverse email lookup and email data enrichment.
 * [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
 * [LeakRadar](https://leakradar.io/) - Scans for compromised emails and domains in stealer logs, offering proactive breach prevention and real-time alerts.
+* [Mail DNS Check](https://rafaelpfister.ch/en/tools/mail-check) - Checks a domain's MX, SPF, DKIM, DMARC, MTA-STS and DANE records in one run, showing which mail services are authorised to send for it.
 * [MailAccess](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, checks 800+ platforms, breach exposure via HIBP, infostealer logs via Hudson Rock, and builds a cross-platform identity graph with confidence scoring. `pip install mailaccess`
 * [MailTester](https://mailtester.com) - hunt for emails and improve your email deliverability
 * [Minerva OSINT](https://minervaosint.com) - Email search tool that finds and aggregates data on a target email from over a hundred websites.
