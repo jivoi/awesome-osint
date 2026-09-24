@@ -1186,6 +1186,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Apify's Google Maps Scraper](https://apify.com/compass/crawler-google-places)
 * [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
+* [ARGUS](https://argus.prototipo.nl) - Free, no-login OSINT dashboard with a live conflict map (ADS-B flights incl. notable military aircraft, ships at chokepoints, NASA FIRMS thermal detections, DeepState frontline, NGA navigational warnings, Ukraine air-raid alerts, earthquakes, Cloudflare outages), 165 news feeds grouped by viewpoint, 46 live video channels, per-situation pages and a European hybrid-warfare dossier.
 * [Atlas](https://atlas.co)
 * [Atlasify](https://www.atlasify.com)
 * [Baidu Maps](https://map.baidu.com/)
