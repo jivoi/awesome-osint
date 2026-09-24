@@ -1102,6 +1102,7 @@ algorithms, knowledgebase and AI technology.
 * [GeoSpy](https://geospy.web.app/) - AI based image osint tool
 * [ImgOps](https://imgops.com/)
 * [ImpulseAdventure](https://www.impulseadventure.com/photo/jpeg-snoop.html)
+* [isthisaigenerated.app](https://isthisaigenerated.app) - Free browser checker for AI-generation warning signals in images, sampled video frames, text and documents, with published accuracy figures and stated limits. Warning-only: a result is not proof of origin or authorship.
 * [Jeffreys Image Metadata Viewer](https://exif.regex.info/)
 * [JIMPL](https://jimpl.com/) - Online EXIF data viewer
 * [JPEG Audit](https://jpegaudit.com) - Free online JPEG forensics: EXIF/IPTC/XMP and GPS, automated tamper checks with a severity-rated verdict, JPEG structure and quantization tables, perceptual hash, and a Street View comparison using the EXIF camera bearing.
