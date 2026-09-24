@@ -1199,6 +1199,7 @@ algorithms, knowledgebase and AI technology.
 * [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
 * [Esri](https://www.esri.com)
 * [Flash Earth](https://www.flashearth.com)
+* [geo-sleuth](https://github.com/Oldcircle/geo-sleuth) - Agent skill for Claude Code, Codex, Cursor and others that geolocates a photo with no text in it, using OpenStreetMap geometry, elevation skylines, satellite imagery and street view. Outputs camera position, heading and an evidence image.
 * [GeoGig](https://geogig.org)
 * [GeoInfer](https://geoinfer.com) - Image geolocation tool, no EXIF data required.
 * [ReverseImageLocation](https://reverseimagelocation.com) - AI-powered geolocation tool for identifying locations from images.
