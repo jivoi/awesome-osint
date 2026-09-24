@@ -984,6 +984,7 @@ algorithms, knowledgebase and AI technology.
 * [openSquat](https://github.com/atenreiro/opensquat) - Open source tool that searches newly registered domain feeds to find typosquatting, IDN homograph, doppelganger and bitsquatting domains impersonating a given brand or keyword.
 * [osint-recon](https://github.com/JMarchiori13/osint-recon) - Passive OSINT reconnaissance framework in Rust: subdomains, DNS, ASN, certificate transparency history, GitHub dorking, tech fingerprinting, emails and document metadata for authorized red team engagements.
 * [PageGlimpse](https://www.pageglimpse.com)
+* [perimeterlens](https://github.com/NicklasSandin/perimeterlens) - Free, zero-dependency CLI for passive exposure recon on a domain you own: certificate-transparency subdomain discovery, an SPF/DMARC/DKIM spoofability verdict (not just a record dump), and TLS certificate health. No signup, no dependencies. (Disclosure: I'm the author.)
 * [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
 * [PhishStats](https://phishstats.info/)
 * [Pulsedive](https://pulsedive.com)
