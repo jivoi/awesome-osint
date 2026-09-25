@@ -463,6 +463,7 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) Twitter
 
+* [1322](https://1322.io) - Paid service that alerts on new posts from a chosen list of public X accounts, including deletions and profile changes, via dashboard, WebSocket or Discord; REST manages the watchlist.
 * [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
 * [Foller.me](https://foller.me)
 * [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
