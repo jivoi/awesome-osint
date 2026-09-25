@@ -494,6 +494,7 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) Instagram
 
+* [1322](https://1322.io) - Paid service that alerts on new posts, Stories and Reels from a chosen list of public Instagram accounts, via dashboard, Discord bot or WebSocket.
 * [Dolphin Radar](https://www.dolphinradar.com/web-viewer-for-instagram) - An Instagram Post Viewer lets you view posts, stories, and profiles from public accounts with ease. Free viewer limit: 1.
 * [Iconosquare](https://iconosquare.com)
 * [IGDetective](https://www.igdetective.com) - Public Instagram investigation with no login: anonymous story viewer, a follower tracker showing an account's recent follows/unfollows, and a profile viewer, plus optional continuous tracking with a permanent Story Archive (account required for tracking only).
