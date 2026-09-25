@@ -1100,6 +1100,7 @@ algorithms, knowledgebase and AI technology.
 * [forensics.media](https://forensics.media/tools/)  - Free in-browser image forensics suite: EXIF/metadata viewer, Error Level Analysis, clone/copy-move and double-JPEG detection. Runs client-side, nothing uploaded.
 * [FotoForensics](https://www.fotoforensics.com)
 * [GeoSpy](https://geospy.web.app/) - AI based image osint tool
+* [GeoTag.world](https://geotag.world) - Free in-browser tool that reads the GPS location from a photo's EXIF and shows it on a map, plus an EXIF viewer. No account needed.
 * [ImgOps](https://imgops.com/)
 * [ImpulseAdventure](https://www.impulseadventure.com/photo/jpeg-snoop.html)
 * [Jeffreys Image Metadata Viewer](https://exif.regex.info/)
