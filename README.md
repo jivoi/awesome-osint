@@ -1640,6 +1640,7 @@ algorithms, knowledgebase and AI technology.
 * [dnsx](https://github.com/projectdiscovery/dnsx) - A fast and multi-purpose DNS toolkit from ProjectDiscovery for running DNS probes, resolving records and filtering DNS responses.
 * [Merklemap](https://www.merklemap.com/) - Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Works by ingesting certificate transparency logs.
 * [Subhunt](https://github.com/ahmadouniass/Subdomains-finder-subhunt) - Multi-source subdomain enumeration tool querying crt.sh Certificate Transparency logs, HackerTarget, and RapidDNS. Features HTTP/HTTPS liveness probing with status codes, alive/dead filtering, multi-format export (TXT/JSON/CSV), and a full CLI.
+* [cert-transparency-watcher](https://git.canutethegreat.com/CanuteTheGreat/cert-transparency-watcher) - Free, zero-signup CLI that queries crt.sh Certificate Transparency logs for a domain and flags unexpected issuers (misissuance/compromised CA) and unexpected subdomains (early warning for subdomain takeovers). Configurable issuer/subdomain allowlists, JSON output.
 
 ## [↑](#-table-of-contents) Maritime
 
