@@ -1304,6 +1304,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Flipboard](https://flipboard.com)
 * [Inshorts](https://www.inshorts.com)
+* * [Lanes](https://lanes.news) - Compares how each side's press reports the same conflict event, including domestic-language outlets, next to press from uninvolved countries, and labels claims as corroborated, disputed or single-source. Free, no account.
 * [Newsinshorts](https://newsinshorts.com)
 * [Nod](https://get-nod.com)
 * [Reeder](https://reederapp.com)
