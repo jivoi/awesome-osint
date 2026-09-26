@@ -924,6 +924,7 @@ algorithms, knowledgebase and AI technology.
 
 * [aa419 Fake Sites Database](https://db.aa419.org/fakebankslist.php) - The site lists fraudulent websites, such as fake banks and online scams, identified by the Artists Against 419 community.
 * [Accuranker](https://www.accuranker.com)
+* [ActiveDNS](https://activedns.net) - Free service to find domains by CIDR, ASN or wildcard search.
 * [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
 * [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
 * [Bgpview.io](https://bgpview.io) - The website bgpview.io allows you to look up detailed information about ASNs, IPs, and BGP routes on the internet.
