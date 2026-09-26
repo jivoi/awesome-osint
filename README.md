@@ -832,6 +832,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Company Research
 
 * [AllStocksLinks](https://www.allstocks.com/links)
+* [Barcodepedia](https://barcodepedia.com) - Free product encyclopedia indexed by barcode (EAN/UPC/GTIN): trace a product to its brand owner, licensee or bottler, and GS1 barcode registrant, with every fact cited.
 * [Better Business Bureau](https://www.bbb.org)
 * [Bizeurope](https://www.bizeurope.com)
 * [Bloomberg](https://www.bloomberg.com/research/company/overview/overview.asp)
