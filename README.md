@@ -528,6 +528,7 @@ algorithms, knowledgebase and AI technology.
 * [RedditMetis](https://redditmetis.com/) - RedditMetis is a Reddit user analysis tool to see the summary and statistics for a Reddit account, including top posts and user activity etc.
 * [Subreddits](https://subreddits.org) - Discover new subreddits.
 * [Reddit Comment Search](https://redditcommentsearch.com/) - Analyze a reddit users by comment history.
+* [ThreadFox Lite](https://github.com/amflimited/threadfox-lite) - Read-only MCP tools for checking a Reddit account's age, karma and whether its recent posts are removed or hidden, a subreddit's rules, and whether a post is still live; reads through your own signed-in Chrome (Playwright Extension).
 * [Universal Scammer List](https://universalscammerlist.com/) - This acts as the website-portion for the subreddit /r/universalscammerlist. That subreddit, in conjuction with this website and a reddit bot, manages a list of malicious reddit accounts and minimizes the damage they can deal. This list is referred to as the "USL" for short.
 * [Reddit Comment Lookup](https://randomtools.io/reddit-comment-search/) - Search for reddit comments by reddit username.
 
