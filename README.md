@@ -784,6 +784,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Phone Number Research
 
 * [EmobileTracker.com](https://www.emobiletracker.com/) - a service specifically designed to Track Mobile Number, Location on Google Map including information such as the owner's Name,Location,Country,Telecom provider.
+* [EndSpam](https://www.endspam.org/) - community-powered spam and scam call lookup for Australian phone numbers, with public per-number report histories, plus carrier and area statistics.
 * [FreeCarrierLookup](https://freecarrierlookup.com/) - enter a phone number and we'll return the carrier name and whether the number is wireless or landline. We also return the email-to-SMS and email-to-MMS gateway addresses for USA and Canadian* phone numbers.
 * [Infobel](https://www.infobel.com/) - Search 164+ million records across 73 countries for companies and individuals. Find places, local service providers, their contact details, reviews, opening hours and more.
 * [InMobPrefix](https://github.com/hstsethi/in-mob-prefix) - Dataset, charts, models about mobile phone numbers prefixes in India along with their respective state, operator.
