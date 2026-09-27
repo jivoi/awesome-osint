@@ -1218,6 +1218,7 @@ algorithms, knowledgebase and AI technology.
 * [Kartograph](https://kartograph.org)
 * [Leaflet](https://leafletjs.com)
 * [Liveuamap](https://liveuamap.com/)
+* [Lookout](https://github.com/ExtremeAI-Labs/lookout) - Self-hosted 3D console for OSINT-style situational awareness: live aircraft, ships/AIS, satellites, earthquakes and public cameras on a CesiumJS globe; MIT licensed, run it yourself or try the read-only demo.
 * [Map Maker](https://maps.co)
 * [MapAList](https://mapalist.com)
 * [MapBox](https://www.mapbox.com)
