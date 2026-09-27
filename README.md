@@ -987,6 +987,7 @@ algorithms, knowledgebase and AI technology.
 * [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
 * [PhishStats](https://phishstats.info/)
 * [Pulsedive](https://pulsedive.com)
+* [pureip.app](https://pureip.app/) - Free IP toolkit: purity and risk score, WHOIS, reverse DNS, IPv6 lookup, IP leak test, plus per-vendor availability checks for ChatGPT, Claude and Gemini across cloud providers. No signup required.
 * [Qualys SSL Check](https://www.ssllabs.com/ssltest/) - SSL Test configuration compliance.
 * [Quantcast](https://www.quantcast.com)
 * [Quick Sprout](https://www.quicksprout.com)
