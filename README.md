@@ -803,6 +803,7 @@ algorithms, knowledgebase and AI technology.
 
 * [FaxVIN](https://www.faxvin.com/) - Vehicle History Reports. A license plate lookup tool that returns info like VIN, make & model of vehicle, age, and numerous other details. 
 * [EpicVIN](https://epicvin.com/) - Vehicle reports are compiled from various data sources, including historical accident records from state agencies and other entities like NMVTIS. License plate lookup that returns VIN and car millage.
+* [CleanVins](https://www.cleanvins.com/) - Free unlimited VIN decoder with NHTSA recall lookup; $9.99 NMVTIS vehicle history reports covering title brands, accidents, odometer history, and auction records.
 
 ## [↑](#-table-of-contents) Expert Search
 
