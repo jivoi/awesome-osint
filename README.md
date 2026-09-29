@@ -860,6 +860,7 @@ algorithms, knowledgebase and AI technology.
 * [GuideStar](https://www.guidestar.org)
 * [Hoovers](https://www.hoovers.com)
 * [Inc. 5000](https://www.inc.com/inc5000)
+* [Indexed](https://indexed.vc) - Funding rounds, investors and acquisitions for private companies, with links to the source announcements. Free search by company name or website domain.
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Knowledge guide to international company registration](https://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
 * [Linkedin](https://www.linkedin.com) - Commonly used social-media platform with a focus on professional profiles and recruitment. Spans a wide variety of industries. Very useful for gathering information on what specific individuals are active within an entity.
