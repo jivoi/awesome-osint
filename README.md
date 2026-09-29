@@ -875,6 +875,7 @@ algorithms, knowledgebase and AI technology.
 * [Section 16 Deadline Calculator](https://github.com/Turner-Levey/section-16-deadline-calculator)  - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
 * [SEMrush](https://www.semrush.com)
 * [Serpstat](https://serpstat.com)
+* [Sini](https://sini.id/en) - Free, English-language search of 1.6M+ Indonesian companies compiled from public government registers: legal form, status, founding decree, registered address on a map, OJK investor-alert flags and reverse phone lookup.
 * [SpyFu](https://www.spyfu.com)
 * [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
 * [Tracxn](https://tracxn.com) - Search information about a company such as aquisitions, investors, people, research, etc
