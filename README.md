@@ -933,6 +933,7 @@ algorithms, knowledgebase and AI technology.
 * [Central Ops](https://centralops.net)
 * [Cerast Intelligence](https://search.cerast-intelligence.com/) - Searchable archive of exposed panels and misconfigurations found across domains by continuous internet-wide scanning; look up the exposure findings on record for a given domain.
 * [CC.LA](https://cc.la) - Free WHOIS, RDAP, DNS, IP WHOIS, name server history, SSL certificate lookup, and network diagnostic tools (ping/traceroute/MTR). Also provides expiring domain calendars, TLD library, domain monitoring, and domain availability checker. No sign-up required.
+*[cl0q](https://cl0q.com)- Open search engine for domain research, 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day), no tracking.
 * [CrawlGraph](https://crawlgraph.com) - Maps who links to any domain using the open Common Crawl hyperlink graph. Free, no-signup referring-domain and competitor link-footprint lookups for domain research.
 * [Crypto Scam & Crypto Phishing URL Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed) - A fresh feed of crypto phishing and crypto scam websites. Automatically updated daily.
 * [Dedicated or Not](https://dedicatedornot.com)
