@@ -1603,6 +1603,7 @@ algorithms, knowledgebase and AI technology.
 * [Mailvelope](https://www.mailvelope.com)
 * [Master Password](https://masterpasswordapp.com)
 * [MetaClean](https://github.com/Moresyl/metaclean) - Cross-platform desktop app for removing sensitive metadata from files locally before sharing them during OSINT investigations.
+* [MetaGone](https://299nhs7sjg-netizen.github.io/metagone/) - Browser-based tool that strips GPS, camera, XMP and C2PA metadata from JPEG/PNG/WebP images locally before sharing, with a removed-fields report. Freemium ($2.99 unlock).
 * [Nixory](https://nixory.sourceforge.net)
 * [NoScript](https://noscript.net)
 * [Open DNS](https://www.opendns.com/home-internet-security)
