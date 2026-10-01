@@ -871,6 +871,7 @@ algorithms, knowledgebase and AI technology.
 * [Orbis directory](https://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 * [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
 * [Plunkett Research](https://www.plunkettresearchonline.com)
+* [romania-mcp](https://github.com/robyroro/romania-mcp) - Free, open-source MCP server for Romanian company research: ANAF company status and VAT registration by CUI, filed financial statements, court cases from Portal Just, BNR exchange rates and IBAN checks. No API keys needed.
 * [Scoot](https://www.scoot.co.uk)
 * [Section 16 Deadline Calculator](https://github.com/Turner-Levey/section-16-deadline-calculator)  - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
 * [SEMrush](https://www.semrush.com)
