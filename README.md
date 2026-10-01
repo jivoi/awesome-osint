@@ -1219,6 +1219,7 @@ algorithms, knowledgebase and AI technology.
 * [Leaflet](https://leafletjs.com)
 * [Liveuamap](https://liveuamap.com/)
 * [Map Maker](https://maps.co)
+* [Map of Wars](https://mapofwars.org/) - Free live map of drone and missile tracks over Ukraine, air raid alerts, verified battles (UCDP), military aircraft (ADS-B) and disasters, with source links, 30-day replay and a public RSS/JSON feed.
 * [MapAList](https://mapalist.com)
 * [MapBox](https://www.mapbox.com)
 * [Mapchart.net](https://mapchart.net)
