@@ -1023,6 +1023,7 @@ algorithms, knowledgebase and AI technology.
 * [Webscout](https://webscout.io/)  - A Swiss Army knife for scaled intelligence and metadata on IP addresses and domains.
 * [Website Informer](https://website.informer.com)
 * [WebsiteTechMiner.py](https://github.com/cybersader/WebsiteTechMiner-py) - automates gathering website profiling data into a CSV from the "BuiltWith" or "Wappalyzer" API for tech stack information, technographic data, website reports, website tech lookups, website architecture lookups, etc.
+* [WhatIsMy-IPAddress.com](https://whatismy-ipaddress.com) - Free WHOIS lookup for any IP address or domain (owner, ASN, network range), SPF/DKIM/DMARC checker for any domain, plus IP geolocation and leak tests.
 * [WhatIsMyIPAddress](https://whatismyipaddress.com)
 * [Who.is](https://who.is/) - Domain whois information.
 * [Whois Arin Online](https://whois.arin.net) - is a web service for Whois data contained within ARIN's registration database
