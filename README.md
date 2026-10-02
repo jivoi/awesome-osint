@@ -961,6 +961,7 @@ algorithms, knowledgebase and AI technology.
 * [IP.THC.ORG](https://ip.thc.org/) - Unlimited Reverse DNS, Subdomain and Reverse CNAME lookups, also provides JSON APIs. 
 * [Icann Lookup](https://lookup.icann.org/en/lookup) - The site allows you to look up domain registration information (WHOIS) on the internet
 * [Infosniper](https://www.infosniper.net)
+* [InternetData ASN Database](https://internetdata.io/databases/asn) - Every allocated AS number with its holder, country, registry, domain, network type, announced IPv4 and IPv6 space and RPKI standing. Updated daily, as CSV, free with an account.
 * [isMalicious](https://ismalicious.com) - Threat intelligence platform aggregating malicious IP and domain data from multiple security feeds with real-time reputation scoring and threat categorization.
 * [IntoDNS.ai](https://intodns.ai) - AI-powered DNS and email security scanner with SPF, DKIM, DMARC, DNSSEC checks and fix suggestions.
 * [IP 2 Geolocation](https://ip2geolocation.com)
