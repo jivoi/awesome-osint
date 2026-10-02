@@ -803,6 +803,7 @@ algorithms, knowledgebase and AI technology.
 
 * [FaxVIN](https://www.faxvin.com/) - Vehicle History Reports. A license plate lookup tool that returns info like VIN, make & model of vehicle, age, and numerous other details. 
 * [EpicVIN](https://epicvin.com/) - Vehicle reports are compiled from various data sources, including historical accident records from state agencies and other entities like NMVTIS. License plate lookup that returns VIN and car millage.
+* [UseCOS VIN Decoder](https://usecos.app/vin) - Free, real-time VIN decoder and specification lookup querying the US Department of Transportation (NHTSA vPIC) database directly. Cross-references vehicle specs, trim, plant, and safety recalls without paywalls or registration.
 
 ## [↑](#-table-of-contents) Expert Search
 
