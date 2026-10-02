@@ -841,6 +841,7 @@ algorithms, knowledgebase and AI technology.
 * [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
 * [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.  
 * [Company Registration Round the World](https://www.commercial-register.sg.ch/home/worldwide.html)
+* [Company Registry Search](https://apify.com/conserving_celerytop/open-company-registries) - Paid pay-per-use Apify Actor by the author: search company records in GLEIF (LEI), Norway's Brreg and Finland's PRH registers by name, registration number, municipality or industry. Returns name, legal form, status, address, website and employee count. No people data.
 * [Company Research Resources by Country Comparably](https://www.comparably.com)
 * [CompeteShark](https://competeshark.com)
 * [Corporate Information](https://www.corporateinformation.com) - Aggregated information from publicly available sources on publicly traded companies worldwide.
