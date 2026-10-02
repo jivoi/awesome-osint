@@ -853,6 +853,7 @@ algorithms, knowledgebase and AI technology.
 * [Ezilon](https://www.ezilon.com)
 * [Factiva](https://global.factiva.com)
 * [Forbes Global 2000](https://www.forbes.com/global2000/)
+* [Form D Funding Rounds Tracker](https://apify.com/conserving_celerytop/form-d-funding-rounds) - Paid pay-per-use Apify Actor by the author: recent private funding raises from SEC Form D filings on EDGAR, one row per filing with company, industry, location, amount raised, offering size, first sale date and investors. Company fields only.
 * [Fylings](https://www.fylings.com) - Free company-intelligence platform for Africa: search and verify companies across 18+ official national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM and more), with the official source and a last-verified date on every record.
 * [Glassdoor](https://www.glassdoor.com)
 * [globalEdge](https://globaledge.msu.edu)
