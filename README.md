@@ -963,6 +963,7 @@ algorithms, knowledgebase and AI technology.
 * [Infosniper](https://www.infosniper.net)
 * [isMalicious](https://ismalicious.com) - Threat intelligence platform aggregating malicious IP and domain data from multiple security feeds with real-time reputation scoring and threat categorization.
 * [IntoDNS.ai](https://intodns.ai) - AI-powered DNS and email security scanner with SPF, DKIM, DMARC, DNSSEC checks and fix suggestions.
+* [IP Address & Location Checker](https://9revolution9.com/tools/network/ip-location) - Shows your own IP and its approximate location on a map, with ASN, ISP, timezone and VPN/proxy/Tor flags. Any IPv4 or IPv6 address can be looked up too. No sign-up.
 * [IP 2 Geolocation](https://ip2geolocation.com)
 * [IP2Location](https://www.ip2location.com/demo) - A comprehensive IP intelligence database and API for accurate geolocation, ASN mapping, and VPN/Tor/Proxy detection.
 * [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
