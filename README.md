@@ -769,6 +769,7 @@ algorithms, knowledgebase and AI technology.
 * [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
 * [OSINTEye](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
 * [Peepmail](https://www.samy.pl/peepmail) - is a tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
+* [PeopleSearch.im](https://peoplesearch.im/tools) - Free email verifier and email format permutator, no sign-up. Paid credits add reverse email lookup and work emails found from a plain-English people search.
 * [Pipl](https://pipl.com) - a provider of identity solutions.
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
 * [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
