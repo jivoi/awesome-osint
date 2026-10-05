@@ -1195,6 +1195,7 @@ algorithms, knowledgebase and AI technology.
 * [Bing Maps](https://www.bing.com/maps)
 * [CartoDB](https://cartodb.com)
 * [Colorbrewer](https://colorbrewer2.org)
+* [Conflict Tracker](https://conflict-tracker.com/map) - Daily map of military, political, and arms trade events from news in dozens of languages, each with its date, place, and sources.
 * [CrowdMap](https://crowdmap.com)
 * [digiKam](https://www.digikam.org/)
 * [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html)
