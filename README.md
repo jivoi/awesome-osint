@@ -563,6 +563,7 @@ algorithms, knowledgebase and AI technology.
 * [CCTV](https://github.com/IvanGlinkin/CCTV) - Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings.
 * [GroupDa](https://groupda.com/telegram/group/search) - Can be used for Searching Telegram Channels. Search by Category, Countries and Language.
 * [Maltego Telegram](https://github.com/vognik/maltego-telegram) - Rich Set of Entities & Transforms for OSINT on Telegram with Maltego.
+* [Telegram Channel Scraper](https://apify.com/cprussin/telegram-channel-scraper?fpr=to54nm) - Export public Telegram channel posts (text, date, views, reactions, media, forwards) and subscriber counts to JSON/CSV from the t.me/s web preview. No login. Paid per result (Apify).
 * [Telegram Finder](https://www.telegram-finder.io/) - A tool to find Telegram users by their phone number, linkedin url or email.
 * [Telerecon](https://github.com/sockysec/Telerecon) - A reconnaissance framework for researching and investigating Telegram.
 * [TgramSearch](https://tgramsearch.com/) - Convenient search for Telegram channels, as well as a structured catalog with over 700000 Telegram channels. Available in 8+ Languages.
