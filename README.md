@@ -576,6 +576,7 @@ algorithms, knowledgebase and AI technology.
 * [TeleSearch](https://telesearch.me/) - Search and find your desired Telegram channels, groups, bots and games quickly and easily with Telesearch​.
 * [TeleTracker](https://github.com/tsale/TeleTracker) - TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels. It helps you send messages quickly and gather useful channel information easily.
 * [TGScope](https://tgscope.io/) - Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people.
+* [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) - Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.
 * [TGStat](https://tgstat.com/) - OSINT platform analyzing Telegram channels, groups, metrics, and trending activity.
 * [TOsint](https://github.com/drego85/tosint) - Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities.
 
