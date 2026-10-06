@@ -578,6 +578,7 @@ algorithms, knowledgebase and AI technology.
 * [TeleTracker](https://github.com/tsale/TeleTracker) - TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels. It helps you send messages quickly and gather useful channel information easily.
 * [TGScope](https://tgscope.io/) - Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people.
 * [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) - Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.
+* [TGScope Channel Audit](https://tgscope.io/tools/telegram-channel-audit) - Shows what share of a Telegram channel's subscribers actually view its posts and how it compares with similar channels, flagging ghost audiences.
 * [TGScope Channel Network Checker](https://tgscope.io/tools/telegram-channel-network) - Shows which other Telegram channels list the same ad contact as a given channel, revealing networks run or sold by one owner or agency.
 * [TGStat](https://tgstat.com/) - OSINT platform analyzing Telegram channels, groups, metrics, and trending activity.
 * [Tme-s](https://github.com/axmaier/tme-s) - Reads public Telegram channels through the logged-out t.me/s/ web preview: no API key, no phone number, no account. Keyword filter, JSON output, Python stdlib only.
