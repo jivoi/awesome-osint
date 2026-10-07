@@ -576,6 +576,7 @@ algorithms, knowledgebase and AI technology.
 * [Telegram channels scraper TeleGraphite ](https://github.com/hamodywe/telegram-scraper-TeleGraphite) - Telegram Scraper & JSON Exporter & telegram channels scraper.
 * [TeleSearch](https://telesearch.me/) - Search and find your desired Telegram channels, groups, bots and games quickly and easily with Telesearch​.
 * [TeleTracker](https://github.com/tsale/TeleTracker) - TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels. It helps you send messages quickly and gather useful channel information easily.
+* [tg-chat-dump](https://github.com/renkagod/tg-chat-dump) - Archives a whole Telegram group, channel or forum into a searchable SQLite database and per-topic text and JSONL files, at 100k+ messages a minute in Telegram's export mode. Filters by date, author and message type.
 * [TGScope](https://tgscope.io/) - Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people.
 * [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) - Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.
 * [TGStat](https://tgstat.com/) - OSINT platform analyzing Telegram channels, groups, metrics, and trending activity.
