@@ -985,6 +985,7 @@ algorithms, knowledgebase and AI technology.
 * [MaxMind](https://www.maxmind.com)
 * [MetaDefender](https://metadefender.com) - Threat analysis service for URLs, files, certificates, domains, and suspicious hashes.
 * [Netcraft Site Report](https://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
+* [Network Data Labs](https://www.networkdatalabs.com/docs) - IP intelligence API: geolocation with accuracy radius and confidence, ASN/network data, and Tor exit, known VPN network, privacy relay and hosting/datacenter flags.
 * [OpenLinkProfiler](https://www.openlinkprofiler.org/)
 * [openSquat](https://github.com/atenreiro/opensquat) - Open source tool that searches newly registered domain feeds to find typosquatting, IDN homograph, doppelganger and bitsquatting domains impersonating a given brand or keyword.
 * [osint-recon](https://github.com/JMarchiori13/osint-recon) - Passive OSINT reconnaissance framework in Rust: subdomains, DNS, ASN, certificate transparency history, GitHub dorking, tech fingerprinting, emails and document metadata for authorized red team engagements.
