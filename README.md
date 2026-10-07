@@ -1407,6 +1407,7 @@ algorithms, knowledgebase and AI technology.
 * [World Integrated Trade Solution](https://wits.worldbank.org)
 * [WTO Statistics](https://www.wto.org/english/res_e/statis_e/statis_e.htm)
 * [Zanran](https://zanran.com)
+* [Piratage.fr](https://www.piratage.fr/) - Sourced register of data breaches affecting French public bodies, with JSON API and CSV (in French).
 
 ## [↑](#-table-of-contents) Web Monitoring
 
