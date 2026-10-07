@@ -1789,6 +1789,7 @@ algorithms, knowledgebase and AI technology.
 * [Cipherstick](https://cipherstick.tech) - Free OSINT Puzzles - No Account Needed!
 * [OSINT Dojo](https://www.osintdojo.com/resources/)
 * [OSINT Belarus](https://t.me/s/osintby)
+* [Sentinelle Pulse Copilot](https://copilot.sentinellepulse.com) - French-language OSINT directory: 1224 tools verified daily in 37 categories, each with a bilingual FR/EN description, plus an investigation planner that turns a starting point (email, username, photo, phone, domain) into an ordered plan with pre-filled queries. Free, no account.
 * [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022.
 * [OSINT Updates - a free weekly newsletter for OSINTers](https://osintupdates.com/)
 
