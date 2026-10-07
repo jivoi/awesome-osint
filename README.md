@@ -950,6 +950,7 @@ algorithms, knowledgebase and AI technology.
 * [Domain Crawler](https://www.domaincrawler.com)
 * [Domain Dossier](https://centralops.net/co/DomainDossier.aspx)
 * [Domain Hunter](https://github.com/WhiteBite/Domain-Hunter) - Free, open-source, 100% client-side bulk domain availability checker and name generator: checks up to 3,000 names across 148 TLD zones by calling registry RDAP endpoints directly from the browser (no servers, no API keys, no tracking), with DNS-over-HTTPS corroboration for low-trust ccTLDs, live registrar prices with 3-year TCO, and CSV/Markdown export. MIT. ([live demo](https://whitebite.github.io/Domain-Hunter/))
+* [Domain WHOIS RDAP Lookup](https://apify.com/datagrit/domain-whois-rdap-lookup) - Bulk RDAP/WHOIS for lists of domains: registrar, creation and expiry dates, availability, nameservers, MX/mail provider, SPF/DMARC and hosting ASN in one row per domain, with expiry and registrar filters; CSV/JSON/API export.
 * [Domain Intelligence](https://oti-labs.com/domain-intelligence-api) - Aggregate DNS, WHOIS/RDAP, SSL, subdomains (CT logs + DNS bruteforce), and SPF/DMARC posture in one call. Free tier; MIT.
 * [DomainRecon](https://kriztalz.sh/domain-recon/) - Retrieve DNS records, subdomains, SSL certificates and WHOIS / RDAP data for a given website.
 * [Domain Tools](https://whois.domaintools.com) - Whois lookup and domain/ip historical data.
