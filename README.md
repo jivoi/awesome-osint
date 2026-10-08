@@ -1618,6 +1618,7 @@ algorithms, knowledgebase and AI technology.
 * [OSSEC](https://ossec.github.io)
 * [Panopticlick](https://panopticlick.eff.org)
 * [Peerblock](https://forums.peerblock.com)
+* [Photo Scrubber](https://hexloomlabs.com/exif/) - In-browser tool that shows and removes EXIF, GPS and camera metadata from JPG, PNG and WebP photos before you publish them; nothing is uploaded.
 * [Pidgin](https://www.pidgin.im)
 * [Pixel Block](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem)
 * [Privacy.com](https://privacy.com) - Virtual payment cards for online privacy and security.
