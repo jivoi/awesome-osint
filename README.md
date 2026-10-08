@@ -1650,6 +1650,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Maritime
 
+* [HullCipher](https://hullcipher.com) - Live map of the ships on the UN, US, UK, EU, Canadian, Australian, New Zealand, Swiss and Japanese sanctions lists, showing what each list calls a ship beside what it broadcasts on AIS now: name, MMSI and flag changes, silences, restricted port calls, meetings at sea, and the ownership networks the authorities publish. Free to browse, no account needed.
 * [Logibook](https://logibook.dataint.net) - Trade and logistics reference covering 250 countries: 58,730 sourced entities across ports, airports, terminals, trade zones and carriers, built from the NGA World Port Index, UN/LOCODE, SMDG terminal and liner code lists, ISO 6346 container codes, UNCTAD liner shipping connectivity and World Bank port throughput. Each port page also shows the nearest airport, city and trade zone with distances. Every figure carries its source and year. Web reference only, no API or bulk download.
 * [Phantom Tide](https://github.com/tg12/phantomtide) - Cross-domain OSINT dashboard combining vessel tracking, airspace activity, official notices, environmental context, and satellite detections for maritime and airspace analysis.
 * [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
