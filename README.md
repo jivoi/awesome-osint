@@ -1058,6 +1058,7 @@ algorithms, knowledgebase and AI technology.
 * [CashedPages](https://www.cachedpages.com)
 * [CachedView](https://cachedview.com)
 * [stored.website](https://stored.website)
+* [TrueScreen Forensic Browser](https://truescreen.io/forensic-browser/) - Desktop application for macOS and Windows that acquires and certifies web pages, browsing sessions, downloaded files and online media with a documented forensic methodology.
 * [Wayback Machine](https://web.archive.org/) - Explore the history of a website.
 * [Wayback Machine Archiver](https://github.com/jsvine/waybackpack)
 * [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
