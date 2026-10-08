@@ -1221,6 +1221,7 @@ algorithms, knowledgebase and AI technology.
 * [Inspire Geoportal](https://inspire-geoportal.ec.europa.eu)
 * [Instant Google Street View](https://www.instantstreetview.com)
 * [InstantAtlas](https://www.instantatlas.com)
+* [Intel Mapper](https://intelmapper.com) - Live OSINT war map of Ukraine and the Middle East.
 * [KartaView](https://kartaview.org/map/)
 * [Kartograph](https://kartograph.org)
 * [Leaflet](https://leafletjs.com)
