@@ -912,6 +912,7 @@ algorithms, knowledgebase and AI technology.
 * [Reed (UK)](https://www.reed.co.uk)
 * [Seek (Australia)](https://www.seek.com.au)
 * [SimplyHired](https://www.simplyhired.com)
+* [Wadifa Info (Morocco)](https://www.wadifa-info.com) - Moroccan public-sector job competitions (concours) with links to the official notices, civil-service pay by grade and past exam papers, in Arabic and French.
 * [Xing](https://www.xing.com)
 * [ZipRecruiter](https://www.ziprecruiter.com)
 
