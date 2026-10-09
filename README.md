@@ -497,6 +497,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Dolphin Radar](https://www.dolphinradar.com/web-viewer-for-instagram) - An Instagram Post Viewer lets you view posts, stories, and profiles from public accounts with ease. Free viewer limit: 1.
 * [Iconosquare](https://iconosquare.com)
+* [ig-harvester](https://github.com/anurag-panda-dev/ig-harvester) - Playwright-based Instagram OSINT harvester that drives your own logged-in Chrome via CDP: posts, comment threads, follower/following lists, full-resolution image downloads, JSON/CSV/SQLite output, resume caching, proxy support and a live local analysis dashboard.
 * [IGDetective](https://www.igdetective.com) - Public Instagram investigation with no login: anonymous story viewer, a follower tracker showing an account's recent follows/unfollows, and a profile viewer, plus optional continuous tracking with a permanent Story Archive (account required for tracking only).
 * [instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Tool for real-time tracking of Instagram users' activities and profile changes with support for email alerts, CSV logging, showing media in the terminal, anonymous story downloads and more
 * [InstagramPrivSniffer](https://github.com/obitouka/InstagramPrivSniffer) - Views Instagram PRIVATE ACCOUNT'S media without login 😱.
