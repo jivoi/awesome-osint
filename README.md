@@ -972,6 +972,7 @@ algorithms, knowledgebase and AI technology.
 * [IP2Location](https://www.ip2location.com/demo) - A comprehensive IP intelligence database and API for accurate geolocation, ASN mapping, and VPN/Tor/Proxy detection.
 * [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
 * [ip2geo.dev](https://ip2geo.dev) - IP geolocation API providing city, country, timezone, ASN, and currency data from IP addresses.
+* [IP99](https://ip99.com) - IP risk and geolocation API for IPv4 and IPv6: proxy, VPN, dial-up pool and datacenter signals with the age of the evidence behind each verdict, plus passive DNS, certificate transparency and daily newly-registered-domain feeds. Free without a key: 500 lookups/day per client IP.
 * [IP Checking](https://www.ipchecking.com)
 * [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
 * [IP Location.io](https://iplocation.io) - IPLocation.io allows you to check the location of an IP for free
