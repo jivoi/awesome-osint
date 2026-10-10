@@ -1367,6 +1367,7 @@ algorithms, knowledgebase and AI technology.
 * [LandMatrix](https://landmatrix.org)
 * [Latinobarometro](https://www.latinobarometro.org)
 * [Library, University of Michigan: Statistics and Datasets](https://www.lib.umich.edu/browse/Statistics%20and%20Data%20Sets)
+* [NarcoScope](https://narcoscope.com) - Public-interest explorer of official drug-market prices, precursor flows, seizures, and public-health context, with source links and explicit evidence gaps.
 * [Nation Master](https://www.nationmaster.com/statistics)
 * [OECD Aid Database](https://www.oecd.org/dac/stats/data.htm)
 * [OECD Data](https://data.oecd.org)
