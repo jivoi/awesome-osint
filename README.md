@@ -480,6 +480,7 @@ algorithms, knowledgebase and AI technology.
 * [Twitter Audit](https://www.twitteraudit.com)
 * [Twitter Chat Schedule](https://tweetreports.com/twitter-chat-schedule)
 * [Twitter Search](https://search.twitter.com)
+* [XActions](https://github.com/nirholas/XActions) - Open-source X (Twitter) toolkit with an MCP server, CLI, and browser scripts to scrape profiles, followers, and tweets and monitor accounts without the paid API.
 * [Xquik](https://xquik.com) - Real-time X (Twitter) data platform for tweet search, user lookup, follower/following extraction, engagement metrics, account monitoring, reply/retweet/quote extraction, community & Space data, and mutual follow checks.
 
 ### [↑](#-table-of-contents) Facebook
