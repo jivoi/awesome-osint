@@ -573,6 +573,7 @@ algorithms, knowledgebase and AI technology.
 * [Telepahty](https://github.com/proseltd/Telepathy-Community) - Telepathy is a tool that archives Telegram chats and analyzes communication patterns within the app. By providing insights into user interactions, message frequency, and content trends, Telepathy helps investigators understand the dynamics and relationships within Telegram groups and channels.
 * [Teleteg](https://teleteg.com/) - The ultimate Telegram search engine. 10 results for free plan.  
 * [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms. 
+* [Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) - Self-hosted backup of a Telegram account's chats and media that runs on a schedule, keeps edits and deleted messages, and has a local web viewer with search across every chat.
 * [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 * [Telegram channels scraper TeleGraphite ](https://github.com/hamodywe/telegram-scraper-TeleGraphite) - Telegram Scraper & JSON Exporter & telegram channels scraper.
 * [TeleSearch](https://telesearch.me/) - Search and find your desired Telegram channels, groups, bots and games quickly and easily with Telesearch​.
