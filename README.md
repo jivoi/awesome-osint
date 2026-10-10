@@ -1448,9 +1448,9 @@ algorithms, knowledgebase and AI technology.
 * [The Old Reader](https://theoldreader.com)
 * [versionista](https://versionista.com)
 * [visualping](https://visualping.io)
+* [Wayback-Diff](https://github.com/GeiserX/Wayback-Diff)
 * [WebReader](https://www.getwebreader.com)
 * [WebSite Watcher](https://www.aignes.com/index.htm)
-* [Website-Diff](https://github.com/GeiserX/Website-Diff)
 * [Winds](https://winds.getstream.io)
 
 ## [↑](#-table-of-contents) Browsers
