@@ -1213,6 +1213,7 @@ algorithms, knowledgebase and AI technology.
 * [GeoInfer](https://geoinfer.com) - Image geolocation tool, no EXIF data required.
 * [ReverseImageLocation](https://reverseimagelocation.com) - AI-powered geolocation tool for identifying locations from images.
 * [GeoNames](https://www.geonames.org)
+* [Global Threat Signal](https://globalthreatsignal.org) - Research platform that continuously monitors global risks and maps threat intelligence on a world map across geopolitical conflict, environmental change, technological disruption, public health and economic instability.
 * [Google Earth Pro](https://www.google.com/intl/en/earth/versions/#earth-pro)
 * [Google Earth](https://www.google.com/earth)
 * [Google Maps](https://www.google.com/maps)
