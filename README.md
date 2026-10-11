@@ -839,6 +839,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Company Research
 
 * [AllStocksLinks](https://www.allstocks.com/links)
+* [AtlasForgeX](https://atlasforgex.com) - Desktop tool that reads official national company registers live in 18 countries, finding newly registered and low-visibility companies that harvested databases miss.
 * [Better Business Bureau](https://www.bbb.org)
 * [Bizeurope](https://www.bizeurope.com)
 * [Bloomberg](https://www.bloomberg.com/research/company/overview/overview.asp)
