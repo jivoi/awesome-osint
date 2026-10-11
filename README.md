@@ -868,6 +868,7 @@ algorithms, knowledgebase and AI technology.
 * [Inc. 5000](https://www.inc.com/inc5000)
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Knowledge guide to international company registration](https://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
+* [Kooperativa.io](https://kooperativa.io/) - Professional profile and company data API: work history, headcount by seniority, hiring signals and job changes. Paid, with a 7-day free trial.
 * [Linkedin](https://www.linkedin.com) - Commonly used social-media platform with a focus on professional profiles and recruitment. Spans a wide variety of industries. Very useful for gathering information on what specific individuals are active within an entity.
 * [Mergent Intellect](https://www.mergentintellect.com)
 * [Mergent Online](https://www.mergentonline.com/login.php)
