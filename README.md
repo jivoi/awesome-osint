@@ -1122,6 +1122,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
 
 * [Archivarix Tube Search](https://tube.archivarix.net/) - Search engine for finding deleted, removed, and unavailable YouTube videos. 
+* [Arcmira: YouTube Transcript Search](https://arcmira.com) - Search indexed YouTube and podcast transcripts for timestamped quotes, speaker appearances and entity mentions. Includes an [API](https://arcmira.com/docs) and MCP access; account required, with free and paid usage tiers.
 * [AudienceCue](https://audiencecue.com/en/tools/youtube-comment-downloader) - Downloads the latest public YouTube video or Shorts comments as CSV for research workflows.
 * [Bing Videos](https://www.bing.com/?scope=video)
 * [Clarify](https://clarify.io)
