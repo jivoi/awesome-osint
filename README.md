@@ -1101,6 +1101,7 @@ algorithms, knowledgebase and AI technology.
 
 * [ChronoVerify](https://chronoverify.com) - API and free web tool that reads EXIF and XMP, validates C2PA Content Credentials against official trust lists, and runs classical pixel forensics, returning one typed verdict for any image.
 * [DiffChecker](https://www.diffchecker.com/image-diff/)
+* [EXIF Hound](https://github.com/minimallyexceptional/exif-hound) - Free, open-source, local-first desktop app for inspecting image EXIF metadata, mapping GPS-tagged photos, importing KML, and exporting findings to CSV/JSON. No uploads, no telemetry.
 * [EXIFEditor.io](https://exifeditor.io) - In-browser EXIF image metadata editor, viewer, and analysis tool.
 * [ExifLooter](https://github.com/aydinnyunus/exiflooter)
 * [ExifTool](https://www.sno.phy.queensu.ca/~phil/exiftool)
