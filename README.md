@@ -497,6 +497,7 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#-table-of-contents) Instagram
 
 * [Dolphin Radar](https://www.dolphinradar.com/web-viewer-for-instagram) - An Instagram Post Viewer lets you view posts, stories, and profiles from public accounts with ease. Free viewer limit: 1.
+* [Grid Saver for Instagram](https://techygeekshome.info/browser-extensions/grid-saver/) - Free, open-source browser extension that saves the photos, reels and carousels from an Instagram profile or post in full quality into one ZIP, for offline archiving. No account or tracking.
 * [Iconosquare](https://iconosquare.com)
 * [IGDetective](https://www.igdetective.com) - Public Instagram investigation with no login: anonymous story viewer, a follower tracker showing an account's recent follows/unfollows, and a profile viewer, plus optional continuous tracking with a permanent Story Archive (account required for tracking only).
 * [instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Tool for real-time tracking of Instagram users' activities and profile changes with support for email alerts, CSV logging, showing media in the terminal, anonymous story downloads and more
