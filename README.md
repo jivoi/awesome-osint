@@ -979,6 +979,7 @@ algorithms, knowledgebase and AI technology.
 * [IP Location.io](https://iplocation.io) - IPLocation.io allows you to check the location of an IP for free
 * [IPFingerprints](https://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
 * [IPOK](https://ipok.io) - Free, no-login IP reputation lookup that aggregates up to 8 risk sources, flags residential vs datacenter, and profiles /24 C-block neighbors. Also offers a CLI and a Chrome extension.
+* [IPScanner](https://ipscanner.io) - IP lookup that returns the network class (residential, mobile, hosting, VPN, residential proxy or Tor) with a confidence score. Also has an AI crawler directory and a Googlebot verifier.
 * [IPVoid](https://www.ipvoid.com) - IP address toolset.
 * [ISP.Tools](https://www.isp.tools) - Is a free platform offering network diagnostic tools (ping, traceroute, MTR, DNS, WHOIS, HTTP, etc.) tailored for ISPs and infrastructure professionals.
 * [Kloth](https://www.kloth.net/services)
