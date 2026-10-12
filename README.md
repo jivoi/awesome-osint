@@ -511,6 +511,7 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) Pinterest
 
+* [Board Saver for Pinterest](https://techygeekshome.info/browser-extensions/board-saver/) - Free, open-source browser extension that saves every image on a Pinterest board at full quality, removes duplicates and downloads it all as one ZIP, for offline archiving. No account or tracking.
 * [Pingroupie](https://pingroupie.com)
 * [Pinterest Pin Stats](https://chromewebstore.google.com/detail/pinterest-pin-stats-sort/mcmkeopcpbfgjlakblglpcccpodbjkel) - Display hidden Pinterest stats for each pin.
 
