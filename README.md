@@ -507,6 +507,7 @@ algorithms, knowledgebase and AI technology.
 * [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
 
 ### [↑](#-table-of-contents) TikTok
+* [Clip Saver for TikTok](https://techygeekshome.info/browser-extensions/clip-saver/) - Free, open-source browser extension that saves the videos and photo posts from a TikTok profile or single video in the best available quality into one ZIP, for offline archiving. No account or tracking.
 * [TikTokStalker](https://tiktok.einzzcookie.org) - Lookup much info about TikTok stuff
 
 ### [↑](#-table-of-contents) Pinterest
