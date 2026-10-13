@@ -979,6 +979,7 @@ algorithms, knowledgebase and AI technology.
 * [IP Checking](https://www.ipchecking.com)
 * [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
 * [IP Location.io](https://iplocation.io) - IPLocation.io allows you to check the location of an IP for free
+* [ipapi.is](https://ipapi.is) - IP address API and databases: geolocation, ASN, company and abuse contacts, with VPN (and the VPN provider), proxy, Tor and datacenter detection.
 * [IPFingerprints](https://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
 * [IPOK](https://ipok.io) - Free, no-login IP reputation lookup that aggregates up to 8 risk sources, flags residential vs datacenter, and profiles /24 C-block neighbors. Also offers a CLI and a Chrome extension.
 * [IPVoid](https://www.ipvoid.com) - IP address toolset.
