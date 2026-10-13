@@ -1350,6 +1350,7 @@ algorithms, knowledgebase and AI technology.
 * [DataInt Databook](https://databook.dataint.net) - Country reference pages for 250 countries (population, economy, geography, infrastructure, defence, governance) compiled from World Bank, UN, UNESCO and World Factbook, with each figure attributed to its source. 25 languages. Web reference only, no API or bulk download.
 * [Data.gov.uk](https://data.gov.uk)
 * [DBPedia](https://wiki.dbpedia.org)
+* [DroneLedger](https://droneincidents.com) - Open, source-by-source archive of drone incidents worldwide; each dossier separates drone presence, impact and attribution with its own evidence state and cited sources. CSV/JSON (CC BY 4.0), API and MCP endpoint.
 * [European Union Open Data Portal](https://open-data.europa.eu/en/data)
 * [Eurostat](https://ec.europa.eu/eurostat)
 * [Freebase](https://developers.google.com/freebase)
