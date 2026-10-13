@@ -734,6 +734,7 @@ algorithms, knowledgebase and AI technology.
 * [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
 * [PeekYou](https://peekyou.com/) - PeekYou offers the ability to search for people with checks done against more sites. Can check for arrest records as well.
 * [Reunion](https://reunion.com) - People search. Limited free info, premium data upsell.
+* [Sanctions Screening (Apify actor)](https://mamoo85.github.io/open-data-actors/sanctions-screening.html) - Screens names against OFAC, EU, UN and UK sanctions lists; returns scored matches with list source links. Pay per result.
 * [Socialcatfish](https://socialcatfish.com/) - Superextensive people search which works worldwide. Searches are done from 200 Billion records.
 * [SearchBug](https://www.searchbug.com) - People search. Limited free info, premium data upsell.
 * [Spokeo](https://www.spokeo.com) - People search. Limited free info, premium data upsell.
