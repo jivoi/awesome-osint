@@ -1061,6 +1061,7 @@ algorithms, knowledgebase and AI technology.
 * [BlackWidow](https://softbytelabs.com/wp/blackwidow/)
 * [CashedPages](https://www.cachedpages.com)
 * [CachedView](https://cachedview.com)
+* [CurlShot](https://curlshot.com) - Full-page screenshot or PDF of any URL as it looks now, rendered in a real browser; free web tool without an account, API with a free tier and paid plans.
 * [stored.website](https://stored.website)
 * [Wayback Machine](https://web.archive.org/) - Explore the history of a website.
 * [Wayback Machine Archiver](https://github.com/jsvine/waybackpack)
