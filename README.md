@@ -485,6 +485,7 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#-table-of-contents) Facebook
 
 * [Facebook Friend List Scraper](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
+* [Facebook GraphQL Scraper](https://github.com/XD-MHLOO/facebook-gql-scraper) - Python library to scrape Facebook profiles, posts, comments, reactions, groups, Marketplace, and search engine.
 * [Facebook Search](https://search.fb.com/)
 * [Fanpage Karma](https://www.fanpagekarma.com)
 * [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) - Use Facebook to track your friends’ sleeping habits.
