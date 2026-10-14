@@ -875,6 +875,7 @@ algorithms, knowledgebase and AI technology.
 * [Mergent Intellect](https://www.mergentintellect.com)
 * [Mergent Online](https://www.mergentonline.com/login.php)
 * [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
+* [New Businesses](https://nynewbusinesses.com) - Daily lists of newly registered companies from official public registers in US states, the UK, France and Poland.
 * [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
 * [OpenOwnership Register](https://register.openownership.org/)
 * [Orbis directory](https://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
