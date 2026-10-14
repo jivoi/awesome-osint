@@ -983,6 +983,7 @@ algorithms, knowledgebase and AI technology.
 * [IPOK](https://ipok.io) - Free, no-login IP reputation lookup that aggregates up to 8 risk sources, flags residential vs datacenter, and profiles /24 C-block neighbors. Also offers a CLI and a Chrome extension.
 * [IPVoid](https://www.ipvoid.com) - IP address toolset.
 * [ISP.Tools](https://www.isp.tools) - Is a free platform offering network diagnostic tools (ping, traceroute, MTR, DNS, WHOIS, HTTP, etc.) tailored for ISPs and infrastructure professionals.
+* [Karma.Domains](https://karma.domains/en/whois-lookup/) - Free WHOIS, DNS and domain age lookups (no signup, 10 domains/day), plus paid expired-domain history with Wayback Machine snapshots and backlink data.
 * [Kloth](https://www.kloth.net/services)
 * [Majestic](https://majestic.com) - Find out who links to your website.
 * [Mark Monitor WHOIS](https://whois-webform.markmonitor.com/whois/) - Displays domain registration information.
