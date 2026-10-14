@@ -867,6 +867,7 @@ algorithms, knowledgebase and AI technology.
 * [globalEdge](https://globaledge.msu.edu)
 * [GoodFirms](https://www.goodfirms.co/)
 * [GuideStar](https://www.guidestar.org)
+* [Hiring Signals](https://github.com/benkrasin/hiring-signals-extension) - Open-source Chrome extension that shows a company's current open roles by function, remote share and newest posting, from its official Greenhouse, Lever, Ashby, Workable or SmartRecruiters job-board API, with free CSV export.
 * [Hoovers](https://www.hoovers.com)
 * [Inc. 5000](https://www.inc.com/inc5000)
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
