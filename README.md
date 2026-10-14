@@ -1035,6 +1035,7 @@ algorithms, knowledgebase and AI technology.
 * [WhatIsMyIPAddress](https://whatismyipaddress.com)
 * [Who.is](https://who.is/) - Domain whois information.
 * [Whois Arin Online](https://whois.arin.net) - is a web service for Whois data contained within ARIN's registration database
+* [Whois Lookup .ma](https://whois-lookup.ma/whois/) - Free browser-based lookup of public WHOIS information for Moroccan .ma domains, with registrar, registration-date and nameserver information where available.
 * [WhoIsHostingThis](https://www.whoishostingthis.com)
 * [WhoisMind](https://www.whoismind.com)
 * [Whoisology](https://whoisology.com)
