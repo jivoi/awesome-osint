@@ -526,6 +526,7 @@ algorithms, knowledgebase and AI technology.
 * [Pullpush](https://pullpush.io/) - PullPush is a service for the indexing and retrieval of content that Reddit users have submitted to Reddit. Helpful for finding deleted/removed posts & comments.
 * [REDARCS](https://the-eye.eu/redarcs/) - Reddit archives 2005-2023.
 * [Reddit Archive](https://www.redditarchive.com) - Historical archives of reddit posts.
+* [Reddit Scraper](https://apify.com/harshmaur/reddit-scraper) - Collect a user's posts and comments, subreddit listings, full threads and keyword search results as JSON or CSV, with date filters. Paid per result; no Reddit account or API key needed.
 * [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Enhances your reddit experience.
 * [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/) - reddit user account analyzer.
 * [RedditMetis](https://redditmetis.com/) - RedditMetis is a Reddit user analysis tool to see the summary and statistics for a Reddit account, including top posts and user activity etc.
