@@ -1039,6 +1039,7 @@ algorithms, knowledgebase and AI technology.
 * [WhoisMind](https://www.whoismind.com)
 * [Whoisology](https://whoisology.com)
 * [WhoIsRequest](https://whoisrequest.com)
+* [WhosBuilt](https://whosbuilt.com) - Domain report combining stack, hosting, DNS and registrar signals with source-linked builder credits that keep likely builder separate from owner.
 * [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
 * [You Get Signal](https://www.yougetsignal.com)
 
