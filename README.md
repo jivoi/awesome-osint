@@ -1244,6 +1244,7 @@ algorithms, knowledgebase and AI technology.
 * [Mapquest](https://www.mapquest.com)
 * [Modest Maps](https://modestmaps.com)
 * [NGA GEOINT](https://github.com/ngageoint)
+* [OmniScope OSINT](https://omniscope-web.pages.dev) - Free, keyless multi-monitor geospatial intelligence command center with 147-model weather consensus, live Doppler radar sweeps, USGS seismic feeds, and 1,000,000+ indexed sensor nodes.
 * [Open Street Map](https://www.openstreetmap.org)
 * [OpenLayers](https://openlayers.org)
 * [Perry Castaneda Library](https://www.lib.utexas.edu/maps)
