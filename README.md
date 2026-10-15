@@ -1264,6 +1264,7 @@ algorithms, knowledgebase and AI technology.
 * [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
 * [ViaMichelin](https://www.viamichelin.com)
 * [View in Google Earth](https://www.mgmaps.com/kml/#view)
+* [Watchfloor](https://crisis.notamy.app/events) - Public pages for every significant disaster (earthquakes, cyclones, floods, wildfires, volcanoes, drought) with the source-attributed facts, plus a Daily Brief on the world's crises and an open methodology.
 * [Wikimapia](https://wikimapia.org)
 * [Windy](https://www.windy.com/)
 * [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform with live conflict tracking, military flight and vessel monitoring, GPS jamming data, satellite imagery, and geopolitical risk scores across 5 specialized dashboards.
