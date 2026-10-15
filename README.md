@@ -1240,6 +1240,7 @@ algorithms, knowledgebase and AI technology.
 * [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
 * [ViaMichelin](http://www.viamichelin.com)
 * [View in Google Earth](http://www.mgmaps.com/kml/#view)
+* [WarMonit](https://warmonit.com/) - Real-time war map and conflict tracker with a daily global threat level (0-10), conflict and country pages, and open CC BY 4.0 data (threat history, developments).
 * [Wikimapia](http://wikimapia.org)
 * [Windy](https://www.windy.com/)
 * [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform with live conflict tracking, military flight and vessel monitoring, GPS jamming data, satellite imagery, and geopolitical risk scores across 5 specialized dashboards.
