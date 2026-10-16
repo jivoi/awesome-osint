@@ -560,6 +560,7 @@ algorithms, knowledgebase and AI technology.
 
 * [the-endorser](https://github.com/eth0izzle/the-endorser) - Tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
 * [LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Script to dump/scrape/extract company employees info from LinkedIn API.
+* [OutreachGenie LinkedIn Boolean Search Builder](https://www.outreachgenie.ai/linkedin-boolean-search-builder) - Free browser-based builder and syntax checker for LinkedIn Boolean queries, with grouped alternatives, exclusions, operator counts and search-field guidance; does not retrieve profiles.
 
 ### [↑](#-table-of-contents) Telegram
 
