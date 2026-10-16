@@ -1606,6 +1606,7 @@ algorithms, knowledgebase and AI technology.
 * [GPG Tools](https://gpgtools.org)
 * [Guardian Project](https://guardianproject.info)
 * [Guerrilla Mail](https://www.guerrillamail.com)
+* [TempMail10min](https://temp-mail10min.online) - Free disposable temporary email with 5, 10, 15, and 30-minute auto-destruct inboxes for OTP verification.
 * [Hotspot Shield](https://www.hotspotshield.com)
 * [HTTPs Everywhere](https://www.eff.org/https-everywhere/)
 * [I2P](https://geti2p.net)
