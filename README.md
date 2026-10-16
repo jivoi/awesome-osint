@@ -1348,6 +1348,7 @@ algorithms, knowledgebase and AI technology.
 * [CEPII](https://www.cepii.fr/CEPII/en/welcome.asp)
 * [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
 * [Crime Brasil](https://crimebrasil.com.br) - Open-data platform consolidating Brazilian crime statistics (RS neighborhood-level, MG/RJ municipality, national PRF/DATASUS). Free API, CC BY 4.0.
+* [CurrencyFreaks](https://currencyfreaks.com) - Currency exchange rate API with live and historical rates for fiat and crypto currencies.
 * [DataInt Databook](https://databook.dataint.net) - Country reference pages for 250 countries (population, economy, geography, infrastructure, defence, governance) compiled from World Bank, UN, UNESCO and World Factbook, with each figure attributed to its source. 25 languages. Web reference only, no API or bulk download.
 * [Data.gov.uk](https://data.gov.uk)
 * [DBPedia](https://wiki.dbpedia.org)
