@@ -1035,6 +1035,7 @@ algorithms, knowledgebase and AI technology.
 * [WhatIsMyIPAddress](https://whatismyipaddress.com)
 * [Who.is](https://who.is/) - Domain whois information.
 * [Whois Arin Online](https://whois.arin.net) - is a web service for Whois data contained within ARIN's registration database
+* [WhoisFreaks](https://whoisfreaks.com) - WHOIS, historical WHOIS and DNS lookup API for domain research, with reverse WHOIS search.
 * [WhoIsHostingThis](https://www.whoishostingthis.com)
 * [WhoisMind](https://www.whoismind.com)
 * [Whoisology](https://whoisology.com)
