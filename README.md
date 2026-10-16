@@ -1120,6 +1120,7 @@ algorithms, knowledgebase and AI technology.
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 * [Metadata Viewer](https://kriztalz.sh/metadata-viewer/) - Online EXIF data viewer.
 * [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
+* [ScreenshotChecker](https://screenshotchecker.com/) - Free, open-source (MIT) in-browser screenshot and image triage: OCR, EXIF/XMP, C2PA, error level analysis, image comparison and metadata-stripped redaction. Runs client-side; results are signals, not proof.
 * [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
 * [TrueScreen C2PA Viewer](https://truescreen.io/c2pa-viewer/) - Free in-browser tool that reads and checks the Content Credentials (C2PA manifest) of a file, with no upload and no account.
 
