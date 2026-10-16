@@ -684,6 +684,7 @@ algorithms, knowledgebase and AI technology.
 * [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
 * [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+* [MyRecon](https://www.myrecon.xyz) - Evidence-aware username search across 500+ platforms with false-positive filtering, web app, Python CLI, and public breach API. ([Source](https://github.com/4ryanwalia/Myrecon))
 * [Name Chk](https://www.namechk.com) - Check over 30 domains and more than 90 social media account platforms.
 * [Name Checkr](https://www.namecheckr.com) - checks a domain and username across many platforms.
 * [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
