@@ -975,6 +975,7 @@ algorithms, knowledgebase and AI technology.
 * [IP 2 Geolocation](https://ip2geolocation.com)
 * [IP2Location](https://www.ip2location.com/demo) - A comprehensive IP intelligence database and API for accurate geolocation, ASN mapping, and VPN/Tor/Proxy detection.
 * [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
+* [IPGeolocation.io](https://ipgeolocation.io) - IP geolocation and IP intelligence API with ASN, timezone, and VPN/proxy/Tor detection.
 * [ip2geo.dev](https://ip2geo.dev) - IP geolocation API providing city, country, timezone, ASN, and currency data from IP addresses.
 * [IP Checking](https://www.ipchecking.com)
 * [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
