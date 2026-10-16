@@ -474,6 +474,7 @@ algorithms, knowledgebase and AI technology.
 * [Tagdef](https://tagdef.com)
 * [Trends24](https://trends24.in)
 * [TwChat](https://twchat.com)
+* [TweetLens](https://tweetlens.com/) - Search captured public X/Twitter posts from selected accounts by keyword or date. Coverage is limited to captured posts.
 * [TweetMap](https://mapd.csail.mit.edu/tweetmap)
 * [TweetMap](https://github.com/cga-harvard/Data_Science_Big_Data_Projects/tree/master/scripts/Geotweets)
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
