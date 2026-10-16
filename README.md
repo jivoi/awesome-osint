@@ -509,6 +509,7 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) TikTok
 * [TikTokStalker](https://tiktok.einzzcookie.org) - Lookup much info about TikTok stuff
+* [Tok Live Recorder](https://tokliverecorder.com) - Record a public TikTok LIVE while it's on air and download the broadcast as an MP4, so it can be preserved after the stream ends. Runs in the browser; free trial after sign-in.
 
 ### [↑](#-table-of-contents) Pinterest
 
