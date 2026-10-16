@@ -1347,6 +1347,7 @@ algorithms, knowledgebase and AI technology.
 * [Center for International Earth Science Information Network](https://www.ciesin.org)
 * [CEPII](https://www.cepii.fr/CEPII/en/welcome.asp)
 * [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
+* [CommodityPriceAPI](https://commoditypriceapi.com) - API for live and historical commodity prices such as metals, energy and agricultural goods.
 * [Crime Brasil](https://crimebrasil.com.br) - Open-data platform consolidating Brazilian crime statistics (RS neighborhood-level, MG/RJ municipality, national PRF/DATASUS). Free API, CC BY 4.0.
 * [DataInt Databook](https://databook.dataint.net) - Country reference pages for 250 countries (population, economy, geography, infrastructure, defence, governance) compiled from World Bank, UN, UNESCO and World Factbook, with each figure attributed to its source. 25 languages. Web reference only, no API or bulk download.
 * [Data.gov.uk](https://data.gov.uk)
