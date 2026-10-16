@@ -1120,6 +1120,7 @@ algorithms, knowledgebase and AI technology.
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 * [Metadata Viewer](https://kriztalz.sh/metadata-viewer/) - Online EXIF data viewer.
 * [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
+* [snapWONDERS](https://snapwonders.com/analyse-features) - Free photo and video forensics with no account: location and device metadata, edit and AI-generation checks, hidden-content detection.
 * [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
 * [TrueScreen C2PA Viewer](https://truescreen.io/c2pa-viewer/) - Free in-browser tool that reads and checks the Content Credentials (C2PA manifest) of a file, with no upload and no account.
 
