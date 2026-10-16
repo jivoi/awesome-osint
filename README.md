@@ -988,6 +988,7 @@ algorithms, knowledgebase and AI technology.
 * [Mark Monitor WHOIS](https://whois-webform.markmonitor.com/whois/) - Displays domain registration information.
 * [MaxMind](https://www.maxmind.com)
 * [MetaDefender](https://metadefender.com) - Threat analysis service for URLs, files, certificates, domains, and suspicious hashes.
+* [NetAPI](https://netapi.com/) - One of the largest registered-domain databases (380M+ active domains, 1,500+ TLDs) by a co-founder of zonefiles.io (now closed): domain lists and datasets, domain and reverse IP lookup, free compromised domain and IP lists.
 * [Netcraft Site Report](https://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
 * [OpenLinkProfiler](https://www.openlinkprofiler.org/)
 * [openSquat](https://github.com/atenreiro/opensquat) - Open source tool that searches newly registered domain feeds to find typosquatting, IDN homograph, doppelganger and bitsquatting domains impersonating a given brand or keyword.
