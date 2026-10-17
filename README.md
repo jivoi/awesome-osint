@@ -1212,6 +1212,7 @@ algorithms, knowledgebase and AI technology.
 * [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
 * [Esri](https://www.esri.com)
 * [Flash Earth](https://www.flashearth.com)
+* [Flock Locations](https://flocklocations.com) - Community-built map and open database of Flock Safety ALPR camera locations across the United States.
 * [GeoGig](https://geogig.org)
 * [GeoInfer](https://geoinfer.com) - Image geolocation tool, no EXIF data required.
 * [ReverseImageLocation](https://reverseimagelocation.com) - AI-powered geolocation tool for identifying locations from images.
