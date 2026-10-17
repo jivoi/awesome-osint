@@ -733,6 +733,7 @@ algorithms, knowledgebase and AI technology.
 * [Mugshots](https://mugshots.com/)
 * [Offendersearch](https://offendersearch.app) - Free. Search all 58 US state, territory and tribal sex-offender registries in one query; scored, de-duplicated results with a link to the official registry record behind each match. Public API + open data + MCP server.
 * [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
+* [OppIntell](https://oppintell.com) - Nonpartisan opposition research software that organizes public records (FEC and state filings, votes, court records, disclosures, statements) on 24,000+ U.S. candidates into profiles where every claim links to its source. Public profiles are free to browse.
 * [PeekYou](https://peekyou.com/) - PeekYou offers the ability to search for people with checks done against more sites. Can check for arrest records as well.
 * [Reunion](https://reunion.com) - People search. Limited free info, premium data upsell.
 * [Socialcatfish](https://socialcatfish.com/) - Superextensive people search which works worldwide. Searches are done from 200 Billion records.
