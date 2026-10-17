@@ -700,7 +700,7 @@ algorithms, knowledgebase and AI technology.
 * [User Search](https://www.usersearch.org) - Find someone by username, email, phone number or picture across Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs, 3000+ sites Supported!
 * [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
 * [WhatsMyName](https://whatsmyname.app/) - check for usernames across many different platforms.
-* [WhatsMyName Apps](https://whatsmynameapps.us/) - Free username search across 3,165 sites, no sign-up, with Android app.
+* [WhatsMyName Apps](https://whatsmynameapps.us/) - Free username search across 3,165 sites, no sign-up. Android app: [Google Play](https://play.google.com/store/apps/details?id=whatsmyname.app.us).
 
 
 ## [↑](#-table-of-contents) People Investigations
