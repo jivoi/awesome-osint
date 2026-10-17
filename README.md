@@ -1103,6 +1103,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Image Analysis
 
+* [Check AI Free](https://checkaifree.com) - Free image checker that reads source clues in JPEG, PNG and WebP files (generation parameters, camera metadata, C2PA manifest presence) with an optional AI-image model check; C2PA signatures are not validated. Also has in-browser EXIF, C2PA and [Stable Diffusion PNG info](https://checkaifree.com/tools/stable-diffusion-png-info) readers.
 * [ChronoVerify](https://chronoverify.com) - API and free web tool that reads EXIF and XMP, validates C2PA Content Credentials against official trust lists, and runs classical pixel forensics, returning one typed verdict for any image.
 * [DiffChecker](https://www.diffchecker.com/image-diff/)
 * [EXIFEditor.io](https://exifeditor.io) - In-browser EXIF image metadata editor, viewer, and analysis tool.
