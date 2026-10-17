@@ -734,6 +734,7 @@ algorithms, knowledgebase and AI technology.
 * [Offendersearch](https://offendersearch.app) - Free. Search all 58 US state, territory and tribal sex-offender registries in one query; scored, de-duplicated results with a link to the official registry record behind each match. Public API + open data + MCP server.
 * [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
 * [PeekYou](https://peekyou.com/) - PeekYou offers the ability to search for people with checks done against more sites. Can check for arrest records as well.
+* [Recordwell](https://recordwell.ai/) - U.S. people search by first and last name using public sources. Full reports are paid.
 * [Reunion](https://reunion.com) - People search. Limited free info, premium data upsell.
 * [Socialcatfish](https://socialcatfish.com/) - Superextensive people search which works worldwide. Searches are done from 200 Billion records.
 * [SearchBug](https://www.searchbug.com) - People search. Limited free info, premium data upsell.
