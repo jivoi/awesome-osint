@@ -1289,6 +1289,7 @@ algorithms, knowledgebase and AI technology.
 * [Euronews](https://www.euronews.com)
 * [Factiva](https://www.dowjones.com/factiva)
 * [France24](https://www.france24.com)
+* [GlobalsConflicts](https://www.globalsconflicts.com)
 * [Google News](https://news.google.com)
 * [Google News Print Archive](https://news.google.com/newspapers)
 * [HeadlineSpot](https://www.headlinespot.com)
