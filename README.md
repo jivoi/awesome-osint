@@ -270,7 +270,6 @@ algorithms, knowledgebase and AI technology.
 
 * [DocumentCloud](https://www.documentcloud.org) - Platform for analyzing, annotating, and publishing documents.
 * [Epstein Exposed](https://epsteinexposed.com) - Comprehensive searchable database of 2M+ DOJ Epstein case documents, 1,700+ persons, flight logs, emails, and network graph visualization.
-* [Find-pdf-doc](https://www.findpdfdoc.com)
 * [Free Full PDF](https://www.freefullpdf.com)
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
 * [RECAP Archive](https://www.courtlistener.com/recap/) - Public archive of PACER court documents.
