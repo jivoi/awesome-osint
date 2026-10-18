@@ -820,11 +820,8 @@ algorithms, knowledgebase and AI technology.
 * [ExpertPages](https://expertpages.com)
 * [Experts.com](https://www.experts.com)
 * [HARO](https://www.helpareporter.com)
-* [Licenseplates](https://www.worldlicenseplates.com/)
-* [GlobalExperts](https://www.theglobalexperts.org)
 * [Idealist](https://www.idealist.org)
 * [Innocentive](https://www.innocentive.com)
-* [Internet Experts](https://www.internetexperts.info)
 * [Library of Congress: Ask a Librarian](https://www.loc.gov/rr/askalib)
 * [Maven](https://www.maven.co)
 * [MuckRack](https://muckrack.com) - Extensive database of U.S. government public records obtained through federal and state public records requests. Automated tool that will make public records requests and follow up until records are obtained on your behalf.
