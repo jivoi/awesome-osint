@@ -1484,9 +1484,7 @@ algorithms, knowledgebase and AI technology.
 * [A1 Website Download](https://www.microsystools.com/products/website-download) - Download entire websites to disk.
 * [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
 * [gmapcatcher](https://github.com/heldersepu/gmapcatcher)
-* [Hooey webprint](https://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 * [HTTrack](https://www.httrack.com) - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
-* [Offliberty](https://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 * [Resolver](https://metaproductsrevolver.com)
 * [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html)
 * [WebAssistant](https://www.proxy-offline-browser.com/download.html)
