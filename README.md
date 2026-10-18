@@ -1342,7 +1342,6 @@ algorithms, knowledgebase and AI technology.
 * [AidData](https://aiddata.org)
 * [AWS Public Datasets](https://aws.amazon.com/datasets)
 * [Bank for International Settlements Statistics](https://www.bis.org/statistics/index.htm)
-* [Berkely Library: Data Lab](https://www.lib.berkeley.edu/libraries/data-lab)
 * [BP Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 * [Center for International Earth Science Information Network](https://www.ciesin.org)
 * [CEPII](https://www.cepii.fr/CEPII/en/welcome.asp)
