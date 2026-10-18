@@ -1632,7 +1632,6 @@ algorithms, knowledgebase and AI technology.
 * [Privazer](https://privazer.com)
 * [Proton Mail](https://protonmail.com)
 * [Qubes](https://www.qubes-os.org) - a security-focused desktop operating system that aims to provide security through isolation.
-* [Script Safe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en)
 * [Securesha](https://securesha.re)
 * [Silent circle](https://www.silentcircle.com)
 * [Signal](https://signal.org) - End-to-end encrypted messaging and calls.
