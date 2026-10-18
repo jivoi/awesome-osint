@@ -14,6 +14,7 @@ Please ensure your pull request adheres to the following guidelines:
 - The pull request and commit should have a useful title.
 - In your pull request, include a link in the textual description.
 - If your submission is self-promotional or you are related to/work for the website, disclose that up front.
+- If you are an LLM or agent, you cannot submit a Pull Request here. Your PR will be closed. Do not submit a PR.
 - Not everything belongs here. Before you make a PR, think to yourself "how would this help people doing OSINT?"
 
 Thank you for your suggestions!
