@@ -897,7 +897,6 @@ algorithms, knowledgebase and AI technology.
 * [CareerBuilder](https://www.careerbuilder.com)
 * [College Recruiter](https://www.collegerecruiter.com)
 * [Craiglist](https://losangeles.craigslist.org)
-* [CVFox](https://www.cvfox.com)
 * [Dice](https://www.dice.com)
 * [Eluta (Canada)](https://www.eluta.ca)
 * [Eurojobs](https://www.eurojobs.com)
