@@ -1200,7 +1200,6 @@ algorithms, knowledgebase and AI technology.
 * [Apify's Google Maps Scraper](https://apify.com/compass/crawler-google-places)
 * [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
 * [Atlas](https://atlas.co)
-* [Atlasify](https://www.atlasify.com)
 * [Baidu Maps](https://map.baidu.com/)
 * [Batchgeo](https://batchgeo.com)
 * [Bing Maps](https://www.bing.com/maps)
