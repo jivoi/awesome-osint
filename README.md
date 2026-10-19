@@ -1542,7 +1542,6 @@ algorithms, knowledgebase and AI technology.
 * [Vis.js](https://visjs.org)
 * [Visme](https://www.visme.co)
 * [Visualize Free](https://visualizefree.com)
-* [Visualize.me](https://vizualize.me)
 * [visually](https://create.visual.ly)
 * [Vortex](https://www.dotmatics.com/products/vortex)
 * [ZingChart](https://www.zingchart.com)
@@ -1560,11 +1559,9 @@ algorithms, knowledgebase and AI technology.
 * [Abine](https://www.abine.com)
 * [Adium](https://adium.im)
 * [Bitwarden](https://bitwarden.com) - Open-source password manager with cross-platform support.
-* [boxcryptor](https://www.boxcryptor.com)
 * [CCleaner](https://www.piriform.com/ccleaner)
 * [Chatsecure](https://chatsecure.org)
 * [Disconnect](https://disconnect.me)
-* [Do Not Track](https://donottrack.us)
 * [Duck Duck Go Search Engine](https://duckduckgo.com)
 * [EncSF MP](https://encfsmp.sourceforge.net)
 * [Epic Privacy Browser](https://www.epicbrowser.com)
@@ -1644,7 +1641,6 @@ algorithms, knowledgebase and AI technology.
 * [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
 * [DuckDuckGo URL scraper](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
 * [FaviconHash](https://kriztalz.sh/favicon-hash/) - Generate favicon hashes of a website for use on Shodan, VirusTotal, Censys, ZoomEye or FOFA.
-* [Find osint tool](https://find.osint-tool.com) - Searches multiple OSINT tools to find information across various sources.
 * [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 * [Glit](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
 * [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
@@ -1667,7 +1663,7 @@ algorithms, knowledgebase and AI technology.
 * [Outwit](https://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
 * [PGPKeyAnalyser](https://kriztalz.sh/pgp-key-analyser/) - Analyse and view the details of a PGP key online without having to download the asc file.
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
-* [PRISM](https://github.com/NovaCode37/Prism-platform) - Self-hosted all-in-one OSINT platform that scans a domain, IP, email, phone, or username across 22+ modules and returns threat intel, breach data, subdomains, an OPSEC score, entity graph, GeoIP map, and HTML/PDF reports. [Live demo](https://getprism.su).
+(https://getprism.su).
 * [Pyba](https://github.com/fauvidoTechnologies/PyBrowserAutomation/) - A browser automation framework which requires low-code to search the web and perform OSINT using DFS and BFS modes, ideal for exploratory tasks.
 * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
