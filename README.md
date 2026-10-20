@@ -987,6 +987,7 @@ algorithms, knowledgebase and AI technology.
 * [URLVoid](https://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
 * [Vacato](https://vacato.io) - Free RDAP domain availability watchlist: scheduled checks + Telegram/email/Slack when status looks available (not a registrar or drop-catcher). Free tier: 10 domains.
 * [Validin](https://app.validin.com/) - Website and API to search current and historical DNS records for free
+* [VendorPrint](https://vendorprintcli.com)  - Open-source CLI and Node.js library for discovering company email providers and SaaS providers from public DNS.
 * [Verisign](https://dnssec-debugger.verisignlabs.com)
 * [ViewDNS.info](https://viewdns.info)
 * [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
