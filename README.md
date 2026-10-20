@@ -1405,6 +1405,7 @@ algorithms, knowledgebase and AI technology.
 * [The Old Reader](https://theoldreader.com)
 * [versionista](https://versionista.com)
 * [visualping](https://visualping.io)
+* [SnapshotArchive](https://snapshotarchive.com) - Website monitoring and screenshot archiving service. Captures periodic snapshots of web pages and tracks visual changes over time.
 * [Wayback-Diff](https://github.com/GeiserX/Wayback-Diff)
 * [WebReader](https://www.getwebreader.com)
 * [WebSite Watcher](https://www.aignes.com/index.htm)
