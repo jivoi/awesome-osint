@@ -1338,6 +1338,7 @@ algorithms, knowledgebase and AI technology.
 * [SESRIC Basic Social and Economic Indicators](https://www.sesric.org/baseind.php)
 * [SESRIC Databases](https://www.sesric.org/databases-index.php)
 * [Statista](https://www.statista.com)
+* [TenderTracker UK](https://tendertracker.co.uk/?utm_source=github.com&utm_medium=outreach) - Free search of UK public contract notices and awards from Find a Tender and Contracts Finder since 2021, with supplier and buyer profiles; full history needs a free account.
 * [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu)
 * [The Data and Story Library](https://lib.stat.cmu.edu/DASL)
 * [Trading Economics](https://www.tradingeconomics.com)
