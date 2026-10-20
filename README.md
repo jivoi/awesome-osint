@@ -1144,7 +1144,6 @@ algorithms, knowledgebase and AI technology.
 * [Journal Guide](https://www.journalguide.com)
 * [Journal Seek](https://journalseek.net)
 * [JSTOR](https://www.jstor.org) - Search over 10 million academic journal articles, books, and primary sources.
-* [Lazy Scholar](https://www.lazyscholar.org)
 * [Leibniz Information Centre For Science and Technology University Library](https://www.tib.eu/en/search-discover/) - indexes all reports of German publicly funded projects and many scientific papers.
 * [Microsoft Academic](https://academic.research.microsoft.com)
 * [NRC Research Press](https://www.nrcresearchpress.com)
@@ -1165,8 +1164,6 @@ algorithms, knowledgebase and AI technology.
 * [The Open Syllabus Project](https://opensyllabusproject.org/)
 * [Wiley](https://www.wiley.com)
 * [World Digital Library](https://www.wdl.org)
-* [World Science](https://worldwidescience.org)
-* [Zetoc](https://zetoc.jisc.ac.uk)
 
 
 ## [↑](#-table-of-contents) Geospatial Research and Mapping Tools
@@ -1179,7 +1176,6 @@ algorithms, knowledgebase and AI technology.
 * [Bing Maps](https://www.bing.com/maps)
 * [CartoDB](https://cartodb.com)
 * [Colorbrewer](https://colorbrewer2.org)
-* [CrowdMap](https://crowdmap.com)
 * [digiKam](https://www.digikam.org/)
 * [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html)
 * [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
@@ -1201,7 +1197,6 @@ algorithms, knowledgebase and AI technology.
 * [Instant Google Street View](https://www.instantstreetview.com)
 * [InstantAtlas](https://www.instantatlas.com)
 * [KartaView](https://kartaview.org/map/)
-* [Kartograph](https://kartograph.org)
 * [Leaflet](https://leafletjs.com)
 * [Liveuamap](https://liveuamap.com/)
 * [Map Maker](https://maps.co)
@@ -1264,15 +1259,9 @@ algorithms, knowledgebase and AI technology.
 * [France24](https://www.france24.com)
 * [Google News](https://news.google.com)
 * [Google News Print Archive](https://news.google.com/newspapers)
-* [HeadlineSpot](https://www.headlinespot.com)
-* [Itar-Tass](https://www.itar-tass.com)
-* [MagPortal](https://www.magportal.com)
-* [News Map](https://newsmap.jp)
 * [News Now](https://www.newsnow.co.uk)
 * [Newseum - Today Front Pages](https://www.newseum.org/todaysfrontpages)
-* [NewsLookup](https://www.newslookup.com)
 * [Newspaper Map](https://newspapermap.com)
-* [Newspaperindex](https://www.newspaperindex.com)
 * [Newspapers.com](https://www.newspapers.com)
 * [NewsWhip](https://www.newswhip.com)
 * [OnlineNewspapers](https://www.onlinenewspapers.com)
@@ -1281,7 +1270,6 @@ algorithms, knowledgebase and AI technology.
 * [Press Reader](https://www.pressreader.com)
 * [Reuters](https://www.reuters.com)
 * [Silobreaker](https://www.silobreaker.com)
-* [Topix](https://www.topix.com)
 * [WorldNews](https://wn.com)
 * [World-Newspapers](https://www.world-newspapers.com)
 * [Yahoo News](https://news.yahoo.com)
