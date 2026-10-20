@@ -1172,6 +1172,7 @@ algorithms, knowledgebase and AI technology.
 * [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
 * [Esri](https://www.esri.com)
 * [Flash Earth](https://www.flashearth.com)
+* [Flock Locations](https://flocklocations.com) - Community-built public map and open database of Flock Safety and other ALPR (automatic license plate reader) camera locations. ~136k reported locations labeled Community Confirmed or 3rd Party / Unconfirmed, with free CSV/GeoJSON exports and a public API.
 * [GeoGig](https://geogig.org)
 * [GeoInfer](https://geoinfer.com) - Image geolocation tool, no EXIF data required.
 * [ReverseImageLocation](https://reverseimagelocation.com) - AI-powered geolocation tool for identifying locations from images.
