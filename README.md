@@ -949,6 +949,7 @@ algorithms, knowledgebase and AI technology.
 * [openSquat](https://github.com/atenreiro/opensquat) - Open source tool that searches newly registered domain feeds to find typosquatting, IDN homograph, doppelganger and bitsquatting domains impersonating a given brand or keyword.
 * [osint-recon](https://github.com/JMarchiori13/osint-recon) - Passive OSINT reconnaissance framework in Rust: subdomains, DNS, ASN, certificate transparency history, GitHub dorking, tech fingerprinting, emails and document metadata for authorized red team engagements.
 * [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
+* [Pharos Email Domain Health](https://pharos.email/tools/domain-health) - checks a domain’s SPF, DKIM, DMARC, BIMI, MX and forward-confirmed reverse DNS records in one pass. Free, no signup.
 * [PhishStats](https://phishstats.info/)
 * [Pulsedive](https://pulsedive.com)
 * [Qualys SSL Check](https://www.ssllabs.com/ssltest/) - SSL Test configuration compliance.
