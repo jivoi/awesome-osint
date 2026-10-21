@@ -483,6 +483,7 @@ algorithms, knowledgebase and AI technology.
 * [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
 
 ### [↑](#-table-of-contents) TikTok
+* [GetTikVideo](https://gettikvideo.com/tiktok-profile-picture-downloader) - Full-size profile picture and latest public videos from a TikTok profile link; saves public videos, photo posts and stories without an account.
 * [TikTokStalker](https://tiktok.einzzcookie.org) - Lookup much info about TikTok stuff
 
 ### [↑](#-table-of-contents) Pinterest
