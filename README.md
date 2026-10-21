@@ -472,6 +472,7 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) Instagram
 
+* [AnalyzeInsta](https://analyzeinsta.com) - Web-based public Instagram profile analytics and engagement rate auditing with no login or credentials required.
 * [Dolphin Radar](https://www.dolphinradar.com/web-viewer-for-instagram) - An Instagram Post Viewer lets you view posts, stories, and profiles from public accounts with ease. Free viewer limit: 1.
 * [Iconosquare](https://iconosquare.com)
 * [IGDetective](https://www.igdetective.com) - Public Instagram investigation with no login: anonymous story viewer, a follower tracker showing an account's recent follows/unfollows, and a profile viewer, plus optional continuous tracking with a permanent Story Archive (account required for tracking only).
