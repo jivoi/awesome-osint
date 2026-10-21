@@ -450,6 +450,7 @@ algorithms, knowledgebase and AI technology.
 * [Tagdef](https://tagdef.com)
 * [Trends24](https://trends24.in)
 * [TweetMap](https://github.com/cga-harvard/Data_Science_Big_Data_Projects/tree/master/scripts/Geotweets)
+* [TwexAPI Twitter Viewer](https://twexapi.io/twitter-viewer) - View a public X (Twitter) profile and its latest posts without logging in or creating an account.
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
 * [Twitter Audit](https://www.twitteraudit.com)
 * [Twitter Chat Schedule](https://tweetreports.com/twitter-chat-schedule)
