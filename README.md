@@ -431,6 +431,7 @@ algorithms, knowledgebase and AI technology.
 * [MustBePresent](https://mustbepresent.com)
 * [Oblivion](https://github.com/loseys/Oblivion)
 * [OpinionCrawl](https://www.opinioncrawl.com)
+* [OSINT.SX](https://osint.sx) - Search an email, phone number, username or name across hundreds of sites and apps, with an API.
 * [OSINTNova](https://app.osintnova.com/) - AI-powered OSINT platform for advanced digital investigations and intelligence analysis
 * [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
 * [Rival IQ](https://www.rivaliq.com)
