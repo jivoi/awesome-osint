@@ -1022,6 +1022,7 @@ algorithms, knowledgebase and AI technology.
 * [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
 * [waybackpy](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 * [WayTrace](https://waytrace.org/) - Reconstructs a domain's history from Wayback Machine captures: emails, subdomains, exposed API keys, analytics and ad IDs, people and more, each dated from first to last appearance. Passive, open source.
+* [Web Resource Ledger](https://webresourceledger.com) - Captures a web page as a signed, timestamped WACZ bundle that anyone can verify without an account. Web UI, API and MCP server, free tier.
 
 ## [↑](#-table-of-contents) Language Tools
 
