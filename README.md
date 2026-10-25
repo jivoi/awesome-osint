@@ -485,6 +485,7 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#-table-of-contents) TikTok
 * [GetTikVideo](https://gettikvideo.com/tiktok-profile-picture-downloader) - Full-size profile picture and latest public videos from a TikTok profile link; saves public videos, photo posts and stories without an account.
 * [TikTokStalker](https://tiktok.einzzcookie.org) - Lookup much info about TikTok stuff
+* [TKMetrics](https://tkmetrics.com/) - TikTok creator stats, hashtag trends and earnings estimates from public TikTok data; free money calculator and Creator Rewards eligibility checker.
 
 ### [↑](#-table-of-contents) Pinterest
 
