@@ -1146,6 +1146,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Geospatial Research and Mapping Tools
 
+* [Aleph](https://github.com/Belluxx/Aleph) - Download satellite imagery, Street View photos, 3D models, buildings and elevation for any area or point on Earth. No API keys required.
 * [Apify's Google Maps Scraper](https://apify.com/compass/crawler-google-places)
 * [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
 * [Atlas](https://atlas.co)
