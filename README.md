@@ -183,6 +183,7 @@ algorithms, knowledgebase and AI technology.
 
 *Search engines that can be used to check if your data's been breached*
 
+* [Breach House](https://breach.house/) - Search engine for data breaches and ransomware leaks: check whether an email, domain or company appears in leaked data, with API access.
 * [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach, showing the sources; free searches, developer API and chat bots.
 * [CredenShow](https://credenshow.com/) - Identify your compromised credentials before others do.
 * [HIB Ransomed](https://haveibeenransom.com/) - Because people have the right to know if their data has been leaked.
@@ -1642,6 +1643,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Threat Intelligence
 
 - [Threat Actor Usernames](https://threatactorusernames.com/) -  search through 3M+ threat actor username records and discover where they operate online and post.
+* [Darkeye.io](https://darkeye.io) - Threat intelligence and dark web monitoring platform that tracks leak sites, ransomware groups and underground sources, alerting on exposed credentials and company data.
 * [defend.network](https://defend.network) - Free, no-login cyber threat intelligence publishing daily threat briefings and weekly vulnerability reports, with every CVE cross-checked against NVD and the CISA KEV catalog. Content is structured by threat type, industry, and severity, with remediation guidance. RSS feed at defend.network/feed.xml.
 * [DFIR Platform](https://platform.dfir-lab.ch) - Threat intelligence platform with multi-source IOC enrichment, phishing email analysis, exposure scanning, and domain reputation scoring. Free tier available.
 * [Dread Scraper](https://github.com/NPCmillionaire/dread-scraper) - Slow, resumable archiver for selected Dread boards, routed through Tor. Saves threads and replies to a local SQLite database with full-text search for offline threat-intelligence research.
