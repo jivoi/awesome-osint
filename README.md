@@ -842,9 +842,9 @@ algorithms, knowledgebase and AI technology.
 * [Plunkett Research](https://www.plunkettresearchonline.com)
 * [Scoot](https://www.scoot.co.uk)
 * [Section 16 Deadline Calculator](https://github.com/Turner-Levey/section-16-deadline-calculator)  - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
-* [Sirélium](https://sirelium.fr) - Free map and search of French companies, establishments and directors, built from official registries (INSEE Sirene, INPI RNE, BODACC).
 * [SEMrush](https://www.semrush.com)
 * [Serpstat](https://serpstat.com)
+* [Sirélium](https://sirelium.fr) - Free map and search of French companies, establishments and directors, built from official registries (INSEE Sirene, INPI RNE, BODACC).
 * [SpyFu](https://www.spyfu.com)
 * [Tracxn](https://tracxn.com) - Search information about a company such as aquisitions, investors, people, research, etc
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
