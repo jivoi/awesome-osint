@@ -709,6 +709,7 @@ algorithms, knowledgebase and AI technology.
 * [Spokeo](https://www.spokeo.com) - People search. Limited free info, premium data upsell.
 * [Surfface](https://surfface.com) - Face search and people finder that links faces to social media profiles and other public data.
 * [The National Archives (UK)](https://www.nationalarchives.gov.uk) - Search UK national archives.
+* [Trace](https://www.trace.expert/) - AI digital investigator. Runs 1000+ live social media with name, email, phone, username and web searches and drafts the report. Paid with trial.
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [UK Phone Book](https://www.ukphonebook.com/) - Search people in a similar way as 192.com
 * [VerifiedHer](https://verifiedher.com) - Free registry of online creators and influencers answering "is she real?" — per-person pages with sourced verdicts (real / AI persona / unverified), documented official accounts, and known impersonations.
