@@ -449,6 +449,7 @@ algorithms, knowledgebase and AI technology.
 * [RiteTag](https://ritetag.com)
 * [Tagdef](https://tagdef.com)
 * [Trends24](https://trends24.in)
+* [TweetAPI Twitter ID Finder](https://tweetapi.com/tools/twitter-id-finder) - Find the user ID behind a Twitter username or profile link, or look up the current username for an ID. Free, no signup.
 * [TweetMap](https://github.com/cga-harvard/Data_Science_Big_Data_Projects/tree/master/scripts/Geotweets)
 * [TwexAPI Twitter Viewer](https://twexapi.io/twitter-viewer) - View a public X (Twitter) profile and its latest posts without logging in or creating an account.
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
