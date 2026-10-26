@@ -185,6 +185,7 @@ algorithms, knowledgebase and AI technology.
 
 * [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach, showing the sources; free searches, developer API and chat bots.
 * [CredenShow](https://credenshow.com/) - Identify your compromised credentials before others do.
+* [DuckINT](https://duckint.cc/) - Search an email, username, domain, IP or Discord ID across breach, infostealer and public sources in one query.
 * [HIB Ransomed](https://haveibeenransom.com/) - Because people have the right to know if their data has been leaked.
 * [HEROIC.NOW](https://heroic.com/) - Has your data been leaked on the dark web? Scan your identities for FREE.
 * [IKnowYour.Dad](https://iknowyour.dad/) - Data Breach Search Engine.
