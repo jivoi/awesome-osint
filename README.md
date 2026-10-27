@@ -819,6 +819,7 @@ algorithms, knowledgebase and AI technology.
 * [CorporationWiki](https://www.corporationwiki.com/)
 * [CrunchBase](https://www.crunchbase.com) - Detailed information on startup businesses, with a specific focus on funding sources and funding procedures used by specific businesses. 
 * [Data.com Connect](https://connect.data.com)
+* [EarlyLore](https://earlylore.com/) - Research workspace for founders to study real SaaS products, public revenue signals, and competitor changes to pricing, positioning and features, with source and observation date kept on each change.
 * [EDGAR U.S. Securities and Exchange Commission Filings](https://www.edgar-online.com) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
 * [Europages](https://www.europages.co.uk)
 * [Ezilon](https://www.ezilon.com)
