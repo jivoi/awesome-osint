@@ -1737,6 +1737,7 @@ algorithms, knowledgebase and AI technology.
 * [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
 * [SecLists](https://github.com/danielmiessler/SecLists) by @danielmiessler
 * [security-list](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
+* [osint-tools-list](https://github.com/aixisstudio/osint-tools-list) by @aixisstudio - OSINT tools & techniques for recon, investigation and threat intelligence.
 
 ## License
 
