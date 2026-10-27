@@ -963,6 +963,7 @@ algorithms, knowledgebase and AI technology.
 * [ScanMalware](https://scanmalware.com) - Free URL scanner that renders a page in a sandboxed browser and reports phishing and malware verdicts, network requests, technologies, TLS/JARM fingerprints and screenshots, with a public feed of recent scans searchable by domain, IP, ASN or favicon hash.
 * [SecurityTrails](https://securitytrails.com/dns-trails) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
 * [SubDomainRadar.io](https://subdomainradar.io) - Fast subdomain finder with multiple search modes and the most extensive data sources, offering real-time notifications.
+* [SubDomainWatch](https://subdomainwatch.com) - Continuous subdomain discovery, SSL expiration tracking, and DNS takeover prevention for teams.
 * [SEMrush](https://www.semrush.com)
 * [SEOTools for Excel](https://seotoolsforexcel.com)
 * [Similar Web](https://www.similarweb.com) - Compare any website traffic statistics & analytics.
