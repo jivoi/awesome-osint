@@ -1581,6 +1581,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Logibook](https://logibook.dataint.net) - Trade and logistics reference covering 250 countries: 58,730 sourced entities across ports, airports, terminals, trade zones and carriers, built from the NGA World Port Index, UN/LOCODE, SMDG terminal and liner code lists, ISO 6346 container codes, UNCTAD liner shipping connectivity and World Bank port throughput. Each port page also shows the nearest airport, city and trade zone with distances. Every figure carries its source and year. Web reference only, no API or bulk download.
 * [Phantom Tide](https://github.com/tg12/phantomtide) - Cross-domain OSINT dashboard combining vessel tracking, airspace activity, official notices, environmental context, and satellite detections for maritime and airspace analysis.
+* [PortInsight.io](https://portinsight.io/ports) - Free live anchorage waiting times, vessel counts and monthly congestion reports for seven major ports, measured from AIS with the method published. Free account adds port and vessel arrival email alerts.
 * [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
 
 ## [↑](#-table-of-contents) Other Tools
