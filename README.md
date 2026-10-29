@@ -848,6 +848,7 @@ algorithms, knowledgebase and AI technology.
 * [SpyFu](https://www.spyfu.com)
 * [Tracxn](https://tracxn.com) - Search information about a company such as aquisitions, investors, people, research, etc
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
+* [US Private Funding Rounds](https://apify.com/clearpath-data/us-private-funding-rounds) - Paid, pay-per-result feed of new US Form D private offering notices from public SEC filings: issuer, industry, state, offering size, amount sold. Personal names left out by default.
 * [Vault](https://www.vault.com) - Well-known ranking of largest United States Corporations.
 * [WhiteIntel](https://whiteintel.dev) - Free corporate and offshore ownership graph: trace a company to its beneficial owners across 31 public registries (Companies House, GLEIF, ICIJ Offshore Leaks, OpenSanctions, SEC EDGAR), with sanctions screening and fully cited dossiers. Queryable by AI agents over MCP.
 * [Xing](https://www.xing.com)
