@@ -1523,6 +1523,7 @@ algorithms, knowledgebase and AI technology.
 * [Epic Privacy Browser](https://www.epicbrowser.com)
 * [Eraser](https://eraser.heidi.ie)
 * [FileVault](https://support.apple.com/en-us/HT204837)
+* [Free Proxy List](https://github.com/proxifly/free-proxy-list) - Free HTTP, SOCKS4 and SOCKS5 proxies, tested and refreshed every 5 minutes, with lists by country. Useful for routing research traffic away from an investigator's own IP.
 * [Ghostery](https://www.ghostery.com)
 * [GNU PG](https://www.gnupg.org/download/index.html)
 * [GPG Tools](https://gpgtools.org)
