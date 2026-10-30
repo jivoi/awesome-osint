@@ -1623,6 +1623,7 @@ algorithms, knowledgebase and AI technology.
 * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 * [Outwit](https://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
 * [PGPKeyAnalyser](https://kriztalz.sh/pgp-key-analyser/) - Analyse and view the details of a PGP key online without having to download the asc file.
+* [Parse Everything](https://parse-everything.com/) - Web scraping API and anti-bot bypass engine to extract structured HTML and JSON data from protected websites.
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 * [Pyba](https://github.com/fauvidoTechnologies/PyBrowserAutomation/) - A browser automation framework which requires low-code to search the web and perform OSINT using DFS and BFS modes, ideal for exploratory tasks.
 * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
