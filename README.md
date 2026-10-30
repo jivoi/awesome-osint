@@ -828,6 +828,7 @@ algorithms, knowledgebase and AI technology.
 * [Glassdoor](https://www.glassdoor.com)
 * [globalEdge](https://globaledge.msu.edu)
 * [GoodFirms](https://www.goodfirms.co/)
+* [govint](https://github.com/NPCmillionaire/govint) - Free CLI that searches U.S. government records (SEC EDGAR, sanctions lists, USAspending, GLEIF, FEC, SAM.gov, FARA and more) for a company or person, links the results, and writes a sourced dossier.
 * [GuideStar](https://www.guidestar.org)
 * [Hoovers](https://www.hoovers.com)
 * [Inc. 5000](https://www.inc.com/inc5000)
