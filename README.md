@@ -1709,6 +1709,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Other Resources
 
+* [Parse Everything](https://parse-everything.com) - Extraction API capable of bypassing Cloudflare WAF, Turnstile, and Akamai during OSINT investigations.
 * [appsec.fyi OSINT Resources](https://appsec.fyi/osint.html) - Curated collection of OSINT resources for cybersecurity, including tools, techniques, and writeups.
 * [Aware-online.com](https://www.aware-online.com/en/osint-tools) - Curated collection of OSINT tools and methodologies for investigations.
 * [Bellingcat's Online Investigation Toolkit](https://bit.ly/bcattools)
