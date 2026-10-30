@@ -811,6 +811,7 @@ algorithms, knowledgebase and AI technology.
 * [Bureau Van Dijk](https://www.bvdinfo.com)
 * [Business Source](https://www.ebscohost.com/academic/business-source-complete)
 * [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
+* [capitol-cli](https://github.com/NPCmillionaire/capitol-cli) - Free, open-source CLI that tracks U.S. House members' stock trades from official STOCK Act filings, with committee cross-references and late-filing flags.
 * [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.  
 * [Company Registration Round the World](https://www.commercial-register.sg.ch/home/worldwide.html)
 * [Company Research Resources by Country Comparably](https://www.comparably.com)
