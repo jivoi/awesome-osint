@@ -955,6 +955,7 @@ algorithms, knowledgebase and AI technology.
 * [osint-recon](https://github.com/JMarchiori13/osint-recon) - Passive OSINT reconnaissance framework in Rust: subdomains, DNS, ASN, certificate transparency history, GitHub dorking, tech fingerprinting, emails and document metadata for authorized red team engagements.
 * [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
 * [PhishStats](https://phishstats.info/)
+* [Profundis](https://profundis.io/tools/subdomains)  - Find subdomains from indexed DNS records, with downloadable results and API access.
 * [Pulsedive](https://pulsedive.com)
 * [Qualys SSL Check](https://www.ssllabs.com/ssltest/) - SSL Test configuration compliance.
 * [Quantcast](https://www.quantcast.com)
