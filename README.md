@@ -1615,6 +1615,7 @@ algorithms, knowledgebase and AI technology.
 * [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 * [Mozilla HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Observatory⁩ enhances web security by analyzing compliance with best security practices.
 * [Obsidian](https://obsidian.md) - Knowledge base and note-taking tool ideal for OSINT case management.
+* [Open OSINT Framework (OOF)](https://github.com/cybersecswiss/open-osint-framework) - Self-hosted OSINT investigation platform (AGPL-3.0): enter one selector, run ~85 tools in parallel and get a case graph with provenance and reliability rating per finding; monitoring, PDF/DOCX reports and Maltego/MISP/STIX export.
 * [OpenGraph Intel (OGI)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
