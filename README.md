@@ -1385,7 +1385,7 @@ algorithms, knowledgebase and AI technology.
 * [Selfoss](https://selfoss.aditu.de)
 * [Silobreaker](https://www.silobreaker.com)
 * [Talkwalker](https://www.talkwalker.com)
-* [Topic Watch](https://github.com/0xzerolight/topic_watch)
+* [Topic Watch](https://github.com/0xzerolight/topic_watch) - Self-hosted news monitor that uses an LLM to only notify on genuinely new information.
 * [The Old Reader](https://theoldreader.com)
 * [versionista](https://versionista.com)
 * [visualping](https://visualping.io)
