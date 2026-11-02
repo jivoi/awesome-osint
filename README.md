@@ -838,6 +838,7 @@ algorithms, knowledgebase and AI technology.
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Knowledge guide to international company registration](https://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
 * [Linkedin](https://www.linkedin.com) - Commonly used social-media platform with a focus on professional profiles and recruitment. Spans a wide variety of industries. Very useful for gathering information on what specific individuals are active within an entity.
+* [MentionFox](https://mentionfox.com) - Company and people research reports: filings, ownership, executives, litigation and press, each fact linked to its source (registration required, free plan).
 * [Mergent Intellect](https://www.mergentintellect.com)
 * [Mergent Online](https://www.mergentonline.com/login.php)
 * [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
