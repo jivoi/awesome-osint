@@ -743,6 +743,7 @@ algorithms, knowledgebase and AI technology.
 * [LeakRadar](https://leakradar.io/) - Scans for compromised emails and domains in stealer logs, offering proactive breach prevention and real-time alerts.
 * [MailAccess](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, checks 800+ platforms, breach exposure via HIBP, infostealer logs via Hudson Rock, and builds a cross-platform identity graph with confidence scoring. `pip install mailaccess`
 * [MailTester](https://mailtester.com) - hunt for emails and improve your email deliverability
+* [Maily](https://github.com/stormsia/maily)  - Universal disposable email gateway aggregating 8+ providers with unified REST API and real-time message stream.
 * [Minerva OSINT](https://minervaosint.com) - Email search tool that finds and aggregates data on a target email from over a hundred websites.
 * [Multirbl](https://multirbl.valli.org/dnsbl-lookup) - MultiRBL Valli checks if an IP or domain is listed on multiple public RBLs (blacklists) simultaneously.
 * [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
