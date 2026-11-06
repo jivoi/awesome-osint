@@ -536,6 +536,7 @@ algorithms, knowledgebase and AI technology.
 
 * [the-endorser](https://github.com/eth0izzle/the-endorser) - Tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
 * [LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Script to dump/scrape/extract company employees info from LinkedIn API.
+* [ProfileHunt](https://profilehunt.dev) - API that returns public LinkedIn profile data (experience, education, followers, recent posts and activity) as JSON from a profile URL.
 
 ### [↑](#-table-of-contents) Telegram
 
