@@ -1566,6 +1566,7 @@ algorithms, knowledgebase and AI technology.
 * [Snort](https://www.snort.org)
 * [Spideroak](https://spideroak.com)
 * [Spoof Me](https://spoof-me.com/) - Chrome/Firefox extension that spoofs browser fingerprint signals (user agent, language, timezone, screen, hardware) as a consistent identity and flags sites that read fingerprinting APIs. Useful for keeping an investigator's real device and locale hidden.
+* [Sol Free Proxy List](https://github.com/solproxy/sol-free-proxy-list) - Free HTTP/HTTPS proxies re-tested hourly, split by country and by IP type (residential, datacenter, mobile), with ISP and latency in JSON. Useful for viewing a site as a home user from a given country.
 * [Steganography Online Codec](https://www.pelock.com/products/steganography-online-codec)
 * [Surveilliance Self Defense](https://ssd.eff.org)
 * [Tails](https://tails.boum.org)
