@@ -907,6 +907,7 @@ algorithms, knowledgebase and AI technology.
 * [CC.LA](https://cc.la) - Free WHOIS, RDAP, DNS, IP WHOIS, name server history, SSL certificate lookup, and network diagnostic tools (ping/traceroute/MTR). Also provides expiring domain calendars, TLD library, domain monitoring, and domain availability checker. No sign-up required.
 * [CrawlGraph](https://crawlgraph.com) - Maps who links to any domain using the open Common Crawl hyperlink graph. Free, no-signup referring-domain and competitor link-footprint lookups for domain research.
 * [Crypto Scam & Crypto Phishing URL Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed) - A fresh feed of crypto phishing and crypto scam websites. Automatically updated daily.
+* [DC5 WHOIS](https://whois.dc5.tech) - Free WHOIS, RDAP and DNS lookup for domains, IPs, CIDRs and ASNs, with abuse contacts, DNSSEC, SPF/DMARC grading, local RIR and reputation data, and ENS/Web3 names. No sign-up.
 * [Dedicated or Not](https://dedicatedornot.com)
 * [digga](https://digga.dev) - Free and open-source domain and infrastructure research toolkit combining DNS, RDAP, WHOIS, passive subdomain discovery, IP and ASN data, email authentication checks, and TLS certificate inspection. No account required.
 * [DNS History](https://completedns.com/dns-history/)
