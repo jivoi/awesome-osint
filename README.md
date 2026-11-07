@@ -482,6 +482,7 @@ algorithms, knowledgebase and AI technology.
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 * [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) - Tool that maps your target’s Instagram data and relationships in Neo4j for social network analysis. 
 * [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
+* [VectorLead](https://github.com/seclist/vectorlead) - Autonomous Instagram discovery and lead qualification engine with zero-login crawler validation and 35-day algorithmic momentum scoring.
 
 ### [↑](#-table-of-contents) TikTok
 * [GetTikVideo](https://gettikvideo.com/tiktok-profile-picture-downloader) - Full-size profile picture and latest public videos from a TikTok profile link; saves public videos, photo posts and stories without an account.
