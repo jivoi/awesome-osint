@@ -1081,6 +1081,7 @@ algorithms, knowledgebase and AI technology.
 * [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
 * [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
 * [TrueScreen C2PA Viewer](https://truescreen.io/c2pa-viewer/) - Free in-browser tool that reads and checks the Content Credentials (C2PA manifest) of a file, with no upload and no account.
+* [WhatsInMyFile](https://whatsinmyfile.com/) - In-browser metadata and hidden content checker for photos, PDFs and Office files; nothing is uploaded.
 
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
 
