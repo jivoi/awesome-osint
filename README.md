@@ -1536,6 +1536,7 @@ algorithms, knowledgebase and AI technology.
 * [Guardian Project](https://guardianproject.info)
 * [Guerrilla Mail](https://www.guerrillamail.com)
 * [Hotspot Shield](https://www.hotspotshield.com)
+* [HProxy Free Proxy List](https://github.com/hproxy-com/free-proxy-list) - Free HTTP, HTTPS, SOCKS4 and SOCKS5 proxies checked around the clock, with country, anonymity grade and uptime on every row. The grade shows which ones pass your own IP along.
 * [HTTPs Everywhere](https://www.eff.org/https-everywhere/)
 * [I2P](https://geti2p.net)
 * [justdeleteme](https://justdelete.me)
