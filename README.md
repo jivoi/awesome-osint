@@ -1198,7 +1198,7 @@ algorithms, knowledgebase and AI technology.
 * [Open Street Map](https://www.openstreetmap.org)
 * [OpenLayers](https://openlayers.org)
 * [Overhead24](https://overhead24.com) - Live 3D globe of every satellite with public orbital data, flagging military satellites over active conflict areas, close approaches and recent manoeuvres. Free, no account.
-* [PastClimate](https://www.pastclimate.com/) - Check travel info/plan using climate data
+* [PastClimate](https://www.pastclimate.com/) - Hourly historical weather since 2016 for tens of thousands of cities, useful for checking the weather at a place on a given date.
 * [Perry Castaneda Library](https://www.lib.utexas.edu/maps)
 * [Pic2Map](https://www.pic2map.com/)
 * [Polymaps](https://polymaps.org)
