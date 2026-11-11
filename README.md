@@ -1206,6 +1206,7 @@ algorithms, knowledgebase and AI technology.
 * [SAS Planet](https://www.sasgis.org/sasplaneta/)  - Software used to view, download and stitch satellite images.
 * [Satellites Pro](https://satellites.pro/)
 * [SatIntel](https://github.com/ANG13T/SatIntel)
+* [Scrape.ly Google Maps Scraper](https://scrape.ly/store) - Cloud scraper that collects places from Google Maps (names, addresses, phone numbers, websites, ratings, reviews) and exports them as CSV, Excel or JSON.
 * [Scribble Maps](https://scribblemaps.com)
 * [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/)
 * [ShadowFinder-Web](https://kluter.github.io/ShadowFinder-Web) - Geolocate photos by shadow analysis. Browser port of Bellingcat's ShadowFinder. No Jupyter, no accounts, client-side.
