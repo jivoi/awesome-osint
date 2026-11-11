@@ -48,7 +48,6 @@ Happy hacking and hunting 🧙‍♂️
  - [Username Check](#-username-check)
  - [People Investigations](#-people-investigations)
  - [Email Search / Email Check](#-email-search--email-check)
-* [Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT) - Self-hosted checker that tests an email, username, phone number or password against breaches, infostealer logs and COMB credentials, across 26 keyless sources.
  - [Phone Number Research](#-phone-number-research)
 -  [Vehicle / Automobile Research](#-vehicle--automobile-research)
  - [Expert Search](#-expert-search)
@@ -731,6 +730,7 @@ algorithms, knowledgebase and AI technology.
 * [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exists or not.
 * [EmailRep](https://emailrep.io) - Email address reputation and risk scoring service.
 * [Epieos Tools](https://tools.epieos.com) - Collection of OSINT tools for email investigations.
+* [Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT) - Self-hosted checker that tests an email, username, phone number or password against breaches, infostealer logs and COMB credentials, across 26 keyless sources.
 * [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 * [Gitrecon](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 * [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
