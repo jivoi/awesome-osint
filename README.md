@@ -48,6 +48,7 @@ Happy hacking and hunting 🧙‍♂️
  - [Username Check](#-username-check)
  - [People Investigations](#-people-investigations)
  - [Email Search / Email Check](#-email-search--email-check)
+* [Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT) - Self-hosted checker that tests an email, username, phone number or password against breaches, infostealer logs and COMB credentials, across 26 keyless sources.
  - [Phone Number Research](#-phone-number-research)
 -  [Vehicle / Automobile Research](#-vehicle--automobile-research)
  - [Expert Search](#-expert-search)
