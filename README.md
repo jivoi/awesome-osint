@@ -925,6 +925,7 @@ algorithms, knowledgebase and AI technology.
 * [Follow.net](https://follow.net)
 * [Fullhunt](https://fullhunt.io/) - FullHunt is an OSINT tool focused on identifying and protecting internet-exposed assets.
 * [GraphyStories](https://app.graphystories.com)
+* [Helpers.work](https://helpers.work) - Free, no-signup DNS, WHOIS/RDAP, IP geolocation, ASN, SSL certificate and SPF/DKIM/DMARC lookups for domain and IP research.
 * [HoneyLabs](https://honeylabs.net) - Free per-IP reports from a distributed honeypot network: what an IP scanned for, matched CVE exploit paths, TLS (JA4), HTTP (Akin) and SSH (HASSH) client fingerprints, captured payloads and VirusTotal-verified malware it delivered. Queryable anonymously on the web, over a JSON API and via an MCP server.
 * [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - is a free cybercrime intelligence toolkit to check exposure in Infostealer malware infection.
 * [Hybrid Analysis](https://www.hybrid-analysis.com) - Online service for detailed and free analysis of suspicious files and URLs.
