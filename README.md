@@ -946,6 +946,7 @@ algorithms, knowledgebase and AI technology.
 * [ISP.Tools](https://www.isp.tools) - Is a free platform offering network diagnostic tools (ping, traceroute, MTR, DNS, WHOIS, HTTP, etc.) tailored for ISPs and infrastructure professionals.
 * [Kloth](https://www.kloth.net/services)
 * [Majestic](https://majestic.com) - Find out who links to your website.
+* [Manamil Subdomain Finder](https://manamil.dev/tools/subdomain-finder) - Free subdomain finder showing live status, IP address, hosting country and first-seen date for each subdomain. No account required.
 * [Mark Monitor WHOIS](https://whois-webform.markmonitor.com/whois/) - Displays domain registration information.
 * [MaxMind](https://www.maxmind.com)
 * [MetaDefender](https://metadefender.com) - Threat analysis service for URLs, files, certificates, domains, and suspicious hashes.
