@@ -1686,6 +1686,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
 * [Bendobrown](https://www.youtube.com/c/Bendobrown)
+* [Cyber Talks: OSINT](https://cybertalks.org/topics/osint) - Unofficial index of about 150 recorded conference talks tagged OSINT, searchable by event and speaker.
 * [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI)
 * [SANS OSINT Summit 2021 (Playlist)](https://www.youtube.com/playlist?list=PLs4eo9Tja8bj3jJvv42LxOkhc2_ylpS9y)
 * [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M)
