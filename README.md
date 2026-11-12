@@ -752,6 +752,7 @@ algorithms, knowledgebase and AI technology.
 * [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
 * [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 * [Spamhaus](https://check.spamhaus.org/) - Lookup Reputation Checker.
+* [SpoofCheck](https://spoofchecker.online/) - Free email spoofing test: checks a domain's SPF, DKIM, DMARC, MTA-STS and MX records and grades how easily it can be impersonated (A to F).
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse Email Lookup.
 * [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
 * [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Email — Instantly. Scans hundreds of sites for email presence, breaches and more.
