@@ -1617,6 +1617,7 @@ algorithms, knowledgebase and AI technology.
 * [LinkScope Client](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
 * [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
 * [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
+* [MCP Maltego](https://github.com/Data-Unix/MCP-MALTEGO) - Model Context Protocol server that lets AI agents run Maltego OSINT: keyless transforms (DNS, RDAP/WHOIS, crt.sh, ASN, CISA KEV, URLhaus), reconnaissance Machines, link-graph analysis with provenance and native .mtgx export for Maltego.
 * [Mozilla HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Observatory⁩ enhances web security by analyzing compliance with best security practices.
 * [Obsidian](https://obsidian.md) - Knowledge base and note-taking tool ideal for OSINT case management.
 * [OpenGraph Intel (OGI)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool
