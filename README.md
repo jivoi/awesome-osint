@@ -192,7 +192,7 @@ algorithms, knowledgebase and AI technology.
 * [NOX](https://github.com/nox-project/nox-framework) - Recursive async framework for deep breach analysis and identity pivoting.
 * [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in known data breaches. Fast lookup across multiple breach databases, with a simple API available.
 * [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
-
+* [Vendor History](https://vendorhistory.com/) - Check whether a software vendor a business uses has been breached: state breach notices, SEC cyber filings, CISA exploited flaws and ransomware claims for 255 vendors, each linked to its source. Free, no signup.
 ## [↑](#-table-of-contents) Speciality Search Engines
 
 *Search engines for specific information or topics.*
