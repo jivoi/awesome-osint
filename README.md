@@ -1217,6 +1217,7 @@ algorithms, knowledgebase and AI technology.
 * [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
 * [ViaMichelin](https://www.viamichelin.com)
 * [View in Google Earth](https://www.mgmaps.com/kml/#view)
+* [WARNPOINT](https://warnpoint.com/map) - Live global conflict map: incidents corroborated by two or more independent outlets, a 0-100 instability score per country with daily history, government travel advisories side by side and a news wire with every source graded A-D. Free, no account needed for the map.
 * [Wikimapia](https://wikimapia.org)
 * [Windy](https://www.windy.com/)
 * [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform with live conflict tracking, military flight and vessel monitoring, GPS jamming data, satellite imagery, and geopolitical risk scores across 5 specialized dashboards.
