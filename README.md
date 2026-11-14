@@ -1587,6 +1587,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Maritime
 
+* [Atrox](https://atrox.atroxintel.workers.dev) - Open-source sanctions-evasion monitor: sanctioned tankers at Baltic chokepoints from AIS (incl. the Danish Maritime Authority archive), aircraft of OFAC-listed operators abroad from ADS-B, refinery fires from NASA FIRMS and Sentinel imagery. A public page for every sanctioned vessel and listed company.
 * [Logibook](https://logibook.dataint.net) - Trade and logistics reference covering 250 countries: 58,730 sourced entities across ports, airports, terminals, trade zones and carriers, built from the NGA World Port Index, UN/LOCODE, SMDG terminal and liner code lists, ISO 6346 container codes, UNCTAD liner shipping connectivity and World Bank port throughput. Each port page also shows the nearest airport, city and trade zone with distances. Every figure carries its source and year. Web reference only, no API or bulk download.
 * [Phantom Tide](https://github.com/tg12/phantomtide) - Cross-domain OSINT dashboard combining vessel tracking, airspace activity, official notices, environmental context, and satellite detections for maritime and airspace analysis.
 * [PortInsight.io](https://portinsight.io/ports) - Free live anchorage waiting times, vessel counts and monthly congestion reports for seven major ports, measured from AIS with the method published. Free account adds port and vessel arrival email alerts.
