@@ -1002,6 +1002,7 @@ algorithms, knowledgebase and AI technology.
 * [WhoIsRequest](https://whoisrequest.com)
 * [WhosBuilt](https://whosbuilt.com) - Domain report combining stack, hosting, DNS and registrar signals with source-linked builder credits that keep likely builder separate from owner.
 * [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
+* [Web-Recon](https://github.com/joavat-2009/Web-Recon) - Asynchronous CLI/TUI tool for bulk URL status checking, User-Agent rotation, and automatic WHOIS extraction on network anomalies into SQLite.
 * [You Get Signal](https://www.yougetsignal.com)
 
 ## [↑](#-table-of-contents) Keywords Discovery and Research
