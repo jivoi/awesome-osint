@@ -1214,6 +1214,7 @@ algorithms, knowledgebase and AI technology.
 * [ShadowFinder-Web](https://kluter.github.io/ShadowFinder-Web) - Geolocate photos by shadow analysis. Browser port of Bellingcat's ShadowFinder. No Jupyter, no accounts, client-side.
 * [SOAR](https://soar.earth/)
 * [StoryMaps](https://storymaps.arcgis.com/en)
+* [Street Crime Map](https://streetcrimemap.co.uk/) - Street-level police records for England, Wales and Northern Ireland counted by area and category, with coverage notes.
 * [SunCalc](https://www.suncalc.org/)
 * [Tableau](https://www.tableausoftware.com)
 * [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
