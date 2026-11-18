@@ -1197,6 +1197,7 @@ algorithms, knowledgebase and AI technology.
 * [Mapline](https://mapline.com)
 * [Mapquest](https://www.mapquest.com)
 * [Modest Maps](https://modestmaps.com)
+* [Monitor the Situation](https://monitor-the-situation.com) - Live world news map that geolocates conflict, disaster and political events and links each one to its source reports, with aircraft, ships, GPS jamming and internet outage layers. Free, no account.
 * [NGA GEOINT](https://github.com/ngageoint)
 * [Open Street Map](https://www.openstreetmap.org)
 * [OpenLayers](https://openlayers.org)
