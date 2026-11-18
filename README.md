@@ -2,8 +2,7 @@
 
 [<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
 
-A curated list of amazingly awesome open source intelligence tools and resources.<img width="958" height="529" alt="image" src="https://github.com/user-attachments/assets/c077fd78-4725-48b7-9afa-87ad01c89918" />
-
+A curated list of amazingly awesome open source intelligence tools and resources.
 [Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) is intelligence collected from publicly available sources.
 In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources). 
 
@@ -817,7 +816,7 @@ algorithms, knowledgebase and AI technology.
 * [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
 * [capitol-cli](https://github.com/NPCmillionaire/capitol-cli) - Free, open-source CLI that tracks U.S. House members' stock trades from official STOCK Act filings, with committee cross-references and late-filing flags.
 * [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.
-* * [Clerkfield](https://clerkfield.com/ucc-search) - Search U.S. state business registries (50 states) and UCC lien filings (24 states) by company name. A few free lookups a day without an account.
+* [Clerkfield](https://clerkfield.com/ucc-search) - Search U.S. state business registries (50 states) and UCC lien filings (24 states) by company name. A few free lookups a day without an account.
 * [Company Registration Round the World](https://www.commercial-register.sg.ch/home/worldwide.html)
 * [Company Research Resources by Country Comparably](https://www.comparably.com)
 * [CompeteShark](https://competeshark.com)
