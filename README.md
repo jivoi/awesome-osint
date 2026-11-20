@@ -749,6 +749,7 @@ algorithms, knowledgebase and AI technology.
 * [OpenLeads](https://github.com/Samyrrrrrr990/openleads) - Open-source CLI that finds people and their work emails from public sources (OpenStreetMap, GitHub, OpenAlex, SEC EDGAR, company team pages) and labels each address as found, pattern, or guessed. Runs locally, no API keys.
 * [OSINTEye](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
 * [Pipl](https://pipl.com) - a provider of identity solutions.
+* [PlicSigur](https://plicsigur.ro/en/) - Free, no-signup check of how easily a domain can be spoofed by email: SPF, DKIM, DMARC, MTA-STS, TLS-RPT and DNSSEC, run in the browser over DNS-over-HTTPS (UI in Romanian).
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
 * [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
 * [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
