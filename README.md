@@ -1256,6 +1256,7 @@ algorithms, knowledgebase and AI technology.
 * [PR Newswire](https://www.prnewswire.com)
 * [Press Reader](https://www.pressreader.com)
 * [Reuters](https://www.reuters.com)
+* [Sense by Quorumz](https://sense.quorumz.com) - Live map of world events, each built from many reports with its location, time, viewpoints and supporting posts; fetch by geo, region, country, city or topic. create your own research agents for news events from deep within socials where other platforms don't have coverage. JSON API with a free 7-day trial.
 * [Silobreaker](https://www.silobreaker.com)
 * [WorldNews](https://wn.com)
 * [World-Newspapers](https://www.world-newspapers.com)
