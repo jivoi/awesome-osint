@@ -1323,6 +1323,7 @@ algorithms, knowledgebase and AI technology.
 * [OECD Aid Database](https://www.oecd.org/dac/stats/data.htm)
 * [OECD Data](https://data.oecd.org)
 * [OECD Factbook](https://www.oecd-ilibrary.org/economics/oecd-factbook_18147364)
+* [Palimpsest](https://www.palimpsest.info) - Open-source China economic observatory and verifiable censorship and erasure measurement registry, with public datasets, keyless MCP, and offline verification.
 * [Paul Hensel’s General Informational Data Page](https://www.paulhensel.org/dataintl.html)
 * [Penn World Table](https://www.rug.nl/research/ggdc/data/pwt/pwt-8.1)
 * [Pew Research Center](https://www.pewinternet.org/datasets)
