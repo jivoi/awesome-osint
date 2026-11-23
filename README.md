@@ -486,7 +486,7 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#-table-of-contents) TikTok
 * [GetTikVideo](https://gettikvideo.com/tiktok-profile-picture-downloader) - Full-size profile picture and latest public videos from a TikTok profile link; saves public videos, photo posts and stories without an account.
 * [TikTokStalker](https://tiktok.einzzcookie.org) - Lookup much info about TikTok stuff
-
+* [Tikvoya](https://tikvoya.com/) - Browser-based TikTok profile viewer for OSINT research. Explore public profiles, recent videos, comments, and available follower/following lists without a TikTok login.
 ### [↑](#-table-of-contents) Pinterest
 
 * [Pingroupie](https://pingroupie.com)
