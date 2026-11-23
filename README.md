@@ -902,6 +902,7 @@ algorithms, knowledgebase and AI technology.
 * [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
 * [Bgpview.io](https://bgpview.io) - The website bgpview.io allows you to look up detailed information about ASNs, IPs, and BGP routes on the internet.
 * [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster)
+* [BrandShield](https://brand-checker.appwrite.network/) - Free read-only domain and brand OSINT checker querying 78+ TLDs via direct IANA RDAP, live USPTO federal trademark records, iOS/Android App Stores, and developer handles (GitHub, npm, PyPI) with no signup.
 * [Browserling](https://www.browserling.com) - Browserling is an online sandbox that lets users safely test potentially malicious links across browsers and operating systems in real time.
 * [BuiltWith](https://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 * [Central Ops](https://centralops.net)
