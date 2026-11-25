@@ -197,6 +197,8 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Speciality Search Engines
 
 *Search engines for specific information or topics.*
+<img width="1171" height="866" alt="image" src="https://github.com/user-attachments/assets/24c586e9-8037-467f-ae03-f35a5c320f2b" />
+<img width="1171" height="866" alt="image" src="https://github.com/user-attachments/assets/83c47924-4c95-4f07-b517-538eb5901bdd" />
 
 * [2lingual Search](https://www.2lingual.com)
 * [Abusech](https://hunting.abuse.ch) - Hunt across all abuse.ch platforms with one simple query
@@ -1269,6 +1271,7 @@ algorithms, knowledgebase and AI technology.
 * [Nod](https://get-nod.com)
 * [Reeder](https://reederapp.com)
 * [Spike](https://www.newswhip.com)
+* [Two Versions](https://twoversions.com/en/) - Side-by-side comparison of Russian, Ukrainian and independent reporting on the same war events.
 * [Storyful](https://storyful.com)
 * [Superdesk](https://www.superdesk.org)
 * [Trooclick](https://trooclick.com)
