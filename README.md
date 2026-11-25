@@ -973,6 +973,7 @@ algorithms, knowledgebase and AI technology.
 * [SEOTools for Excel](https://seotoolsforexcel.com)
 * [Similar Web](https://www.similarweb.com) - Compare any website traffic statistics & analytics.
 * [SmallSEOTools](https://smallseotools.com)
+* [SpiralBig](https://spiralbig.com) - Daily newly registered domains feed and bulk WHOIS database intelligence platform with free researcher samples.
 * [Squatm3gator](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 * [StatsCrop](https://www.statscrop.com)
 * [TinyScan](https://www.tiny-scan.com) - Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
