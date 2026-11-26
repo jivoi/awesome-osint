@@ -943,6 +943,7 @@ algorithms, knowledgebase and AI technology.
 * [ip2geo.dev](https://ip2geo.dev) - IP geolocation API providing city, country, timezone, ASN, and currency data from IP addresses.
 * [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
 * [IP Location.io](https://iplocation.io) - IPLocation.io allows you to check the location of an IP for free
+* [IPDatum](https://www.ipdatum.com) - Free IPv4/IPv6 geolocation, ASN, and 12-signal VPN/proxy/Tor/cloud/anycast/abuser lookup web tool and JSON API (1,000/day keyless, 50,000/day free key).
 * [IPFingerprints](https://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
 * [IPOK](https://ipok.io) - Free, no-login IP reputation lookup that aggregates up to 8 risk sources, flags residential vs datacenter, and profiles /24 C-block neighbors. Also offers a CLI and a Chrome extension.
 * [IPVoid](https://www.ipvoid.com) - IP address toolset.
