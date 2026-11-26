@@ -1085,7 +1085,7 @@ algorithms, knowledgebase and AI technology.
 * [TrueScreen C2PA Viewer](https://truescreen.io/c2pa-viewer/) - Free in-browser tool that reads and checks the Content Credentials (C2PA manifest) of a file, with no upload and no account.
 * [WhatsInMyFile](https://whatsinmyfile.com/) - In-browser metadata and hidden content checker for photos, PDFs and Office files; nothing is uploaded.
 * [WhereMatch](https://wherematch.com/) - Estimates where a photo was taken from visible clues, without EXIF or GPS data.
-  
+
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
 
 * [Archivarix Tube Search](https://tube.archivarix.net/) - Search engine for finding deleted, removed, and unavailable YouTube videos. 
