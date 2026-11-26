@@ -1084,6 +1084,7 @@ algorithms, knowledgebase and AI technology.
 * [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
 * [TrueScreen C2PA Viewer](https://truescreen.io/c2pa-viewer/) - Free in-browser tool that reads and checks the Content Credentials (C2PA manifest) of a file, with no upload and no account.
 * [WhatsInMyFile](https://whatsinmyfile.com/) - In-browser metadata and hidden content checker for photos, PDFs and Office files; nothing is uploaded.
+* [WhereMatch](https://wherematch.com/) - Estimates where a photo was taken from visible clues, without EXIF or GPS data.
 
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
 
