@@ -1281,6 +1281,7 @@ algorithms, knowledgebase and AI technology.
 * [Emergent](https://www.emergent.info)
 * [Fact Check](https://www.factcheck.org)
 * [Full Fact](https://fullfact.org)
+* [SlopTotal](https://sloptotal.com) - Checks whether text, a web page or a document was likely written by AI, showing the score from each of 23 open-source detectors. Self-hostable.
 * [Snopes](https://www.snopes.com) - The definitive Internet reference source for urban legends, folklore, myths, rumors, and misinformation.
 * [Verification Handbook](https://verificationhandbook.com)
 
