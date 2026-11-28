@@ -933,6 +933,7 @@ algorithms, knowledgebase and AI technology.
 * [Hybrid Analysis](https://www.hybrid-analysis.com) - Online service for detailed and free analysis of suspicious files and URLs.
 * [HypeStat](https://www.hypestat.com)
 * [IP.THC.ORG](https://ip.thc.org/) - Unlimited Reverse DNS, Subdomain and Reverse CNAME lookups, also provides JSON APIs. 
+* [IPWHOIS.net](https://ipwhois.net/) - Free IP lookup with WHOIS, ASN, geolocation, reverse DNS and a community IP blacklist.
 * [Icann Lookup](https://lookup.icann.org/en/lookup) - The site allows you to look up domain registration information (WHOIS) on the internet
 * [Infosniper](https://www.infosniper.net)
 * [isMalicious](https://ismalicious.com) - Threat intelligence platform aggregating malicious IP and domain data from multiple security feeds with real-time reputation scoring and threat categorization.
