@@ -722,15 +722,16 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Email Search / Email Check
 
 * [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search for accounts associated with a given email across various platforms.
-* [Blacklist Checker](https://blacklistchecker.com/) - Blacklist Checker is an email blacklist checker, monitor and API that checks 100+ blacklists in seconds
+* [Blacklist Checker](https://blacklistchecker.com/) - Blacklist Checker is an email blacklist checker, monitor and API that checks 100+ blacklists in seconds.
 * [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
-* [Email Address Validator](https://www.email-validator.net)  - Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.
-* [Email Extractor](https://99tools.net/email-extractor/)  - A browser-based utility to quickly extract email addresses from bulk text or raw data for further investigation.
+* [Email Address Validator](https://www.email-validator.net) - Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.
+* [Email Extractor](https://99tools.net/email-extractor/) - A browser-based utility to quickly extract email addresses from bulk text or raw data for further investigation.
 * [Email Format](https://email-format.com) - is a website that allows you to find email address formats used by different companies.
-* [Email Permutator](https://www.polished.app/email-permutator/) - a powerful tool designed to aid professionals in generating a range of potential email addresses for a specific contact. 
+* [Email Permutator](https://www.polished.app/email-permutator/) - A powerful tool designed to aid professionals in generating a range of potential email addresses for a specific contact.
 * [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exists or not.
 * [EmailRep](https://emailrep.io) - Email address reputation and risk scoring service.
 * [Epieos Tools](https://tools.epieos.com) - Collection of OSINT tools for email investigations.
+* [FindWorkEmails](https://findworkemails.com/tools/mx-spf-checker) - Free zero-signup MX, SPF, DMARC, and corporate work email verification utilities (with live SMTP checks and domain lookup).
 * [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 * [Gitrecon](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 * [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
@@ -742,12 +743,12 @@ algorithms, knowledgebase and AI technology.
 * [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
 * [LeakRadar](https://leakradar.io/) - Scans for compromised emails and domains in stealer logs, offering proactive breach prevention and real-time alerts.
 * [MailAccess](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, checks 800+ platforms, breach exposure via HIBP, infostealer logs via Hudson Rock, and builds a cross-platform identity graph with confidence scoring. `pip install mailaccess`
-* [MailTester](https://mailtester.com) - hunt for emails and improve your email deliverability
+* [MailTester](https://mailtester.com) - Hunt for emails and improve your email deliverability.
 * [Minerva OSINT](https://minervaosint.com) - Email search tool that finds and aggregates data on a target email from over a hundred websites.
 * [Multirbl](https://multirbl.valli.org/dnsbl-lookup) - MultiRBL Valli checks if an IP or domain is listed on multiple public RBLs (blacklists) simultaneously.
 * [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
 * [OpenLeads](https://github.com/Samyrrrrrr990/openleads) - Open-source CLI that finds people and their work emails from public sources (OpenStreetMap, GitHub, OpenAlex, SEC EDGAR, company team pages) and labels each address as found, pattern, or guessed. Runs locally, no API keys.
-* [OSINTEye](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
+* [OSINTEye](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery.
 * [Pipl](https://pipl.com) - a provider of identity solutions.
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
 * [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
@@ -757,7 +758,7 @@ algorithms, knowledgebase and AI technology.
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse Email Lookup.
 * [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
 * [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Email — Instantly. Scans hundreds of sites for email presence, breaches and more.
-* [user-scanner](https://github.com/kaifcodec/user-scanner.git) - Takes an email, scan on various popular sites, games and retrieve info if the email is registered there or not.
+* [user-scanner](https://github.com/kaifcodec/user-scanner) - Takes an email, scan on various popular sites, games and retrieve info if the email is registered there or not.
 * [Verify Email](https://verify-email.org) - The fastest and most accurate email verification tool.
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
 
