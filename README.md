@@ -1080,6 +1080,7 @@ algorithms, knowledgebase and AI technology.
 * [JPEG Audit](https://jpegaudit.com) - Free online JPEG forensics: EXIF/IPTC/XMP and GPS, automated tamper checks with a severity-rated verdict, JPEG structure and quantization tables, perceptual hash, and a Street View comparison using the EXIF camera bearing.
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 * [Metadata Viewer](https://kriztalz.sh/metadata-viewer/) - Online EXIF data viewer.
+* [Parergon Metadata Viewer](https://parergon.io/metadata-viewer/) - Free in-browser viewer for EXIF, IPTC, XMP and GPS metadata in JPEG, PNG, HEIC and TIFF files; can save a copy with the metadata removed. Nothing is uploaded.
 * [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
 * [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
 * [TrueScreen C2PA Viewer](https://truescreen.io/c2pa-viewer/) - Free in-browser tool that reads and checks the Content Credentials (C2PA manifest) of a file, with no upload and no account.
