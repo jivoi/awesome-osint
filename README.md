@@ -952,7 +952,7 @@ algorithms, knowledgebase and AI technology.
 * [Mark Monitor WHOIS](https://whois-webform.markmonitor.com/whois/) - Displays domain registration information.
 * [MaxMind](https://www.maxmind.com)
 * [MetaDefender](https://metadefender.com) - Threat analysis service for URLs, files, certificates, domains, and suspicious hashes.
-* [Netcraft Site Report](https://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
+* [Netcraft Site Report](https://toolbar.netcraft.com/site_report?url=example.com) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
 * [OpenLinkProfiler](https://www.openlinkprofiler.org/)
 * [openSquat](https://github.com/atenreiro/opensquat) - Open source tool that searches newly registered domain feeds to find typosquatting, IDN homograph, doppelganger and bitsquatting domains impersonating a given brand or keyword.
 * [osint-recon](https://github.com/JMarchiori13/osint-recon) - Passive OSINT reconnaissance framework in Rust: subdomains, DNS, ASN, certificate transparency history, GitHub dorking, tech fingerprinting, emails and document metadata for authorized red team engagements.
@@ -1307,7 +1307,7 @@ algorithms, knowledgebase and AI technology.
 * [Government of Canada Open Data](https://open.canada.ca/en)
 * [HIS Piers](https://www.ihs.com/products/piers.html)
 * [Human Development Reports](https://hdr.undp.org/en/global-reports)
-* [ILO World Employment and Social Outlook Trends](https://www.ilo.org/global/research/global-reports/weso/2015/lang--en/index.htm)
+* [ILO World Employment and Social Outlook Trends](https://www.ilo.org/publications/world-employment-and-social-outlook-trends-2015)
 * [ILOSTAT](https://www.ilo.org/ilostat/faces/oracle/webcenter/portalapp/pagehierarchy/Page137.jspx?_afrLoop=443508925711569&clean=true#%40%3F_afrLoop%3D443508925711569%26clean%3Dtrue%26_adf.ctrl-state%3Dl4dwldaf3_9)
 * [IMF World Economic Outlook Database](https://www.imf.org/external/ns/cs.aspx?id=28)
 * [Index Mundi](https://www.indexmundi.com)
@@ -1327,7 +1327,7 @@ algorithms, knowledgebase and AI technology.
 * [Paul Hensel’s General Informational Data Page](https://www.paulhensel.org/dataintl.html)
 * [Penn World Table](https://www.rug.nl/research/ggdc/data/pwt/pwt-8.1)
 * [Pew Research Center](https://www.pewinternet.org/datasets)
-* [Population Reference Bureau Data Finder](https://www.prb.org/DataFinder.aspx)
+* [Population Reference Bureau Data Finder](https://www.prb.org/data/)
 * [PRS Risk Indicators](https://www.prsgroup.com)
 * [SESRIC Basic Social and Economic Indicators](https://www.sesric.org/baseind.php)
 * [SESRIC Databases](https://www.sesric.org/databases-index.php)
@@ -1419,7 +1419,7 @@ algorithms, knowledgebase and AI technology.
 * [Sleipnir](https://www.fenrir-inc.com/jp/sleipnir)
 * [Slimjet](https://www.slimjet.com)
 * [SRWare Iron](https://www.srware.net/en/software_srware_iron.php)
-* [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - Tor is a free software that prevents people from learning your location or browsing habits by letting you communicate anonymously on the Internet.
+* [Tor Browser](https://www.torproject.org/download/) - Tor is a free software that prevents people from learning your location or browsing habits by letting you communicate anonymously on the Internet.
 * [Torch](https://www.torchbrowser.com)
 * [UCBrowser](https://www.ucweb.com)
 * [Vivaldi](https://vivaldi.com) - Powerful, Private and Personal Web Browser.
@@ -1715,7 +1715,7 @@ algorithms, knowledgebase and AI technology.
 * [EUvsDisinfo](https://euvsdisinfo.eu/category/blog/feed/) - Research, analysis, and case studies focused on disinformation narratives and influence operations.
 * [Fake News – Inforrm's Blog](https://inforrm.org/tag/fake-news/feed/) - Media law and misinformation analysis relevant to disinformation investigations.
 * [Krebs on Security](https://krebsonsecurity.com/feed/) - Investigative reporting on cybercrime, breaches, and threat actors.
-* [OSINT Combine Blog](https://www.osintcombine.com/blog-feed.xml) - Current OSINT tradecraft, investigations, and monitoring workflows.
+* [OSINT Combine Blog](https://www.osintcombine.com/blog) - Current OSINT tradecraft, investigations, and monitoring workflows.
 * [SANS Internet Storm Center Diary (Full Text)](https://isc.sans.edu/rssfeed_full.xml) - High-signal incident reports, malware observations, and operational security analysis.
 * [The Citizen Lab](https://citizenlab.ca/feed/) - Research on surveillance, spyware, censorship, and digital threats relevant to advanced OSINT work.
 * [Trace Labs Blog](https://www.tracelabs.org/blog/rss.xml) - Missing-person OSINT methodology, case support, and investigative workflows.
